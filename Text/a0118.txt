@@ -1,0 +1,1 @@
+Zudem sollen drei D Objekte wie Bäume und Steine über das Terrain verteilt werden können.

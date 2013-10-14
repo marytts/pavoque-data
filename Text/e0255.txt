@@ -1,0 +1,1 @@
+Die Kommunikation mit der Konsole erfolgt kabellos via Bluetooth.

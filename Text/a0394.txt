@@ -1,0 +1,1 @@
+Manche Karten besitzen die Eigenschaft legendär, sie dürfen nur einmal im Deck enthalten sein.

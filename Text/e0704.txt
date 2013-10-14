@@ -1,0 +1,1 @@
+Die Funktion ist daher differenzierbar, jedoch nicht stetig differenzierbar.

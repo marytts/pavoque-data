@@ -1,0 +1,1 @@
+Der Server für eingehende Mail kann diese Server anfragen, bevor er eine Mail annimmt.

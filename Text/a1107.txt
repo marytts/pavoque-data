@@ -1,0 +1,1 @@
+Ein alternierender Pfad bezüglich einer Paarung ist ein Pfad, dessen Kanten abwechselnd zur Paarung und nicht zur Paarung gehören.

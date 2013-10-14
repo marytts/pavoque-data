@@ -1,0 +1,1 @@
+Der Zeiger wird dabei mit dem normalen Zeiger synchronisiert und so mitgeschleppt.

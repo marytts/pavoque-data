@@ -1,0 +1,1 @@
+Ein wichtiger Baustein dieser Technik bilden sogenannte Zero Knowledge Protokolle.

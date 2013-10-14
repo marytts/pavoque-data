@@ -1,0 +1,1 @@
+Jedoch muss der Angreifer die Bluetooth Adresse eines verbundenen Bluetooth Moduls kennen.
