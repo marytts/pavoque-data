@@ -1,4 +1,4 @@
-# The PAVOQUE Corpus of Expressive Speech
+# PAVOQUE Corpus of Expressive Speech
 
 ## Corpus design
 
