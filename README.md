@@ -34,7 +34,7 @@ each line (after the header) has the fields
     [ENDTIME] [NUMBER] [LABEL]
 
 where `ENDTIME` is in seconds, `NUMBER` has no significance, and `LABEL` uses a variant of the [SAMPA](http://www.phon.ucl.ac.uk/home/sampa/) phonetic alphabet.
-(These files can also be opened in Praat using the command "Read IntervalTier from Xwaves...".)
+(These files can also be opened in Praat using the command `Read IntervalTier from Xwaves...`.)
 
 ## Downloading the corpus
 
