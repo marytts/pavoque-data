@@ -1,0 +1,1 @@
+Ein Fréchet Raum besitzt keine kanonische Metrik.

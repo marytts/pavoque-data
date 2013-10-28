@@ -1,0 +1,1 @@
+Es läuft nur unter Windows.

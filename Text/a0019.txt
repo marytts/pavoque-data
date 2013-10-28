@@ -1,0 +1,1 @@
+Über Bluetooth kann man eine Verbindung zu anderen Geräten herstellen.

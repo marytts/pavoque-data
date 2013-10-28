@@ -1,0 +1,1 @@
+Gröbere Fehler, gröbere Farbabweichungen sind zulässig.

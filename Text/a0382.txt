@@ -1,0 +1,1 @@
+Die Domain schließlich speichert alle Informationen über die erstellten Objekte und seiner Domain.
