@@ -20,7 +20,7 @@ subprojects {
 
     task download(type: Copy) {
         from configurations.default
-        into "$rootProject/Recordings"
+        into "$rootDir/Recordings"
         rename { "${project.name}.tar" }
     }
 }
