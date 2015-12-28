@@ -1,0 +1,3 @@
+group 'de.dfki.mary'
+version '0.1'
+description 'The PAVOQUE corpus of expressive speech'
