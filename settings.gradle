@@ -1,0 +1,2 @@
+rootProject.name = 'pavoque-data'
+include 'Neutral', 'Obadiah', 'Poker', 'Poppy', 'Spike'

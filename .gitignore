@@ -1,2 +1,10 @@
+# Gradle
+.gradle/
+Recordings/
+
+# IDEA
+.idea/
+*.iml
+
 # OSX
 .DS_Store
