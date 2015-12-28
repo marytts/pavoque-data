@@ -1,5 +1,5 @@
 group 'de.dfki.mary'
-version '0.1.1'
+version '0.2-SNAPSHOT'
 description 'The PAVOQUE corpus of expressive speech'
 
 subprojects {
