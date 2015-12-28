@@ -38,32 +38,39 @@ where `ENDTIME` is in seconds, `NUMBER` has no significance, and `LABEL` uses a 
 
 ## Downloading the corpus
 
-### Git and git-annex
+### Git
 
-The best way of downloading the PAVOQUE data is to use [**Git**](http://git-scm.com/).
+The best way of obtaining the PAVOQUE data is to use [**Git**](http://git-scm.com/).
 To make the most of the features offered by GitHub, you should [**fork**](https://github.com/marytts/pavoque-data/fork) this repository to your own GitHub account, then use your favorite Git client to **clone** that repo to your local machine.
-Please refer to [GitHub Help](https://help.github.com/) and [the Web](http://google.com/) as required.
+Please refer to [GitHub Help](https://help.github.com/) and [the Web](https://google.com/) as required.
 
-Because Git is not designed to efficiently handle large amounts of binary data, specifically the audio files in the PAVOQUE corpus, we *manage* those files using [**git-annex**](http://git-annex.branchable.com/).
-This means that the actual audio files are not stored in this repo, but we nevertheless leverage the benefits of distributed revision control by tracking which **Git remotes** *do* have copies of the audio files.
-However, git-annex also performs poorly with *many* files, so the `.flac` files have been packaged into [tarballs](http://en.wikipedia.org/wiki/Tar_%28computing%29), one per speaking style.
-(Use `tar` or your favorite file archive utility to unpack.)
+### Alternative: direct download
 
-**You will need git-annex** to handle this elegantly.
+If all of that stuff about Git is just too technical, you can still download the PAVOQUE corpus in a few simple steps.
 
-Once you've cloned the repository, you can use the command `git annex get FILE` to get `FILE`, i.e. one or more of the `tar` files containing the audio recordings.
-
-### Alternative: Git-less download
-
-If all of that stuff about Git and version control is just too technical, you can still download the PAVOQUE corpus in a few simple steps.
-
-1. Download the most recent version (the *master branch*) of this repository as a `.zip` file by clicking on the "Download ZIP" button, or the following URL:
+1. Download the most recent version (the *master branch*) of this repository as a `.zip` file by clicking on the "Download ZIP" button, or from the following URL:
 
     <https://github.com/marytts/pavoque-data/archive/master.zip>
 
-2. Download the audio data directly from one of the web remotes, such as
+2. Unpack the `.zip` file.
 
-    <http://mary.dfki.de/download/pavoque-data/Recordings/>
+### Gradle
+
+Because Git is not designed to efficiently handle large amounts of binary data, specifically the audio files in the PAVOQUE corpus, those files are *retrieved* from the internet using [**Gradle**](http://gradle.org/).
+For performance reasons, the `.flac` files have been packaged into [tarballs](http://en.wikipedia.org/wiki/Tar_%28computing%29), one per speaking style.
+(Use `tar` or your favorite file archive utility to unpack.)
+
+**You will need [Java](https://www.java.com/)** to use Gradle.
+
+Once you've cloned (or manually downloaded and unpacked) the repository, you can use the command `./gradlew download` to download the audio data into the `Recordings` subdirectory.
+To get the data for only one of the speaking styles, add its name as a prefix, i.e., use `./gradlew Neutral:download` or `./gradlew Spike:download` to download only the neutral or Spike (aggressive) subsets, respectively.
+On **Windows**, type `gradlew.bat` instead of `./gradlew`.
+
+Note that this will *cache* the downloaded audio files in your home directory. (You could customize this using the `-g` command line option (see the [Gradle User Guide](https://docs.gradle.org/current/userguide/gradle_command_line.html) for details.)
+
+### Alternative: direct download
+
+You can also download the audio data directly from one of the web remotes, such as <http://mary.dfki.de/download/pavoque-data/Recordings/>
 
 ## License
 
