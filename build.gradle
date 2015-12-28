@@ -1,3 +1,26 @@
 group 'de.dfki.mary'
 version '0.1'
 description 'The PAVOQUE corpus of expressive speech'
+
+subprojects {
+    apply plugin: 'base'
+
+    repositories {
+        ivy {
+            url 'http://mary.dfki.de/download/pavoque-data'
+            layout 'pattern', {
+                artifact 'Recordings/[artifact].[ext]'
+            }
+        }
+    }
+
+    dependencies {
+        'default' name: project.name, ext: 'tar'
+    }
+
+    task download(type: Copy) {
+        from configurations.default
+        into "$rootProject.buildDir"
+        rename { "${project.name}.tar" }
+    }
+}
