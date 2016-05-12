@@ -7,6 +7,9 @@ buildscript {
     }
 }
 
+import org.yaml.snakeyaml.DumperOptions
+import org.yaml.snakeyaml.Yaml
+
 group 'de.dfki.mary'
 version '0.2-SNAPSHOT'
 description 'The PAVOQUE corpus of expressive speech'
@@ -32,4 +35,18 @@ subprojects {
         into "$rootDir/Recordings"
         rename { "${project.name}.tar" }
     }
+}
+
+task yaml << {
+    def options = new DumperOptions()
+    options.defaultFlowStyle = DumperOptions.FlowStyle.BLOCK
+    def yaml = new Yaml(options)
+    def data = yaml.load(file('pavoque_wav.yaml').newReader()).findAll {
+        it.rate == 44100 && it.date.startsWith('2007')
+    }.sort {
+        it.date
+    }.collect {
+        it - [rate: it.rate]
+    }
+    file('pavoque-all.yaml').text = yaml.dump(data)
 }
