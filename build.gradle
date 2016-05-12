@@ -53,7 +53,7 @@ task yaml << {
     }.sort {
         it.date
     }.collect {
-        it - [rate: it.rate] + [style: stylemap[(it.file =~ /.+\/(Stefan|Nach)(.+?)\/.+/)[0][2]]]
+        [prompt: it.file.split('/')[-1] - '.wav'] + it - [rate: it.rate] + [style: stylemap[(it.file =~ /.+\/(Stefan|Nach)(.+?)\/.+/)[0][2]]]
     }
     stylemap.values().each { style ->
         file("pavoque-${style}.yaml").text = yaml.dump(data.findAll {

@@ -1,1851 +1,2468 @@
-- file: ./pavoque/StefanSpike/wav/spike0001.wav
+- prompt: spike0001
+  file: ./pavoque/StefanSpike/wav/spike0001.wav
   date: 2007-11-06T13:06:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0002.wav
+- prompt: spike0002
+  file: ./pavoque/StefanSpike/wav/spike0002.wav
   date: 2007-11-06T13:07:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0003.wav
+- prompt: spike0003
+  file: ./pavoque/StefanSpike/wav/spike0003.wav
   date: 2007-11-06T13:07:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0004.wav
+- prompt: spike0004
+  file: ./pavoque/StefanSpike/wav/spike0004.wav
   date: 2007-11-06T13:07:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0005.wav
+- prompt: spike0005
+  file: ./pavoque/StefanSpike/wav/spike0005.wav
   date: 2007-11-06T13:07:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0006.wav
+- prompt: spike0006
+  file: ./pavoque/StefanSpike/wav/spike0006.wav
   date: 2007-11-06T13:07:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0007.wav
+- prompt: spike0007
+  file: ./pavoque/StefanSpike/wav/spike0007.wav
   date: 2007-11-06T13:07:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0008.wav
+- prompt: spike0008
+  file: ./pavoque/StefanSpike/wav/spike0008.wav
   date: 2007-11-06T13:07:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0009.wav
+- prompt: spike0009
+  file: ./pavoque/StefanSpike/wav/spike0009.wav
   date: 2007-11-06T13:07:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0010.wav
+- prompt: spike0010
+  file: ./pavoque/StefanSpike/wav/spike0010.wav
   date: 2007-11-06T13:07:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0011.wav
+- prompt: spike0011
+  file: ./pavoque/StefanSpike/wav/spike0011.wav
   date: 2007-11-06T13:08:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0012.wav
+- prompt: spike0012
+  file: ./pavoque/StefanSpike/wav/spike0012.wav
   date: 2007-11-06T13:08:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0013.wav
+- prompt: spike0013
+  file: ./pavoque/StefanSpike/wav/spike0013.wav
   date: 2007-11-06T13:08:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0014.wav
+- prompt: spike0014
+  file: ./pavoque/StefanSpike/wav/spike0014.wav
   date: 2007-11-06T13:08:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0015.wav
+- prompt: spike0015
+  file: ./pavoque/StefanSpike/wav/spike0015.wav
   date: 2007-11-06T13:08:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0016.wav
+- prompt: spike0016
+  file: ./pavoque/StefanSpike/wav/spike0016.wav
   date: 2007-11-06T13:08:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0017.wav
+- prompt: spike0017
+  file: ./pavoque/StefanSpike/wav/spike0017.wav
   date: 2007-11-06T13:09:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0018.wav
+- prompt: spike0018
+  file: ./pavoque/StefanSpike/wav/spike0018.wav
   date: 2007-11-06T13:09:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0019.wav
+- prompt: spike0019
+  file: ./pavoque/StefanSpike/wav/spike0019.wav
   date: 2007-11-06T13:09:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0021.wav
+- prompt: spike0021
+  file: ./pavoque/StefanSpike/wav/spike0021.wav
   date: 2007-11-06T13:09:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0022.wav
+- prompt: spike0022
+  file: ./pavoque/StefanSpike/wav/spike0022.wav
   date: 2007-11-06T13:09:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0023.wav
+- prompt: spike0023
+  file: ./pavoque/StefanSpike/wav/spike0023.wav
   date: 2007-11-06T13:09:40+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0024.wav
+- prompt: spike0024
+  file: ./pavoque/StefanSpike/wav/spike0024.wav
   date: 2007-11-06T13:09:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0025.wav
+- prompt: spike0025
+  file: ./pavoque/StefanSpike/wav/spike0025.wav
   date: 2007-11-06T13:09:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0026.wav
+- prompt: spike0026
+  file: ./pavoque/StefanSpike/wav/spike0026.wav
   date: 2007-11-06T13:09:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0028.wav
+- prompt: spike0028
+  file: ./pavoque/StefanSpike/wav/spike0028.wav
   date: 2007-11-06T13:10:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0029.wav
+- prompt: spike0029
+  file: ./pavoque/StefanSpike/wav/spike0029.wav
   date: 2007-11-06T13:10:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0030.wav
+- prompt: spike0030
+  file: ./pavoque/StefanSpike/wav/spike0030.wav
   date: 2007-11-06T13:11:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0031.wav
+- prompt: spike0031
+  file: ./pavoque/StefanSpike/wav/spike0031.wav
   date: 2007-11-06T13:11:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0032.wav
+- prompt: spike0032
+  file: ./pavoque/StefanSpike/wav/spike0032.wav
   date: 2007-11-06T13:11:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0033.wav
+- prompt: spike0033
+  file: ./pavoque/StefanSpike/wav/spike0033.wav
   date: 2007-11-06T13:11:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0034.wav
+- prompt: spike0034
+  file: ./pavoque/StefanSpike/wav/spike0034.wav
   date: 2007-11-06T13:11:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0035.wav
+- prompt: spike0035
+  file: ./pavoque/StefanSpike/wav/spike0035.wav
   date: 2007-11-06T13:12:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0036.wav
+- prompt: spike0036
+  file: ./pavoque/StefanSpike/wav/spike0036.wav
   date: 2007-11-06T13:12:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0037.wav
+- prompt: spike0037
+  file: ./pavoque/StefanSpike/wav/spike0037.wav
   date: 2007-11-06T13:12:40+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0038.wav
+- prompt: spike0038
+  file: ./pavoque/StefanSpike/wav/spike0038.wav
   date: 2007-11-06T13:12:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0039.wav
+- prompt: spike0039
+  file: ./pavoque/StefanSpike/wav/spike0039.wav
   date: 2007-11-06T13:12:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0040.wav
+- prompt: spike0040
+  file: ./pavoque/StefanSpike/wav/spike0040.wav
   date: 2007-11-06T13:13:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0041.wav
+- prompt: spike0041
+  file: ./pavoque/StefanSpike/wav/spike0041.wav
   date: 2007-11-06T13:13:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0042.wav
+- prompt: spike0042
+  file: ./pavoque/StefanSpike/wav/spike0042.wav
   date: 2007-11-06T13:13:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0043.wav
+- prompt: spike0043
+  file: ./pavoque/StefanSpike/wav/spike0043.wav
   date: 2007-11-06T13:13:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0044.wav
+- prompt: spike0044
+  file: ./pavoque/StefanSpike/wav/spike0044.wav
   date: 2007-11-06T13:13:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0045.wav
+- prompt: spike0045
+  file: ./pavoque/StefanSpike/wav/spike0045.wav
   date: 2007-11-06T13:13:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0046.wav
+- prompt: spike0046
+  file: ./pavoque/StefanSpike/wav/spike0046.wav
   date: 2007-11-06T13:13:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0047.wav
+- prompt: spike0047
+  file: ./pavoque/StefanSpike/wav/spike0047.wav
   date: 2007-11-06T13:13:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0048.wav
+- prompt: spike0048
+  file: ./pavoque/StefanSpike/wav/spike0048.wav
   date: 2007-11-06T13:13:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0049.wav
+- prompt: spike0049
+  file: ./pavoque/StefanSpike/wav/spike0049.wav
   date: 2007-11-06T13:13:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0050.wav
+- prompt: spike0050
+  file: ./pavoque/StefanSpike/wav/spike0050.wav
   date: 2007-11-06T13:13:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0051.wav
+- prompt: spike0051
+  file: ./pavoque/StefanSpike/wav/spike0051.wav
   date: 2007-11-06T13:14:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0052.wav
+- prompt: spike0052
+  file: ./pavoque/StefanSpike/wav/spike0052.wav
   date: 2007-11-06T13:14:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0053.wav
+- prompt: spike0053
+  file: ./pavoque/StefanSpike/wav/spike0053.wav
   date: 2007-11-06T13:15:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0054.wav
+- prompt: spike0054
+  file: ./pavoque/StefanSpike/wav/spike0054.wav
   date: 2007-11-06T13:15:06+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0001.wav
+- prompt: m0001
+  file: ./pavoque/StefanSpike/wav/m0001.wav
   date: 2007-11-06T13:15:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0002.wav
+- prompt: m0002
+  file: ./pavoque/StefanSpike/wav/m0002.wav
   date: 2007-11-06T13:15:58+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0003.wav
+- prompt: m0003
+  file: ./pavoque/StefanSpike/wav/m0003.wav
   date: 2007-11-06T13:16:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0004.wav
+- prompt: m0004
+  file: ./pavoque/StefanSpike/wav/m0004.wav
   date: 2007-11-06T13:16:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0005.wav
+- prompt: m0005
+  file: ./pavoque/StefanSpike/wav/m0005.wav
   date: 2007-11-06T13:16:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0007.wav
+- prompt: m0007
+  file: ./pavoque/StefanSpike/wav/m0007.wav
   date: 2007-11-06T13:16:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0008.wav
+- prompt: m0008
+  file: ./pavoque/StefanSpike/wav/m0008.wav
   date: 2007-11-06T13:16:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0006.wav
+- prompt: m0006
+  file: ./pavoque/StefanSpike/wav/m0006.wav
   date: 2007-11-06T13:16:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0009.wav
+- prompt: m0009
+  file: ./pavoque/StefanSpike/wav/m0009.wav
   date: 2007-11-06T13:17:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0011.wav
+- prompt: m0011
+  file: ./pavoque/StefanSpike/wav/m0011.wav
   date: 2007-11-06T13:17:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0012.wav
+- prompt: m0012
+  file: ./pavoque/StefanSpike/wav/m0012.wav
   date: 2007-11-06T13:17:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0013.wav
+- prompt: m0013
+  file: ./pavoque/StefanSpike/wav/m0013.wav
   date: 2007-11-06T13:17:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0014.wav
+- prompt: m0014
+  file: ./pavoque/StefanSpike/wav/m0014.wav
   date: 2007-11-06T13:17:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0015.wav
+- prompt: m0015
+  file: ./pavoque/StefanSpike/wav/m0015.wav
   date: 2007-11-06T13:17:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0016.wav
+- prompt: m0016
+  file: ./pavoque/StefanSpike/wav/m0016.wav
   date: 2007-11-06T13:17:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0017.wav
+- prompt: m0017
+  file: ./pavoque/StefanSpike/wav/m0017.wav
   date: 2007-11-06T13:18:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0018.wav
+- prompt: m0018
+  file: ./pavoque/StefanSpike/wav/m0018.wav
   date: 2007-11-06T13:18:06+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0019.wav
+- prompt: m0019
+  file: ./pavoque/StefanSpike/wav/m0019.wav
   date: 2007-11-06T13:18:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0020.wav
+- prompt: m0020
+  file: ./pavoque/StefanSpike/wav/m0020.wav
   date: 2007-11-06T13:18:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0021.wav
+- prompt: m0021
+  file: ./pavoque/StefanSpike/wav/m0021.wav
   date: 2007-11-06T13:18:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0022.wav
+- prompt: m0022
+  file: ./pavoque/StefanSpike/wav/m0022.wav
   date: 2007-11-06T13:18:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0023.wav
+- prompt: m0023
+  file: ./pavoque/StefanSpike/wav/m0023.wav
   date: 2007-11-06T13:18:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0024.wav
+- prompt: m0024
+  file: ./pavoque/StefanSpike/wav/m0024.wav
   date: 2007-11-06T13:18:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0025.wav
+- prompt: m0025
+  file: ./pavoque/StefanSpike/wav/m0025.wav
   date: 2007-11-06T13:18:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0026.wav
+- prompt: m0026
+  file: ./pavoque/StefanSpike/wav/m0026.wav
   date: 2007-11-06T13:18:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0027.wav
+- prompt: m0027
+  file: ./pavoque/StefanSpike/wav/m0027.wav
   date: 2007-11-06T13:19:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0028.wav
+- prompt: m0028
+  file: ./pavoque/StefanSpike/wav/m0028.wav
   date: 2007-11-06T13:19:06+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0029.wav
+- prompt: m0029
+  file: ./pavoque/StefanSpike/wav/m0029.wav
   date: 2007-11-06T13:19:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0030.wav
+- prompt: m0030
+  file: ./pavoque/StefanSpike/wav/m0030.wav
   date: 2007-11-06T13:19:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0031.wav
+- prompt: m0031
+  file: ./pavoque/StefanSpike/wav/m0031.wav
   date: 2007-11-06T13:20:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0032.wav
+- prompt: m0032
+  file: ./pavoque/StefanSpike/wav/m0032.wav
   date: 2007-11-06T13:20:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0033.wav
+- prompt: m0033
+  file: ./pavoque/StefanSpike/wav/m0033.wav
   date: 2007-11-06T13:20:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0034.wav
+- prompt: m0034
+  file: ./pavoque/StefanSpike/wav/m0034.wav
   date: 2007-11-06T13:20:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0035.wav
+- prompt: m0035
+  file: ./pavoque/StefanSpike/wav/m0035.wav
   date: 2007-11-06T13:20:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0037.wav
+- prompt: m0037
+  file: ./pavoque/StefanSpike/wav/m0037.wav
   date: 2007-11-06T13:20:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0038.wav
+- prompt: m0038
+  file: ./pavoque/StefanSpike/wav/m0038.wav
   date: 2007-11-06T13:20:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0039.wav
+- prompt: m0039
+  file: ./pavoque/StefanSpike/wav/m0039.wav
   date: 2007-11-06T13:20:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0040.wav
+- prompt: m0040
+  file: ./pavoque/StefanSpike/wav/m0040.wav
   date: 2007-11-06T13:21:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0041.wav
+- prompt: m0041
+  file: ./pavoque/StefanSpike/wav/m0041.wav
   date: 2007-11-06T13:21:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0043.wav
+- prompt: m0043
+  file: ./pavoque/StefanSpike/wav/m0043.wav
   date: 2007-11-06T13:21:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0044.wav
+- prompt: m0044
+  file: ./pavoque/StefanSpike/wav/m0044.wav
   date: 2007-11-06T13:21:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0045.wav
+- prompt: m0045
+  file: ./pavoque/StefanSpike/wav/m0045.wav
   date: 2007-11-06T13:21:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0036.wav
+- prompt: m0036
+  file: ./pavoque/StefanSpike/wav/m0036.wav
   date: 2007-11-06T13:22:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0046.wav
+- prompt: m0046
+  file: ./pavoque/StefanSpike/wav/m0046.wav
   date: 2007-11-06T13:22:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0047.wav
+- prompt: m0047
+  file: ./pavoque/StefanSpike/wav/m0047.wav
   date: 2007-11-06T13:22:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0048.wav
+- prompt: m0048
+  file: ./pavoque/StefanSpike/wav/m0048.wav
   date: 2007-11-06T13:22:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0049.wav
+- prompt: m0049
+  file: ./pavoque/StefanSpike/wav/m0049.wav
   date: 2007-11-06T13:22:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0050.wav
+- prompt: m0050
+  file: ./pavoque/StefanSpike/wav/m0050.wav
   date: 2007-11-06T13:23:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0051.wav
+- prompt: m0051
+  file: ./pavoque/StefanSpike/wav/m0051.wav
   date: 2007-11-06T13:23:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0053.wav
+- prompt: m0053
+  file: ./pavoque/StefanSpike/wav/m0053.wav
   date: 2007-11-06T13:23:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0054.wav
+- prompt: m0054
+  file: ./pavoque/StefanSpike/wav/m0054.wav
   date: 2007-11-06T13:23:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0056.wav
+- prompt: m0056
+  file: ./pavoque/StefanSpike/wav/m0056.wav
   date: 2007-11-06T13:23:40+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0052.wav
+- prompt: m0052
+  file: ./pavoque/StefanSpike/wav/m0052.wav
   date: 2007-11-06T13:24:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0058.wav
+- prompt: m0058
+  file: ./pavoque/StefanSpike/wav/m0058.wav
   date: 2007-11-06T13:24:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0059.wav
+- prompt: m0059
+  file: ./pavoque/StefanSpike/wav/m0059.wav
   date: 2007-11-06T13:24:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0060.wav
+- prompt: m0060
+  file: ./pavoque/StefanSpike/wav/m0060.wav
   date: 2007-11-06T13:24:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0061.wav
+- prompt: m0061
+  file: ./pavoque/StefanSpike/wav/m0061.wav
   date: 2007-11-06T13:24:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0062.wav
+- prompt: m0062
+  file: ./pavoque/StefanSpike/wav/m0062.wav
   date: 2007-11-06T13:25:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0063.wav
+- prompt: m0063
+  file: ./pavoque/StefanSpike/wav/m0063.wav
   date: 2007-11-06T13:25:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0064.wav
+- prompt: m0064
+  file: ./pavoque/StefanSpike/wav/m0064.wav
   date: 2007-11-06T13:25:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0065.wav
+- prompt: m0065
+  file: ./pavoque/StefanSpike/wav/m0065.wav
   date: 2007-11-06T13:25:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0066.wav
+- prompt: m0066
+  file: ./pavoque/StefanSpike/wav/m0066.wav
   date: 2007-11-06T13:26:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0067.wav
+- prompt: m0067
+  file: ./pavoque/StefanSpike/wav/m0067.wav
   date: 2007-11-06T13:26:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0068.wav
+- prompt: m0068
+  file: ./pavoque/StefanSpike/wav/m0068.wav
   date: 2007-11-06T13:27:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0069.wav
+- prompt: m0069
+  file: ./pavoque/StefanSpike/wav/m0069.wav
   date: 2007-11-06T13:27:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0070.wav
+- prompt: m0070
+  file: ./pavoque/StefanSpike/wav/m0070.wav
   date: 2007-11-06T13:27:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0071.wav
+- prompt: m0071
+  file: ./pavoque/StefanSpike/wav/m0071.wav
   date: 2007-11-06T13:27:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0072.wav
+- prompt: m0072
+  file: ./pavoque/StefanSpike/wav/m0072.wav
   date: 2007-11-06T13:28:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0073.wav
+- prompt: m0073
+  file: ./pavoque/StefanSpike/wav/m0073.wav
   date: 2007-11-06T13:28:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0074.wav
+- prompt: m0074
+  file: ./pavoque/StefanSpike/wav/m0074.wav
   date: 2007-11-06T13:28:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0075.wav
+- prompt: m0075
+  file: ./pavoque/StefanSpike/wav/m0075.wav
   date: 2007-11-06T13:28:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0076.wav
+- prompt: m0076
+  file: ./pavoque/StefanSpike/wav/m0076.wav
   date: 2007-11-06T13:28:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0077.wav
+- prompt: m0077
+  file: ./pavoque/StefanSpike/wav/m0077.wav
   date: 2007-11-06T13:28:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0078.wav
+- prompt: m0078
+  file: ./pavoque/StefanSpike/wav/m0078.wav
   date: 2007-11-06T13:28:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0079.wav
+- prompt: m0079
+  file: ./pavoque/StefanSpike/wav/m0079.wav
   date: 2007-11-06T13:28:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0080.wav
+- prompt: m0080
+  file: ./pavoque/StefanSpike/wav/m0080.wav
   date: 2007-11-06T13:28:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0081.wav
+- prompt: m0081
+  file: ./pavoque/StefanSpike/wav/m0081.wav
   date: 2007-11-06T13:29:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0082.wav
+- prompt: m0082
+  file: ./pavoque/StefanSpike/wav/m0082.wav
   date: 2007-11-06T13:29:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0083.wav
+- prompt: m0083
+  file: ./pavoque/StefanSpike/wav/m0083.wav
   date: 2007-11-06T13:29:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0084.wav
+- prompt: m0084
+  file: ./pavoque/StefanSpike/wav/m0084.wav
   date: 2007-11-06T13:29:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0085.wav
+- prompt: m0085
+  file: ./pavoque/StefanSpike/wav/m0085.wav
   date: 2007-11-06T13:29:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0086.wav
+- prompt: m0086
+  file: ./pavoque/StefanSpike/wav/m0086.wav
   date: 2007-11-06T13:29:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0087.wav
+- prompt: m0087
+  file: ./pavoque/StefanSpike/wav/m0087.wav
   date: 2007-11-06T13:29:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0088.wav
+- prompt: m0088
+  file: ./pavoque/StefanSpike/wav/m0088.wav
   date: 2007-11-06T13:29:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0089.wav
+- prompt: m0089
+  file: ./pavoque/StefanSpike/wav/m0089.wav
   date: 2007-11-06T13:29:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0090.wav
+- prompt: m0090
+  file: ./pavoque/StefanSpike/wav/m0090.wav
   date: 2007-11-06T13:29:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0091.wav
+- prompt: m0091
+  file: ./pavoque/StefanSpike/wav/m0091.wav
   date: 2007-11-06T13:30:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0092.wav
+- prompt: m0092
+  file: ./pavoque/StefanSpike/wav/m0092.wav
   date: 2007-11-06T13:30:06+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0093.wav
+- prompt: m0093
+  file: ./pavoque/StefanSpike/wav/m0093.wav
   date: 2007-11-06T13:30:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0094.wav
+- prompt: m0094
+  file: ./pavoque/StefanSpike/wav/m0094.wav
   date: 2007-11-06T13:30:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0095.wav
+- prompt: m0095
+  file: ./pavoque/StefanSpike/wav/m0095.wav
   date: 2007-11-06T13:30:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0097.wav
+- prompt: m0097
+  file: ./pavoque/StefanSpike/wav/m0097.wav
   date: 2007-11-06T13:30:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0098.wav
+- prompt: m0098
+  file: ./pavoque/StefanSpike/wav/m0098.wav
   date: 2007-11-06T13:30:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0099.wav
+- prompt: m0099
+  file: ./pavoque/StefanSpike/wav/m0099.wav
   date: 2007-11-06T13:30:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0101.wav
+- prompt: m0101
+  file: ./pavoque/StefanSpike/wav/m0101.wav
   date: 2007-11-06T13:31:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0103.wav
+- prompt: m0103
+  file: ./pavoque/StefanSpike/wav/m0103.wav
   date: 2007-11-06T13:31:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0104.wav
+- prompt: m0104
+  file: ./pavoque/StefanSpike/wav/m0104.wav
   date: 2007-11-06T13:31:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0105.wav
+- prompt: m0105
+  file: ./pavoque/StefanSpike/wav/m0105.wav
   date: 2007-11-06T13:31:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0106.wav
+- prompt: m0106
+  file: ./pavoque/StefanSpike/wav/m0106.wav
   date: 2007-11-06T13:31:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0102.wav
+- prompt: m0102
+  file: ./pavoque/StefanSpike/wav/m0102.wav
   date: 2007-11-06T13:33:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0100.wav
+- prompt: m0100
+  file: ./pavoque/StefanSpike/wav/m0100.wav
   date: 2007-11-06T13:33:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0096.wav
+- prompt: m0096
+  file: ./pavoque/StefanSpike/wav/m0096.wav
   date: 2007-11-06T13:33:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0107.wav
+- prompt: m0107
+  file: ./pavoque/StefanSpike/wav/m0107.wav
   date: 2007-11-06T13:34:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0109.wav
+- prompt: m0109
+  file: ./pavoque/StefanSpike/wav/m0109.wav
   date: 2007-11-06T13:34:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0110.wav
+- prompt: m0110
+  file: ./pavoque/StefanSpike/wav/m0110.wav
   date: 2007-11-06T13:34:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0111.wav
+- prompt: m0111
+  file: ./pavoque/StefanSpike/wav/m0111.wav
   date: 2007-11-06T13:35:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0112.wav
+- prompt: m0112
+  file: ./pavoque/StefanSpike/wav/m0112.wav
   date: 2007-11-06T13:35:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0113.wav
+- prompt: m0113
+  file: ./pavoque/StefanSpike/wav/m0113.wav
   date: 2007-11-06T13:35:14+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0114.wav
+- prompt: m0114
+  file: ./pavoque/StefanSpike/wav/m0114.wav
   date: 2007-11-06T13:35:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0116.wav
+- prompt: m0116
+  file: ./pavoque/StefanSpike/wav/m0116.wav
   date: 2007-11-06T13:35:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0117.wav
+- prompt: m0117
+  file: ./pavoque/StefanSpike/wav/m0117.wav
   date: 2007-11-06T13:35:40+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0118.wav
+- prompt: m0118
+  file: ./pavoque/StefanSpike/wav/m0118.wav
   date: 2007-11-06T13:35:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0119.wav
+- prompt: m0119
+  file: ./pavoque/StefanSpike/wav/m0119.wav
   date: 2007-11-06T13:35:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0120.wav
+- prompt: m0120
+  file: ./pavoque/StefanSpike/wav/m0120.wav
   date: 2007-11-06T13:35:58+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0121.wav
+- prompt: m0121
+  file: ./pavoque/StefanSpike/wav/m0121.wav
   date: 2007-11-06T13:36:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0122.wav
+- prompt: m0122
+  file: ./pavoque/StefanSpike/wav/m0122.wav
   date: 2007-11-06T13:36:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0123.wav
+- prompt: m0123
+  file: ./pavoque/StefanSpike/wav/m0123.wav
   date: 2007-11-06T13:36:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0124.wav
+- prompt: m0124
+  file: ./pavoque/StefanSpike/wav/m0124.wav
   date: 2007-11-06T13:37:14+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0125.wav
+- prompt: m0125
+  file: ./pavoque/StefanSpike/wav/m0125.wav
   date: 2007-11-06T13:37:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0126.wav
+- prompt: m0126
+  file: ./pavoque/StefanSpike/wav/m0126.wav
   date: 2007-11-06T13:37:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0127.wav
+- prompt: m0127
+  file: ./pavoque/StefanSpike/wav/m0127.wav
   date: 2007-11-06T13:37:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0128.wav
+- prompt: m0128
+  file: ./pavoque/StefanSpike/wav/m0128.wav
   date: 2007-11-06T13:38:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0129.wav
+- prompt: m0129
+  file: ./pavoque/StefanSpike/wav/m0129.wav
   date: 2007-11-06T13:38:06+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0130.wav
+- prompt: m0130
+  file: ./pavoque/StefanSpike/wav/m0130.wav
   date: 2007-11-06T13:38:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0131.wav
+- prompt: m0131
+  file: ./pavoque/StefanSpike/wav/m0131.wav
   date: 2007-11-06T13:38:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0132.wav
+- prompt: m0132
+  file: ./pavoque/StefanSpike/wav/m0132.wav
   date: 2007-11-06T13:38:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0133.wav
+- prompt: m0133
+  file: ./pavoque/StefanSpike/wav/m0133.wav
   date: 2007-11-06T13:38:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0134.wav
+- prompt: m0134
+  file: ./pavoque/StefanSpike/wav/m0134.wav
   date: 2007-11-06T13:38:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0135.wav
+- prompt: m0135
+  file: ./pavoque/StefanSpike/wav/m0135.wav
   date: 2007-11-06T13:38:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0136.wav
+- prompt: m0136
+  file: ./pavoque/StefanSpike/wav/m0136.wav
   date: 2007-11-06T13:38:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0137.wav
+- prompt: m0137
+  file: ./pavoque/StefanSpike/wav/m0137.wav
   date: 2007-11-06T13:38:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0138.wav
+- prompt: m0138
+  file: ./pavoque/StefanSpike/wav/m0138.wav
   date: 2007-11-06T13:39:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0139.wav
+- prompt: m0139
+  file: ./pavoque/StefanSpike/wav/m0139.wav
   date: 2007-11-06T13:39:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0141.wav
+- prompt: m0141
+  file: ./pavoque/StefanSpike/wav/m0141.wav
   date: 2007-11-06T13:39:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0142.wav
+- prompt: m0142
+  file: ./pavoque/StefanSpike/wav/m0142.wav
   date: 2007-11-06T13:39:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0143.wav
+- prompt: m0143
+  file: ./pavoque/StefanSpike/wav/m0143.wav
   date: 2007-11-06T13:39:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0144.wav
+- prompt: m0144
+  file: ./pavoque/StefanSpike/wav/m0144.wav
   date: 2007-11-06T13:39:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0146.wav
+- prompt: m0146
+  file: ./pavoque/StefanSpike/wav/m0146.wav
   date: 2007-11-06T13:40:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0147.wav
+- prompt: m0147
+  file: ./pavoque/StefanSpike/wav/m0147.wav
   date: 2007-11-06T13:40:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0148.wav
+- prompt: m0148
+  file: ./pavoque/StefanSpike/wav/m0148.wav
   date: 2007-11-06T13:40:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0149.wav
+- prompt: m0149
+  file: ./pavoque/StefanSpike/wav/m0149.wav
   date: 2007-11-06T13:40:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0150.wav
+- prompt: m0150
+  file: ./pavoque/StefanSpike/wav/m0150.wav
   date: 2007-11-06T13:40:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0151.wav
+- prompt: m0151
+  file: ./pavoque/StefanSpike/wav/m0151.wav
   date: 2007-11-06T13:40:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0152.wav
+- prompt: m0152
+  file: ./pavoque/StefanSpike/wav/m0152.wav
   date: 2007-11-06T13:41:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0153.wav
+- prompt: m0153
+  file: ./pavoque/StefanSpike/wav/m0153.wav
   date: 2007-11-06T13:41:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0154.wav
+- prompt: m0154
+  file: ./pavoque/StefanSpike/wav/m0154.wav
   date: 2007-11-06T13:41:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0155.wav
+- prompt: m0155
+  file: ./pavoque/StefanSpike/wav/m0155.wav
   date: 2007-11-06T13:41:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0156.wav
+- prompt: m0156
+  file: ./pavoque/StefanSpike/wav/m0156.wav
   date: 2007-11-06T13:41:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0157.wav
+- prompt: m0157
+  file: ./pavoque/StefanSpike/wav/m0157.wav
   date: 2007-11-06T13:41:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0158.wav
+- prompt: m0158
+  file: ./pavoque/StefanSpike/wav/m0158.wav
   date: 2007-11-06T13:41:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0159.wav
+- prompt: m0159
+  file: ./pavoque/StefanSpike/wav/m0159.wav
   date: 2007-11-06T13:41:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0160.wav
+- prompt: m0160
+  file: ./pavoque/StefanSpike/wav/m0160.wav
   date: 2007-11-06T13:41:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0145.wav
+- prompt: m0145
+  file: ./pavoque/StefanSpike/wav/m0145.wav
   date: 2007-11-06T13:42:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0161.wav
+- prompt: m0161
+  file: ./pavoque/StefanSpike/wav/m0161.wav
   date: 2007-11-06T13:43:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0163.wav
+- prompt: m0163
+  file: ./pavoque/StefanSpike/wav/m0163.wav
   date: 2007-11-06T13:43:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0164.wav
+- prompt: m0164
+  file: ./pavoque/StefanSpike/wav/m0164.wav
   date: 2007-11-06T13:43:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0165.wav
+- prompt: m0165
+  file: ./pavoque/StefanSpike/wav/m0165.wav
   date: 2007-11-06T13:43:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0166.wav
+- prompt: m0166
+  file: ./pavoque/StefanSpike/wav/m0166.wav
   date: 2007-11-06T13:44:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0167.wav
+- prompt: m0167
+  file: ./pavoque/StefanSpike/wav/m0167.wav
   date: 2007-11-06T13:44:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0168.wav
+- prompt: m0168
+  file: ./pavoque/StefanSpike/wav/m0168.wav
   date: 2007-11-06T13:44:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0169.wav
+- prompt: m0169
+  file: ./pavoque/StefanSpike/wav/m0169.wav
   date: 2007-11-06T13:44:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0170.wav
+- prompt: m0170
+  file: ./pavoque/StefanSpike/wav/m0170.wav
   date: 2007-11-06T13:44:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0171.wav
+- prompt: m0171
+  file: ./pavoque/StefanSpike/wav/m0171.wav
   date: 2007-11-06T13:44:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0172.wav
+- prompt: m0172
+  file: ./pavoque/StefanSpike/wav/m0172.wav
   date: 2007-11-06T13:44:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0173.wav
+- prompt: m0173
+  file: ./pavoque/StefanSpike/wav/m0173.wav
   date: 2007-11-06T13:44:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0174.wav
+- prompt: m0174
+  file: ./pavoque/StefanSpike/wav/m0174.wav
   date: 2007-11-06T13:44:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0175.wav
+- prompt: m0175
+  file: ./pavoque/StefanSpike/wav/m0175.wav
   date: 2007-11-06T13:45:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0176.wav
+- prompt: m0176
+  file: ./pavoque/StefanSpike/wav/m0176.wav
   date: 2007-11-06T13:45:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0178.wav
+- prompt: m0178
+  file: ./pavoque/StefanSpike/wav/m0178.wav
   date: 2007-11-06T13:45:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0179.wav
+- prompt: m0179
+  file: ./pavoque/StefanSpike/wav/m0179.wav
   date: 2007-11-06T13:45:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0180.wav
+- prompt: m0180
+  file: ./pavoque/StefanSpike/wav/m0180.wav
   date: 2007-11-06T13:45:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0181.wav
+- prompt: m0181
+  file: ./pavoque/StefanSpike/wav/m0181.wav
   date: 2007-11-06T13:45:40+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0182.wav
+- prompt: m0182
+  file: ./pavoque/StefanSpike/wav/m0182.wav
   date: 2007-11-06T13:45:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0183.wav
+- prompt: m0183
+  file: ./pavoque/StefanSpike/wav/m0183.wav
   date: 2007-11-06T13:45:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0184.wav
+- prompt: m0184
+  file: ./pavoque/StefanSpike/wav/m0184.wav
   date: 2007-11-06T13:46:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0185.wav
+- prompt: m0185
+  file: ./pavoque/StefanSpike/wav/m0185.wav
   date: 2007-11-06T13:46:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0187.wav
+- prompt: m0187
+  file: ./pavoque/StefanSpike/wav/m0187.wav
   date: 2007-11-06T13:46:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0188.wav
+- prompt: m0188
+  file: ./pavoque/StefanSpike/wav/m0188.wav
   date: 2007-11-06T13:46:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0189.wav
+- prompt: m0189
+  file: ./pavoque/StefanSpike/wav/m0189.wav
   date: 2007-11-06T13:46:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0190.wav
+- prompt: m0190
+  file: ./pavoque/StefanSpike/wav/m0190.wav
   date: 2007-11-06T13:46:40+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0191.wav
+- prompt: m0191
+  file: ./pavoque/StefanSpike/wav/m0191.wav
   date: 2007-11-06T13:46:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0192.wav
+- prompt: m0192
+  file: ./pavoque/StefanSpike/wav/m0192.wav
   date: 2007-11-06T13:46:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0193.wav
+- prompt: m0193
+  file: ./pavoque/StefanSpike/wav/m0193.wav
   date: 2007-11-06T13:47:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0194.wav
+- prompt: m0194
+  file: ./pavoque/StefanSpike/wav/m0194.wav
   date: 2007-11-06T13:47:06+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0195.wav
+- prompt: m0195
+  file: ./pavoque/StefanSpike/wav/m0195.wav
   date: 2007-11-06T13:47:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0196.wav
+- prompt: m0196
+  file: ./pavoque/StefanSpike/wav/m0196.wav
   date: 2007-11-06T13:47:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0162.wav
+- prompt: m0162
+  file: ./pavoque/StefanSpike/wav/m0162.wav
   date: 2007-11-06T13:48:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0177.wav
+- prompt: m0177
+  file: ./pavoque/StefanSpike/wav/m0177.wav
   date: 2007-11-06T13:48:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0186.wav
+- prompt: m0186
+  file: ./pavoque/StefanSpike/wav/m0186.wav
   date: 2007-11-06T13:49:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0197.wav
+- prompt: m0197
+  file: ./pavoque/StefanSpike/wav/m0197.wav
   date: 2007-11-06T13:49:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0198.wav
+- prompt: m0198
+  file: ./pavoque/StefanSpike/wav/m0198.wav
   date: 2007-11-06T13:49:58+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0199.wav
+- prompt: m0199
+  file: ./pavoque/StefanSpike/wav/m0199.wav
   date: 2007-11-06T13:50:14+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0200.wav
+- prompt: m0200
+  file: ./pavoque/StefanSpike/wav/m0200.wav
   date: 2007-11-06T13:50:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0251.wav
+- prompt: m0251
+  file: ./pavoque/StefanSpike/wav/m0251.wav
   date: 2007-11-06T13:52:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0252.wav
+- prompt: m0252
+  file: ./pavoque/StefanSpike/wav/m0252.wav
   date: 2007-11-06T13:53:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0253.wav
+- prompt: m0253
+  file: ./pavoque/StefanSpike/wav/m0253.wav
   date: 2007-11-06T13:53:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0254.wav
+- prompt: m0254
+  file: ./pavoque/StefanSpike/wav/m0254.wav
   date: 2007-11-06T13:53:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0255.wav
+- prompt: m0255
+  file: ./pavoque/StefanSpike/wav/m0255.wav
   date: 2007-11-06T13:53:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0256.wav
+- prompt: m0256
+  file: ./pavoque/StefanSpike/wav/m0256.wav
   date: 2007-11-06T13:53:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0257.wav
+- prompt: m0257
+  file: ./pavoque/StefanSpike/wav/m0257.wav
   date: 2007-11-06T13:54:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0259.wav
+- prompt: m0259
+  file: ./pavoque/StefanSpike/wav/m0259.wav
   date: 2007-11-06T13:54:14+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0258.wav
+- prompt: m0258
+  file: ./pavoque/StefanSpike/wav/m0258.wav
   date: 2007-11-06T13:55:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0260.wav
+- prompt: m0260
+  file: ./pavoque/StefanSpike/wav/m0260.wav
   date: 2007-11-06T13:56:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0261.wav
+- prompt: m0261
+  file: ./pavoque/StefanSpike/wav/m0261.wav
   date: 2007-11-06T13:56:40+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0262.wav
+- prompt: m0262
+  file: ./pavoque/StefanSpike/wav/m0262.wav
   date: 2007-11-06T13:56:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0263.wav
+- prompt: m0263
+  file: ./pavoque/StefanSpike/wav/m0263.wav
   date: 2007-11-06T13:56:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0264.wav
+- prompt: m0264
+  file: ./pavoque/StefanSpike/wav/m0264.wav
   date: 2007-11-06T13:57:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0265.wav
+- prompt: m0265
+  file: ./pavoque/StefanSpike/wav/m0265.wav
   date: 2007-11-06T13:57:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0266.wav
+- prompt: m0266
+  file: ./pavoque/StefanSpike/wav/m0266.wav
   date: 2007-11-06T13:57:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0267.wav
+- prompt: m0267
+  file: ./pavoque/StefanSpike/wav/m0267.wav
   date: 2007-11-06T13:57:40+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0268.wav
+- prompt: m0268
+  file: ./pavoque/StefanSpike/wav/m0268.wav
   date: 2007-11-06T13:57:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0269.wav
+- prompt: m0269
+  file: ./pavoque/StefanSpike/wav/m0269.wav
   date: 2007-11-06T13:57:58+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0270.wav
+- prompt: m0270
+  file: ./pavoque/StefanSpike/wav/m0270.wav
   date: 2007-11-06T13:58:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0271.wav
+- prompt: m0271
+  file: ./pavoque/StefanSpike/wav/m0271.wav
   date: 2007-11-06T13:58:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0272.wav
+- prompt: m0272
+  file: ./pavoque/StefanSpike/wav/m0272.wav
   date: 2007-11-06T13:58:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0273.wav
+- prompt: m0273
+  file: ./pavoque/StefanSpike/wav/m0273.wav
   date: 2007-11-06T13:58:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0275.wav
+- prompt: m0275
+  file: ./pavoque/StefanSpike/wav/m0275.wav
   date: 2007-11-06T13:59:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0277.wav
+- prompt: m0277
+  file: ./pavoque/StefanSpike/wav/m0277.wav
   date: 2007-11-06T13:59:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0276.wav
+- prompt: m0276
+  file: ./pavoque/StefanSpike/wav/m0276.wav
   date: 2007-11-06T13:59:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0279.wav
+- prompt: m0279
+  file: ./pavoque/StefanSpike/wav/m0279.wav
   date: 2007-11-06T14:01:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0280.wav
+- prompt: m0280
+  file: ./pavoque/StefanSpike/wav/m0280.wav
   date: 2007-11-06T14:01:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0281.wav
+- prompt: m0281
+  file: ./pavoque/StefanSpike/wav/m0281.wav
   date: 2007-11-06T14:03:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0282.wav
+- prompt: m0282
+  file: ./pavoque/StefanSpike/wav/m0282.wav
   date: 2007-11-06T14:03:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0283.wav
+- prompt: m0283
+  file: ./pavoque/StefanSpike/wav/m0283.wav
   date: 2007-11-06T14:03:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0284.wav
+- prompt: m0284
+  file: ./pavoque/StefanSpike/wav/m0284.wav
   date: 2007-11-06T14:03:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0285.wav
+- prompt: m0285
+  file: ./pavoque/StefanSpike/wav/m0285.wav
   date: 2007-11-06T14:03:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0286.wav
+- prompt: m0286
+  file: ./pavoque/StefanSpike/wav/m0286.wav
   date: 2007-11-06T14:03:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0287.wav
+- prompt: m0287
+  file: ./pavoque/StefanSpike/wav/m0287.wav
   date: 2007-11-06T14:04:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0288.wav
+- prompt: m0288
+  file: ./pavoque/StefanSpike/wav/m0288.wav
   date: 2007-11-06T14:04:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0289.wav
+- prompt: m0289
+  file: ./pavoque/StefanSpike/wav/m0289.wav
   date: 2007-11-06T14:04:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0290.wav
+- prompt: m0290
+  file: ./pavoque/StefanSpike/wav/m0290.wav
   date: 2007-11-06T14:04:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0291.wav
+- prompt: m0291
+  file: ./pavoque/StefanSpike/wav/m0291.wav
   date: 2007-11-06T14:04:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0292.wav
+- prompt: m0292
+  file: ./pavoque/StefanSpike/wav/m0292.wav
   date: 2007-11-06T14:04:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0293.wav
+- prompt: m0293
+  file: ./pavoque/StefanSpike/wav/m0293.wav
   date: 2007-11-06T14:04:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0294.wav
+- prompt: m0294
+  file: ./pavoque/StefanSpike/wav/m0294.wav
   date: 2007-11-06T14:05:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0295.wav
+- prompt: m0295
+  file: ./pavoque/StefanSpike/wav/m0295.wav
   date: 2007-11-06T14:05:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0296.wav
+- prompt: m0296
+  file: ./pavoque/StefanSpike/wav/m0296.wav
   date: 2007-11-06T14:06:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0297.wav
+- prompt: m0297
+  file: ./pavoque/StefanSpike/wav/m0297.wav
   date: 2007-11-06T14:06:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0298.wav
+- prompt: m0298
+  file: ./pavoque/StefanSpike/wav/m0298.wav
   date: 2007-11-06T14:06:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0299.wav
+- prompt: m0299
+  file: ./pavoque/StefanSpike/wav/m0299.wav
   date: 2007-11-06T14:06:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0300.wav
+- prompt: m0300
+  file: ./pavoque/StefanSpike/wav/m0300.wav
   date: 2007-11-06T14:06:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0301.wav
+- prompt: m0301
+  file: ./pavoque/StefanSpike/wav/m0301.wav
   date: 2007-11-06T14:06:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0302.wav
+- prompt: m0302
+  file: ./pavoque/StefanSpike/wav/m0302.wav
   date: 2007-11-06T14:06:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0303.wav
+- prompt: m0303
+  file: ./pavoque/StefanSpike/wav/m0303.wav
   date: 2007-11-06T14:07:14+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0304.wav
+- prompt: m0304
+  file: ./pavoque/StefanSpike/wav/m0304.wav
   date: 2007-11-06T14:07:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0305.wav
+- prompt: m0305
+  file: ./pavoque/StefanSpike/wav/m0305.wav
   date: 2007-11-06T14:07:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0306.wav
+- prompt: m0306
+  file: ./pavoque/StefanSpike/wav/m0306.wav
   date: 2007-11-06T14:07:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0307.wav
+- prompt: m0307
+  file: ./pavoque/StefanSpike/wav/m0307.wav
   date: 2007-11-06T14:07:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0308.wav
+- prompt: m0308
+  file: ./pavoque/StefanSpike/wav/m0308.wav
   date: 2007-11-06T14:08:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0309.wav
+- prompt: m0309
+  file: ./pavoque/StefanSpike/wav/m0309.wav
   date: 2007-11-06T14:08:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0310.wav
+- prompt: m0310
+  file: ./pavoque/StefanSpike/wav/m0310.wav
   date: 2007-11-06T14:09:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0311.wav
+- prompt: m0311
+  file: ./pavoque/StefanSpike/wav/m0311.wav
   date: 2007-11-06T14:09:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0312.wav
+- prompt: m0312
+  file: ./pavoque/StefanSpike/wav/m0312.wav
   date: 2007-11-06T14:09:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0313.wav
+- prompt: m0313
+  file: ./pavoque/StefanSpike/wav/m0313.wav
   date: 2007-11-06T14:09:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0314.wav
+- prompt: m0314
+  file: ./pavoque/StefanSpike/wav/m0314.wav
   date: 2007-11-06T14:10:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0316.wav
+- prompt: m0316
+  file: ./pavoque/StefanSpike/wav/m0316.wav
   date: 2007-11-06T14:10:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0317.wav
+- prompt: m0317
+  file: ./pavoque/StefanSpike/wav/m0317.wav
   date: 2007-11-06T14:10:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0318.wav
+- prompt: m0318
+  file: ./pavoque/StefanSpike/wav/m0318.wav
   date: 2007-11-06T14:10:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0315.wav
+- prompt: m0315
+  file: ./pavoque/StefanSpike/wav/m0315.wav
   date: 2007-11-06T14:11:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0319.wav
+- prompt: m0319
+  file: ./pavoque/StefanSpike/wav/m0319.wav
   date: 2007-11-06T14:11:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0321.wav
+- prompt: m0321
+  file: ./pavoque/StefanSpike/wav/m0321.wav
   date: 2007-11-06T14:12:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0322.wav
+- prompt: m0322
+  file: ./pavoque/StefanSpike/wav/m0322.wav
   date: 2007-11-06T14:12:58+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0323.wav
+- prompt: m0323
+  file: ./pavoque/StefanSpike/wav/m0323.wav
   date: 2007-11-06T14:13:06+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0324.wav
+- prompt: m0324
+  file: ./pavoque/StefanSpike/wav/m0324.wav
   date: 2007-11-06T14:13:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0325.wav
+- prompt: m0325
+  file: ./pavoque/StefanSpike/wav/m0325.wav
   date: 2007-11-06T14:13:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0326.wav
+- prompt: m0326
+  file: ./pavoque/StefanSpike/wav/m0326.wav
   date: 2007-11-06T14:13:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0327.wav
+- prompt: m0327
+  file: ./pavoque/StefanSpike/wav/m0327.wav
   date: 2007-11-06T14:13:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0328.wav
+- prompt: m0328
+  file: ./pavoque/StefanSpike/wav/m0328.wav
   date: 2007-11-06T14:13:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0329.wav
+- prompt: m0329
+  file: ./pavoque/StefanSpike/wav/m0329.wav
   date: 2007-11-06T14:13:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0330.wav
+- prompt: m0330
+  file: ./pavoque/StefanSpike/wav/m0330.wav
   date: 2007-11-06T14:14:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0331.wav
+- prompt: m0331
+  file: ./pavoque/StefanSpike/wav/m0331.wav
   date: 2007-11-06T14:14:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0332.wav
+- prompt: m0332
+  file: ./pavoque/StefanSpike/wav/m0332.wav
   date: 2007-11-06T14:14:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0333.wav
+- prompt: m0333
+  file: ./pavoque/StefanSpike/wav/m0333.wav
   date: 2007-11-06T14:14:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0334.wav
+- prompt: m0334
+  file: ./pavoque/StefanSpike/wav/m0334.wav
   date: 2007-11-06T14:30:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0335.wav
+- prompt: m0335
+  file: ./pavoque/StefanSpike/wav/m0335.wav
   date: 2007-11-06T14:30:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0336.wav
+- prompt: m0336
+  file: ./pavoque/StefanSpike/wav/m0336.wav
   date: 2007-11-06T14:30:58+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0337.wav
+- prompt: m0337
+  file: ./pavoque/StefanSpike/wav/m0337.wav
   date: 2007-11-06T14:31:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0338.wav
+- prompt: m0338
+  file: ./pavoque/StefanSpike/wav/m0338.wav
   date: 2007-11-06T14:32:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0339.wav
+- prompt: m0339
+  file: ./pavoque/StefanSpike/wav/m0339.wav
   date: 2007-11-06T14:32:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0340.wav
+- prompt: m0340
+  file: ./pavoque/StefanSpike/wav/m0340.wav
   date: 2007-11-06T14:32:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0341.wav
+- prompt: m0341
+  file: ./pavoque/StefanSpike/wav/m0341.wav
   date: 2007-11-06T14:33:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0343.wav
+- prompt: m0343
+  file: ./pavoque/StefanSpike/wav/m0343.wav
   date: 2007-11-06T14:34:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0344.wav
+- prompt: m0344
+  file: ./pavoque/StefanSpike/wav/m0344.wav
   date: 2007-11-06T14:34:14+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0345.wav
+- prompt: m0345
+  file: ./pavoque/StefanSpike/wav/m0345.wav
   date: 2007-11-06T14:34:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0346.wav
+- prompt: m0346
+  file: ./pavoque/StefanSpike/wav/m0346.wav
   date: 2007-11-06T14:34:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0347.wav
+- prompt: m0347
+  file: ./pavoque/StefanSpike/wav/m0347.wav
   date: 2007-11-06T14:35:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0348.wav
+- prompt: m0348
+  file: ./pavoque/StefanSpike/wav/m0348.wav
   date: 2007-11-06T14:35:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0349.wav
+- prompt: m0349
+  file: ./pavoque/StefanSpike/wav/m0349.wav
   date: 2007-11-06T14:35:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0350.wav
+- prompt: m0350
+  file: ./pavoque/StefanSpike/wav/m0350.wav
   date: 2007-11-06T14:35:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0351.wav
+- prompt: m0351
+  file: ./pavoque/StefanSpike/wav/m0351.wav
   date: 2007-11-06T14:35:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0353.wav
+- prompt: m0353
+  file: ./pavoque/StefanSpike/wav/m0353.wav
   date: 2007-11-06T14:36:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0354.wav
+- prompt: m0354
+  file: ./pavoque/StefanSpike/wav/m0354.wav
   date: 2007-11-06T14:36:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0355.wav
+- prompt: m0355
+  file: ./pavoque/StefanSpike/wav/m0355.wav
   date: 2007-11-06T14:36:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0356.wav
+- prompt: m0356
+  file: ./pavoque/StefanSpike/wav/m0356.wav
   date: 2007-11-06T14:36:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0357.wav
+- prompt: m0357
+  file: ./pavoque/StefanSpike/wav/m0357.wav
   date: 2007-11-06T14:36:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0358.wav
+- prompt: m0358
+  file: ./pavoque/StefanSpike/wav/m0358.wav
   date: 2007-11-06T14:36:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0359.wav
+- prompt: m0359
+  file: ./pavoque/StefanSpike/wav/m0359.wav
   date: 2007-11-06T14:36:58+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0360.wav
+- prompt: m0360
+  file: ./pavoque/StefanSpike/wav/m0360.wav
   date: 2007-11-06T14:37:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0361.wav
+- prompt: m0361
+  file: ./pavoque/StefanSpike/wav/m0361.wav
   date: 2007-11-06T14:37:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0363.wav
+- prompt: m0363
+  file: ./pavoque/StefanSpike/wav/m0363.wav
   date: 2007-11-06T14:37:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0364.wav
+- prompt: m0364
+  file: ./pavoque/StefanSpike/wav/m0364.wav
   date: 2007-11-06T14:37:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0352.wav
+- prompt: m0352
+  file: ./pavoque/StefanSpike/wav/m0352.wav
   date: 2007-11-06T14:39:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0362.wav
+- prompt: m0362
+  file: ./pavoque/StefanSpike/wav/m0362.wav
   date: 2007-11-06T14:39:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0365.wav
+- prompt: m0365
+  file: ./pavoque/StefanSpike/wav/m0365.wav
   date: 2007-11-06T14:39:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0366.wav
+- prompt: m0366
+  file: ./pavoque/StefanSpike/wav/m0366.wav
   date: 2007-11-06T14:40:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0367.wav
+- prompt: m0367
+  file: ./pavoque/StefanSpike/wav/m0367.wav
   date: 2007-11-06T14:40:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0368.wav
+- prompt: m0368
+  file: ./pavoque/StefanSpike/wav/m0368.wav
   date: 2007-11-06T14:40:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0369.wav
+- prompt: m0369
+  file: ./pavoque/StefanSpike/wav/m0369.wav
   date: 2007-11-06T14:41:14+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0370.wav
+- prompt: m0370
+  file: ./pavoque/StefanSpike/wav/m0370.wav
   date: 2007-11-06T14:41:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0371.wav
+- prompt: m0371
+  file: ./pavoque/StefanSpike/wav/m0371.wav
   date: 2007-11-06T14:41:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0373.wav
+- prompt: m0373
+  file: ./pavoque/StefanSpike/wav/m0373.wav
   date: 2007-11-06T14:41:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0374.wav
+- prompt: m0374
+  file: ./pavoque/StefanSpike/wav/m0374.wav
   date: 2007-11-06T14:41:58+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0375.wav
+- prompt: m0375
+  file: ./pavoque/StefanSpike/wav/m0375.wav
   date: 2007-11-06T14:42:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0376.wav
+- prompt: m0376
+  file: ./pavoque/StefanSpike/wav/m0376.wav
   date: 2007-11-06T14:42:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0377.wav
+- prompt: m0377
+  file: ./pavoque/StefanSpike/wav/m0377.wav
   date: 2007-11-06T14:42:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0378.wav
+- prompt: m0378
+  file: ./pavoque/StefanSpike/wav/m0378.wav
   date: 2007-11-06T14:42:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0379.wav
+- prompt: m0379
+  file: ./pavoque/StefanSpike/wav/m0379.wav
   date: 2007-11-06T14:42:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0380.wav
+- prompt: m0380
+  file: ./pavoque/StefanSpike/wav/m0380.wav
   date: 2007-11-06T14:42:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0381.wav
+- prompt: m0381
+  file: ./pavoque/StefanSpike/wav/m0381.wav
   date: 2007-11-06T14:43:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0382.wav
+- prompt: m0382
+  file: ./pavoque/StefanSpike/wav/m0382.wav
   date: 2007-11-06T14:43:14+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0383.wav
+- prompt: m0383
+  file: ./pavoque/StefanSpike/wav/m0383.wav
   date: 2007-11-06T14:43:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0384.wav
+- prompt: m0384
+  file: ./pavoque/StefanSpike/wav/m0384.wav
   date: 2007-11-06T14:43:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0385.wav
+- prompt: m0385
+  file: ./pavoque/StefanSpike/wav/m0385.wav
   date: 2007-11-06T14:43:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0387.wav
+- prompt: m0387
+  file: ./pavoque/StefanSpike/wav/m0387.wav
   date: 2007-11-06T14:43:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0372.wav
+- prompt: m0372
+  file: ./pavoque/StefanSpike/wav/m0372.wav
   date: 2007-11-06T14:44:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0386.wav
+- prompt: m0386
+  file: ./pavoque/StefanSpike/wav/m0386.wav
   date: 2007-11-06T14:45:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0388.wav
+- prompt: m0388
+  file: ./pavoque/StefanSpike/wav/m0388.wav
   date: 2007-11-06T14:45:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0389.wav
+- prompt: m0389
+  file: ./pavoque/StefanSpike/wav/m0389.wav
   date: 2007-11-06T14:47:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0390.wav
+- prompt: m0390
+  file: ./pavoque/StefanSpike/wav/m0390.wav
   date: 2007-11-06T14:47:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0391.wav
+- prompt: m0391
+  file: ./pavoque/StefanSpike/wav/m0391.wav
   date: 2007-11-06T14:48:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0392.wav
+- prompt: m0392
+  file: ./pavoque/StefanSpike/wav/m0392.wav
   date: 2007-11-06T14:48:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0393.wav
+- prompt: m0393
+  file: ./pavoque/StefanSpike/wav/m0393.wav
   date: 2007-11-06T14:49:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0394.wav
+- prompt: m0394
+  file: ./pavoque/StefanSpike/wav/m0394.wav
   date: 2007-11-06T14:49:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0395.wav
+- prompt: m0395
+  file: ./pavoque/StefanSpike/wav/m0395.wav
   date: 2007-11-06T14:49:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0396.wav
+- prompt: m0396
+  file: ./pavoque/StefanSpike/wav/m0396.wav
   date: 2007-11-06T14:49:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0397.wav
+- prompt: m0397
+  file: ./pavoque/StefanSpike/wav/m0397.wav
   date: 2007-11-06T14:49:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0398.wav
+- prompt: m0398
+  file: ./pavoque/StefanSpike/wav/m0398.wav
   date: 2007-11-06T14:50:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0399.wav
+- prompt: m0399
+  file: ./pavoque/StefanSpike/wav/m0399.wav
   date: 2007-11-06T14:50:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0400.wav
+- prompt: m0400
+  file: ./pavoque/StefanSpike/wav/m0400.wav
   date: 2007-11-06T14:50:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0001.wav
+- prompt: poker_a0001
+  file: ./pavoque/StefanSpike/wav/poker_a0001.wav
   date: 2007-11-06T14:51:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0002.wav
+- prompt: poker_a0002
+  file: ./pavoque/StefanSpike/wav/poker_a0002.wav
   date: 2007-11-06T14:51:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0003.wav
+- prompt: poker_a0003
+  file: ./pavoque/StefanSpike/wav/poker_a0003.wav
   date: 2007-11-06T14:51:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0004.wav
+- prompt: poker_a0004
+  file: ./pavoque/StefanSpike/wav/poker_a0004.wav
   date: 2007-11-06T14:51:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0005.wav
+- prompt: poker_a0005
+  file: ./pavoque/StefanSpike/wav/poker_a0005.wav
   date: 2007-11-06T14:51:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0006.wav
+- prompt: poker_a0006
+  file: ./pavoque/StefanSpike/wav/poker_a0006.wav
   date: 2007-11-06T14:51:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0007.wav
+- prompt: poker_a0007
+  file: ./pavoque/StefanSpike/wav/poker_a0007.wav
   date: 2007-11-06T14:51:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0008.wav
+- prompt: poker_a0008
+  file: ./pavoque/StefanSpike/wav/poker_a0008.wav
   date: 2007-11-06T14:51:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0009.wav
+- prompt: poker_a0009
+  file: ./pavoque/StefanSpike/wav/poker_a0009.wav
   date: 2007-11-06T14:52:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0010.wav
+- prompt: poker_a0010
+  file: ./pavoque/StefanSpike/wav/poker_a0010.wav
   date: 2007-11-06T14:52:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0011.wav
+- prompt: poker_a0011
+  file: ./pavoque/StefanSpike/wav/poker_a0011.wav
   date: 2007-11-06T14:52:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0012.wav
+- prompt: poker_a0012
+  file: ./pavoque/StefanSpike/wav/poker_a0012.wav
   date: 2007-11-06T14:52:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0013.wav
+- prompt: poker_a0013
+  file: ./pavoque/StefanSpike/wav/poker_a0013.wav
   date: 2007-11-06T14:52:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0014.wav
+- prompt: poker_a0014
+  file: ./pavoque/StefanSpike/wav/poker_a0014.wav
   date: 2007-11-06T14:52:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0015.wav
+- prompt: poker_a0015
+  file: ./pavoque/StefanSpike/wav/poker_a0015.wav
   date: 2007-11-06T14:52:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0016.wav
+- prompt: poker_a0016
+  file: ./pavoque/StefanSpike/wav/poker_a0016.wav
   date: 2007-11-06T14:52:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0017.wav
+- prompt: poker_a0017
+  file: ./pavoque/StefanSpike/wav/poker_a0017.wav
   date: 2007-11-06T14:52:58+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0018.wav
+- prompt: poker_a0018
+  file: ./pavoque/StefanSpike/wav/poker_a0018.wav
   date: 2007-11-06T14:53:06+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0019.wav
+- prompt: poker_a0019
+  file: ./pavoque/StefanSpike/wav/poker_a0019.wav
   date: 2007-11-06T14:53:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0020.wav
+- prompt: poker_a0020
+  file: ./pavoque/StefanSpike/wav/poker_a0020.wav
   date: 2007-11-06T14:53:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0021.wav
+- prompt: poker_a0021
+  file: ./pavoque/StefanSpike/wav/poker_a0021.wav
   date: 2007-11-06T14:53:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0022.wav
+- prompt: poker_a0022
+  file: ./pavoque/StefanSpike/wav/poker_a0022.wav
   date: 2007-11-06T14:53:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0023.wav
+- prompt: poker_a0023
+  file: ./pavoque/StefanSpike/wav/poker_a0023.wav
   date: 2007-11-06T14:53:40+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0024.wav
+- prompt: poker_a0024
+  file: ./pavoque/StefanSpike/wav/poker_a0024.wav
   date: 2007-11-06T14:53:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0025.wav
+- prompt: poker_a0025
+  file: ./pavoque/StefanSpike/wav/poker_a0025.wav
   date: 2007-11-06T14:54:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0026.wav
+- prompt: poker_a0026
+  file: ./pavoque/StefanSpike/wav/poker_a0026.wav
   date: 2007-11-06T14:54:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0027.wav
+- prompt: poker_a0027
+  file: ./pavoque/StefanSpike/wav/poker_a0027.wav
   date: 2007-11-06T14:54:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0028.wav
+- prompt: poker_a0028
+  file: ./pavoque/StefanSpike/wav/poker_a0028.wav
   date: 2007-11-06T14:54:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0029.wav
+- prompt: poker_a0029
+  file: ./pavoque/StefanSpike/wav/poker_a0029.wav
   date: 2007-11-06T14:54:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0030.wav
+- prompt: poker_a0030
+  file: ./pavoque/StefanSpike/wav/poker_a0030.wav
   date: 2007-11-06T14:54:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0031.wav
+- prompt: poker_a0031
+  file: ./pavoque/StefanSpike/wav/poker_a0031.wav
   date: 2007-11-06T14:54:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0032.wav
+- prompt: poker_a0032
+  file: ./pavoque/StefanSpike/wav/poker_a0032.wav
   date: 2007-11-06T14:54:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0033.wav
+- prompt: poker_a0033
+  file: ./pavoque/StefanSpike/wav/poker_a0033.wav
   date: 2007-11-06T14:54:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0034.wav
+- prompt: poker_a0034
+  file: ./pavoque/StefanSpike/wav/poker_a0034.wav
   date: 2007-11-06T14:55:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0035.wav
+- prompt: poker_a0035
+  file: ./pavoque/StefanSpike/wav/poker_a0035.wav
   date: 2007-11-06T14:55:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0036.wav
+- prompt: poker_a0036
+  file: ./pavoque/StefanSpike/wav/poker_a0036.wav
   date: 2007-11-06T14:55:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0037.wav
+- prompt: poker_a0037
+  file: ./pavoque/StefanSpike/wav/poker_a0037.wav
   date: 2007-11-06T14:55:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0038.wav
+- prompt: poker_a0038
+  file: ./pavoque/StefanSpike/wav/poker_a0038.wav
   date: 2007-11-06T14:55:40+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0039.wav
+- prompt: poker_a0039
+  file: ./pavoque/StefanSpike/wav/poker_a0039.wav
   date: 2007-11-06T14:55:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0040.wav
+- prompt: poker_a0040
+  file: ./pavoque/StefanSpike/wav/poker_a0040.wav
   date: 2007-11-06T14:55:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0042.wav
+- prompt: poker_a0042
+  file: ./pavoque/StefanSpike/wav/poker_a0042.wav
   date: 2007-11-06T14:56:06+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0043.wav
+- prompt: poker_a0043
+  file: ./pavoque/StefanSpike/wav/poker_a0043.wav
   date: 2007-11-06T14:56:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0044.wav
+- prompt: poker_a0044
+  file: ./pavoque/StefanSpike/wav/poker_a0044.wav
   date: 2007-11-06T14:56:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0045.wav
+- prompt: poker_a0045
+  file: ./pavoque/StefanSpike/wav/poker_a0045.wav
   date: 2007-11-06T14:56:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0046.wav
+- prompt: poker_a0046
+  file: ./pavoque/StefanSpike/wav/poker_a0046.wav
   date: 2007-11-06T14:56:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0047.wav
+- prompt: poker_a0047
+  file: ./pavoque/StefanSpike/wav/poker_a0047.wav
   date: 2007-11-06T14:56:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0048.wav
+- prompt: poker_a0048
+  file: ./pavoque/StefanSpike/wav/poker_a0048.wav
   date: 2007-11-06T14:56:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0049.wav
+- prompt: poker_a0049
+  file: ./pavoque/StefanSpike/wav/poker_a0049.wav
   date: 2007-11-06T14:57:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0050.wav
+- prompt: poker_a0050
+  file: ./pavoque/StefanSpike/wav/poker_a0050.wav
   date: 2007-11-06T14:57:06+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/poker_a0041.wav
+- prompt: poker_a0041
+  file: ./pavoque/StefanSpike/wav/poker_a0041.wav
   date: 2007-11-06T14:57:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0055.wav
+- prompt: spike0055
+  file: ./pavoque/StefanSpike/wav/spike0055.wav
   date: 2007-11-07T13:10:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0056.wav
+- prompt: spike0056
+  file: ./pavoque/StefanSpike/wav/spike0056.wav
   date: 2007-11-07T13:10:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0057.wav
+- prompt: spike0057
+  file: ./pavoque/StefanSpike/wav/spike0057.wav
   date: 2007-11-07T13:10:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0058.wav
+- prompt: spike0058
+  file: ./pavoque/StefanSpike/wav/spike0058.wav
   date: 2007-11-07T13:10:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0060.wav
+- prompt: spike0060
+  file: ./pavoque/StefanSpike/wav/spike0060.wav
   date: 2007-11-07T13:10:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0061.wav
+- prompt: spike0061
+  file: ./pavoque/StefanSpike/wav/spike0061.wav
   date: 2007-11-07T13:10:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0062.wav
+- prompt: spike0062
+  file: ./pavoque/StefanSpike/wav/spike0062.wav
   date: 2007-11-07T13:10:58+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0059.wav
+- prompt: spike0059
+  file: ./pavoque/StefanSpike/wav/spike0059.wav
   date: 2007-11-07T13:12:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0063.wav
+- prompt: spike0063
+  file: ./pavoque/StefanSpike/wav/spike0063.wav
   date: 2007-11-07T13:12:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0064.wav
+- prompt: spike0064
+  file: ./pavoque/StefanSpike/wav/spike0064.wav
   date: 2007-11-07T13:12:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0065.wav
+- prompt: spike0065
+  file: ./pavoque/StefanSpike/wav/spike0065.wav
   date: 2007-11-07T13:13:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0066.wav
+- prompt: spike0066
+  file: ./pavoque/StefanSpike/wav/spike0066.wav
   date: 2007-11-07T13:13:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0067.wav
+- prompt: spike0067
+  file: ./pavoque/StefanSpike/wav/spike0067.wav
   date: 2007-11-07T13:13:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0068.wav
+- prompt: spike0068
+  file: ./pavoque/StefanSpike/wav/spike0068.wav
   date: 2007-11-07T13:13:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0069.wav
+- prompt: spike0069
+  file: ./pavoque/StefanSpike/wav/spike0069.wav
   date: 2007-11-07T13:13:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0070.wav
+- prompt: spike0070
+  file: ./pavoque/StefanSpike/wav/spike0070.wav
   date: 2007-11-07T13:13:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0071.wav
+- prompt: spike0071
+  file: ./pavoque/StefanSpike/wav/spike0071.wav
   date: 2007-11-07T13:13:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0072.wav
+- prompt: spike0072
+  file: ./pavoque/StefanSpike/wav/spike0072.wav
   date: 2007-11-07T13:13:58+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0073.wav
+- prompt: spike0073
+  file: ./pavoque/StefanSpike/wav/spike0073.wav
   date: 2007-11-07T13:14:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0074.wav
+- prompt: spike0074
+  file: ./pavoque/StefanSpike/wav/spike0074.wav
   date: 2007-11-07T13:14:14+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0075.wav
+- prompt: spike0075
+  file: ./pavoque/StefanSpike/wav/spike0075.wav
   date: 2007-11-07T13:14:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0076.wav
+- prompt: spike0076
+  file: ./pavoque/StefanSpike/wav/spike0076.wav
   date: 2007-11-07T13:14:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0077.wav
+- prompt: spike0077
+  file: ./pavoque/StefanSpike/wav/spike0077.wav
   date: 2007-11-07T13:14:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0078.wav
+- prompt: spike0078
+  file: ./pavoque/StefanSpike/wav/spike0078.wav
   date: 2007-11-07T13:14:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0079.wav
+- prompt: spike0079
+  file: ./pavoque/StefanSpike/wav/spike0079.wav
   date: 2007-11-07T13:14:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0080.wav
+- prompt: spike0080
+  file: ./pavoque/StefanSpike/wav/spike0080.wav
   date: 2007-11-07T13:14:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0081.wav
+- prompt: spike0081
+  file: ./pavoque/StefanSpike/wav/spike0081.wav
   date: 2007-11-07T13:15:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0082.wav
+- prompt: spike0082
+  file: ./pavoque/StefanSpike/wav/spike0082.wav
   date: 2007-11-07T13:15:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0083.wav
+- prompt: spike0083
+  file: ./pavoque/StefanSpike/wav/spike0083.wav
   date: 2007-11-07T13:15:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0084.wav
+- prompt: spike0084
+  file: ./pavoque/StefanSpike/wav/spike0084.wav
   date: 2007-11-07T13:15:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0085.wav
+- prompt: spike0085
+  file: ./pavoque/StefanSpike/wav/spike0085.wav
   date: 2007-11-07T13:15:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0086.wav
+- prompt: spike0086
+  file: ./pavoque/StefanSpike/wav/spike0086.wav
   date: 2007-11-07T13:15:40+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0087.wav
+- prompt: spike0087
+  file: ./pavoque/StefanSpike/wav/spike0087.wav
   date: 2007-11-07T13:15:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0088.wav
+- prompt: spike0088
+  file: ./pavoque/StefanSpike/wav/spike0088.wav
   date: 2007-11-07T13:15:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0089.wav
+- prompt: spike0089
+  file: ./pavoque/StefanSpike/wav/spike0089.wav
   date: 2007-11-07T13:16:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0090.wav
+- prompt: spike0090
+  file: ./pavoque/StefanSpike/wav/spike0090.wav
   date: 2007-11-07T13:16:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0091.wav
+- prompt: spike0091
+  file: ./pavoque/StefanSpike/wav/spike0091.wav
   date: 2007-11-07T13:16:14+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0092.wav
+- prompt: spike0092
+  file: ./pavoque/StefanSpike/wav/spike0092.wav
   date: 2007-11-07T13:16:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0093.wav
+- prompt: spike0093
+  file: ./pavoque/StefanSpike/wav/spike0093.wav
   date: 2007-11-07T13:16:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0094.wav
+- prompt: spike0094
+  file: ./pavoque/StefanSpike/wav/spike0094.wav
   date: 2007-11-07T13:16:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0095.wav
+- prompt: spike0095
+  file: ./pavoque/StefanSpike/wav/spike0095.wav
   date: 2007-11-07T13:16:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0096.wav
+- prompt: spike0096
+  file: ./pavoque/StefanSpike/wav/spike0096.wav
   date: 2007-11-07T13:16:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0097.wav
+- prompt: spike0097
+  file: ./pavoque/StefanSpike/wav/spike0097.wav
   date: 2007-11-07T13:16:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0098.wav
+- prompt: spike0098
+  file: ./pavoque/StefanSpike/wav/spike0098.wav
   date: 2007-11-07T13:17:06+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0099.wav
+- prompt: spike0099
+  file: ./pavoque/StefanSpike/wav/spike0099.wav
   date: 2007-11-07T13:17:14+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0100.wav
+- prompt: spike0100
+  file: ./pavoque/StefanSpike/wav/spike0100.wav
   date: 2007-11-07T13:17:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0101.wav
+- prompt: spike0101
+  file: ./pavoque/StefanSpike/wav/spike0101.wav
   date: 2007-11-07T13:17:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0102.wav
+- prompt: spike0102
+  file: ./pavoque/StefanSpike/wav/spike0102.wav
   date: 2007-11-07T13:17:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0103.wav
+- prompt: spike0103
+  file: ./pavoque/StefanSpike/wav/spike0103.wav
   date: 2007-11-07T13:17:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0104.wav
+- prompt: spike0104
+  file: ./pavoque/StefanSpike/wav/spike0104.wav
   date: 2007-11-07T13:17:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0105.wav
+- prompt: spike0105
+  file: ./pavoque/StefanSpike/wav/spike0105.wav
   date: 2007-11-07T13:18:06+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0106.wav
+- prompt: spike0106
+  file: ./pavoque/StefanSpike/wav/spike0106.wav
   date: 2007-11-07T13:18:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0107.wav
+- prompt: spike0107
+  file: ./pavoque/StefanSpike/wav/spike0107.wav
   date: 2007-11-07T13:18:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0108.wav
+- prompt: spike0108
+  file: ./pavoque/StefanSpike/wav/spike0108.wav
   date: 2007-11-07T13:18:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0109.wav
+- prompt: spike0109
+  file: ./pavoque/StefanSpike/wav/spike0109.wav
   date: 2007-11-07T13:18:40+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0110.wav
+- prompt: spike0110
+  file: ./pavoque/StefanSpike/wav/spike0110.wav
   date: 2007-11-07T13:18:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0111.wav
+- prompt: spike0111
+  file: ./pavoque/StefanSpike/wav/spike0111.wav
   date: 2007-11-07T13:18:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0112.wav
+- prompt: spike0112
+  file: ./pavoque/StefanSpike/wav/spike0112.wav
   date: 2007-11-07T13:19:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0113.wav
+- prompt: spike0113
+  file: ./pavoque/StefanSpike/wav/spike0113.wav
   date: 2007-11-07T13:19:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0114.wav
+- prompt: spike0114
+  file: ./pavoque/StefanSpike/wav/spike0114.wav
   date: 2007-11-07T13:19:14+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0115.wav
+- prompt: spike0115
+  file: ./pavoque/StefanSpike/wav/spike0115.wav
   date: 2007-11-07T13:19:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0116.wav
+- prompt: spike0116
+  file: ./pavoque/StefanSpike/wav/spike0116.wav
   date: 2007-11-07T13:19:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0117.wav
+- prompt: spike0117
+  file: ./pavoque/StefanSpike/wav/spike0117.wav
   date: 2007-11-07T13:19:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0118.wav
+- prompt: spike0118
+  file: ./pavoque/StefanSpike/wav/spike0118.wav
   date: 2007-11-07T13:19:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0119.wav
+- prompt: spike0119
+  file: ./pavoque/StefanSpike/wav/spike0119.wav
   date: 2007-11-07T13:19:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0120.wav
+- prompt: spike0120
+  file: ./pavoque/StefanSpike/wav/spike0120.wav
   date: 2007-11-07T13:19:58+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0121.wav
+- prompt: spike0121
+  file: ./pavoque/StefanSpike/wav/spike0121.wav
   date: 2007-11-07T13:20:06+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0122.wav
+- prompt: spike0122
+  file: ./pavoque/StefanSpike/wav/spike0122.wav
   date: 2007-11-07T13:20:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0123.wav
+- prompt: spike0123
+  file: ./pavoque/StefanSpike/wav/spike0123.wav
   date: 2007-11-07T13:20:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0124.wav
+- prompt: spike0124
+  file: ./pavoque/StefanSpike/wav/spike0124.wav
   date: 2007-11-07T13:20:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0125.wav
+- prompt: spike0125
+  file: ./pavoque/StefanSpike/wav/spike0125.wav
   date: 2007-11-07T13:20:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0126.wav
+- prompt: spike0126
+  file: ./pavoque/StefanSpike/wav/spike0126.wav
   date: 2007-11-07T13:20:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0127.wav
+- prompt: spike0127
+  file: ./pavoque/StefanSpike/wav/spike0127.wav
   date: 2007-11-07T13:20:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0128.wav
+- prompt: spike0128
+  file: ./pavoque/StefanSpike/wav/spike0128.wav
   date: 2007-11-07T13:21:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0130.wav
+- prompt: spike0130
+  file: ./pavoque/StefanSpike/wav/spike0130.wav
   date: 2007-11-07T13:21:14+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0131.wav
+- prompt: spike0131
+  file: ./pavoque/StefanSpike/wav/spike0131.wav
   date: 2007-11-07T13:21:22+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0132.wav
+- prompt: spike0132
+  file: ./pavoque/StefanSpike/wav/spike0132.wav
   date: 2007-11-07T13:21:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0133.wav
+- prompt: spike0133
+  file: ./pavoque/StefanSpike/wav/spike0133.wav
   date: 2007-11-07T13:21:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0134.wav
+- prompt: spike0134
+  file: ./pavoque/StefanSpike/wav/spike0134.wav
   date: 2007-11-07T13:21:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0135.wav
+- prompt: spike0135
+  file: ./pavoque/StefanSpike/wav/spike0135.wav
   date: 2007-11-07T13:21:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0136.wav
+- prompt: spike0136
+  file: ./pavoque/StefanSpike/wav/spike0136.wav
   date: 2007-11-07T13:21:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0138.wav
+- prompt: spike0138
+  file: ./pavoque/StefanSpike/wav/spike0138.wav
   date: 2007-11-07T13:22:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0139.wav
+- prompt: spike0139
+  file: ./pavoque/StefanSpike/wav/spike0139.wav
   date: 2007-11-07T13:22:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0140.wav
+- prompt: spike0140
+  file: ./pavoque/StefanSpike/wav/spike0140.wav
   date: 2007-11-07T13:22:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0142.wav
+- prompt: spike0142
+  file: ./pavoque/StefanSpike/wav/spike0142.wav
   date: 2007-11-07T13:22:38+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0143.wav
+- prompt: spike0143
+  file: ./pavoque/StefanSpike/wav/spike0143.wav
   date: 2007-11-07T13:22:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0144.wav
+- prompt: spike0144
+  file: ./pavoque/StefanSpike/wav/spike0144.wav
   date: 2007-11-07T13:22:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0145.wav
+- prompt: spike0145
+  file: ./pavoque/StefanSpike/wav/spike0145.wav
   date: 2007-11-07T13:22:58+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0146.wav
+- prompt: spike0146
+  file: ./pavoque/StefanSpike/wav/spike0146.wav
   date: 2007-11-07T13:23:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0148.wav
+- prompt: spike0148
+  file: ./pavoque/StefanSpike/wav/spike0148.wav
   date: 2007-11-07T13:23:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0149.wav
+- prompt: spike0149
+  file: ./pavoque/StefanSpike/wav/spike0149.wav
   date: 2007-11-07T13:23:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0150.wav
+- prompt: spike0150
+  file: ./pavoque/StefanSpike/wav/spike0150.wav
   date: 2007-11-07T13:23:32+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0151.wav
+- prompt: spike0151
+  file: ./pavoque/StefanSpike/wav/spike0151.wav
   date: 2007-11-07T13:23:40+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0147.wav
+- prompt: spike0147
+  file: ./pavoque/StefanSpike/wav/spike0147.wav
   date: 2007-11-07T13:24:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0141.wav
+- prompt: spike0141
+  file: ./pavoque/StefanSpike/wav/spike0141.wav
   date: 2007-11-07T13:25:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0137.wav
+- prompt: spike0137
+  file: ./pavoque/StefanSpike/wav/spike0137.wav
   date: 2007-11-07T13:25:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0129.wav
+- prompt: spike0129
+  file: ./pavoque/StefanSpike/wav/spike0129.wav
   date: 2007-11-07T13:25:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0201.wav
+- prompt: m0201
+  file: ./pavoque/StefanSpike/wav/m0201.wav
   date: 2007-11-07T13:26:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0202.wav
+- prompt: m0202
+  file: ./pavoque/StefanSpike/wav/m0202.wav
   date: 2007-11-07T13:26:48+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0203.wav
+- prompt: m0203
+  file: ./pavoque/StefanSpike/wav/m0203.wav
   date: 2007-11-07T13:28:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0204.wav
+- prompt: m0204
+  file: ./pavoque/StefanSpike/wav/m0204.wav
   date: 2007-11-07T13:28:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0205.wav
+- prompt: m0205
+  file: ./pavoque/StefanSpike/wav/m0205.wav
   date: 2007-11-07T13:28:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0206.wav
+- prompt: m0206
+  file: ./pavoque/StefanSpike/wav/m0206.wav
   date: 2007-11-07T13:28:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0207.wav
+- prompt: m0207
+  file: ./pavoque/StefanSpike/wav/m0207.wav
   date: 2007-11-07T13:28:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0208.wav
+- prompt: m0208
+  file: ./pavoque/StefanSpike/wav/m0208.wav
   date: 2007-11-07T13:28:44+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0209.wav
+- prompt: m0209
+  file: ./pavoque/StefanSpike/wav/m0209.wav
   date: 2007-11-07T13:28:52+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0210.wav
+- prompt: m0210
+  file: ./pavoque/StefanSpike/wav/m0210.wav
   date: 2007-11-07T13:29:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0211.wav
+- prompt: m0211
+  file: ./pavoque/StefanSpike/wav/m0211.wav
   date: 2007-11-07T13:29:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0212.wav
+- prompt: m0212
+  file: ./pavoque/StefanSpike/wav/m0212.wav
   date: 2007-11-07T13:29:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0213.wav
+- prompt: m0213
+  file: ./pavoque/StefanSpike/wav/m0213.wav
   date: 2007-11-07T13:30:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0214.wav
+- prompt: m0214
+  file: ./pavoque/StefanSpike/wav/m0214.wav
   date: 2007-11-07T13:30:18+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0215.wav
+- prompt: m0215
+  file: ./pavoque/StefanSpike/wav/m0215.wav
   date: 2007-11-07T13:30:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0217.wav
+- prompt: m0217
+  file: ./pavoque/StefanSpike/wav/m0217.wav
   date: 2007-11-07T13:30:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0218.wav
+- prompt: m0218
+  file: ./pavoque/StefanSpike/wav/m0218.wav
   date: 2007-11-07T13:30:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0219.wav
+- prompt: m0219
+  file: ./pavoque/StefanSpike/wav/m0219.wav
   date: 2007-11-07T13:31:04+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0220.wav
+- prompt: m0220
+  file: ./pavoque/StefanSpike/wav/m0220.wav
   date: 2007-11-07T13:31:14+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0221.wav
+- prompt: m0221
+  file: ./pavoque/StefanSpike/wav/m0221.wav
   date: 2007-11-07T13:31:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0223.wav
+- prompt: m0223
+  file: ./pavoque/StefanSpike/wav/m0223.wav
   date: 2007-11-07T13:31:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0224.wav
+- prompt: m0224
+  file: ./pavoque/StefanSpike/wav/m0224.wav
   date: 2007-11-07T13:31:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0225.wav
+- prompt: m0225
+  file: ./pavoque/StefanSpike/wav/m0225.wav
   date: 2007-11-07T13:32:00+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0226.wav
+- prompt: m0226
+  file: ./pavoque/StefanSpike/wav/m0226.wav
   date: 2007-11-07T13:32:08+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0228.wav
+- prompt: m0228
+  file: ./pavoque/StefanSpike/wav/m0228.wav
   date: 2007-11-07T13:32:26+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0229.wav
+- prompt: m0229
+  file: ./pavoque/StefanSpike/wav/m0229.wav
   date: 2007-11-07T13:32:36+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0230.wav
+- prompt: m0230
+  file: ./pavoque/StefanSpike/wav/m0230.wav
   date: 2007-11-07T13:32:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0231.wav
+- prompt: m0231
+  file: ./pavoque/StefanSpike/wav/m0231.wav
   date: 2007-11-07T13:32:56+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0232.wav
+- prompt: m0232
+  file: ./pavoque/StefanSpike/wav/m0232.wav
   date: 2007-11-07T13:33:06+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0233.wav
+- prompt: m0233
+  file: ./pavoque/StefanSpike/wav/m0233.wav
   date: 2007-11-07T13:33:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0234.wav
+- prompt: m0234
+  file: ./pavoque/StefanSpike/wav/m0234.wav
   date: 2007-11-07T13:33:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0235.wav
+- prompt: m0235
+  file: ./pavoque/StefanSpike/wav/m0235.wav
   date: 2007-11-07T13:33:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0236.wav
+- prompt: m0236
+  file: ./pavoque/StefanSpike/wav/m0236.wav
   date: 2007-11-07T13:33:34+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0237.wav
+- prompt: m0237
+  file: ./pavoque/StefanSpike/wav/m0237.wav
   date: 2007-11-07T13:33:46+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0238.wav
+- prompt: m0238
+  file: ./pavoque/StefanSpike/wav/m0238.wav
   date: 2007-11-07T13:33:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0239.wav
+- prompt: m0239
+  file: ./pavoque/StefanSpike/wav/m0239.wav
   date: 2007-11-07T13:34:02+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0240.wav
+- prompt: m0240
+  file: ./pavoque/StefanSpike/wav/m0240.wav
   date: 2007-11-07T13:34:10+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0242.wav
+- prompt: m0242
+  file: ./pavoque/StefanSpike/wav/m0242.wav
   date: 2007-11-07T13:34:30+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0243.wav
+- prompt: m0243
+  file: ./pavoque/StefanSpike/wav/m0243.wav
   date: 2007-11-07T13:34:42+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0244.wav
+- prompt: m0244
+  file: ./pavoque/StefanSpike/wav/m0244.wav
   date: 2007-11-07T13:34:50+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0245.wav
+- prompt: m0245
+  file: ./pavoque/StefanSpike/wav/m0245.wav
   date: 2007-11-07T13:34:58+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0246.wav
+- prompt: m0246
+  file: ./pavoque/StefanSpike/wav/m0246.wav
   date: 2007-11-07T13:35:06+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0247.wav
+- prompt: m0247
+  file: ./pavoque/StefanSpike/wav/m0247.wav
   date: 2007-11-07T13:35:12+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0248.wav
+- prompt: m0248
+  file: ./pavoque/StefanSpike/wav/m0248.wav
   date: 2007-11-07T13:35:20+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0249.wav
+- prompt: m0249
+  file: ./pavoque/StefanSpike/wav/m0249.wav
   date: 2007-11-07T13:35:28+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0227.wav
+- prompt: m0227
+  file: ./pavoque/StefanSpike/wav/m0227.wav
   date: 2007-11-07T13:35:54+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0241.wav
+- prompt: m0241
+  file: ./pavoque/StefanSpike/wav/m0241.wav
   date: 2007-11-07T13:37:12+0100
   style: angry
-- file: ./pavoque/NachSpike/wav/m0042.wav
+- prompt: m0042
+  file: ./pavoque/NachSpike/wav/m0042.wav
   date: 2007-12-17T12:27:36+0100
   style: angry
-- file: ./pavoque/NachSpike/wav/m0055.wav
+- prompt: m0055
+  file: ./pavoque/NachSpike/wav/m0055.wav
   date: 2007-12-17T12:28:02+0100
   style: angry
-- file: ./pavoque/NachSpike/wav/m0057.wav
+- prompt: m0057
+  file: ./pavoque/NachSpike/wav/m0057.wav
   date: 2007-12-17T12:28:10+0100
   style: angry
-- file: ./pavoque/NachSpike/wav/m0108.wav
+- prompt: m0108
+  file: ./pavoque/NachSpike/wav/m0108.wav
   date: 2007-12-17T12:28:18+0100
   style: angry
-- file: ./pavoque/NachSpike/wav/m0115.wav
+- prompt: m0115
+  file: ./pavoque/NachSpike/wav/m0115.wav
   date: 2007-12-17T12:28:26+0100
   style: angry
-- file: ./pavoque/NachSpike/wav/m0140.wav
+- prompt: m0140
+  file: ./pavoque/NachSpike/wav/m0140.wav
   date: 2007-12-17T12:28:36+0100
   style: angry
-- file: ./pavoque/NachSpike/wav/m0216.wav
+- prompt: m0216
+  file: ./pavoque/NachSpike/wav/m0216.wav
   date: 2007-12-17T12:28:58+0100
   style: angry
-- file: ./pavoque/NachSpike/wav/m0222.wav
+- prompt: m0222
+  file: ./pavoque/NachSpike/wav/m0222.wav
   date: 2007-12-17T12:29:08+0100
   style: angry
-- file: ./pavoque/NachSpike/wav/m0250.wav
+- prompt: m0250
+  file: ./pavoque/NachSpike/wav/m0250.wav
   date: 2007-12-17T12:29:18+0100
   style: angry
-- file: ./pavoque/NachSpike/wav/m0274.wav
+- prompt: m0274
+  file: ./pavoque/NachSpike/wav/m0274.wav
   date: 2007-12-17T12:29:26+0100
   style: angry
-- file: ./pavoque/NachSpike/wav/m0278.wav
+- prompt: m0278
+  file: ./pavoque/NachSpike/wav/m0278.wav
   date: 2007-12-17T12:29:50+0100
   style: angry
-- file: ./pavoque/NachSpike/wav/m0320.wav
+- prompt: m0320
+  file: ./pavoque/NachSpike/wav/m0320.wav
   date: 2007-12-17T12:29:58+0100
   style: angry
-- file: ./pavoque/NachSpike/wav/m0342.wav
+- prompt: m0342
+  file: ./pavoque/NachSpike/wav/m0342.wav
   date: 2007-12-17T12:30:08+0100
   style: angry
-- file: ./pavoque/NachSpike/wav/spike0020.wav
+- prompt: spike0020
+  file: ./pavoque/NachSpike/wav/spike0020.wav
   date: 2007-12-17T12:30:30+0100
   style: angry
-- file: ./pavoque/NachSpike/wav/spike0027.wav
+- prompt: spike0027
+  file: ./pavoque/NachSpike/wav/spike0027.wav
   date: 2007-12-17T12:30:38+0100
   style: angry
-- file: ./pavoque/NachSpike/wav/m0010.wav
+- prompt: m0010
+  file: ./pavoque/NachSpike/wav/m0010.wav
   date: 2007-12-17T12:31:24+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0020.wav
+- prompt: spike0020
+  file: ./pavoque/StefanSpike/wav/spike0020.wav
   date: 2007-12-21T17:37:14+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0010.wav
+- prompt: m0010
+  file: ./pavoque/StefanSpike/wav/m0010.wav
   date: 2007-12-21T17:37:15+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0042.wav
+- prompt: m0042
+  file: ./pavoque/StefanSpike/wav/m0042.wav
   date: 2007-12-21T17:37:15+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0055.wav
+- prompt: m0055
+  file: ./pavoque/StefanSpike/wav/m0055.wav
   date: 2007-12-21T17:37:15+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0057.wav
+- prompt: m0057
+  file: ./pavoque/StefanSpike/wav/m0057.wav
   date: 2007-12-21T17:37:15+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0108.wav
+- prompt: m0108
+  file: ./pavoque/StefanSpike/wav/m0108.wav
   date: 2007-12-21T17:37:15+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0115.wav
+- prompt: m0115
+  file: ./pavoque/StefanSpike/wav/m0115.wav
   date: 2007-12-21T17:37:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0140.wav
+- prompt: m0140
+  file: ./pavoque/StefanSpike/wav/m0140.wav
   date: 2007-12-21T17:37:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0216.wav
+- prompt: m0216
+  file: ./pavoque/StefanSpike/wav/m0216.wav
   date: 2007-12-21T17:37:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0222.wav
+- prompt: m0222
+  file: ./pavoque/StefanSpike/wav/m0222.wav
   date: 2007-12-21T17:37:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0250.wav
+- prompt: m0250
+  file: ./pavoque/StefanSpike/wav/m0250.wav
   date: 2007-12-21T17:37:16+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0274.wav
+- prompt: m0274
+  file: ./pavoque/StefanSpike/wav/m0274.wav
   date: 2007-12-21T17:37:17+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0278.wav
+- prompt: m0278
+  file: ./pavoque/StefanSpike/wav/m0278.wav
   date: 2007-12-21T17:37:17+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0320.wav
+- prompt: m0320
+  file: ./pavoque/StefanSpike/wav/m0320.wav
   date: 2007-12-21T17:37:17+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/m0342.wav
+- prompt: m0342
+  file: ./pavoque/StefanSpike/wav/m0342.wav
   date: 2007-12-21T17:37:17+0100
   style: angry
-- file: ./pavoque/StefanSpike/wav/spike0027.wav
+- prompt: spike0027
+  file: ./pavoque/StefanSpike/wav/spike0027.wav
   date: 2007-12-21T17:37:17+0100
   style: angry
