@@ -4,17 +4,8 @@
 - file: ./pavoque/StefanObadiah/wav/obadiah0001.wav
   date: 2007-11-02T13:31:22+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0002a.wav
-  date: 2007-11-02T13:31:34+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0003a.wav
-  date: 2007-11-02T13:32:12+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0004.wav
   date: 2007-11-02T13:32:22+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0005a.wav
-  date: 2007-11-02T13:32:28+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0006.wav
   date: 2007-11-02T13:32:36+0100
@@ -31,38 +22,8 @@
 - file: ./pavoque/StefanObadiah/wav/obadiah0010.wav
   date: 2007-11-02T13:33:04+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0011a.wav
-  date: 2007-11-02T13:33:12+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0012a.wav
-  date: 2007-11-02T13:33:18+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0013a.wav
-  date: 2007-11-02T13:33:26+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0014a.wav
-  date: 2007-11-02T13:33:42+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0015a.wav
-  date: 2007-11-02T13:33:50+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0016a.wav
-  date: 2007-11-02T13:34:00+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0012.wav
   date: 2007-11-02T13:35:56+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0017a.wav
-  date: 2007-11-02T13:36:20+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0018a.wav
-  date: 2007-11-02T13:36:30+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0019a.wav
-  date: 2007-11-02T13:36:38+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0019b.wav
-  date: 2007-11-02T13:36:58+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0020.wav
   date: 2007-11-02T13:37:06+0100
@@ -94,9 +55,6 @@
 - file: ./pavoque/StefanObadiah/wav/obadiah0029.wav
   date: 2007-11-02T13:38:30+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0030a.wav
-  date: 2007-11-02T13:38:40+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0030.wav
   date: 2007-11-02T13:38:50+0100
   style: sad
@@ -109,9 +67,6 @@
 - file: ./pavoque/StefanObadiah/wav/obadiah0033.wav
   date: 2007-11-02T13:39:18+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0034a.wav
-  date: 2007-11-02T13:39:32+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0035.wav
   date: 2007-11-02T13:39:38+0100
   style: sad
@@ -121,29 +76,8 @@
 - file: ./pavoque/StefanObadiah/wav/obadiah0037.wav
   date: 2007-11-02T13:39:54+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0038a.wav
-  date: 2007-11-02T13:40:02+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0038b.wav
-  date: 2007-11-02T13:40:28+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0038c.wav
-  date: 2007-11-02T13:40:46+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0039a.wav
-  date: 2007-11-02T13:40:52+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0040a.wav
-  date: 2007-11-02T13:41:00+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0041.wav
   date: 2007-11-02T13:41:08+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0042a.wav
-  date: 2007-11-02T13:41:18+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0043a.wav
-  date: 2007-11-02T13:41:26+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0038.wav
   date: 2007-11-02T13:42:30+0100
@@ -205,9 +139,6 @@
 - file: ./pavoque/StefanObadiah/wav/obadiah0059.wav
   date: 2007-11-02T13:45:56+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0060a.wav
-  date: 2007-11-02T13:46:04+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0061.wav
   date: 2007-11-02T13:46:14+0100
   style: sad
@@ -216,9 +147,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0001.wav
   date: 2007-11-02T13:47:16+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0002a.wav
-  date: 2007-11-02T13:47:26+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0003.wav
   date: 2007-11-02T13:47:36+0100
@@ -304,9 +232,6 @@
 - file: ./pavoque/StefanObadiah/wav/m0030.wav
   date: 2007-11-02T13:52:04+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0031a.wav
-  date: 2007-11-02T13:52:14+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0032.wav
   date: 2007-11-02T13:52:28+0100
   style: sad
@@ -330,12 +255,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0039.wav
   date: 2007-11-02T13:53:38+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0040a.wav
-  date: 2007-11-02T13:53:48+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0040b.wav
-  date: 2007-11-02T13:54:28+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0040.wav
   date: 2007-11-02T13:54:42+0100
@@ -391,9 +310,6 @@
 - file: ./pavoque/StefanObadiah/wav/m0057.wav
   date: 2007-11-02T13:57:30+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0058a.wav
-  date: 2007-11-02T13:57:40+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0058.wav
   date: 2007-11-02T13:58:18+0100
   style: sad
@@ -405,9 +321,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0061.wav
   date: 2007-11-02T13:58:46+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0062a.wav
-  date: 2007-11-02T13:58:56+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0062.wav
   date: 2007-11-02T13:59:20+0100
@@ -424,9 +337,6 @@
 - file: ./pavoque/StefanObadiah/wav/m0066.wav
   date: 2007-11-02T14:00:02+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0067a.wav
-  date: 2007-11-02T14:00:16+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0067.wav
   date: 2007-11-02T14:00:30+0100
   style: sad
@@ -436,20 +346,11 @@
 - file: ./pavoque/StefanObadiah/wav/m0069.wav
   date: 2007-11-02T14:00:54+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0070a.wav
-  date: 2007-11-02T14:01:06+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0070b.wav
-  date: 2007-11-02T14:01:26+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0071.wav
   date: 2007-11-02T14:01:36+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0070.wav
   date: 2007-11-02T14:02:04+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0072a.wav
-  date: 2007-11-02T14:02:16+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0072.wav
   date: 2007-11-02T14:02:26+0100
@@ -462,9 +363,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0075.wav
   date: 2007-11-02T14:02:58+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0076a.wav
-  date: 2007-11-02T14:03:08+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0076.wav
   date: 2007-11-02T14:03:18+0100
@@ -481,15 +379,6 @@
 - file: ./pavoque/StefanObadiah/wav/m0080.wav
   date: 2007-11-02T14:04:00+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0081a.wav
-  date: 2007-11-02T14:04:08+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0082a.wav
-  date: 2007-11-02T14:04:18+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0083a.wav
-  date: 2007-11-02T14:04:26+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0084.wav
   date: 2007-11-02T14:04:38+0100
   style: sad
@@ -504,9 +393,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0088.wav
   date: 2007-11-02T14:05:50+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0089a.wav
-  date: 2007-11-02T14:06:00+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0089.wav
   date: 2007-11-02T14:07:04+0100
@@ -580,9 +466,6 @@
 - file: ./pavoque/StefanObadiah/wav/obadiah0072.wav
   date: 2007-11-02T14:11:46+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0073a.wav
-  date: 2007-11-02T14:11:56+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0073.wav
   date: 2007-11-02T14:12:22+0100
   style: sad
@@ -634,23 +517,11 @@
 - file: ./pavoque/StefanObadiah/wav/obadiah0089.wav
   date: 2007-11-02T14:15:18+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0250a.wav
-  date: 2007-11-02T14:16:20+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0251a.wav
-  date: 2007-11-02T14:16:30+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0251b.wav
-  date: 2007-11-02T14:17:00+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0251.wav
   date: 2007-11-02T14:17:18+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0252.wav
   date: 2007-11-02T14:17:28+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0253a.wav
-  date: 2007-11-02T14:17:46+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0253.wav
   date: 2007-11-02T14:18:42+0100
@@ -663,9 +534,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0256.wav
   date: 2007-11-02T14:19:42+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0257a.wav
-  date: 2007-11-02T14:19:52+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0257.wav
   date: 2007-11-02T14:20:06+0100
@@ -684,9 +552,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0262.wav
   date: 2007-11-02T14:20:56+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0263a.wav
-  date: 2007-11-02T14:21:06+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0264.wav
   date: 2007-11-02T14:21:16+0100
@@ -721,14 +586,8 @@
 - file: ./pavoque/StefanObadiah/wav/m0274.wav
   date: 2007-11-02T14:23:04+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0275a.wav
-  date: 2007-11-02T14:23:14+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0275.wav
   date: 2007-11-02T14:23:26+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0276a.wav
-  date: 2007-11-02T14:23:38+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0276.wav
   date: 2007-11-02T14:24:04+0100
@@ -738,12 +597,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0278.wav
   date: 2007-11-02T14:24:26+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0279a.wav
-  date: 2007-11-02T14:24:40+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0279b.wav
-  date: 2007-11-02T14:25:00+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0279.wav
   date: 2007-11-02T14:25:24+0100
@@ -778,9 +631,6 @@
 - file: ./pavoque/StefanObadiah/wav/m0289.wav
   date: 2007-11-02T14:27:16+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0290a.wav
-  date: 2007-11-02T14:27:28+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0290.wav
   date: 2007-11-02T14:27:42+0100
   style: sad
@@ -790,32 +640,20 @@
 - file: ./pavoque/StefanObadiah/wav/m0292.wav
   date: 2007-11-02T14:28:04+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0293a.wav
-  date: 2007-11-02T14:28:16+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0293.wav
   date: 2007-11-02T14:28:28+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0294.wav
   date: 2007-11-02T14:28:36+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0295a.wav
-  date: 2007-11-02T14:28:48+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0296.wav
   date: 2007-11-02T14:29:02+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0297a.wav
-  date: 2007-11-02T14:29:12+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0297.wav
   date: 2007-11-02T14:29:22+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0298.wav
   date: 2007-11-02T14:29:30+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0299a.wav
-  date: 2007-11-02T14:29:42+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0299.wav
   date: 2007-11-02T14:29:56+0100
@@ -829,20 +667,11 @@
 - file: ./pavoque/StefanObadiah/wav/m0302.wav
   date: 2007-11-02T14:30:32+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0303a.wav
-  date: 2007-11-02T14:30:40+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0303.wav
   date: 2007-11-02T14:30:56+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0304.wav
   date: 2007-11-02T14:31:10+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0305a.wav
-  date: 2007-11-02T14:31:24+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0305b.wav
-  date: 2007-11-02T14:31:40+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0305.wav
   date: 2007-11-02T14:55:00+0100
@@ -850,23 +679,11 @@
 - file: ./pavoque/StefanObadiah/wav/m0306.wav
   date: 2007-11-02T14:55:10+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0307a.wav
-  date: 2007-11-02T14:55:22+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0307b.wav
-  date: 2007-11-02T14:55:34+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0307.wav
   date: 2007-11-02T14:55:54+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0308.wav
   date: 2007-11-02T14:56:08+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0309a.wav
-  date: 2007-11-02T14:56:24+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0309b.wav
-  date: 2007-11-02T14:57:18+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0310.wav
   date: 2007-11-02T14:57:38+0100
@@ -876,9 +693,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0312.wav
   date: 2007-11-02T14:58:08+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0313a.wav
-  date: 2007-11-02T14:58:22+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0313.wav
   date: 2007-11-02T14:58:42+0100
@@ -895,14 +709,8 @@
 - file: ./pavoque/StefanObadiah/wav/m0317.wav
   date: 2007-11-02T14:59:26+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0318a.wav
-  date: 2007-11-02T14:59:44+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0318.wav
   date: 2007-11-02T15:00:30+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0319a.wav
-  date: 2007-11-02T15:00:44+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0319.wav
   date: 2007-11-02T15:01:12+0100
@@ -967,20 +775,11 @@
 - file: ./pavoque/StefanObadiah/wav/m0339.wav
   date: 2007-11-02T15:05:48+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0340a.wav
-  date: 2007-11-02T15:06:02+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0340.wav
   date: 2007-11-02T15:06:24+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0341.wav
   date: 2007-11-02T15:06:36+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0342a.wav
-  date: 2007-11-02T15:06:48+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0343a.wav
-  date: 2007-11-02T15:07:00+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0343.wav
   date: 2007-11-02T15:07:20+0100
@@ -991,14 +790,8 @@
 - file: ./pavoque/StefanObadiah/wav/m0345.wav
   date: 2007-11-02T15:07:42+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0346a.wav
-  date: 2007-11-02T15:07:56+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0346.wav
   date: 2007-11-02T15:08:20+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0347a.wav
-  date: 2007-11-02T15:08:34+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0348.wav
   date: 2007-11-02T15:08:44+0100
@@ -1009,29 +802,14 @@
 - file: ./pavoque/StefanObadiah/wav/m0350.wav
   date: 2007-11-02T15:09:08+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0351a.wav
-  date: 2007-11-02T15:09:22+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0352a.wav
-  date: 2007-11-02T15:09:32+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0347b.wav
-  date: 2007-11-02T15:10:24+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0347.wav
   date: 2007-11-02T15:10:40+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0351b.wav
-  date: 2007-11-02T15:11:12+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0352.wav
   date: 2007-11-02T15:11:22+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0353.wav
   date: 2007-11-02T15:11:34+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0354a.wav
-  date: 2007-11-02T15:11:46+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0354.wav
   date: 2007-11-02T15:12:06+0100
@@ -1054,9 +832,6 @@
 - file: ./pavoque/StefanObadiah/wav/m0360.wav
   date: 2007-11-02T15:13:10+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0361a.wav
-  date: 2007-11-02T15:13:20+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0361.wav
   date: 2007-11-02T15:13:32+0100
   style: sad
@@ -1078,15 +853,6 @@
 - file: ./pavoque/StefanObadiah/wav/m0367.wav
   date: 2007-11-02T15:14:42+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0368a.wav
-  date: 2007-11-02T15:14:54+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0368b.wav
-  date: 2007-11-02T15:15:14+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0369a.wav
-  date: 2007-11-02T15:15:26+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0370.wav
   date: 2007-11-02T15:15:38+0100
   style: sad
@@ -1105,20 +871,8 @@
 - file: ./pavoque/StefanObadiah/wav/m0375.wav
   date: 2007-11-02T15:16:38+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0376a.wav
-  date: 2007-11-02T15:16:50+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0376.wav
   date: 2007-11-02T15:17:08+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0377a.wav
-  date: 2007-11-02T15:17:22+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0377b.wav
-  date: 2007-11-02T15:17:38+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0378a.wav
-  date: 2007-11-02T15:17:48+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0378.wav
   date: 2007-11-02T15:18:02+0100
@@ -1132,14 +886,8 @@
 - file: ./pavoque/StefanObadiah/wav/m0381.wav
   date: 2007-11-02T15:18:36+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0382a.wav
-  date: 2007-11-02T15:18:50+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0383.wav
   date: 2007-11-02T15:19:02+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0384a.wav
-  date: 2007-11-02T15:19:12+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0384.wav
   date: 2007-11-02T15:19:26+0100
@@ -1147,32 +895,20 @@
 - file: ./pavoque/StefanObadiah/wav/m0385.wav
   date: 2007-11-02T15:19:36+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0386a.wav
-  date: 2007-11-02T15:19:46+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0386.wav
   date: 2007-11-02T15:20:00+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0387.wav
   date: 2007-11-02T15:20:10+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0388a.wav
-  date: 2007-11-02T15:20:24+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0389.wav
   date: 2007-11-02T15:20:34+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0390a.wav
-  date: 2007-11-02T15:20:48+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0388.wav
   date: 2007-11-02T15:21:34+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0390.wav
   date: 2007-11-02T15:21:56+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0391a.wav
-  date: 2007-11-02T15:22:08+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0391.wav
   date: 2007-11-02T15:22:20+0100
@@ -1195,14 +931,8 @@
 - file: ./pavoque/StefanObadiah/wav/m0397.wav
   date: 2007-11-02T15:23:28+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0398a.wav
-  date: 2007-11-02T15:23:42+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0399.wav
   date: 2007-11-02T15:23:54+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0400a.wav
-  date: 2007-11-02T15:24:06+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0400.wav
   date: 2007-11-02T15:24:22+0100
@@ -1212,9 +942,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0091.wav
   date: 2007-11-05T12:56:38+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0092a.wav
-  date: 2007-11-05T12:56:46+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0092.wav
   date: 2007-11-05T12:57:34+0100
@@ -1269,12 +996,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0109.wav
   date: 2007-11-05T12:59:30+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0110a.wav
-  date: 2007-11-05T12:59:40+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0110b.wav
-  date: 2007-11-05T13:00:04+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0110.wav
   date: 2007-11-05T13:00:22+0100
@@ -1354,14 +1075,8 @@
 - file: ./pavoque/StefanObadiah/wav/poker_d0011.wav
   date: 2007-11-05T13:03:48+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/poker_d0012a.wav
-  date: 2007-11-05T13:03:56+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/poker_d0013.wav
   date: 2007-11-05T13:04:02+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/poker_d0014a.wav
-  date: 2007-11-05T13:04:08+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/poker_d0014.wav
   date: 2007-11-05T13:04:18+0100
@@ -1389,9 +1104,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/poker_d0022.wav
   date: 2007-11-05T13:05:08+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/poker_d0023a.wav
-  date: 2007-11-05T13:05:16+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/poker_d0023.wav
   date: 2007-11-05T13:05:22+0100
@@ -1423,9 +1135,6 @@
 - file: ./pavoque/StefanObadiah/wav/poker_d0032.wav
   date: 2007-11-05T13:06:22+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0103a.wav
-  date: 2007-11-05T13:07:44+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0103.wav
   date: 2007-11-05T13:08:04+0100
   style: sad
@@ -1438,15 +1147,6 @@
 - file: ./pavoque/StefanObadiah/wav/m0106.wav
   date: 2007-11-05T13:08:28+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0107a.wav
-  date: 2007-11-05T13:08:40+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0107b.wav
-  date: 2007-11-05T13:08:58+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0107c.wav
-  date: 2007-11-05T13:09:14+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0107.wav
   date: 2007-11-05T13:09:44+0100
   style: sad
@@ -1456,20 +1156,8 @@
 - file: ./pavoque/StefanObadiah/wav/m0109.wav
   date: 2007-11-05T13:10:02+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0110a.wav
-  date: 2007-11-05T13:10:10+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0110.wav
   date: 2007-11-05T13:10:32+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0111a.wav
-  date: 2007-11-05T13:10:40+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0111b.wav
-  date: 2007-11-05T13:10:52+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0111c.wav
-  date: 2007-11-05T13:11:04+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0111.wav
   date: 2007-11-05T13:11:26+0100
@@ -1482,9 +1170,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0114.wav
   date: 2007-11-05T13:11:54+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0115a.wav
-  date: 2007-11-05T13:12:02+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0116.wav
   date: 2007-11-05T13:12:10+0100
@@ -1516,17 +1201,8 @@
 - file: ./pavoque/StefanObadiah/wav/m0125.wav
   date: 2007-11-05T13:13:26+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0126a.wav
-  date: 2007-11-05T13:13:34+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0127.wav
   date: 2007-11-05T13:13:44+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0128a.wav
-  date: 2007-11-05T13:13:54+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0128b.wav
-  date: 2007-11-05T13:14:20+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0128.wav
   date: 2007-11-05T13:14:42+0100
@@ -1552,9 +1228,6 @@
 - file: ./pavoque/StefanObadiah/wav/m0135.wav
   date: 2007-11-05T13:15:42+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0136a.wav
-  date: 2007-11-05T13:15:48+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0137.wav
   date: 2007-11-05T13:15:56+0100
   style: sad
@@ -1570,12 +1243,6 @@
 - file: ./pavoque/StefanObadiah/wav/m0141.wav
   date: 2007-11-05T13:16:30+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0142a.wav
-  date: 2007-11-05T13:16:42+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0142b.wav
-  date: 2007-11-05T13:16:54+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0142.wav
   date: 2007-11-05T13:17:08+0100
   style: sad
@@ -1585,20 +1252,11 @@
 - file: ./pavoque/StefanObadiah/wav/m0144.wav
   date: 2007-11-05T13:17:26+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0145a.wav
-  date: 2007-11-05T13:17:36+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0145b.wav
-  date: 2007-11-05T13:17:48+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0145.wav
   date: 2007-11-05T13:18:02+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0146.wav
   date: 2007-11-05T13:18:12+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0147a.wav
-  date: 2007-11-05T13:18:18+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0148.wav
   date: 2007-11-05T13:18:28+0100
@@ -1614,9 +1272,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0152.wav
   date: 2007-11-05T13:19:04+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0153a.wav
-  date: 2007-11-05T13:19:12+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0154.wav
   date: 2007-11-05T13:19:22+0100
@@ -1653,9 +1308,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0165.wav
   date: 2007-11-05T13:20:58+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0166a.wav
-  date: 2007-11-05T13:21:06+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0167.wav
   date: 2007-11-05T13:21:14+0100
@@ -1732,9 +1384,6 @@
 - file: ./pavoque/StefanObadiah/wav/m0191.wav
   date: 2007-11-05T13:24:42+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0192a.wav
-  date: 2007-11-05T13:24:50+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0192.wav
   date: 2007-11-05T13:25:18+0100
   style: sad
@@ -1777,17 +1426,8 @@
 - file: ./pavoque/StefanObadiah/wav/m0205.wav
   date: 2007-11-05T13:27:18+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0206a.wav
-  date: 2007-11-05T13:27:28+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0206b.wav
-  date: 2007-11-05T13:27:42+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0206.wav
   date: 2007-11-05T13:27:54+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0207a.wav
-  date: 2007-11-05T13:28:02+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0208.wav
   date: 2007-11-05T13:28:10+0100
@@ -1803,9 +1443,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0212.wav
   date: 2007-11-05T13:28:44+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0213a.wav
-  date: 2007-11-05T13:28:54+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0213.wav
   date: 2007-11-05T13:29:06+0100
@@ -1834,9 +1471,6 @@
 - file: ./pavoque/StefanObadiah/wav/m0221.wav
   date: 2007-11-05T13:30:20+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0222a.wav
-  date: 2007-11-05T13:30:30+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0222.wav
   date: 2007-11-05T13:30:48+0100
   style: sad
@@ -1846,15 +1480,6 @@
 - file: ./pavoque/StefanObadiah/wav/m0224.wav
   date: 2007-11-05T13:31:08+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0225a.wav
-  date: 2007-11-05T13:31:18+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0226a.wav
-  date: 2007-11-05T13:31:26+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0227a.wav
-  date: 2007-11-05T13:31:36+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0228.wav
   date: 2007-11-05T13:31:46+0100
   style: sad
@@ -1863,9 +1488,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0230.wav
   date: 2007-11-05T13:32:08+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0231a.wav
-  date: 2007-11-05T13:32:18+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0231.wav
   date: 2007-11-05T13:32:46+0100
@@ -1881,9 +1503,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0235.wav
   date: 2007-11-05T13:33:20+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0236a.wav
-  date: 2007-11-05T13:33:28+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0236.wav
   date: 2007-11-05T13:34:00+0100
@@ -1912,9 +1531,6 @@
 - file: ./pavoque/StefanObadiah/wav/m0244.wav
   date: 2007-11-05T13:35:18+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0245a.wav
-  date: 2007-11-05T13:35:26+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0246.wav
   date: 2007-11-05T13:35:36+0100
   style: sad
@@ -1932,12 +1548,6 @@
   style: sad
 - file: ./pavoque/NachObadiah/config/test.wav
   date: 2007-12-17T11:38:42+0100
-  style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/m0002a.wav
-  date: 2007-12-17T11:39:12+0100
-  style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/m0031a.wav
-  date: 2007-12-17T11:39:16+0100
   style: sad
 - file: ./pavoque/NachObadiah/wav/m0002.wav
   date: 2007-12-17T11:39:46+0100
@@ -1972,12 +1582,6 @@
 - file: ./pavoque/NachObadiah/wav/m0166.wav
   date: 2007-12-17T11:41:04+0100
   style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/m0207a.wav
-  date: 2007-12-17T11:41:12+0100
-  style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/m0225a.wav
-  date: 2007-12-17T11:41:22+0100
-  style: sad
 - file: ./pavoque/NachObadiah/wav/m0207.wav
   date: 2007-12-17T11:41:56+0100
   style: sad
@@ -1993,9 +1597,6 @@
 - file: ./pavoque/NachObadiah/wav/m0245.wav
   date: 2007-12-17T11:42:38+0100
   style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/m0250a.wav
-  date: 2007-12-17T11:42:48+0100
-  style: sad
 - file: ./pavoque/NachObadiah/wav/m0250.wav
   date: 2007-12-17T11:43:16+0100
   style: sad
@@ -2005,41 +1606,20 @@
 - file: ./pavoque/NachObadiah/wav/m0295.wav
   date: 2007-12-17T11:43:46+0100
   style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/m0309a.wav
-  date: 2007-12-17T11:44:00+0100
-  style: sad
 - file: ./pavoque/NachObadiah/wav/m0309.wav
   date: 2007-12-17T11:44:50+0100
-  style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/m0342a.wav
-  date: 2007-12-17T11:45:04+0100
   style: sad
 - file: ./pavoque/NachObadiah/wav/m0342.wav
   date: 2007-12-17T11:45:30+0100
   style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/m0351a.wav
-  date: 2007-12-17T11:45:46+0100
-  style: sad
 - file: ./pavoque/NachObadiah/wav/m0351.wav
   date: 2007-12-17T11:46:04+0100
-  style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/m0368a.wav
-  date: 2007-12-17T11:46:16+0100
-  style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/m0368b.wav
-  date: 2007-12-17T11:46:36+0100
   style: sad
 - file: ./pavoque/NachObadiah/wav/m0368.wav
   date: 2007-12-17T11:46:50+0100
   style: sad
 - file: ./pavoque/NachObadiah/wav/m0369.wav
   date: 2007-12-17T11:47:02+0100
-  style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/m0377a.wav
-  date: 2007-12-17T11:47:16+0100
-  style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/m0377b.wav
-  date: 2007-12-17T11:47:38+0100
   style: sad
 - file: ./pavoque/NachObadiah/wav/m0377.wav
   date: 2007-12-17T11:48:02+0100
@@ -2050,12 +1630,6 @@
 - file: ./pavoque/NachObadiah/wav/m0398.wav
   date: 2007-12-17T11:48:30+0100
   style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/obadiah0002a.wav
-  date: 2007-12-17T11:48:42+0100
-  style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/obadiah0003a.wav
-  date: 2007-12-17T11:48:56+0100
-  style: sad
 - file: ./pavoque/NachObadiah/wav/obadiah0002.wav
   date: 2007-12-17T11:49:42+0100
   style: sad
@@ -2064,12 +1638,6 @@
   style: sad
 - file: ./pavoque/NachObadiah/wav/obadiah0005.wav
   date: 2007-12-17T11:50:06+0100
-  style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/obadiah0011a.wav
-  date: 2007-12-17T11:50:16+0100
-  style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/obadiah0013a.wav
-  date: 2007-12-17T11:50:28+0100
   style: sad
 - file: ./pavoque/NachObadiah/wav/obadiah0011.wav
   date: 2007-12-17T11:51:06+0100
@@ -2104,19 +1672,10 @@
 - file: ./pavoque/NachObadiah/wav/obadiah0060.wav
   date: 2007-12-17T11:53:16+0100
   style: sad
-- file: ./pavoque/NachObadiah/wav/nonfinal/poker_d0012a.wav
-  date: 2007-12-17T11:53:26+0100
-  style: sad
 - file: ./pavoque/NachObadiah/wav/poker_d0012.wav
   date: 2007-12-17T11:53:44+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0002.wav
-  date: 2007-12-21T17:35:52+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0002b.wav
-  date: 2007-12-21T17:35:52+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0002b.wav
   date: 2007-12-21T17:35:52+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0002.wav
@@ -2152,19 +1711,10 @@
 - file: ./pavoque/StefanObadiah/wav/m0166.wav
   date: 2007-12-21T17:35:53+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0031b.wav
-  date: 2007-12-21T17:35:53+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0207.wav
   date: 2007-12-21T17:35:54+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0225.wav
-  date: 2007-12-21T17:35:54+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0207b.wav
-  date: 2007-12-21T17:35:54+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0225b.wav
   date: 2007-12-21T17:35:54+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0226.wav
@@ -2188,12 +1738,6 @@
 - file: ./pavoque/StefanObadiah/wav/m0309.wav
   date: 2007-12-21T17:35:56+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0250b.wav
-  date: 2007-12-21T17:35:56+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0309c.wav
-  date: 2007-12-21T17:35:56+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0342.wav
   date: 2007-12-21T17:35:57+0100
   style: sad
@@ -2203,28 +1747,10 @@
 - file: ./pavoque/StefanObadiah/wav/m0368.wav
   date: 2007-12-21T17:35:57+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0342b.wav
-  date: 2007-12-21T17:35:57+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0351c.wav
-  date: 2007-12-21T17:35:57+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/m0369.wav
   date: 2007-12-21T17:35:58+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0377.wav
-  date: 2007-12-21T17:35:58+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0368c.wav
-  date: 2007-12-21T17:35:58+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0368d.wav
-  date: 2007-12-21T17:35:58+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0377c.wav
-  date: 2007-12-21T17:35:58+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/m0377d.wav
   date: 2007-12-21T17:35:58+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0382.wav
@@ -2233,20 +1759,11 @@
 - file: ./pavoque/StefanObadiah/wav/m0398.wav
   date: 2007-12-21T17:35:59+0100
   style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0003b.wav
-  date: 2007-12-21T17:35:59+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0003.wav
   date: 2007-12-21T17:35:59+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0005.wav
   date: 2007-12-21T17:35:59+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0011b.wav
-  date: 2007-12-21T17:36:00+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/obadiah0013b.wav
-  date: 2007-12-21T17:36:00+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0011.wav
   date: 2007-12-21T17:36:00+0100
@@ -2271,9 +1788,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0019.wav
   date: 2007-12-21T17:36:01+0100
-  style: sad
-- file: ./pavoque/StefanObadiah/wav/nonfinal/poker_d0012b.wav
-  date: 2007-12-21T17:36:02+0100
   style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0034.wav
   date: 2007-12-21T17:36:02+0100

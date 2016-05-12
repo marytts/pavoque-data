@@ -56,7 +56,11 @@ task yaml << {
         it - [rate: it.rate] + [style: stylemap[(it.file =~ /.+\/(Stefan|Nach)(.+?)\/.+/)[0][2]]]
     }
     stylemap.values().each { style ->
-        file("pavoque-${style}.yaml").text = yaml.dump(data.findAll { it.style == style })
+        file("pavoque-${style}.yaml").text = yaml.dump(data.findAll {
+            it.style == style && !it.file.contains('nonfinal')
+        })
     }
-    assert !data.find { !it.style }
+    file("pavoque-outtakes.yaml").text = yaml.dump(data.findAll {
+        it.file.contains('nonfinal')
+    })
 }
