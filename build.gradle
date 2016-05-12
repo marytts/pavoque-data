@@ -49,7 +49,7 @@ task yaml << {
             Spike  : 'angry'
     ]
     def data = yaml.load(file('pavoque_wav.yaml').newReader()).findAll {
-        it.rate == 44100 && it.date.startsWith('2007')
+        it.rate == 44100 && it.date.startsWith('2007') && !it.file.contains('test')
     }.sort {
         it.date
     }.collect {

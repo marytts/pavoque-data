@@ -7999,9 +7999,6 @@
 - file: ./pavoque/StefanNeutral/wav/e1200.wav
   date: 2007-10-30T14:56:16+0100
   style: neutral
-- file: ./pavoque/StefanNeutral/config/test.wav
-  date: 2007-10-31T13:10:08+0100
-  style: neutral
 - file: ./pavoque/StefanNeutral/wav/e1201.wav
   date: 2007-10-31T13:13:16+0100
   style: neutral
@@ -8964,12 +8961,6 @@
   style: neutral
 - file: ./pavoque/StefanNeutral/wav/prudence0111.wav
   date: 2007-10-31T15:20:40+0100
-  style: neutral
-- file: ./pavoque/NachNeutral/test.wav
-  date: 2007-12-14T15:15:36+0100
-  style: neutral
-- file: ./pavoque/NachNeutral/config/test.wav
-  date: 2007-12-17T09:50:00+0100
   style: neutral
 - file: ./pavoque/NachNeutral/wav/a0027.wav
   date: 2007-12-17T09:51:12+0100

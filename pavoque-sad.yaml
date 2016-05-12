@@ -1,6 +1,3 @@
-- file: ./pavoque/StefanObadiah/config/test.wav
-  date: 2007-11-02T13:24:20+0100
-  style: sad
 - file: ./pavoque/StefanObadiah/wav/obadiah0001.wav
   date: 2007-11-02T13:31:22+0100
   style: sad
@@ -1542,12 +1539,6 @@
   style: sad
 - file: ./pavoque/StefanObadiah/wav/m0249.wav
   date: 2007-11-05T13:36:00+0100
-  style: sad
-- file: ./pavoque/NachObadiah/test.wav
-  date: 2007-12-14T15:15:46+0100
-  style: sad
-- file: ./pavoque/NachObadiah/config/test.wav
-  date: 2007-12-17T11:38:42+0100
   style: sad
 - file: ./pavoque/NachObadiah/wav/m0002.wav
   date: 2007-12-17T11:39:46+0100
