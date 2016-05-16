@@ -47,9 +47,49 @@ subprojects {
 }
 
 task yaml << {
-    def options = new DumperOptions()
-    options.defaultFlowStyle = DumperOptions.FlowStyle.BLOCK
-    def yaml = new Yaml(options)
+    def yaml = new Yaml()
+    def stylemap = [
+            Neutral: 'neutral',
+            Poker  : 'poker',
+            Poppy  : 'happy',
+            Obadiah: 'sad',
+            Spike  : 'angry'
+    ]
+    def data = []
+    yamlFiles.findAll { it.name != 'pavoque-outtakes.yaml' }.each { yamlFile ->
+        data += yaml.load(yamlFile.newReader())
+    }
+    file('ManualLabels').eachDir { dir ->
+        dir.eachFileMatch(~/.*.lab/) { file ->
+            def prompt = file.name - '.lab'
+            def style = stylemap[dir.name]
+            def start = 0
+            def lines = []
+            def header = true
+            file.eachLine { line ->
+                switch (line) {
+                    case ~/^#/:
+                        header = false
+                        break
+                    default:
+                        if (!header) {
+                            lines << line
+                        }
+                        break
+                }
+            }
+            def segments = lines.collect { line ->
+                def fields = line.trim().split(/\s+/)
+                def label = fields.length < 3 ? '' : fields.drop(2).join('')
+                def end = fields.first().toFloat()
+                [lab: label, end: end]
+            }
+            data.find { it.prompt == prompt && it.style == style }.segments = segments
+        }
+    }
+    styles.each { style ->
+        yaml.dump(data.findAll { it.style == style }, file("pavoque-${style}.yaml").newWriter())
+    }
 }
 
 task text {
