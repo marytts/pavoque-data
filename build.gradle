@@ -41,26 +41,11 @@ task yaml << {
     def options = new DumperOptions()
     options.defaultFlowStyle = DumperOptions.FlowStyle.BLOCK
     def yaml = new Yaml(options)
-    def stylemap = [
-            Neutral: 'neutral',
-            Poker  : 'poker',
-            Poppy  : 'happy',
-            Obadiah: 'sad',
-            Spike  : 'angry'
-    ]
-    def data = yaml.load(file('pavoque_wav.yaml').newReader()).findAll {
-        it.rate == 44100 && it.date.startsWith('2007') && !(it.file =~ /(test|Nach)/)
-    }.sort {
-        it.date
-    }.collect {
-        [prompt: it.file.split('/')[-1] - '.wav'] + it - [rate: it.rate] + [style: stylemap[(it.file =~ /\/Stefan(.+?)\//)[0][1]]]
+    ['angry', 'happy', 'neutral', 'outtakes', 'poker', 'sad'].each { style ->
+        def yamlFile = file("pavoque-${style}.yaml")
+        def data = yaml.load(yamlFile.newReader()).collect {
+            it + [text: file("Text/${it.prompt - ~/[a-z]$/}.txt").text.trim()]
+        }
+        yaml.dump data, yamlFile.newWriter()
     }
-    stylemap.values().each { style ->
-        file("pavoque-${style}.yaml").text = yaml.dump(data.findAll {
-            it.style == style && !it.file.contains('nonfinal')
-        })
-    }
-    file("pavoque-outtakes.yaml").text = yaml.dump(data.findAll {
-        it.file.contains('nonfinal')
-    })
 }
