@@ -1,1 +1,0 @@
-Die Karten müssen einzeln und reihum ausgegeben werden.

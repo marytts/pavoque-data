@@ -1,1 +1,0 @@
-Oder kürzer: "Ist jeder planare Graph vier färbbar?"
