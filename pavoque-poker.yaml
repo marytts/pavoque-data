@@ -2,2299 +2,2876 @@
   file: ./pavoque/StefanPoker/wav/poker_n0010.wav
   date: 2007-10-29T09:54:14+0100
   style: poker
+  text: Sind die Karten auch ordentlich gemischt?
 - prompt: poker_n0011
   file: ./pavoque/StefanPoker/wav/poker_n0011.wav
   date: 2007-10-29T09:54:22+0100
   style: poker
+  text: Beim Austeilen sind Sie nicht gerade der Schnellste.
 - prompt: poker_n0012
   file: ./pavoque/StefanPoker/wav/poker_n0012.wav
   date: 2007-10-29T09:54:46+0100
   style: poker
+  text: Beim Austeilen sind Sie nicht gerade die Schnellste.
 - prompt: poker_n0013
   file: ./pavoque/StefanPoker/wav/poker_n0013.wav
   date: 2007-10-29T09:54:54+0100
   style: poker
+  text: Ich hoffe, ich kriege diesmal ein vernünftiges Blatt.
 - prompt: poker_n0014
   file: ./pavoque/StefanPoker/wav/poker_n0014.wav
   date: 2007-10-29T09:55:02+0100
   style: poker
+  text: Die Frau hat ja ganz schön flinke Hände.
 - prompt: poker_n0015
   file: ./pavoque/StefanPoker/wav/poker_n0015.wav
   date: 2007-10-29T09:55:08+0100
   style: poker
+  text: Der Kerl hat ja ganz schön flinke Hände.
 - prompt: poker_n0001
   file: ./pavoque/StefanPoker/wav/poker_n0001.wav
   date: 2007-10-29T09:57:26+0100
   style: poker
+  text: Hallo. Schön, dass Sie Zeit für ein Spielchen haben.
 - prompt: poker_n0002
   file: ./pavoque/StefanPoker/wav/poker_n0002.wav
   date: 2007-10-29T09:57:34+0100
   style: poker
+  text: Mein Kumpel und ich haben uns schon ein wenig gelangweilt.
 - prompt: poker_n0003
   file: ./pavoque/StefanPoker/wav/poker_n0003.wav
   date: 2007-10-29T09:57:52+0100
   style: poker
+  text: Zu zweit macht Poker einfach keinen Spaß.
 - prompt: poker_n0005
   file: ./pavoque/StefanPoker/wav/poker_n0005.wav
   date: 2007-10-29T09:58:18+0100
   style: poker
+  text: Der Mindesteinsatz liegt bei fünf, der Höchsteinsatz bei fünfzig.
 - prompt: poker_n0006
   file: ./pavoque/StefanPoker/wav/poker_n0006.wav
   date: 2007-10-29T09:58:26+0100
   style: poker
+  text: Es dürfen nach der ersten Wettrunde maximal drei Karten getauscht werden.
 - prompt: poker_n0007
   file: ./pavoque/StefanPoker/wav/poker_n0007.wav
   date: 2007-10-29T09:58:32+0100
   style: poker
+  text: Sie übernehmen die Rolle des Gebers.
 - prompt: poker_n0008
   file: ./pavoque/StefanPoker/wav/poker_n0008.wav
   date: 2007-10-29T09:58:40+0100
   style: poker
+  text: Die Karten müssen einzeln reihum ausgegeben werden.
 - prompt: poker_n0016
   file: ./pavoque/StefanPoker/wav/poker_n0016.wav
   date: 2007-10-29T09:59:16+0100
   style: poker
+  text: Der Kerl lässt sich mit dem Austeilen ja ganz schön viel Zeit.
 - prompt: poker_n0017
   file: ./pavoque/StefanPoker/wav/poker_n0017.wav
   date: 2007-10-29T09:59:24+0100
   style: poker
+  text: Die Frau lässt sich mit dem Austeilen ja ganz schön viel Zeit.
 - prompt: poker_n0018
   file: ./pavoque/StefanPoker/wav/poker_n0018.wav
   date: 2007-10-29T09:59:32+0100
   style: poker
+  text: Wenn das in dem Tempo weitergeht, spielen wir die erste Partie um Mitternacht.
 - prompt: poker_n0019
   file: ./pavoque/StefanPoker/wav/poker_n0019.wav
   date: 2007-10-29T09:59:40+0100
   style: poker
+  text: Ich glaube wir haben hier ein Naturtalent.
 - prompt: poker_n0020
   file: ./pavoque/StefanPoker/wav/poker_n0020.wav
   date: 2007-10-29T09:59:48+0100
   style: poker
+  text: Jemand mit so flinken Händen habe ich ja noch nie erlebt.
 - prompt: poker_n0021
   file: ./pavoque/StefanPoker/wav/poker_n0021.wav
   date: 2007-10-29T09:59:54+0100
   style: poker
+  text: Meinst Du unser Geber ist eingeschlafen?
 - prompt: poker_n0022
   file: ./pavoque/StefanPoker/wav/poker_n0022.wav
   date: 2007-10-29T10:00:02+0100
   style: poker
+  text: Meinst Du unsere Geberin ist eingeschlafen?
 - prompt: poker_n0023
   file: ./pavoque/StefanPoker/wav/poker_n0023.wav
   date: 2007-10-29T10:00:42+0100
   style: poker
+  text: Also mit einer Karte kann ich nicht anfangen!
 - prompt: poker_n0024
   file: ./pavoque/StefanPoker/wav/poker_n0024.wav
   date: 2007-10-29T10:00:50+0100
   style: poker
+  text: Also mit zwei Karten kann ich nicht anfangen!
 - prompt: poker_n0026
   file: ./pavoque/StefanPoker/wav/poker_n0026.wav
   date: 2007-10-29T10:01:04+0100
   style: poker
+  text: Also mit vier Karten kann ich nicht anfangen!
 - prompt: poker_n0027
   file: ./pavoque/StefanPoker/wav/poker_n0027.wav
   date: 2007-10-29T10:01:12+0100
   style: poker
+  text: Was ist los? Wo bleibt die nächste Karte?
 - prompt: poker_n0028
   file: ./pavoque/StefanPoker/wav/poker_n0028.wav
   date: 2007-10-29T10:01:20+0100
   style: poker
+  text: Die Karten müssen einzeln und reihum ausgegeben werden.
 - prompt: poker_n0029
   file: ./pavoque/StefanPoker/wav/poker_n0029.wav
   date: 2007-10-29T10:01:28+0100
   style: poker
+  text: Sammeln Sie alle Karten ein und teilen Sie bitte noch mal neu aus.
 - prompt: poker_n0031
   file: ./pavoque/StefanPoker/wav/poker_n0031.wav
   date: 2007-10-29T10:01:38+0100
   style: poker
+  text: Ich setze fünf.
 - prompt: poker_n0032
   file: ./pavoque/StefanPoker/wav/poker_n0032.wav
   date: 2007-10-29T10:01:52+0100
   style: poker
+  text: Ich setze alles!
 - prompt: poker_n0033
   file: ./pavoque/StefanPoker/wav/poker_n0033.wav
   date: 2007-10-29T10:01:58+0100
   style: poker
+  text: Ich bringe zwanzig.
 - prompt: poker_n0035
   file: ./pavoque/StefanPoker/wav/poker_n0035.wav
   date: 2007-10-29T10:02:10+0100
   style: poker
+  text: Ich gehe auf’s Ganze und setze fünfzig.
 - prompt: poker_n0036
   file: ./pavoque/StefanPoker/wav/poker_n0036.wav
   date: 2007-10-29T10:02:14+0100
   style: poker
+  text: Ich gehe mit.
 - prompt: poker_n0037
   file: ./pavoque/StefanPoker/wav/poker_n0037.wav
   date: 2007-10-29T10:02:20+0100
   style: poker
+  text: Gehe mit.
 - prompt: poker_n0038
   file: ./pavoque/StefanPoker/wav/poker_n0038.wav
   date: 2007-10-29T10:02:24+0100
   style: poker
+  text: Ich halte.
 - prompt: poker_n0039
   file: ./pavoque/StefanPoker/wav/poker_n0039.wav
   date: 2007-10-29T10:02:30+0100
   style: poker
+  text: Den Einsatz halte ich.
 - prompt: poker_n0040
   file: ./pavoque/StefanPoker/wav/poker_n0040.wav
   date: 2007-10-29T10:02:36+0100
   style: poker
+  text: Ich bin dabei.
 - prompt: poker_n0041
   file: ./pavoque/StefanPoker/wav/poker_n0041.wav
   date: 2007-10-29T10:02:40+0100
   style: poker
+  text: Bin dabei.
 - prompt: poker_n0042
   file: ./pavoque/StefanPoker/wav/poker_n0042.wav
   date: 2007-10-29T10:02:48+0100
   style: poker
+  text: Ich halte und erhöhe um weitere fünf.
 - prompt: poker_n0043
   file: ./pavoque/StefanPoker/wav/poker_n0043.wav
   date: 2007-10-29T10:02:54+0100
   style: poker
+  text: Ich gehe mit und erhöhe um weitere zehn.
 - prompt: poker_n0044
   file: ./pavoque/StefanPoker/wav/poker_n0044.wav
   date: 2007-10-29T10:03:00+0100
   style: poker
+  text: Ich bringe weitere zwanzig.
 - prompt: poker_n0046
   file: ./pavoque/StefanPoker/wav/poker_n0046.wav
   date: 2007-10-29T10:03:12+0100
   style: poker
+  text: Ich steige aus.
 - prompt: poker_n0047
   file: ./pavoque/StefanPoker/wav/poker_n0047.wav
   date: 2007-10-29T10:03:18+0100
   style: poker
+  text: Ich passe.
 - prompt: poker_n0049
   file: ./pavoque/StefanPoker/wav/poker_n0049.wav
   date: 2007-10-29T10:03:28+0100
   style: poker
+  text: Ich bin raus!
 - prompt: poker_n0050
   file: ./pavoque/StefanPoker/wav/poker_n0050.wav
   date: 2007-10-29T10:03:32+0100
   style: poker
+  text: Das war’s für mich.
 - prompt: poker_n0051
   file: ./pavoque/StefanPoker/wav/poker_n0051.wav
   date: 2007-10-29T10:03:38+0100
   style: poker
+  text: Macht ohne mich weiter.
 - prompt: poker_n0052
   file: ./pavoque/StefanPoker/wav/poker_n0052.wav
   date: 2007-10-29T10:03:44+0100
   style: poker
+  text: Verdammt, ich muss passen!
 - prompt: poker_n0053
   file: ./pavoque/StefanPoker/wav/poker_n0053.wav
   date: 2007-10-29T10:03:52+0100
   style: poker
+  text: Bei dem Einsatz muss ich passen.
 - prompt: poker_n0054
   file: ./pavoque/StefanPoker/wav/poker_n0054.wav
   date: 2007-10-29T10:03:58+0100
   style: poker
+  text: Da kann ich nicht mithalten.
 - prompt: poker_n0055
   file: ./pavoque/StefanPoker/wav/poker_n0055.wav
   date: 2007-10-29T10:04:04+0100
   style: poker
+  text: Das Spiel müsst ihr unter euch ausmachen.
 - prompt: poker_n0056
   file: ./pavoque/StefanPoker/wav/poker_n0056.wav
   date: 2007-10-29T10:04:10+0100
   style: poker
+  text: 'Auch wenn’s weh tut: Ich steige aus.'
 - prompt: poker_n0057
   file: ./pavoque/StefanPoker/wav/poker_n0057.wav
   date: 2007-10-29T10:04:16+0100
   style: poker
+  text: Ich will eine neue Karte.
 - prompt: poker_n0058
   file: ./pavoque/StefanPoker/wav/poker_n0058.wav
   date: 2007-10-29T10:04:22+0100
   style: poker
+  text: Ich will zwei neue Karten.
 - prompt: poker_n0059
   file: ./pavoque/StefanPoker/wav/poker_n0059.wav
   date: 2007-10-29T10:04:28+0100
   style: poker
+  text: Ich will drei neue Karten.
 - prompt: poker_n0060
   file: ./pavoque/StefanPoker/wav/poker_n0060.wav
   date: 2007-10-29T10:04:34+0100
   style: poker
+  text: Geben Sie mir eine neue Karte.
 - prompt: poker_n0061
   file: ./pavoque/StefanPoker/wav/poker_n0061.wav
   date: 2007-10-29T10:04:42+0100
   style: poker
+  text: Geben Sie mir zwei neue Karten.
 - prompt: poker_n0062
   file: ./pavoque/StefanPoker/wav/poker_n0062.wav
   date: 2007-10-29T10:04:48+0100
   style: poker
+  text: Geben Sie mir drei neue Karten.
 - prompt: poker_n0063
   file: ./pavoque/StefanPoker/wav/poker_n0063.wav
   date: 2007-10-29T10:04:54+0100
   style: poker
+  text: Ich behalte meine Karten.
 - prompt: poker_n0065
   file: ./pavoque/StefanPoker/wav/poker_n0065.wav
   date: 2007-10-29T10:05:06+0100
   style: poker
+  text: Ich brauche keine neuen Karten.
 - prompt: poker_n0066
   file: ./pavoque/StefanPoker/wav/poker_n0066.wav
   date: 2007-10-29T10:05:14+0100
   style: poker
+  text: Danke. Ich bin zufrieden mit dem was ich auf der Hand habe.
 - prompt: poker_n0067
   file: ./pavoque/StefanPoker/wav/poker_n0067.wav
   date: 2007-10-29T10:05:18+0100
   style: poker
+  text: Showdown!
 - prompt: poker_n0068
   file: ./pavoque/StefanPoker/wav/poker_n0068.wav
   date: 2007-10-29T10:05:24+0100
   style: poker
+  text: Ich will sehen!
 - prompt: poker_n0069
   file: ./pavoque/StefanPoker/wav/poker_n0069.wav
   date: 2007-10-29T10:05:30+0100
   style: poker
+  text: Dann deckt mal eure Karten auf!
 - prompt: poker_n0070
   file: ./pavoque/StefanPoker/wav/poker_n0070.wav
   date: 2007-10-29T10:05:36+0100
   style: poker
+  text: Dann lasst mal sehen!
 - prompt: poker_n0071
   file: ./pavoque/StefanPoker/wav/poker_n0071.wav
   date: 2007-10-29T10:09:04+0100
   style: poker
+  text: Dann legt mal eure Karten auf den Tisch.
 - prompt: poker_n0072
   file: ./pavoque/StefanPoker/wav/poker_n0072.wav
   date: 2007-10-29T10:09:10+0100
   style: poker
+  text: Zeigt her, was ihr auf der Hand habt.
 - prompt: poker_n0073
   file: ./pavoque/StefanPoker/wav/poker_n0073.wav
   date: 2007-10-29T10:09:18+0100
   style: poker
+  text: Ich habe ein Paar. Was ist mit Euch?
 - prompt: poker_n0074
   file: ./pavoque/StefanPoker/wav/poker_n0074.wav
   date: 2007-10-29T10:09:40+0100
   style: poker
+  text: Ich hab ein Pärchen. Wie steht's mit Euch?
 - prompt: poker_n0075
   file: ./pavoque/StefanPoker/wav/poker_n0075.wav
   date: 2007-10-29T10:10:02+0100
   style: poker
+  text: Ich hab zwei Paare. Wie sieht es mit Euch aus?
 - prompt: poker_n0076
   file: ./pavoque/StefanPoker/wav/poker_n0076.wav
   date: 2007-10-29T10:10:08+0100
   style: poker
+  text: Ich habe zwei Pärchen. Was ist mit Euch?
 - prompt: poker_n0077
   file: ./pavoque/StefanPoker/wav/poker_n0077.wav
   date: 2007-10-29T10:10:16+0100
   style: poker
+  text: Ich hab nen Drilling. Wie steht's mit Euch?
 - prompt: poker_n0078
   file: ./pavoque/StefanPoker/wav/poker_n0078.wav
   date: 2007-10-29T10:10:24+0100
   style: poker
+  text: Ich habe drei Gleiche. Wie sieht es mit Euch aus?
 - prompt: poker_n0079
   file: ./pavoque/StefanPoker/wav/poker_n0079.wav
   date: 2007-10-29T10:11:36+0100
   style: poker
+  text: Ich habe einen Straight. Was ist mit Euch?
 - prompt: poker_n0080
   file: ./pavoque/StefanPoker/wav/poker_n0080.wav
   date: 2007-10-29T10:11:44+0100
   style: poker
+  text: Ich hab eine Straße.Wie steht's mit Euch?
 - prompt: poker_n0081
   file: ./pavoque/StefanPoker/wav/poker_n0081.wav
   date: 2007-10-29T10:12:04+0100
   style: poker
+  text: Ich habe ein Flush. Wie sieht es mit Euch aus?
 - prompt: poker_n0082
   file: ./pavoque/StefanPoker/wav/poker_n0082.wav
   date: 2007-10-29T10:12:10+0100
   style: poker
+  text: Ich hab ein Full House. Was ist mit Euch?
 - prompt: poker_n0083
   file: ./pavoque/StefanPoker/wav/poker_n0083.wav
   date: 2007-10-29T10:12:18+0100
   style: poker
+  text: Ich habe einen Vierling. Wie steht's mit Euch?
 - prompt: poker_n0084
   file: ./pavoque/StefanPoker/wav/poker_n0084.wav
   date: 2007-10-29T10:12:24+0100
   style: poker
+  text: Ich hab vier Gleiche. Wie sieht es mit Euch aus?
 - prompt: poker_n0085
   file: ./pavoque/StefanPoker/wav/poker_n0085.wav
   date: 2007-10-29T10:12:32+0100
   style: poker
+  text: Ich habe ein Straight Flush. Was ist mit Euch?
 - prompt: poker_n0086
   file: ./pavoque/StefanPoker/wav/poker_n0086.wav
   date: 2007-10-29T10:12:40+0100
   style: poker
+  text: Ich habe ein Royal Flush. Wie steht's mit Euch?
 - prompt: poker_n0087
   file: ./pavoque/StefanPoker/wav/poker_n0087.wav
   date: 2007-10-29T10:12:46+0100
   style: poker
+  text: Die höchste Beikarte ist mein Pik Ass.
 - prompt: m0001
   file: ./pavoque/StefanPoker/wav/m0001.wav
   date: 2007-10-29T10:13:32+0100
   style: poker
+  text: Faye Dunaway war zweimal verheiratet.
 - prompt: m0002
   file: ./pavoque/StefanPoker/wav/m0002.wav
   date: 2007-10-29T10:13:40+0100
   style: poker
+  text: Ägyptologie, Pharao, Fluch des Pharao.
 - prompt: m0003
   file: ./pavoque/StefanPoker/wav/m0003.wav
   date: 2007-10-29T10:13:56+0100
   style: poker
+  text: Pfauen sind polygame Vögel.
 - prompt: m0004
   file: ./pavoque/StefanPoker/wav/m0004.wav
   date: 2007-10-29T10:14:02+0100
   style: poker
+  text: Framework drei Punkt null.
 - prompt: m0005
   file: ./pavoque/StefanPoker/wav/m0005.wav
   date: 2007-10-29T10:14:08+0100
   style: poker
+  text: 'Als Interieur bezeichnet man:'
 - prompt: m0006
   file: ./pavoque/StefanPoker/wav/m0006.wav
   date: 2007-10-29T10:14:36+0100
   style: poker
+  text: Mit Paul Rutherford und John Stevens.
 - prompt: m0007
   file: ./pavoque/StefanPoker/wav/m0007.wav
   date: 2007-10-29T10:14:42+0100
   style: poker
+  text: t - Grand Menhir Brisé;
 - prompt: m0008
   file: ./pavoque/StefanPoker/wav/m0008.wav
   date: 2007-10-29T10:14:50+0100
   style: poker
+  text: Ein wöchentliches Engagement im Club folgte.
 - prompt: m0009
   file: ./pavoque/StefanPoker/wav/m0009.wav
   date: 2007-10-29T10:14:58+0100
   style: poker
+  text: Alle Verfilmungen basieren auf dem Roman von Alexandre Dumas.
 - prompt: m0010
   file: ./pavoque/StefanPoker/wav/m0010.wav
   date: 2007-10-29T10:15:04+0100
   style: poker
+  text: Und ganz Israel trieb dort damit Abgötterei.
 - prompt: m0011
   file: ./pavoque/StefanPoker/wav/m0011.wav
   date: 2007-10-29T10:15:12+0100
   style: poker
+  text: Carmen bleibt mit José zurück.
 - prompt: m0012
   file: ./pavoque/StefanPoker/wav/m0012.wav
   date: 2007-10-29T10:15:18+0100
   style: poker
+  text: Alan Iljitsch Dudajew, russisch;
 - prompt: m0013
   file: ./pavoque/StefanPoker/wav/m0013.wav
   date: 2007-10-29T10:15:26+0100
   style: poker
+  text: Sie lehnte ebenso ab wie Vivien Leigh und Katharine Hepburn.
 - prompt: m0014
   file: ./pavoque/StefanPoker/wav/m0014.wav
   date: 2007-10-29T10:15:32+0100
   style: poker
+  text: Dieses Vakuum füllte Magnus aus.
 - prompt: m0015
   file: ./pavoque/StefanPoker/wav/m0015.wav
   date: 2007-10-29T10:15:38+0100
   style: poker
+  text: Die kroatische Polizei blieb passiv.
 - prompt: m0017
   file: ./pavoque/StefanPoker/wav/m0017.wav
   date: 2007-10-29T10:16:24+0100
   style: poker
+  text: 'Kaiserreich China: Römisches Reich:'
 - prompt: m0018
   file: ./pavoque/StefanPoker/wav/m0018.wav
   date: 2007-10-29T10:16:30+0100
   style: poker
+  text: Es bildet keine Hydrate.
 - prompt: m0019
   file: ./pavoque/StefanPoker/wav/m0019.wav
   date: 2007-10-29T10:16:36+0100
   style: poker
+  text: Verlangte dafür allerdings Tantiemen.
 - prompt: m0020
   file: ./pavoque/StefanPoker/wav/m0020.wav
   date: 2007-10-29T10:16:42+0100
   style: poker
+  text: 'Der Begriff Teamwork bezeichnet:'
 - prompt: m0021
   file: ./pavoque/StefanPoker/wav/m0021.wav
   date: 2007-10-29T10:16:48+0100
   style: poker
+  text: Der Schmuggel mit Öl blüht.
 - prompt: m0023
   file: ./pavoque/StefanPoker/wav/m0023.wav
   date: 2007-10-29T10:17:02+0100
   style: poker
+  text: Er hat eine jüngere Schwester, Diane.
 - prompt: m0025
   file: ./pavoque/StefanPoker/wav/m0025.wav
   date: 2007-10-29T10:17:14+0100
   style: poker
+  text: Green trat in den Ruhestand.
 - prompt: m0026
   file: ./pavoque/StefanPoker/wav/m0026.wav
   date: 2007-10-29T10:17:20+0100
   style: poker
+  text: Dieser Bau ist zweistöckig.
 - prompt: m0027
   file: ./pavoque/StefanPoker/wav/m0027.wav
   date: 2007-10-29T10:17:28+0100
   style: poker
+  text: Meist wird er Steve Redgrave genannt.
 - prompt: m0028
   file: ./pavoque/StefanPoker/wav/m0028.wav
   date: 2007-10-29T10:17:34+0100
   style: poker
+  text: Königin Elizabeths Schlüssel.
 - prompt: m0029
   file: ./pavoque/StefanPoker/wav/m0029.wav
   date: 2007-10-29T10:17:40+0100
   style: poker
+  text: Oft wird Gefängnis Jargon benutzt.
 - prompt: m0022
   file: ./pavoque/StefanPoker/wav/m0022.wav
   date: 2007-10-29T10:19:34+0100
   style: poker
+  text: Prinz Johann von Frankreich, französisch Jean de Berry;
 - prompt: m0030
   file: ./pavoque/StefanPoker/wav/m0030.wav
   date: 2007-10-29T10:20:06+0100
   style: poker
+  text: Er studierte die Werke Plutarchs, Shakespeares, Voltaires, Rousseaus und Goethes.
 - prompt: m0031
   file: ./pavoque/StefanPoker/wav/m0031.wav
   date: 2007-10-29T10:20:12+0100
   style: poker
+  text: Bei Magdeburg liegt der Flugplatz Magdeburg.
 - prompt: m0032
   file: ./pavoque/StefanPoker/wav/m0032.wav
   date: 2007-10-29T10:20:22+0100
   style: poker
+  text: Ein Fahrzeug manövriert, indem es ein Manöver fährt beziehungsweise fliegt.
 - prompt: m0033
   file: ./pavoque/StefanPoker/wav/m0033.wav
   date: 2007-10-29T10:20:42+0100
   style: poker
+  text: Champions League Sieger zwei Tausend eins;
 - prompt: m0034
   file: ./pavoque/StefanPoker/wav/m0034.wav
   date: 2007-10-29T10:20:50+0100
   style: poker
+  text: Der Senator billigt die Deutsch Pflicht auf Schulhöfen.
 - prompt: m0035
   file: ./pavoque/StefanPoker/wav/m0035.wav
   date: 2007-10-29T10:20:56+0100
   style: poker
+  text: Die Hauptrolle übernahm Jeffrey Wright.
 - prompt: m0036
   file: ./pavoque/StefanPoker/wav/m0036.wav
   date: 2007-10-29T10:21:04+0100
   style: poker
+  text: Anekdote Heinz Damian, Club Kassier.
 - prompt: m0037
   file: ./pavoque/StefanPoker/wav/m0037.wav
   date: 2007-10-29T10:21:36+0100
   style: poker
+  text: Warren starb in Washington.
 - prompt: m0038
   file: ./pavoque/StefanPoker/wav/m0038.wav
   date: 2007-10-29T10:21:42+0100
   style: poker
+  text: Das Pendant dazu ist eine Scheibe;
 - prompt: m0039
   file: ./pavoque/StefanPoker/wav/m0039.wav
   date: 2007-10-29T10:21:50+0100
   style: poker
+  text: Einige Schüler gründen diesen Club neu.
 - prompt: m0040
   file: ./pavoque/StefanPoker/wav/m0040.wav
   date: 2007-10-29T10:21:56+0100
   style: poker
+  text: 'Alain Robert: Mit nackten Händen.'
 - prompt: m0041
   file: ./pavoque/StefanPoker/wav/m0041.wav
   date: 2007-10-29T10:22:02+0100
   style: poker
+  text: Kiew wird von drei Flughäfen bedient.
 - prompt: m0042
   file: ./pavoque/StefanPoker/wav/m0042.wav
   date: 2007-10-29T10:22:08+0100
   style: poker
+  text: Das ist genau Russells Paradoxon.
 - prompt: m0043
   file: ./pavoque/StefanPoker/wav/m0043.wav
   date: 2007-10-29T10:22:16+0100
   style: poker
+  text: Doch Lübben hat noch mehr zu bieten.
 - prompt: m0044
   file: ./pavoque/StefanPoker/wav/m0044.wav
   date: 2007-10-29T10:22:22+0100
   style: poker
+  text: Es entsteht eine Zyanose.
 - prompt: m0045
   file: ./pavoque/StefanPoker/wav/m0045.wav
   date: 2007-10-29T10:22:28+0100
   style: poker
+  text: 'Kooperationen bestehen mit:'
 - prompt: m0046
   file: ./pavoque/StefanPoker/wav/m0046.wav
   date: 2007-10-29T10:23:14+0100
   style: poker
+  text: 'Als Punch bezeichnet man:'
 - prompt: m0049
   file: ./pavoque/StefanPoker/wav/m0049.wav
   date: 2007-10-29T10:23:34+0100
   style: poker
+  text: Viele Arten blühen nachts.
 - prompt: m0050
   file: ./pavoque/StefanPoker/wav/m0050.wav
   date: 2007-10-29T10:23:56+0100
   style: poker
+  text: Aus dieser Ehe ging Paul Gauguin hervor.
 - prompt: m0051
   file: ./pavoque/StefanPoker/wav/m0051.wav
   date: 2007-10-29T10:24:02+0100
   style: poker
+  text: Radio China International;
 - prompt: m0053
   file: ./pavoque/StefanPoker/wav/m0053.wav
   date: 2007-10-29T10:24:14+0100
   style: poker
+  text: Daher wechselte er zum Cello.
 - prompt: m0054
   file: ./pavoque/StefanPoker/wav/m0054.wav
   date: 2007-10-29T10:24:20+0100
   style: poker
+  text: Das Libretto schrieb Samuel Humphreys.
 - prompt: m0055
   file: ./pavoque/StefanPoker/wav/m0055.wav
   date: 2007-10-29T10:24:28+0100
   style: poker
+  text: Außerdem ist er Mitglied der Sachbuch Jury der Süddeutschen Zeitung.
 - prompt: m0052
   file: ./pavoque/StefanPoker/wav/m0052.wav
   date: 2007-10-29T10:25:14+0100
   style: poker
+  text: 'Seht nur diesen Drake: Wer ist er?'
 - prompt: m0056
   file: ./pavoque/StefanPoker/wav/m0056.wav
   date: 2007-10-29T10:25:32+0100
   style: poker
+  text: Gebaut werden die Häuser von der Bayreuther Baufirma.
 - prompt: m0057
   file: ./pavoque/StefanPoker/wav/m0057.wav
   date: 2007-10-29T10:25:40+0100
   style: poker
+  text: Wir löschen die Bourgeoisie als Klasse aus.
 - prompt: m0058
   file: ./pavoque/StefanPoker/wav/m0058.wav
   date: 2007-10-29T10:25:46+0100
   style: poker
+  text: Schon bald wird Justine anonym verlegt.
 - prompt: m0059
   file: ./pavoque/StefanPoker/wav/m0059.wav
   date: 2007-10-29T10:25:54+0100
   style: poker
+  text: Sie steht bei Neuwied, Rheinland Pfalz.
 - prompt: m0060
   file: ./pavoque/StefanPoker/wav/m0060.wav
   date: 2007-10-29T10:26:00+0100
   style: poker
+  text: George Green, Hermann Grassmann.
 - prompt: m0061
   file: ./pavoque/StefanPoker/wav/m0061.wav
   date: 2007-10-29T10:26:06+0100
   style: poker
+  text: 'Der Begriff Byzanz bezeichnet:'
 - prompt: m0062
   file: ./pavoque/StefanPoker/wav/m0062.wav
   date: 2007-10-29T10:26:12+0100
   style: poker
+  text: Ilja Michailowitsch Frank, russisch;
 - prompt: m0063
   file: ./pavoque/StefanPoker/wav/m0063.wav
   date: 2007-10-29T10:26:20+0100
   style: poker
+  text: Sie existieren nicht. Gezeichnet Churchill.
 - prompt: m0064
   file: ./pavoque/StefanPoker/wav/m0064.wav
   date: 2007-10-29T10:26:26+0100
   style: poker
+  text: Satin Lux Farbe entspricht dem Lux Kaninchen.
 - prompt: m0065
   file: ./pavoque/StefanPoker/wav/m0065.wav
   date: 2007-10-29T10:26:32+0100
   style: poker
+  text: Er ist heute obsolet.
 - prompt: m0066
   file: ./pavoque/StefanPoker/wav/m0066.wav
   date: 2007-10-29T10:27:10+0100
   style: poker
+  text: Jedoch muss der Angreifer die Bluetooth Adresse eines verbundenen Bluetooth Moduls kennen.
 - prompt: m0067
   file: ./pavoque/StefanPoker/wav/m0067.wav
   date: 2007-10-29T10:27:20+0100
   style: poker
+  text: Des weiteren gab es die Ausstellung" Hommage á Chagall" im Pariser Grand Palais.
 - prompt: m0068
   file: ./pavoque/StefanPoker/wav/m0068.wav
   date: 2007-10-29T10:27:36+0100
   style: poker
+  text: Der Cancan galt als wild, anstößig und obszön.
 - prompt: m0069
   file: ./pavoque/StefanPoker/wav/m0069.wav
   date: 2007-10-29T10:27:46+0100
   style: poker
+  text: Der Philosoph Jean Jacques Rousseau ist einer ihrer prominenten Vertreter.
 - prompt: m0070
   file: ./pavoque/StefanPoker/wav/m0070.wav
   date: 2007-10-29T10:28:12+0100
   style: poker
+  text: Man nannte das Werk auch das" Buch Rogers" und das" Roger Buch".
 - prompt: m0071
   file: ./pavoque/StefanPoker/wav/m0071.wav
   date: 2007-10-29T10:28:30+0100
   style: poker
+  text: 'Als Mäander (griechisch) bezeichnet man:'
 - prompt: m0072
   file: ./pavoque/StefanPoker/wav/m0072.wav
   date: 2007-10-29T10:28:36+0100
   style: poker
+  text: Döbel hatte kein eigenes Gotteshaus.
 - prompt: m0073
   file: ./pavoque/StefanPoker/wav/m0073.wav
   date: 2007-10-29T10:28:44+0100
   style: poker
+  text: Für die Abkürzungen siehe Statistik (Baseball).
 - prompt: m0074
   file: ./pavoque/StefanPoker/wav/m0074.wav
   date: 2007-10-29T10:29:28+0100
   style: poker
+  text: Weitere Bands dieses Sub Genres waren;
 - prompt: m0075
   file: ./pavoque/StefanPoker/wav/m0075.wav
   date: 2007-10-29T10:29:34+0100
   style: poker
+  text: Sie ist außerhalb Chinas kaum bekannt.
 - prompt: m0076
   file: ./pavoque/StefanPoker/wav/m0076.wav
   date: 2007-10-29T10:29:42+0100
   style: poker
+  text: Dieser fand sich mit Präsident Theodore Roosevelt.
 - prompt: m0077
   file: ./pavoque/StefanPoker/wav/m0077.wav
   date: 2007-10-29T10:29:48+0100
   style: poker
+  text: So wuchs der Käse Schicht um Schicht.
 - prompt: m0078
   file: ./pavoque/StefanPoker/wav/m0078.wav
   date: 2007-10-29T10:29:56+0100
   style: poker
+  text: Diese werden von der Björn Steiger Stiftung Service getragen.
 - prompt: m0079
   file: ./pavoque/StefanPoker/wav/m0079.wav
   date: 2007-10-29T10:30:02+0100
   style: poker
+  text: Niemand managt uns im Moment.
 - prompt: m0080
   file: ./pavoque/StefanPoker/wav/m0080.wav
   date: 2007-10-29T10:30:08+0100
   style: poker
+  text: Im Hintergrund die Stadt Coswig.
 - prompt: m0081
   file: ./pavoque/StefanPoker/wav/m0081.wav
   date: 2007-10-29T10:30:14+0100
   style: poker
+  text: Ein Stückchen blauer Himmel;
 - prompt: m0082
   file: ./pavoque/StefanPoker/wav/m0082.wav
   date: 2007-10-29T10:30:20+0100
   style: poker
+  text: Plötzlich dreht er durch.
 - prompt: m0083
   file: ./pavoque/StefanPoker/wav/m0083.wav
   date: 2007-10-29T10:30:26+0100
   style: poker
+  text: Er hat eine Schwester, Jamie.
 - prompt: m0084
   file: ./pavoque/StefanPoker/wav/m0084.wav
   date: 2007-10-29T10:30:36+0100
   style: poker
+  text: Angeblich geht die Komposition zurück auf Reverend Gary Davis;
 - prompt: m0085
   file: ./pavoque/StefanPoker/wav/m0085.wav
   date: 2007-10-29T10:30:42+0100
   style: poker
+  text: Tschüß hat seinen Ursprung im Französischen.
 - prompt: m0086
   file: ./pavoque/StefanPoker/wav/m0086.wav
   date: 2007-10-29T10:30:48+0100
   style: poker
+  text: Botanik und Paläontologie.
 - prompt: m0087
   file: ./pavoque/StefanPoker/wav/m0087.wav
   date: 2007-10-29T10:30:54+0100
   style: poker
+  text: Auch Seuchen wie Typhus grassierten.
 - prompt: m0088
   file: ./pavoque/StefanPoker/wav/m0088.wav
   date: 2007-10-29T10:31:02+0100
   style: poker
+  text: Die Leute sind ja ganz ruhig.
 - prompt: m0089
   file: ./pavoque/StefanPoker/wav/m0089.wav
   date: 2007-10-29T10:31:08+0100
   style: poker
+  text: Wie stöpselt man so ein Gerät ein?
 - prompt: m0090
   file: ./pavoque/StefanPoker/wav/m0090.wav
   date: 2007-10-29T10:31:14+0100
   style: poker
+  text: Die Plebejer gewannen folglich an Macht.
 - prompt: m0091
   file: ./pavoque/StefanPoker/wav/m0091.wav
   date: 2007-10-29T10:31:22+0100
   style: poker
+  text: Der Tachometer zeigt Tempo drei Hundert.
 - prompt: m0092
   file: ./pavoque/StefanPoker/wav/m0092.wav
   date: 2007-10-29T10:31:28+0100
   style: poker
+  text: Der Anschlag schlug jedoch fehl.
 - prompt: m0093
   file: ./pavoque/StefanPoker/wav/m0093.wav
   date: 2007-10-29T10:31:36+0100
   style: poker
+  text: In diesem Sinne hielten Elizabeth Taylor und George Michael kurze Ansprachen.
 - prompt: m0094
   file: ./pavoque/StefanPoker/wav/m0094.wav
   date: 2007-10-29T10:31:42+0100
   style: poker
+  text: Desiree ist dort geboren.
 - prompt: m0095
   file: ./pavoque/StefanPoker/wav/m0095.wav
   date: 2007-10-29T10:32:04+0100
   style: poker
+  text: Den Preis nahm stellvertretend Frau Jean Marie entgegen.
 - prompt: m0096
   file: ./pavoque/StefanPoker/wav/m0096.wav
   date: 2007-10-29T10:32:10+0100
   style: poker
+  text: Zu seinen Lehrern zählten Schostakowitsch und Prokofjew.
 - prompt: m0097
   file: ./pavoque/StefanPoker/wav/m0097.wav
   date: 2007-10-29T10:32:18+0100
   style: poker
+  text: Siehe dazu Browser Unterstützung.
 - prompt: m0098
   file: ./pavoque/StefanPoker/wav/m0098.wav
   date: 2007-10-29T10:32:24+0100
   style: poker
+  text: Der Refrain ist auf Deutsch.
 - prompt: m0099
   file: ./pavoque/StefanPoker/wav/m0099.wav
   date: 2007-10-29T10:32:30+0100
   style: poker
+  text: Dabei vergrößert sich der Embryo nicht.
 - prompt: m0100
   file: ./pavoque/StefanPoker/wav/m0100.wav
   date: 2007-10-29T10:33:04+0100
   style: poker
+  text: Topos, der, Plural Topoi;
 - prompt: m0101
   file: ./pavoque/StefanPoker/wav/m0101.wav
   date: 2007-10-29T10:33:10+0100
   style: poker
+  text: 'Der Begriff Gaudi steht für:'
 - prompt: m0250
   file: ./pavoque/StefanPoker/wav/m0250.wav
   date: 2007-10-29T10:34:44+0100
   style: poker
+  text: Man beachte die Reihenfolge der Vokale (a, e, i, o, u, ä, ö, ü);
 - prompt: m0251
   file: ./pavoque/StefanPoker/wav/m0251.wav
   date: 2007-10-29T10:35:56+0100
   style: poker
+  text: Bulletin of Marine Science.
 - prompt: m0252
   file: ./pavoque/StefanPoker/wav/m0252.wav
   date: 2007-10-29T10:36:04+0100
   style: poker
+  text: Derjenige, der die Bongos spielt, heißt bongocero.
 - prompt: m0253
   file: ./pavoque/StefanPoker/wav/m0253.wav
   date: 2007-10-29T10:36:56+0100
   style: poker
+  text: Wenige Einzelheiten umfassend ist diese Art der Empirik um so anmaßender, als sie keine der Tatsachen kennt, von denen sie erschüttert wird.
 - prompt: m0254
   file: ./pavoque/StefanPoker/wav/m0254.wav
   date: 2007-10-29T10:37:20+0100
   style: poker
+  text: 'Siehe auch: High Involvement Products.'
 - prompt: m0255
   file: ./pavoque/StefanPoker/wav/m0255.wav
   date: 2007-10-29T10:37:30+0100
   style: poker
+  text: Regie sollte zu dieser Zeit Jay Roach führen.
 - prompt: m0256
   file: ./pavoque/StefanPoker/wav/m0256.wav
   date: 2007-10-29T10:37:38+0100
   style: poker
+  text: 'Spezifizierung: Shoreikan.'
 - prompt: m0257
   file: ./pavoque/StefanPoker/wav/m0257.wav
   date: 2007-10-29T10:37:46+0100
   style: poker
+  text: Der Schutzheilige der Stadt ist San Cetteo.
 - prompt: m0258
   file: ./pavoque/StefanPoker/wav/m0258.wav
   date: 2007-10-29T10:37:54+0100
   style: poker
+  text: 'Berlin: Walter de Gruyter.'
 - prompt: m0259
   file: ./pavoque/StefanPoker/wav/m0259.wav
   date: 2007-10-29T10:38:48+0100
   style: poker
+  text: 'Siehe auch: Pjotr Nikolajewitsch Krasnow.'
 - prompt: m0260
   file: ./pavoque/StefanPoker/wav/m0260.wav
   date: 2007-10-29T10:39:24+0100
   style: poker
+  text: Die Umlaute ä, ö und ü wurden wie ae, oe und ue gezählt.
 - prompt: m0261
   file: ./pavoque/StefanPoker/wav/m0261.wav
   date: 2007-10-29T10:39:48+0100
   style: poker
+  text: 'Er fragte dort: "What business are you in?"'
 - prompt: m0262
   file: ./pavoque/StefanPoker/wav/m0262.wav
   date: 2007-10-29T10:39:56+0100
   style: poker
+  text: 'Siehe auch: Protect and Survive.'
 - prompt: m0264
   file: ./pavoque/StefanPoker/wav/m0264.wav
   date: 2007-10-29T10:40:32+0100
   style: poker
+  text: Sergei Rublewski achtzehn Punkt eins.
 - prompt: m0265
   file: ./pavoque/StefanPoker/wav/m0265.wav
   date: 2007-10-29T10:40:40+0100
   style: poker
+  text: 'Beispiel: Queen Elizabeth.:" We are not amused."'
 - prompt: m0266
   file: ./pavoque/StefanPoker/wav/m0266.wav
   date: 2007-10-29T10:40:48+0100
   style: poker
+  text: 'Iri hat folgende Bedeutungen:'
 - prompt: m0267
   file: ./pavoque/StefanPoker/wav/m0267.wav
   date: 2007-10-29T10:40:58+0100
   style: poker
+  text: 'acht: In falschem Glauben, Sister Jaime;'
 - prompt: m0268
   file: ./pavoque/StefanPoker/wav/m0268.wav
   date: 2007-10-29T10:41:06+0100
   style: poker
+  text: Von hier fahren Busse nach Venray selbst.
 - prompt: m0269
   file: ./pavoque/StefanPoker/wav/m0269.wav
   date: 2007-10-29T10:41:16+0100
   style: poker
+  text: Während der Ayutthaya Zeit gab es sogar Steine mit Augen (Bild vier).
 - prompt: m0270
   file: ./pavoque/StefanPoker/wav/m0270.wav
   date: 2007-10-29T10:41:24+0100
   style: poker
+  text: 'Jüngstes Beispiel: Beuys.'
 - prompt: m0272
   file: ./pavoque/StefanPoker/wav/m0272.wav
   date: 2007-10-29T10:41:52+0100
   style: poker
+  text: 'Angela Schönberger: Raymond Loewy.'
 - prompt: m0275
   file: ./pavoque/StefanPoker/wav/m0275.wav
   date: 2007-10-29T10:43:38+0100
   style: poker
+  text: Zagreb wurde deren Hauptstadt.
 - prompt: m0276
   file: ./pavoque/StefanPoker/wav/m0276.wav
   date: 2007-10-29T10:44:40+0100
   style: poker
+  text: Das Auge, auf ägyptisch irt (ieret), lautet auf pular yiitere.
 - prompt: m0277
   file: ./pavoque/StefanPoker/wav/m0277.wav
   date: 2007-10-29T10:44:58+0100
   style: poker
+  text: Er stammt aus dem Malawisee in Afrika.
 - prompt: m0278
   file: ./pavoque/StefanPoker/wav/m0278.wav
   date: 2007-10-29T10:47:34+0100
   style: poker
+  text: Das gelbe Akaroidharz, Botanybayharz, gelbes Xanthorröaharz;
 - prompt: m0279
   file: ./pavoque/StefanPoker/wav/m0279.wav
   date: 2007-10-29T10:48:32+0100
   style: poker
+  text: Paieon heilte den von Herakles verwundeten Hades, den Gott der Unterwelt, mit Päonienwurzeln.
 - prompt: m0280
   file: ./pavoque/StefanPoker/wav/m0280.wav
   date: 2007-10-29T10:48:40+0100
   style: poker
+  text: Polen teilt sich Usedom mit Deutschland.
 - prompt: m0281
   file: ./pavoque/StefanPoker/wav/m0281.wav
   date: 2007-10-29T10:48:52+0100
   style: poker
+  text: Es sind diese hier mit ihrer Häufigkeit erwähnt, entnommen aus Handbook of the Chinese Language.
 - prompt: m0282
   file: ./pavoque/StefanPoker/wav/m0282.wav
   date: 2007-10-29T10:49:00+0100
   style: poker
+  text: Hier wurde De Neve zum Helden des Spiels.
 - prompt: m0283
   file: ./pavoque/StefanPoker/wav/m0283.wav
   date: 2007-10-29T10:49:12+0100
   style: poker
+  text: Das Gouvernement Kiautschou blieb zwar Teil Chinas, ging aber in deutschen Besitz über.
 - prompt: m0285
   file: ./pavoque/StefanPoker/wav/m0285.wav
   date: 2007-10-29T10:49:30+0100
   style: poker
+  text: 'Siehe auch: Muffe, Schrumpfschlauch.'
 - prompt: m0284
   file: ./pavoque/StefanPoker/wav/m0284.wav
   date: 2007-10-29T10:49:54+0100
   style: poker
+  text: Diese Methodik hat, so Arendt, eine Nähe zur Sokratischen Mäeutik.
 - prompt: m0286
   file: ./pavoque/StefanPoker/wav/m0286.wav
   date: 2007-10-29T10:50:10+0100
   style: poker
+  text: 'Auf deutsch meist: Ahmed Schah Massud;'
 - prompt: m0287
   file: ./pavoque/StefanPoker/wav/m0287.wav
   date: 2007-10-29T10:50:20+0100
   style: poker
+  text: Oyama ist sechzig Kilometer von Tokio entfernt.
 - prompt: m0288
   file: ./pavoque/StefanPoker/wav/m0288.wav
   date: 2007-10-29T10:50:26+0100
   style: poker
+  text: Die Eagles waren geboren.
 - prompt: m0289
   file: ./pavoque/StefanPoker/wav/m0289.wav
   date: 2007-10-29T10:50:36+0100
   style: poker
+  text: Annaberg Lungötz hat mit dem Annaberg einen eigenen Ski Club.
 - prompt: m0290
   file: ./pavoque/StefanPoker/wav/m0290.wav
   date: 2007-10-29T10:50:46+0100
   style: poker
+  text: Der Rest der undergraduates studiert an kleineren Fakultäten.
 - prompt: m0291
   file: ./pavoque/StefanPoker/wav/m0291.wav
   date: 2007-10-29T10:50:56+0100
   style: poker
+  text: Deutsch Wagram ist Sitz einer römisch katholischen Pfarre.
 - prompt: m0292
   file: ./pavoque/StefanPoker/wav/m0292.wav
   date: 2007-10-29T10:51:06+0100
   style: poker
+  text: Wesentliche Hilfe waren ihm dabei die Ichwan.
 - prompt: m0293
   file: ./pavoque/StefanPoker/wav/m0293.wav
   date: 2007-10-29T10:51:30+0100
   style: poker
+  text: Marquis von Salisbury, Marquis von Pombal;
 - prompt: m0294
   file: ./pavoque/StefanPoker/wav/m0294.wav
   date: 2007-10-29T10:51:36+0100
   style: poker
+  text: 'Siehe auch: Grugastadion.'
 - prompt: m0295
   file: ./pavoque/StefanPoker/wav/m0295.wav
   date: 2007-10-29T10:51:46+0100
   style: poker
+  text: 'Sänger steht für: Sänger, Saenger, Personennamen:'
 - prompt: m0296
   file: ./pavoque/StefanPoker/wav/m0296.wav
   date: 2007-10-29T10:51:58+0100
   style: poker
+  text: Hingegen ist das Tüüüüüh immer dann nicht zu hören, wenn die Goldammer sich gestört fühlt.
 - prompt: m0297
   file: ./pavoque/StefanPoker/wav/m0297.wav
   date: 2007-10-29T10:52:16+0100
   style: poker
+  text: Charles Lyell war das älteste von zehn Kindern.
 - prompt: m0298
   file: ./pavoque/StefanPoker/wav/m0298.wav
   date: 2007-10-29T10:52:38+0100
   style: poker
+  text: 'Siehe auch: Falkirk Wheel.'
 - prompt: m0299
   file: ./pavoque/StefanPoker/wav/m0299.wav
   date: 2007-10-29T10:52:46+0100
   style: poker
+  text: Der Woodland Park Zoo liegt im Norden der Stadt.
 - prompt: m0300
   file: ./pavoque/StefanPoker/wav/m0300.wav
   date: 2007-10-29T10:52:54+0100
   style: poker
+  text: Derzeit lebt sie in Norfolk.
 - prompt: poker_n0090
   file: ./pavoque/StefanPoker/wav/poker_n0090.wav
   date: 2007-10-29T10:54:32+0100
   style: poker
+  text: Also die höchste Karte hier ist eine Pik Vier.
 - prompt: poker_n0091
   file: ./pavoque/StefanPoker/wav/poker_n0091.wav
   date: 2007-10-29T10:54:38+0100
   style: poker
+  text: Die höchste Beikarte ist meine Pik Fünf.
 - prompt: poker_n0092
   file: ./pavoque/StefanPoker/wav/poker_n0092.wav
   date: 2007-10-29T10:54:46+0100
   style: poker
+  text: Die beste Beikarte ist Deine Pik Sechs.
 - prompt: poker_n0096
   file: ./pavoque/StefanPoker/wav/poker_n0096.wav
   date: 2007-10-29T10:55:14+0100
   style: poker
+  text: Die beste Beikarte ist eine Pik Zehn.
 - prompt: poker_n0095
   file: ./pavoque/StefanPoker/wav/poker_n0095.wav
   date: 2007-10-29T10:55:34+0100
   style: poker
+  text: Die höchste Beikarte ist Deine Pik Neun.
 - prompt: poker_n0097
   file: ./pavoque/StefanPoker/wav/poker_n0097.wav
   date: 2007-10-29T10:55:46+0100
   style: poker
+  text: Die wertvollste Beikarte ist mein Pik Bube.
 - prompt: poker_n0098
   file: ./pavoque/StefanPoker/wav/poker_n0098.wav
   date: 2007-10-29T10:55:52+0100
   style: poker
+  text: Die höchste Beikarte ist Deine Pik Dame.
 - prompt: poker_n0099
   file: ./pavoque/StefanPoker/wav/poker_n0099.wav
   date: 2007-10-29T10:56:00+0100
   style: poker
+  text: Also die höchste Karte hier ist ein Pik König.
 - prompt: poker_n0100
   file: ./pavoque/StefanPoker/wav/poker_n0100.wav
   date: 2007-10-29T10:56:06+0100
   style: poker
+  text: Die höchste Beikarte ist mein Herz Ass.
 - prompt: poker_n0101
   file: ./pavoque/StefanPoker/wav/poker_n0101.wav
   date: 2007-10-29T10:56:12+0100
   style: poker
+  text: Die beste Beikarte ist meine Herz Zwei.
 - prompt: poker_n0102
   file: ./pavoque/StefanPoker/wav/poker_n0102.wav
   date: 2007-10-29T10:56:20+0100
   style: poker
+  text: Die wertvollste Beikarte ist Deine Herz Drei.
 - prompt: poker_n0103
   file: ./pavoque/StefanPoker/wav/poker_n0103.wav
   date: 2007-10-29T10:56:28+0100
   style: poker
+  text: Also die höchste Karte hier ist eine Herz Vier.
 - prompt: poker_n0104
   file: ./pavoque/StefanPoker/wav/poker_n0104.wav
   date: 2007-10-29T10:56:34+0100
   style: poker
+  text: Die höchste Beikarte ist meine Herz Fünf.
 - prompt: poker_n0106
   file: ./pavoque/StefanPoker/wav/poker_n0106.wav
   date: 2007-10-29T10:56:48+0100
   style: poker
+  text: Die wertvollste Beikarte ist eine Herz Sieben.
 - prompt: poker_n0107
   file: ./pavoque/StefanPoker/wav/poker_n0107.wav
   date: 2007-10-29T10:56:56+0100
   style: poker
+  text: Also die höchste Karte hier ist meine Herz Acht.
 - prompt: poker_n0108
   file: ./pavoque/StefanPoker/wav/poker_n0108.wav
   date: 2007-10-29T10:57:02+0100
   style: poker
+  text: Die höchste Beikarte ist Deine Herz Neun.
 - prompt: poker_n0109
   file: ./pavoque/StefanPoker/wav/poker_n0109.wav
   date: 2007-10-29T10:57:10+0100
   style: poker
+  text: Die beste Beikarte ist eine Herz Zehn.
 - prompt: poker_n0110
   file: ./pavoque/StefanPoker/wav/poker_n0110.wav
   date: 2007-10-29T10:57:16+0100
   style: poker
+  text: Die wertvollste Beikarte ist mein Herz Bube.
 - prompt: poker_n0111
   file: ./pavoque/StefanPoker/wav/poker_n0111.wav
   date: 2007-10-29T10:57:24+0100
   style: poker
+  text: Die höchste Beikarte ist Deine Herz Dame.
 - prompt: poker_n0112
   file: ./pavoque/StefanPoker/wav/poker_n0112.wav
   date: 2007-10-29T10:57:58+0100
   style: poker
+  text: Also die höchste Karte hier ist ein Herz König.
 - prompt: poker_n0113
   file: ./pavoque/StefanPoker/wav/poker_n0113.wav
   date: 2007-10-29T10:58:04+0100
   style: poker
+  text: Die höchste Beikarte ist mein Kreuz Ass.
 - prompt: poker_n0114
   file: ./pavoque/StefanPoker/wav/poker_n0114.wav
   date: 2007-10-29T10:58:12+0100
   style: poker
+  text: Die beste Beikarte ist meine Kreuz Zwei.
 - prompt: poker_n0115
   file: ./pavoque/StefanPoker/wav/poker_n0115.wav
   date: 2007-10-29T10:58:32+0100
   style: poker
+  text: Die wertvollste Beikarte ist Deine Kreuz Drei.
 - prompt: poker_n0116
   file: ./pavoque/StefanPoker/wav/poker_n0116.wav
   date: 2007-10-29T10:58:40+0100
   style: poker
+  text: Also die höchste Karte hier ist eine Kreuz Vier.
 - prompt: poker_n0117
   file: ./pavoque/StefanPoker/wav/poker_n0117.wav
   date: 2007-10-29T11:00:46+0100
   style: poker
+  text: Die höchste Beikarte ist meine Kreuz Fünf.
 - prompt: poker_n0119
   file: ./pavoque/StefanPoker/wav/poker_n0119.wav
   date: 2007-10-29T11:01:00+0100
   style: poker
+  text: Die wertvollste Beikarte ist eine Kreuz Sieben.
 - prompt: poker_n0120
   file: ./pavoque/StefanPoker/wav/poker_n0120.wav
   date: 2007-10-29T11:01:06+0100
   style: poker
+  text: Also die höchste Karte hier ist meine Kreuz Acht.
 - prompt: poker_n0121
   file: ./pavoque/StefanPoker/wav/poker_n0121.wav
   date: 2007-10-29T11:01:14+0100
   style: poker
+  text: Die höchste Beikarte ist Deine Kreuz Neun.
 - prompt: poker_n0122
   file: ./pavoque/StefanPoker/wav/poker_n0122.wav
   date: 2007-10-29T11:01:20+0100
   style: poker
+  text: Die beste Beikarte ist eine Kreuz Zehn.
 - prompt: poker_n0123
   file: ./pavoque/StefanPoker/wav/poker_n0123.wav
   date: 2007-10-29T11:02:20+0100
   style: poker
+  text: Die wertvollste Beikarte ist mein Kreuz Bube.
 - prompt: m0102
   file: ./pavoque/StefanPoker/wav/m0102.wav
   date: 2007-10-29T11:02:52+0100
   style: poker
+  text: Südöstlich von Heilbronn.
 - prompt: m0103
   file: ./pavoque/StefanPoker/wav/m0103.wav
   date: 2007-10-29T11:03:00+0100
   style: poker
+  text: Natürlich erinnerte sich Waschbär.
 - prompt: m0104
   file: ./pavoque/StefanPoker/wav/m0104.wav
   date: 2007-10-29T11:03:24+0100
   style: poker
+  text: Zwerg Seepferdchen werden nur zwei Zentimeter lang.
 - prompt: m0105
   file: ./pavoque/StefanPoker/wav/m0105.wav
   date: 2007-10-29T11:03:56+0100
   style: poker
+  text: Diese heißen dann Gateway, Transport, Agent.
 - prompt: m0106
   file: ./pavoque/StefanPoker/wav/m0106.wav
   date: 2007-10-29T11:04:02+0100
   style: poker
+  text: Saddam Hussein hatte Wahlen.
 - prompt: m0107
   file: ./pavoque/StefanPoker/wav/m0107.wav
   date: 2007-10-29T11:05:16+0100
   style: poker
+  text: Die Änderung hat das Forum Train Europe beschlossen, dem auch die Bahnen im deutschsprachigen Raum gehören.
 - prompt: m0108
   file: ./pavoque/StefanPoker/wav/m0108.wav
   date: 2007-10-29T11:05:22+0100
   style: poker
+  text: Josef Pröll ist der Neffe von Erwin Pröll.
 - prompt: m0109
   file: ./pavoque/StefanPoker/wav/m0109.wav
   date: 2007-10-29T11:05:42+0100
   style: poker
+  text: Ihre Hütten bauten sie auf Pfählen am Rand eines Gewässers.
 - prompt: m0111
   file: ./pavoque/StefanPoker/wav/m0111.wav
   date: 2007-10-29T11:05:56+0100
   style: poker
+  text: Diese Reaktionen müssen in saurem Milieu stattfinden.
 - prompt: m0110
   file: ./pavoque/StefanPoker/wav/m0110.wav
   date: 2007-10-29T11:06:40+0100
   style: poker
+  text: Er war ein großer Bewunderer von Jean Paul.
 - prompt: m0112
   file: ./pavoque/StefanPoker/wav/m0112.wav
   date: 2007-10-29T11:06:58+0100
   style: poker
+  text: Die Familie Stein war deutsch jüdischer Herkunft.
 - prompt: m0113
   file: ./pavoque/StefanPoker/wav/m0113.wav
   date: 2007-10-29T11:07:16+0100
   style: poker
+  text: Außerdem hatte Chruschtschow die Armee hinter sich.
 - prompt: m0114
   file: ./pavoque/StefanPoker/wav/m0114.wav
   date: 2007-10-29T11:07:24+0100
   style: poker
+  text: Jean-Claude van Damme ist zum fünften Mal verheiratet.
 - prompt: m0116
   file: ./pavoque/StefanPoker/wav/m0116.wav
   date: 2007-10-29T11:07:48+0100
   style: poker
+  text: Sie bekam sehr starken Keuchhusten.
 - prompt: m0117
   file: ./pavoque/StefanPoker/wav/m0117.wav
   date: 2007-10-29T11:07:54+0100
   style: poker
+  text: Carmen wartet verliebt auf José.
 - prompt: m0118
   file: ./pavoque/StefanPoker/wav/m0118.wav
   date: 2007-10-29T11:08:00+0100
   style: poker
+  text: Schon das alte China kannte die Seide.
 - prompt: m0119
   file: ./pavoque/StefanPoker/wav/m0119.wav
   date: 2007-10-29T11:08:06+0100
   style: poker
+  text: Weil dieser nicht abhebt.
 - prompt: m0120
   file: ./pavoque/StefanPoker/wav/m0120.wav
   date: 2007-10-29T11:08:14+0100
   style: poker
+  text: Keltische Gräber zeugen davon.
 - prompt: m0121
   file: ./pavoque/StefanPoker/wav/m0121.wav
   date: 2007-10-29T11:08:32+0100
   style: poker
+  text: Vergleiche hierzu Chinesisches Orakel.
 - prompt: m0123
   file: ./pavoque/StefanPoker/wav/m0123.wav
   date: 2007-10-29T11:09:06+0100
   style: poker
+  text: Der Rock hat meist goldene Knöpfe.
 - prompt: m0124
   file: ./pavoque/StefanPoker/wav/m0124.wav
   date: 2007-10-29T11:09:38+0100
   style: poker
+  text: Genauso ist Microsoft beim Train Simulator vorgegangen.
 - prompt: m0125
   file: ./pavoque/StefanPoker/wav/m0125.wav
   date: 2007-10-29T11:09:46+0100
   style: poker
+  text: Sein Nachfolger wurde George Russell.
 - prompt: m0126
   file: ./pavoque/StefanPoker/wav/m0126.wav
   date: 2007-10-29T11:09:52+0100
   style: poker
+  text: Dabei werden die Beine abwechselnd gegrätscht.
 - prompt: m0128
   file: ./pavoque/StefanPoker/wav/m0128.wav
   date: 2007-10-29T11:10:10+0100
   style: poker
+  text: Nur seine Mutter, von der er aber bald getrennt wird, und die Maus Timothy halten zu ihm.
 - prompt: m0129
   file: ./pavoque/StefanPoker/wav/m0129.wav
   date: 2007-10-29T11:10:16+0100
   style: poker
+  text: Auch die Verdauung wird angeregt.
 - prompt: m0130
   file: ./pavoque/StefanPoker/wav/m0130.wav
   date: 2007-10-29T11:10:52+0100
   style: poker
+  text: Sie ist Hauptstadt der Provinz San Juan (Provinz).
 - prompt: m0131
   file: ./pavoque/StefanPoker/wav/m0131.wav
   date: 2007-10-29T11:11:00+0100
   style: poker
+  text: Und diese Schwermut ist ihr Zauber.
 - prompt: m0132
   file: ./pavoque/StefanPoker/wav/m0132.wav
   date: 2007-10-29T11:11:06+0100
   style: poker
+  text: Auch über das anstehende amerikanische Remake.
 - prompt: m0133
   file: ./pavoque/StefanPoker/wav/m0133.wav
   date: 2007-10-29T11:11:14+0100
   style: poker
+  text: Artikel zur Geschichte Chinas hier einordnen.
 - prompt: m0134
   file: ./pavoque/StefanPoker/wav/m0134.wav
   date: 2007-10-29T11:11:20+0100
   style: poker
+  text: Feuchte Luft ist förderlich.
 - prompt: m0135
   file: ./pavoque/StefanPoker/wav/m0135.wav
   date: 2007-10-29T11:11:28+0100
   style: poker
+  text: Mich jammert deine Jugend, deine Schönheit!
 - prompt: m0136
   file: ./pavoque/StefanPoker/wav/m0136.wav
   date: 2007-10-29T11:11:34+0100
   style: poker
+  text: Westlich von Oslo gelegen.
 - prompt: m0137
   file: ./pavoque/StefanPoker/wav/m0137.wav
   date: 2007-10-29T11:11:40+0100
   style: poker
+  text: 'New York: Springer Verlag.'
 - prompt: m0138
   file: ./pavoque/StefanPoker/wav/m0138.wav
   date: 2007-10-29T11:11:46+0100
   style: poker
+  text: Klara muss die Pension aufgeben.
 - prompt: m0139
   file: ./pavoque/StefanPoker/wav/m0139.wav
   date: 2007-10-29T11:11:52+0100
   style: poker
+  text: Man nannte ihn den "Grand Chef".
 - prompt: m0140
   file: ./pavoque/StefanPoker/wav/m0140.wav
   date: 2007-10-29T11:12:00+0100
   style: poker
+  text: Die Einflüsse sind nun indianisch beziehungsweise vom Reggae her kommend.
 - prompt: m0141
   file: ./pavoque/StefanPoker/wav/m0141.wav
   date: 2007-10-29T11:12:38+0100
   style: poker
+  text: 'Über Murray Gell Mann: Die dritte Kultur.'
 - prompt: m0142
   file: ./pavoque/StefanPoker/wav/m0142.wav
   date: 2007-10-29T11:13:30+0100
   style: poker
+  text: Die Instrumente wirken ungleich, aber stets genial, je später, desto individueller.
 - prompt: m0143
   file: ./pavoque/StefanPoker/wav/m0143.wav
   date: 2007-10-29T11:13:50+0100
   style: poker
+  text: Die Tiere schädigten die Pflanzen nachhaltig.
 - prompt: m0144
   file: ./pavoque/StefanPoker/wav/m0144.wav
   date: 2007-10-29T11:13:58+0100
   style: poker
+  text: Schnell avancierte er zum musikalischen Leiter und Arrangeur.
 - prompt: m0145
   file: ./pavoque/StefanPoker/wav/m0145.wav
   date: 2007-10-29T11:14:52+0100
   style: poker
+  text: Weder Chopin noch George Sand haben zu ihrer Trennung Stellung bezogen.
 - prompt: m0146
   file: ./pavoque/StefanPoker/wav/m0146.wav
   date: 2007-10-29T11:15:00+0100
   style: poker
+  text: Clemens non Papa hieß eigentlich Jacques Clement.
 - prompt: m0147
   file: ./pavoque/StefanPoker/wav/m0147.wav
   date: 2007-10-29T11:15:06+0100
   style: poker
+  text: Dazu kommen Fondue und viel Wein.
 - prompt: m0148
   file: ./pavoque/StefanPoker/wav/m0148.wav
   date: 2007-10-29T11:15:12+0100
   style: poker
+  text: Ein Schaf ist ein Schaf ist ein Schaf.
 - prompt: m0150
   file: ./pavoque/StefanPoker/wav/m0150.wav
   date: 2007-10-29T11:15:28+0100
   style: poker
+  text: Jacques Becker ist der Vater des französischen Regisseurs Jean Becker.
 - prompt: m0149
   file: ./pavoque/StefanPoker/wav/m0149.wav
   date: 2007-10-29T11:15:44+0100
   style: poker
+  text: Auch unter Machete bekannt.
 - prompt: poker_n0124
   file: ./pavoque/StefanPoker/wav/poker_n0124.wav
   date: 2007-10-29T11:48:18+0100
   style: poker
+  text: Die höchste Beikarte ist Deine Kreuz Dame.
 - prompt: poker_n0125
   file: ./pavoque/StefanPoker/wav/poker_n0125.wav
   date: 2007-10-29T11:48:26+0100
   style: poker
+  text: Also die höchste Karte hier ist ein Kreuz König.
 - prompt: poker_n0126
   file: ./pavoque/StefanPoker/wav/poker_n0126.wav
   date: 2007-10-29T11:48:32+0100
   style: poker
+  text: Die höchste Beikarte ist mein Karo Ass.
 - prompt: poker_n0127
   file: ./pavoque/StefanPoker/wav/poker_n0127.wav
   date: 2007-10-29T11:48:40+0100
   style: poker
+  text: Die beste Beikarte ist meine Karo Zwei.
 - prompt: poker_n0128
   file: ./pavoque/StefanPoker/wav/poker_n0128.wav
   date: 2007-10-29T11:48:46+0100
   style: poker
+  text: Die wertvollste Beikarte ist Deine Karo Drei.
 - prompt: poker_n0129
   file: ./pavoque/StefanPoker/wav/poker_n0129.wav
   date: 2007-10-29T11:48:54+0100
   style: poker
+  text: Also die höchste Karte hier ist eine Karo Vier.
 - prompt: poker_n0130
   file: ./pavoque/StefanPoker/wav/poker_n0130.wav
   date: 2007-10-29T11:49:00+0100
   style: poker
+  text: Die höchste Beikarte ist meine Karo Fünf.
 - prompt: poker_n0131
   file: ./pavoque/StefanPoker/wav/poker_n0131.wav
   date: 2007-10-29T11:49:08+0100
   style: poker
+  text: Die beste Beikarte ist Deine Karo Sechs.
 - prompt: poker_n0132
   file: ./pavoque/StefanPoker/wav/poker_n0132.wav
   date: 2007-10-29T11:49:14+0100
   style: poker
+  text: Die wertvollste Beikarte ist eine Karo Sieben.
 - prompt: poker_n0133
   file: ./pavoque/StefanPoker/wav/poker_n0133.wav
   date: 2007-10-29T11:49:22+0100
   style: poker
+  text: Also die höchste Karte hier ist meine Karo Acht.
 - prompt: poker_n0134
   file: ./pavoque/StefanPoker/wav/poker_n0134.wav
   date: 2007-10-29T11:49:30+0100
   style: poker
+  text: Die höchste Beikarte ist Deine Karo Neun.
 - prompt: poker_n0135
   file: ./pavoque/StefanPoker/wav/poker_n0135.wav
   date: 2007-10-29T11:49:36+0100
   style: poker
+  text: Die beste Beikarte ist eine Karo Zehn.
 - prompt: poker_n0136
   file: ./pavoque/StefanPoker/wav/poker_n0136.wav
   date: 2007-10-29T11:49:42+0100
   style: poker
+  text: Die wertvollste Beikarte ist mein Karo Bube.
 - prompt: poker_n0137
   file: ./pavoque/StefanPoker/wav/poker_n0137.wav
   date: 2007-10-29T11:49:50+0100
   style: poker
+  text: Die höchste Beikarte ist Deine Karo Dame.
 - prompt: poker_n0138
   file: ./pavoque/StefanPoker/wav/poker_n0138.wav
   date: 2007-10-29T11:50:32+0100
   style: poker
+  text: Also die höchste Karte hier ist ein Karo König.
 - prompt: m0301
   file: ./pavoque/StefanPoker/wav/m0301.wav
   date: 2007-10-29T11:51:26+0100
   style: poker
+  text: So erkannte ein Teil der Ismailiten den angeblichen Sohn at Tayyib als rechtmäßigen Nachfolger an.
 - prompt: m0302
   file: ./pavoque/StefanPoker/wav/m0302.wav
   date: 2007-10-29T11:51:34+0100
   style: poker
+  text: Am bekanntesten dürfte die Lyoneser Form sein.
 - prompt: m0303
   file: ./pavoque/StefanPoker/wav/m0303.wav
   date: 2007-10-29T11:51:56+0100
   style: poker
+  text: 'Mit Harpyie bezeichnet man:'
 - prompt: m0304
   file: ./pavoque/StefanPoker/wav/m0304.wav
   date: 2007-10-29T11:52:24+0100
   style: poker
+  text: Das Fasten eines Nicht volljährigen mit Unterscheidungsvermögen (mumayyiz) ist ebenfalls gültig.
 - prompt: m0305
   file: ./pavoque/StefanPoker/wav/m0305.wav
   date: 2007-10-29T11:52:48+0100
   style: poker
+  text: Dadurch legte er den Grundstein für das kirchliche Pfarrschul System im heutigen Amerika.
 - prompt: m0306
   file: ./pavoque/StefanPoker/wav/m0306.wav
   date: 2007-10-29T11:53:28+0100
   style: poker
+  text: Harald Juhnke sang ihn als Berlin, Berlin.
 - prompt: m0307
   file: ./pavoque/StefanPoker/wav/m0307.wav
   date: 2007-10-29T11:53:36+0100
   style: poker
+  text: Um Antiochia einnehmen zu können, belagerte er zunächst Sahyun.
 - prompt: m0308
   file: ./pavoque/StefanPoker/wav/m0308.wav
   date: 2007-10-29T11:54:34+0100
   style: poker
+  text: Das Weibchen antwortet auf diese Rufe in ähnlich monotoner Weise mit "üüiü" oder "uijo".
 - prompt: m0309
   file: ./pavoque/StefanPoker/wav/m0309.wav
   date: 2007-10-29T11:55:20+0100
   style: poker
+  text: 'Cuius regio, eius religio (lateinisch für: wessen Land, dessen Religion),
+    auch: cujus regio ejus religio.'
 - prompt: m0310
   file: ./pavoque/StefanPoker/wav/m0310.wav
   date: 2007-10-29T11:55:48+0100
   style: poker
+  text: Im Stadtteil Weinheim ruft man, Wau Wau.
 - prompt: m0311
   file: ./pavoque/StefanPoker/wav/m0311.wav
   date: 2007-10-29T11:55:58+0100
   style: poker
+  text: Maung Aye soll seit längerem krank sein.
 - prompt: m0312
   file: ./pavoque/StefanPoker/wav/m0312.wav
   date: 2007-10-29T11:56:08+0100
   style: poker
+  text: Der Turm beherbergt heute ein Joyce Museum.
 - prompt: m0313
   file: ./pavoque/StefanPoker/wav/m0313.wav
   date: 2007-10-29T11:56:20+0100
   style: poker
+  text: Bouyei ist die Muttersprache des in China ansässigen gleichnamigen Bouyei Volkes.
 - prompt: m0314
   file: ./pavoque/StefanPoker/wav/m0314.wav
   date: 2007-10-29T11:57:16+0100
   style: poker
+  text: Van Eede prägte den Begriff luzides Träumen.
 - prompt: m0315
   file: ./pavoque/StefanPoker/wav/m0315.wav
   date: 2007-10-29T11:57:24+0100
   style: poker
+  text: Dieser wird als Quark Gluon Plasma bezeichnet.
 - prompt: m0317
   file: ./pavoque/StefanPoker/wav/m0317.wav
   date: 2007-10-29T11:58:08+0100
   style: poker
+  text: Über eine Brücke ist sie mit Öckerö verbunden.
 - prompt: m0318
   file: ./pavoque/StefanPoker/wav/m0318.wav
   date: 2007-10-29T11:59:32+0100
   style: poker
+  text: In diesen Jahren wurden die Trink, und Abwasserleitungen rund um Gyöngyös erbaut, Parks und Ruheplätze wurden ausgewiesen und neue Hotels errichtet.
 - prompt: m0319
   file: ./pavoque/StefanPoker/wav/m0319.wav
   date: 2007-10-29T11:59:42+0100
   style: poker
+  text: Mögliche männliche Endungen von Adjektiven sind- as,- ias,- us und- is;
 - prompt: m0320
   file: ./pavoque/StefanPoker/wav/m0320.wav
   date: 2007-10-29T11:59:52+0100
   style: poker
+  text: 'Siehe auch: Videoschnitt, Freeze Frame.'
 - prompt: m0321
   file: ./pavoque/StefanPoker/wav/m0321.wav
   date: 2007-10-29T12:00:04+0100
   style: poker
+  text: Sculley sah für den Knowledge Navigator keine spezifische Form vor;
 - prompt: m0322
   file: ./pavoque/StefanPoker/wav/m0322.wav
   date: 2007-10-29T12:00:34+0100
   style: poker
+  text: Bis zum Tode Mao Zedongs folgte die der Politik Chinas ohne Einschränkungen.
 - prompt: m0323
   file: ./pavoque/StefanPoker/wav/m0323.wav
   date: 2007-10-29T12:00:44+0100
   style: poker
+  text: 'Siehe auch: Major Label, Independent.'
 - prompt: m0324
   file: ./pavoque/StefanPoker/wav/m0324.wav
   date: 2007-10-29T12:00:52+0100
   style: poker
+  text: 'Siehe auch: Liste der Grimoires.'
 - prompt: m0326
   file: ./pavoque/StefanPoker/wav/m0326.wav
   date: 2007-10-29T12:01:10+0100
   style: poker
+  text: 'In: Konrad Heresbach.'
 - prompt: m0327
   file: ./pavoque/StefanPoker/wav/m0327.wav
   date: 2007-10-29T12:01:58+0100
   style: poker
+  text: Bekanntester Export dürfte der aus Lavelanet stammende Torwart Fabien Barthez sein.
 - prompt: m0328
   file: ./pavoque/StefanPoker/wav/m0328.wav
   date: 2007-10-29T12:02:08+0100
   style: poker
+  text: Der Jojoba Strauch ist also in China nicht heimisch.
 - prompt: m0329
   file: ./pavoque/StefanPoker/wav/m0329.wav
   date: 2007-10-29T12:02:18+0100
   style: poker
+  text: Klingnau gehörte nun zum kurzlebigen Kanton Baden.
 - prompt: m0330
   file: ./pavoque/StefanPoker/wav/m0330.wav
   date: 2007-10-29T12:02:46+0100
   style: poker
+  text: 'Siehe auch: Cocktails, Grog, Pharisäer.'
 - prompt: m0331
   file: ./pavoque/StefanPoker/wav/m0331.wav
   date: 2007-10-29T12:02:58+0100
   style: poker
+  text: Daraufhin wurde Huiyuan aus der Hua Yen Schule ausgeschlossen.
 - prompt: m0332
   file: ./pavoque/StefanPoker/wav/m0332.wav
   date: 2007-10-29T12:03:06+0100
   style: poker
+  text: Ihr gehörte auch Georges Bidault an.
 - prompt: m0333
   file: ./pavoque/StefanPoker/wav/m0333.wav
   date: 2007-10-29T12:03:28+0100
   style: poker
+  text: 'Zitat des Regisseurs: "You know what Germany looks like?"'
 - prompt: m0334
   file: ./pavoque/StefanPoker/wav/m0334.wav
   date: 2007-10-29T12:03:56+0100
   style: poker
+  text: Zum Beispiel sind die reellen Zahlen vollständig, aber homöomorph zum offenen Intervall.
 - prompt: m0335
   file: ./pavoque/StefanPoker/wav/m0335.wav
   date: 2007-10-29T12:04:08+0100
   style: poker
+  text: 'Außerdem spielte er in Das Traumschiff (Episode: Seychellen) mit.'
 - prompt: m0336
   file: ./pavoque/StefanPoker/wav/m0336.wav
   date: 2007-10-29T12:04:18+0100
   style: poker
+  text: Derzeit wird Russland von dem Niederländer Guus Hiddink trainiert.
 - prompt: m0337
   file: ./pavoque/StefanPoker/wav/m0337.wav
   date: 2007-10-29T12:04:30+0100
   style: poker
+  text: Cyanid, Salze der Blausäure (Kaliumcyanid) wirken bei der Hydrolyse stark basisch/ alkalisch.
 - prompt: m0338
   file: ./pavoque/StefanPoker/wav/m0338.wav
   date: 2007-10-29T12:04:40+0100
   style: poker
+  text: Ihr Sound wurde als Power Pop beschrieben.
 - prompt: m0339
   file: ./pavoque/StefanPoker/wav/m0339.wav
   date: 2007-10-29T12:04:50+0100
   style: poker
+  text: Prüfungen gibt es ab dem sechsten Kyu.
 - prompt: m0341
   file: ./pavoque/StefanPoker/wav/m0341.wav
   date: 2007-10-29T12:06:14+0100
   style: poker
+  text: Diese Situation bezeichnet man als "Cohabitation".
 - prompt: m0342
   file: ./pavoque/StefanPoker/wav/m0342.wav
   date: 2007-10-29T12:06:24+0100
   style: poker
+  text: Er beginnt an einem kleinen Platz, der Arbat Pforte (Arbatskije Worota).
 - prompt: m0343
   file: ./pavoque/StefanPoker/wav/m0343.wav
   date: 2007-10-29T12:06:36+0100
   style: poker
+  text: Bueil ist der Name mehrerer geografischer Objekte in Frankreich;
 - prompt: m0344
   file: ./pavoque/StefanPoker/wav/m0344.wav
   date: 2007-10-29T12:06:46+0100
   style: poker
+  text: Der Fluss Shabeelle fließt aus Äthiopien kommend durch die Region.
 - prompt: m0345
   file: ./pavoque/StefanPoker/wav/m0345.wav
   date: 2007-10-29T12:06:56+0100
   style: poker
+  text: Wer ist zum Beispiel Jan Pavol?
 - prompt: m0346
   file: ./pavoque/StefanPoker/wav/m0346.wav
   date: 2007-10-29T12:07:36+0100
   style: poker
+  text: Kupferschiefer wurde im Perm, dem letzten Abschnitt des Erdaltertums (Paläozoikum) gebildet.
 - prompt: m0347
   file: ./pavoque/StefanPoker/wav/m0347.wav
   date: 2007-10-29T12:07:48+0100
   style: poker
+  text: Danach bereiste er dann doch noch China, wo er sich unter Anderem in Shanghai aufhielt.
 - prompt: m0348
   file: ./pavoque/StefanPoker/wav/m0348.wav
   date: 2007-10-29T12:08:16+0100
   style: poker
+  text: Sie gehört zu den Gur Sprachen.
 - prompt: m0349
   file: ./pavoque/StefanPoker/wav/m0349.wav
   date: 2007-10-29T12:08:28+0100
   style: poker
+  text: Das Epos, von altgriechisch "Wort, der Vers", dann auch "die Erzählung, das Gedicht";
 - prompt: m0350
   file: ./pavoque/StefanPoker/wav/m0350.wav
   date: 2007-10-29T12:08:50+0100
   style: poker
+  text: 'Quelle: Peter Heyworth: Gespräche mit Klemperer.'
 - prompt: m0351
   file: ./pavoque/StefanPoker/wav/m0351.wav
   date: 2007-10-29T12:09:02+0100
   style: poker
+  text: In der jüngeren Geschichte gewann Euböa erst im Vierten Kreuzzug wieder an Bedeutung.
 - prompt: m0353
   file: ./pavoque/StefanPoker/wav/m0353.wav
   date: 2007-10-29T12:09:20+0100
   style: poker
+  text: Im Département liegt der Flughafen Marseille.
 - prompt: m0354
   file: ./pavoque/StefanPoker/wav/m0354.wav
   date: 2007-10-29T12:09:30+0100
   style: poker
+  text: Laut Suchoi besteht erst ein Auftrag über achtzehn Maschinen.
 - prompt: m0355
   file: ./pavoque/StefanPoker/wav/m0355.wav
   date: 2007-10-29T12:09:40+0100
   style: poker
+  text: Eric Judy löste John Wickart ab.
 - prompt: m0356
   file: ./pavoque/StefanPoker/wav/m0356.wav
   date: 2007-10-29T12:09:50+0100
   style: poker
+  text: Einen entsprechenden Beschluss des Sejm gibt es noch nicht.
 - prompt: m0357
   file: ./pavoque/StefanPoker/wav/m0357.wav
   date: 2007-10-29T12:10:00+0100
   style: poker
+  text: Sie riechen intensiv nach Pfeffer.
 - prompt: m0358
   file: ./pavoque/StefanPoker/wav/m0358.wav
   date: 2007-10-29T12:10:10+0100
   style: poker
+  text: 'Unter der Bezeichnung Ring of Fire versteht man:'
 - prompt: m0359
   file: ./pavoque/StefanPoker/wav/m0359.wav
   date: 2007-10-29T12:10:20+0100
   style: poker
+  text: 'Siehe auch: Lederwaren, Portefeuille, Feintäschner.'
 - prompt: m0360
   file: ./pavoque/StefanPoker/wav/m0360.wav
   date: 2007-10-29T12:10:50+0100
   style: poker
+  text: Mit seinem Markenzeichen, dem cucchiaio, eigentlich Löffel;
 - prompt: m0361
   file: ./pavoque/StefanPoker/wav/m0361.wav
   date: 2007-10-29T12:10:58+0100
   style: poker
+  text: Das Drehbuch schrieb Charlie Kaufman.
 - prompt: m0362
   file: ./pavoque/StefanPoker/wav/m0362.wav
   date: 2007-10-29T12:11:22+0100
   style: poker
+  text: Im Urbar wurde See als Gmain Nachbarschaft erwähnt.
 - prompt: m0363
   file: ./pavoque/StefanPoker/wav/m0363.wav
   date: 2007-10-29T12:11:34+0100
   style: poker
+  text: Stilistisch werden die Deine Lakaien vornehmlich dem Dark Wave Genre zugewiesen.
 - prompt: m0364
   file: ./pavoque/StefanPoker/wav/m0364.wav
   date: 2007-10-29T12:11:44+0100
   style: poker
+  text: Dann trafen die Fußtruppen aufeinander und der Kampf wogte hin und her.
 - prompt: m0365
   file: ./pavoque/StefanPoker/wav/m0365.wav
   date: 2007-10-29T12:12:36+0100
   style: poker
+  text: Bei Katzen ist das Medikament der ersten Wahl Diazepam oder Phenobarbital.
 - prompt: m0366
   file: ./pavoque/StefanPoker/wav/m0366.wav
   date: 2007-10-29T12:12:44+0100
   style: poker
+  text: 'Siehe auch: Mesoamerika.'
 - prompt: poker_n0139
   file: ./pavoque/StefanPoker/wav/poker_n0139.wav
   date: 2007-10-29T12:14:24+0100
   style: poker
+  text: Ich wusste, dass ich den Pott kriegen würde.
 - prompt: poker_n0140
   file: ./pavoque/StefanPoker/wav/poker_n0140.wav
   date: 2007-10-29T12:14:34+0100
   style: poker
+  text: Mit der Hand hätte sogar meine Oma den Pott geholt.
 - prompt: poker_n0141
   file: ./pavoque/StefanPoker/wav/poker_n0141.wav
   date: 2007-10-29T12:14:58+0100
   style: poker
+  text: Man muss eben auch mal Glück haben.
 - prompt: poker_n0144
   file: ./pavoque/StefanPoker/wav/poker_n0144.wav
   date: 2007-10-29T12:15:20+0100
   style: poker
+  text: Also los. Karten einsammeln und weiter geht’s.
 - prompt: poker_n0145
   file: ./pavoque/StefanPoker/wav/poker_n0145.wav
   date: 2007-10-29T12:15:24+0100
   style: poker
+  text: Neues Spiel neues Glück.
 - prompt: poker_n0146
   file: ./pavoque/StefanPoker/wav/poker_n0146.wav
   date: 2007-10-29T12:15:40+0100
   style: poker
+  text: Sie hören doch jetzt noch nicht auf, oder?
 - prompt: poker_n0147
   file: ./pavoque/StefanPoker/wav/poker_n0147.wav
   date: 2007-10-29T12:15:48+0100
   style: poker
+  text: Sie wollen doch bestimmt noch mal spielen, oder?
 - prompt: poker_n0148
   file: ./pavoque/StefanPoker/wav/poker_n0148.wav
   date: 2007-10-29T12:15:56+0100
   style: poker
+  text: Das war doch hoffentlich nicht das letzte Spiel für Sie, oder?
 - prompt: poker_n0150
   file: ./pavoque/StefanPoker/wav/poker_n0150.wav
   date: 2007-10-29T12:16:10+0100
   style: poker
+  text: Schade, dass Sie schon aufhören wollen.
 - prompt: poker_n0151
   file: ./pavoque/StefanPoker/wav/poker_n0151.wav
   date: 2007-10-29T12:16:16+0100
   style: poker
+  text: Tja, Sie sind nicht so ausdauernd wie ich dachte.
 - prompt: poker_n0152
   file: ./pavoque/StefanPoker/wav/poker_n0152.wav
   date: 2007-10-29T12:16:24+0100
   style: poker
+  text: Ihnen ist wohl die Lust am Pokern vergangen.
 - prompt: poker_n0153
   file: ./pavoque/StefanPoker/wav/poker_n0153.wav
   date: 2007-10-29T12:16:32+0100
   style: poker
+  text: Tja, dann müssen wir wohl ohne Sie weitermachen.
 - prompt: poker_n0154
   file: ./pavoque/StefanPoker/wav/poker_n0154.wav
   date: 2007-10-29T12:16:40+0100
   style: poker
+  text: Vielleicht kommt ja bald jemand vorbei, der mehr Ausdauer hat.
 - prompt: poker_n0155
   file: ./pavoque/StefanPoker/wav/poker_n0155.wav
   date: 2007-10-29T12:16:46+0100
   style: poker
+  text: Schönen Tag noch!
 - prompt: poker_n0156
   file: ./pavoque/StefanPoker/wav/poker_n0156.wav
   date: 2007-10-29T12:16:50+0100
   style: poker
+  text: Bis demnächst mal.
 - prompt: m0369
   file: ./pavoque/StefanPoker/wav/m0369.wav
   date: 2007-10-29T12:18:20+0100
   style: poker
+  text: 'Belindas Fahrrad Inhalt: Quack, der Hüpffrosch;'
 - prompt: m0370
   file: ./pavoque/StefanPoker/wav/m0370.wav
   date: 2007-10-29T12:18:30+0100
   style: poker
+  text: In der Peptidchemie wird der Stoff ebenfalls oft eingesetzt.
 - prompt: m0371
   file: ./pavoque/StefanPoker/wav/m0371.wav
   date: 2007-10-29T12:18:40+0100
   style: poker
+  text: Er erwähnt einen Tanz, der Chakuuya genannt wurde.
 - prompt: m0372
   file: ./pavoque/StefanPoker/wav/m0372.wav
   date: 2007-10-29T12:19:06+0100
   style: poker
+  text: Der Buddha als kosmisches Prinzip (Dharmakaya) wird ursprünglicher Buddha genannt.
 - prompt: m0374
   file: ./pavoque/StefanPoker/wav/m0374.wav
   date: 2007-10-29T12:19:42+0100
   style: poker
+  text: Keanu Reeves spielt die Hauptrolle.
 - prompt: m0375
   file: ./pavoque/StefanPoker/wav/m0375.wav
   date: 2007-10-29T12:19:56+0100
   style: poker
+  text: Sein Sohn Nile wurde zwei Tausend fünf von seiner Partnerin Ayo, einer deutschen Soul Sängerin, geboren.
 - prompt: m0376
   file: ./pavoque/StefanPoker/wav/m0376.wav
   date: 2007-10-29T12:20:06+0100
   style: poker
+  text: Es bildeten sich koreanische Nachfolgestaaten von Go Joseon.
 - prompt: m0378
   file: ./pavoque/StefanPoker/wav/m0378.wav
   date: 2007-10-29T12:20:28+0100
   style: poker
+  text: 'Und: Er brachte sich Färöisch bei.'
 - prompt: m0379
   file: ./pavoque/StefanPoker/wav/m0379.wav
   date: 2007-10-29T12:21:52+0100
   style: poker
+  text: Reichraming heißt also "reicher Fischbach", gemeint dabei ist der Reichramingbach.
 - prompt: m0380
   file: ./pavoque/StefanPoker/wav/m0380.wav
   date: 2007-10-29T12:22:00+0100
   style: poker
+  text: Háj ist der Name mehrerer Orte.
 - prompt: m0381
   file: ./pavoque/StefanPoker/wav/m0381.wav
   date: 2007-10-29T12:22:10+0100
   style: poker
+  text: Sie wird dem Komplex minimal invasive Chirurgie zugeordnet.
 - prompt: m0382
   file: ./pavoque/StefanPoker/wav/m0382.wav
   date: 2007-10-29T12:22:22+0100
   style: poker
+  text: Die Stadt Strausberg besteht aus den Gemarkungen Strausberg, Hohenstein und Ruhlsdorf.
 - prompt: m0383
   file: ./pavoque/StefanPoker/wav/m0383.wav
   date: 2007-10-29T12:22:32+0100
   style: poker
+  text: Seine Frau Dagmar Ploetz ist Übersetzerin.
 - prompt: m0385
   file: ./pavoque/StefanPoker/wav/m0385.wav
   date: 2007-10-29T12:22:52+0100
   style: poker
+  text: Sie liegt nördlich von Lörrach.
 - prompt: m0386
   file: ./pavoque/StefanPoker/wav/m0386.wav
   date: 2007-10-29T12:23:36+0100
   style: poker
+  text: Sie hatten drei Kinder Elizabeth Rose, Richard und Robert.
 - prompt: m0387
   file: ./pavoque/StefanPoker/wav/m0387.wav
   date: 2007-10-29T12:23:46+0100
   style: poker
+  text: Nach jedem Spruch wird ein lautes „Priis“ angehängt.
 - prompt: m0389
   file: ./pavoque/StefanPoker/wav/m0389.wav
   date: 2007-10-29T12:24:36+0100
   style: poker
+  text: Saig lebt vorwiegend vom Fremdenverkehr.
 - prompt: m0390
   file: ./pavoque/StefanPoker/wav/m0390.wav
   date: 2007-10-29T12:24:48+0100
   style: poker
+  text: Gaius Papirius Carbo hatte einen gleichnamigen Sohn, siehe Gaius Papirius Carbo (Sohn).
 - prompt: m0391
   file: ./pavoque/StefanPoker/wav/m0391.wav
   date: 2007-10-29T12:25:26+0100
   style: poker
+  text: 'Die Insel hat zwei Häfen: Blowing Point und Road Bay.'
 - prompt: m0393
   file: ./pavoque/StefanPoker/wav/m0393.wav
   date: 2007-10-29T12:25:44+0100
   style: poker
+  text: Bei den Amphibien fehlt die Clavicula.
 - prompt: m0394
   file: ./pavoque/StefanPoker/wav/m0394.wav
   date: 2007-10-29T12:25:54+0100
   style: poker
+  text: Charakteristisch ist auch der weithin hörbare „hiäh“ Ruf des Bussards.
 - prompt: m0395
   file: ./pavoque/StefanPoker/wav/m0395.wav
   date: 2007-10-29T12:26:18+0100
   style: poker
+  text: Morris Louis (eigentlich Morris Louis Bernstein);
 - prompt: m0396
   file: ./pavoque/StefanPoker/wav/m0396.wav
   date: 2007-10-29T12:26:58+0100
   style: poker
+  text: Goethe schreibt, die Alten nannten den rotgesprengten Granit Syenit von Syene.
 - prompt: m0397
   file: ./pavoque/StefanPoker/wav/m0397.wav
   date: 2007-10-29T12:27:10+0100
   style: poker
+  text: Sie bietet Kabarett, Theater und Literatur und befindet sich in Rheydt.
 - prompt: m0398
   file: ./pavoque/StefanPoker/wav/m0398.wav
   date: 2007-10-29T12:27:20+0100
   style: poker
+  text: 'Ein Tausend neun Hundert neunzig: Anlässlich einer Aktion der O Ö.'
 - prompt: m0400
   file: ./pavoque/StefanPoker/wav/m0400.wav
   date: 2007-10-29T12:28:56+0100
   style: poker
+  text: Jedoch wird bei Wahlen kein Druck auf Mitglieder ausgeübt, die Komeito zu wählen.
 - prompt: m0151
   file: ./pavoque/StefanPoker/wav/m0151.wav
   date: 2007-10-29T12:30:00+0100
   style: poker
+  text: Die Anknüpfung ist offensichtlich.
 - prompt: m0153
   file: ./pavoque/StefanPoker/wav/m0153.wav
   date: 2007-10-29T12:30:32+0100
   style: poker
+  text: Die wollte eine föderale Verfassung durchsetzen.
 - prompt: m0154
   file: ./pavoque/StefanPoker/wav/m0154.wav
   date: 2007-10-29T12:30:40+0100
   style: poker
+  text: Eigentlich Ruth Elizabeth Davis, war eine amerikanische Schauspielerin.
 - prompt: m0155
   file: ./pavoque/StefanPoker/wav/m0155.wav
   date: 2007-10-29T12:30:48+0100
   style: poker
+  text: So hat zwei Tausend drei Prinz Charles das Spiel eröffnet.
 - prompt: m0156
   file: ./pavoque/StefanPoker/wav/m0156.wav
   date: 2007-10-29T12:31:12+0100
   style: poker
+  text: Die Fassade war wohl mit acht Säulen geschmückt und zwanzig Meter hoch.
 - prompt: m0157
   file: ./pavoque/StefanPoker/wav/m0157.wav
   date: 2007-10-29T12:31:18+0100
   style: poker
+  text: Nur die Böcke tragen Hörner;
 - prompt: m0158
   file: ./pavoque/StefanPoker/wav/m0158.wav
   date: 2007-10-29T12:31:24+0100
   style: poker
+  text: Statt des a kann ein ä stehen.
 - prompt: m0160
   file: ./pavoque/StefanPoker/wav/m0160.wav
   date: 2007-10-29T12:31:38+0100
   style: poker
+  text: Keine Sintflut für Noah.
 - prompt: m0159
   file: ./pavoque/StefanPoker/wav/m0159.wav
   date: 2007-10-29T12:31:54+0100
   style: poker
+  text: Ab Lyon fließt er von Nord nach Süd.
 - prompt: m0161
   file: ./pavoque/StefanPoker/wav/m0161.wav
   date: 2007-10-29T12:32:26+0100
   style: poker
+  text: Als Ersatz empfehlen sich förmlichere Verabschiedungen wie Adieu und auf Wiedersehen.
 - prompt: m0163
   file: ./pavoque/StefanPoker/wav/m0163.wav
   date: 2007-10-29T12:32:40+0100
   style: poker
+  text: Bereits früh starb Dagobert;
 - prompt: m0164
   file: ./pavoque/StefanPoker/wav/m0164.wav
   date: 2007-10-29T12:32:46+0100
   style: poker
+  text: Mike Pflüger nahm seinen Platz ein.
 - prompt: m0165
   file: ./pavoque/StefanPoker/wav/m0165.wav
   date: 2007-10-29T12:32:54+0100
   style: poker
+  text: Diese Bemühungen scheiterten jedoch.
 - prompt: m0162
   file: ./pavoque/StefanPoker/wav/m0162.wav
   date: 2007-10-29T12:33:50+0100
   style: poker
+  text: Es ermöglicht vielen Homöopathen eine leichtere Arbeit.
 - prompt: m0167
   file: ./pavoque/StefanPoker/wav/m0167.wav
   date: 2007-10-29T12:34:04+0100
   style: poker
+  text: Es waren mehr Trampelpfade.
 - prompt: m0168
   file: ./pavoque/StefanPoker/wav/m0168.wav
   date: 2007-10-29T12:34:14+0100
   style: poker
+  text: Bei mechanisch gesteuerten Instrumenten findet Holz oft auch für die Mechanik Verwendung.
 - prompt: m0169
   file: ./pavoque/StefanPoker/wav/m0169.wav
   date: 2007-10-29T12:34:22+0100
   style: poker
+  text: Er systematisierte die Resultate von George Boole.
 - prompt: m0171
   file: ./pavoque/StefanPoker/wav/m0171.wav
   date: 2007-10-29T12:34:48+0100
   style: poker
+  text: Peter Pichler, Akkordeon;
 - prompt: m0172
   file: ./pavoque/StefanPoker/wav/m0172.wav
   date: 2007-10-29T12:34:56+0100
   style: poker
+  text: Als Major war er der ranghöchste der zwanzig Kandidaten.
 - prompt: m0173
   file: ./pavoque/StefanPoker/wav/m0173.wav
   date: 2007-10-29T12:35:04+0100
   style: poker
+  text: Bleibt in euren Hütten, euren Zelten!
 - prompt: m0174
   file: ./pavoque/StefanPoker/wav/m0174.wav
   date: 2007-10-29T12:35:10+0100
   style: poker
+  text: Das Dorf gehört zum Rhein Pfalz Kreis.
 - prompt: m0175
   file: ./pavoque/StefanPoker/wav/m0175.wav
   date: 2007-10-29T12:35:16+0100
   style: poker
+  text: Eine Drohung vereinfacht;
 - prompt: m0176
   file: ./pavoque/StefanPoker/wav/m0176.wav
   date: 2007-10-29T12:35:22+0100
   style: poker
+  text: Können Sie meine Pfeife stopfen?
 - prompt: m0177
   file: ./pavoque/StefanPoker/wav/m0177.wav
   date: 2007-10-29T12:35:58+0100
   style: poker
+  text: Zöllner warteten in Chile.
 - prompt: m0178
   file: ./pavoque/StefanPoker/wav/m0178.wav
   date: 2007-10-29T12:36:40+0100
   style: poker
+  text: Trotz ihres hohen Anspruchs hatte Pardon von Anfang an Erfolg.
 - prompt: m0179
   file: ./pavoque/StefanPoker/wav/m0179.wav
   date: 2007-10-29T12:36:48+0100
   style: poker
+  text: Es folgten zahlreiche Auftritte des Duos Edwards/ Frank bis heute.
 - prompt: m0181
   file: ./pavoque/StefanPoker/wav/m0181.wav
   date: 2007-10-29T12:37:02+0100
   style: poker
+  text: Diesen Wettkampf gewann am Ende Boeing.
 - prompt: m0182
   file: ./pavoque/StefanPoker/wav/m0182.wav
   date: 2007-10-29T12:37:10+0100
   style: poker
+  text: Zwei Hundert siebzig erreichte sie die Wiedervereinigung Chinas.
 - prompt: m0183
   file: ./pavoque/StefanPoker/wav/m0183.wav
   date: 2007-10-29T12:37:18+0100
   style: poker
+  text: Ihre Liaison hielt vier Jahre lang.
 - prompt: m0184
   file: ./pavoque/StefanPoker/wav/m0184.wav
   date: 2007-10-29T12:37:26+0100
   style: poker
+  text: Die Eltern tauften sie auf den Namen Shirley nach Shirley Temple.
 - prompt: m0185
   file: ./pavoque/StefanPoker/wav/m0185.wav
   date: 2007-10-29T12:37:34+0100
   style: poker
+  text: Ich wollte wieder in Richtung Pforte gehen.
 - prompt: m0186
   file: ./pavoque/StefanPoker/wav/m0186.wav
   date: 2007-10-29T12:38:02+0100
   style: poker
+  text: 'Der Begriff Hai bezeichnet: Siehe auch: Hey.'
 - prompt: m0189
   file: ./pavoque/StefanPoker/wav/m0189.wav
   date: 2007-10-29T12:38:30+0100
   style: poker
+  text: Der Kopf muss kühl bleiben.
 - prompt: m0190
   file: ./pavoque/StefanPoker/wav/m0190.wav
   date: 2007-10-29T12:38:38+0100
   style: poker
+  text: Diese verursachten ein Verkehrschaos im Stadtzentrum.
 - prompt: m0191
   file: ./pavoque/StefanPoker/wav/m0191.wav
   date: 2007-10-29T12:38:46+0100
   style: poker
+  text: Sie war der Göttin Freya geweiht.
 - prompt: m0192
   file: ./pavoque/StefanPoker/wav/m0192.wav
   date: 2007-10-29T12:38:52+0100
   style: poker
+  text: Die Bauweise ist vom Boden abhängig.
 - prompt: m0193
   file: ./pavoque/StefanPoker/wav/m0193.wav
   date: 2007-10-29T12:39:00+0100
   style: poker
+  text: 'Für ideale Gase gilt: siehe Joule Versuch.'
 - prompt: m0194
   file: ./pavoque/StefanPoker/wav/m0194.wav
   date: 2007-10-29T12:39:08+0100
   style: poker
+  text: Man spricht deswegen von einem Zero Knowledge Protokoll.
 - prompt: m0195
   file: ./pavoque/StefanPoker/wav/m0195.wav
   date: 2007-10-29T12:39:14+0100
   style: poker
+  text: Es gibt auch petrochemische Industrie.
 - prompt: m0196
   file: ./pavoque/StefanPoker/wav/m0196.wav
   date: 2007-10-29T12:39:20+0100
   style: poker
+  text: Böblingen war die "Brücke zur Welt".
 - prompt: m0197
   file: ./pavoque/StefanPoker/wav/m0197.wav
   date: 2007-10-29T12:39:40+0100
   style: poker
+  text: Dabei handelte es sich um eine deutsch tschechische Koproduktion.
 - prompt: m0198
   file: ./pavoque/StefanPoker/wav/m0198.wav
   date: 2007-10-29T12:39:48+0100
   style: poker
+  text: Das Weibchen legt im Durchschnitt zwei Eier.
 - prompt: m0199
   file: ./pavoque/StefanPoker/wav/m0199.wav
   date: 2007-10-29T12:39:56+0100
   style: poker
+  text: Beide fuhren in einem Auto Konvoi in die Innenstadt.
 - prompt: m0200
   file: ./pavoque/StefanPoker/wav/m0200.wav
   date: 2007-10-29T12:40:18+0100
   style: poker
+  text: Deines Wappens tapfrer Reiter möge Schutz und Schirm dir sein;
 - prompt: m0201
   file: ./pavoque/StefanPoker/wav/m0201.wav
   date: 2007-10-29T12:40:24+0100
   style: poker
+  text: Siehe auch tektonische Mélange.
 - prompt: m0202
   file: ./pavoque/StefanPoker/wav/m0202.wav
   date: 2007-10-29T12:40:34+0100
   style: poker
+  text: Mag die Fremde auch noch so herrlich sein, niemals, mein Dörfchen, vergesse ich dein.
 - prompt: m0203
   file: ./pavoque/StefanPoker/wav/m0203.wav
   date: 2007-10-29T12:40:40+0100
   style: poker
+  text: Nein, nein, und nochmals nein!
 - prompt: m0205
   file: ./pavoque/StefanPoker/wav/m0205.wav
   date: 2007-10-29T12:41:00+0100
   style: poker
+  text: Hierzu kam es nicht mehr, weil Tschaikowski unvermittelt starb.
 - prompt: m0206
   file: ./pavoque/StefanPoker/wav/m0206.wav
   date: 2007-10-29T12:41:18+0100
   style: poker
+  text: Diese Ablehnung überwand Audrey Richards durch ihre stetige Arbeit.
 - prompt: m0207
   file: ./pavoque/StefanPoker/wav/m0207.wav
   date: 2007-10-29T12:41:26+0100
   style: poker
+  text: Pfuhl, Stahl, stehlen, stöhnen;
 - prompt: m0209
   file: ./pavoque/StefanPoker/wav/m0209.wav
   date: 2007-10-29T12:41:40+0100
   style: poker
+  text: Neu hinzu gekommene Partner sind die Nord, Bosch und TUI.
 - prompt: m0211
   file: ./pavoque/StefanPoker/wav/m0211.wav
   date: 2007-10-29T12:42:08+0100
   style: poker
+  text: Therese blieb unverheiratet.
 - prompt: m0212
   file: ./pavoque/StefanPoker/wav/m0212.wav
   date: 2007-10-29T12:42:16+0100
   style: poker
+  text: Danach verbrachte er seinen Ruhestand in Celle.
 - prompt: m0213
   file: ./pavoque/StefanPoker/wav/m0213.wav
   date: 2007-10-29T12:42:24+0100
   style: poker
+  text: Sein ebenfalls im Jahr zwei Tausend veröffentlichtes Album Wow!
 - prompt: m0214
   file: ./pavoque/StefanPoker/wav/m0214.wav
   date: 2007-10-29T12:42:30+0100
   style: poker
+  text: Der Geprellte schäumt vor Wut.
 - prompt: m0215
   file: ./pavoque/StefanPoker/wav/m0215.wav
   date: 2007-10-29T12:42:38+0100
   style: poker
+  text: Die ausschlüpfenden Jungen erfahren keine Metamorphose;
 - prompt: m0217
   file: ./pavoque/StefanPoker/wav/m0217.wav
   date: 2007-10-29T12:43:12+0100
   style: poker
+  text: Die Stadt selbst liegt an der Nahe.
 - prompt: m0218
   file: ./pavoque/StefanPoker/wav/m0218.wav
   date: 2007-10-29T12:43:30+0100
   style: poker
+  text: Dort verletzt er Cynthia mit einem Messer schwer.
 - prompt: m0219
   file: ./pavoque/StefanPoker/wav/m0219.wav
   date: 2007-10-29T12:43:38+0100
   style: poker
+  text: Gestorben am elften September neunzehn Hundert neunzig bei Alzey, war ein deutscher Jurist.
 - prompt: m0220
   file: ./pavoque/StefanPoker/wav/m0220.wav
   date: 2007-10-29T12:43:58+0100
   style: poker
+  text: Der jeweilige Text wurde von einem Flash Speicher abgespielt.
 - prompt: m0221
   file: ./pavoque/StefanPoker/wav/m0221.wav
   date: 2007-10-29T12:44:04+0100
   style: poker
+  text: Die Würste ziehen rasch durch.
 - prompt: m0222
   file: ./pavoque/StefanPoker/wav/m0222.wav
   date: 2007-10-29T12:44:36+0100
   style: poker
+  text: In den Hauptrollen sind Nicolas Cage, Meryl Streep und Chris Cooper zu sehen.
 - prompt: m0223
   file: ./pavoque/StefanPoker/wav/m0223.wav
   date: 2007-10-29T12:45:30+0100
   style: poker
+  text: Die Hauptrolle spielte Sean Connery nach zwölf Jahren Pause von der Rolle.
 - prompt: m0224
   file: ./pavoque/StefanPoker/wav/m0224.wav
   date: 2007-10-29T12:45:36+0100
   style: poker
+  text: Jean selbst war der Großvater des Königs Franz.
 - prompt: m0226
   file: ./pavoque/StefanPoker/wav/m0226.wav
   date: 2007-10-29T12:45:54+0100
   style: poker
+  text: Die Howard Stern Show ist eine Radio Talkshow.
 - prompt: m0227
   file: ./pavoque/StefanPoker/wav/m0227.wav
   date: 2007-10-29T12:46:12+0100
   style: poker
+  text: Er signierte seine Werke mit Gräbner, Franz Gräbner oder nur Gräbner.
 - prompt: m0228
   file: ./pavoque/StefanPoker/wav/m0228.wav
   date: 2007-10-29T12:46:20+0100
   style: poker
+  text: Daneben wird Kautschuk angebaut und weiter verarbeitet.
 - prompt: m0229
   file: ./pavoque/StefanPoker/wav/m0229.wav
   date: 2007-10-29T12:46:30+0100
   style: poker
+  text: Nun, da beide im Ruhestand waren, nahmen sie ihre Korrespondenz wieder auf (Bernstein).
 - prompt: m0230
   file: ./pavoque/StefanPoker/wav/m0230.wav
   date: 2007-10-29T12:46:40+0100
   style: poker
+  text: Diese variiert von Mensch zu Mensch zwischen zehn und siebzig Stunden.
 - prompt: m0231
   file: ./pavoque/StefanPoker/wav/m0231.wav
   date: 2007-10-29T12:47:02+0100
   style: poker
+  text: Er unterstützte allerdings mit Überzeugung Roosevelts Politik des New Deal.
 - prompt: m0232
   file: ./pavoque/StefanPoker/wav/m0232.wav
   date: 2007-10-29T12:47:10+0100
   style: poker
+  text: Außerdem erreichte Borussia Dortmund das Champions League Halbfinale.
 - prompt: m0233
   file: ./pavoque/StefanPoker/wav/m0233.wav
   date: 2007-10-29T12:47:16+0100
   style: poker
+  text: Er ist faul und unfähig.
 - prompt: m0234
   file: ./pavoque/StefanPoker/wav/m0234.wav
   date: 2007-10-29T12:47:22+0100
   style: poker
+  text: Worauf setzt die Konkurrenz?
 - prompt: m0235
   file: ./pavoque/StefanPoker/wav/m0235.wav
   date: 2007-10-29T12:47:30+0100
   style: poker
+  text: Münden, in dem er regelmäßig logierte.
 - prompt: m0236
   file: ./pavoque/StefanPoker/wav/m0236.wav
   date: 2007-10-29T12:47:36+0100
   style: poker
+  text: Das kann zu Verwirrung führen.
 - prompt: m0237
   file: ./pavoque/StefanPoker/wav/m0237.wav
   date: 2007-10-29T12:48:16+0100
   style: poker
+  text: Die Fledermäuse jedoch werden durch diesen Geruch angelockt und bestäuben so den Baum.
 - prompt: m0238
   file: ./pavoque/StefanPoker/wav/m0238.wav
   date: 2007-10-29T12:48:24+0100
   style: poker
+  text: Liste tschechischer Philosophen, Liste tschechischer Schriftsteller.
 - prompt: m0239
   file: ./pavoque/StefanPoker/wav/m0239.wav
   date: 2007-10-29T12:48:32+0100
   style: poker
+  text: Sein Nachfolger wurde Gerold Wucherpfennig.
 - prompt: m0240
   file: ./pavoque/StefanPoker/wav/m0240.wav
   date: 2007-10-29T12:48:38+0100
   style: poker
+  text: Zuletzt arbeitete er als Pförtner.
 - prompt: m0241
   file: ./pavoque/StefanPoker/wav/m0241.wav
   date: 2007-10-29T12:48:48+0100
   style: poker
+  text: Der Kopf war von einer Kapuze verhüllt, und darüber trug man einen Hut.
 - prompt: m0242
   file: ./pavoque/StefanPoker/wav/m0242.wav
   date: 2007-10-29T12:48:56+0100
   style: poker
+  text: Wladimir Armand ging freiwillig mit ihr in die Verbannung.
 - prompt: m0243
   file: ./pavoque/StefanPoker/wav/m0243.wav
   date: 2007-10-29T12:49:08+0100
   style: poker
+  text: Um dies zu tun reicht die Zeit locker aus, die der Spieler benötigt um seinen Einsatz aus dem Portemonnaie zu holen.
 - prompt: m0244
   file: ./pavoque/StefanPoker/wav/m0244.wav
   date: 2007-10-29T12:49:14+0100
   style: poker
+  text: Er trat auch unter dem Pseudonym Bjarne auf.
 - prompt: m0245
   file: ./pavoque/StefanPoker/wav/m0245.wav
   date: 2007-10-29T12:49:22+0100
   style: poker
+  text: Die Stunde der Prüfung ist nahe.
 - prompt: m0246
   file: ./pavoque/StefanPoker/wav/m0246.wav
   date: 2007-10-29T12:49:28+0100
   style: poker
+  text: Nach der Schule erlernte er den Beruf des Drehers.
 - prompt: m0247
   file: ./pavoque/StefanPoker/wav/m0247.wav
   date: 2007-10-29T12:49:34+0100
   style: poker
+  text: 'George Jones ist der Name:'
 - prompt: m0248
   file: ./pavoque/StefanPoker/wav/m0248.wav
   date: 2007-10-29T12:49:42+0100
   style: poker
+  text: Von Geldern pilgerte nach Jerusalem.
 - prompt: m0249
   file: ./pavoque/StefanPoker/wav/m0249.wav
   date: 2007-10-29T12:49:48+0100
   style: poker
+  text: George sprach fließend deutsch.
 - prompt: poker_n0158
   file: ./pavoque/StefanPoker/wav/poker_n0158.wav
   date: 2007-10-29T12:50:26+0100
   style: poker
+  text: Lassen Sie sich mal wieder bei uns sehen.
 - prompt: poker_n0159
   file: ./pavoque/StefanPoker/wav/poker_n0159.wav
   date: 2007-10-29T12:50:32+0100
   style: poker
+  text: War nett mit Ihnen zu spielen.
 - prompt: poker_n0160
   file: ./pavoque/StefanPoker/wav/poker_n0160.wav
   date: 2007-10-29T12:50:40+0100
   style: poker
+  text: War doch ein netter Zeitvertreib, oder?
 - prompt: poker_n0161
   file: ./pavoque/StefanPoker/wav/poker_n0161.wav
   date: 2007-10-29T12:50:44+0100
   style: poker
+  text: Und tschüss!
 - prompt: poker_n0162
   file: ./pavoque/StefanPoker/wav/poker_n0162.wav
   date: 2007-10-29T12:50:50+0100
   style: poker
+  text: Wahnsinn!
 - prompt: poker_n0163
   file: ./pavoque/StefanPoker/wav/poker_n0163.wav
   date: 2007-10-29T12:50:54+0100
   style: poker
+  text: Unglaublich!
 - prompt: poker_n0164
   file: ./pavoque/StefanPoker/wav/poker_n0164.wav
   date: 2007-10-29T12:51:32+0100
   style: poker
+  text: Der blufft doch nur.
 - prompt: poker_n0165
   file: ./pavoque/StefanPoker/wav/poker_n0165.wav
   date: 2007-10-29T12:51:38+0100
   style: poker
+  text: Die blufft doch nur.
 - prompt: poker_n0166
   file: ./pavoque/StefanPoker/wav/poker_n0166.wav
   date: 2007-10-29T12:51:44+0100
   style: poker
+  text: Die Frau hat doch nix auf der Hand.
 - prompt: poker_n0167
   file: ./pavoque/StefanPoker/wav/poker_n0167.wav
   date: 2007-10-29T12:51:52+0100
   style: poker
+  text: Der Junge hat doch nix auf der Hand.
 - prompt: poker_n0169
   file: ./pavoque/StefanPoker/wav/poker_n0169.wav
   date: 2007-10-29T12:52:20+0100
   style: poker
+  text: Meinst du die Frau ist eingeschlafen?
 - prompt: poker_n0170
   file: ./pavoque/StefanPoker/wav/poker_n0170.wav
   date: 2007-10-29T12:52:40+0100
   style: poker
+  text: Sehr interessant!
 - prompt: poker_n0171
   file: ./pavoque/StefanPoker/wav/poker_n0171.wav
   date: 2007-10-29T12:53:08+0100
   style: poker
+  text: Dein Algorithmus besteht doch auch nur aus einer Handvoll Regeln.
 - prompt: poker_n0172
   file: ./pavoque/StefanPoker/wav/poker_n0172.wav
   date: 2007-10-29T12:53:18+0100
   style: poker
+  text: Bist Du auch nächste Woche in Vegas bei den World Series of Poker dabei?
 - prompt: poker_n0173
   file: ./pavoque/StefanPoker/wav/poker_n0173.wav
   date: 2007-10-29T12:53:26+0100
   style: poker
+  text: Das wievielte Spiel war das eben eigentlich?
 - prompt: poker_n0174
   file: ./pavoque/StefanPoker/wav/poker_n0174.wav
   date: 2007-10-29T12:53:32+0100
   style: poker
+  text: Sollen wir schon mal ein bißchen üben?
 - prompt: poker_n0175
   file: ./pavoque/StefanPoker/wav/poker_n0175.wav
   date: 2007-10-29T12:53:40+0100
   style: poker
+  text: Wenn das so ist, schweigen wir einfach mal ’ne Runde.
 - prompt: m0016
   file: ./pavoque/StefanPoker/wav/m0016.wav
   date: 2007-12-21T17:25:38+0100
   style: poker
+  text: 'Mähet statt mähe (Hochdeutsch: mähen).'
 - prompt: m0024
   file: ./pavoque/StefanPoker/wav/m0024.wav
   date: 2007-12-21T17:25:38+0100
   style: poker
+  text: Die Ernte kam sehr früh heim.
 - prompt: m0047
   file: ./pavoque/StefanPoker/wav/m0047.wav
   date: 2007-12-21T17:25:38+0100
   style: poker
+  text: Die Pygmäen helfen ihnen gerne.
 - prompt: m0048
   file: ./pavoque/StefanPoker/wav/m0048.wav
   date: 2007-12-21T17:25:38+0100
   style: poker
+  text: Danton war am zehnten Juli aus dem Ausschuss abberufen worden.
 - prompt: poker_n0004
   file: ./pavoque/StefanPoker/wav/poker_n0004.wav
   date: 2007-12-21T17:25:38+0100
   style: poker
+  text: Wir spielen Draw Poker.
 - prompt: m0115
   file: ./pavoque/StefanPoker/wav/m0115.wav
   date: 2007-12-21T17:25:39+0100
   style: poker
+  text: Der nächste Bahnhof befindet sich in Pasewalk.
 - prompt: m0122
   file: ./pavoque/StefanPoker/wav/m0122.wav
   date: 2007-12-21T17:25:39+0100
   style: poker
+  text: Sie lässt sich also durch die Gleichung F gleich q mal E beschreiben.
 - prompt: m0127
   file: ./pavoque/StefanPoker/wav/m0127.wav
   date: 2007-12-21T17:25:39+0100
   style: poker
+  text: Das gestaute Gewässer ist die Große Mittweida.
 - prompt: m0152
   file: ./pavoque/StefanPoker/wav/m0152.wav
   date: 2007-12-21T17:25:39+0100
   style: poker
+  text: Gegeben sind Physik, Chemie, Biologie, Geschichte, Sozialkunde, Erdkunde und Englisch.
 - prompt: m0166
   file: ./pavoque/StefanPoker/wav/m0166.wav
   date: 2007-12-21T17:25:39+0100
   style: poker
+  text: Am Sockel befindet sich auch ein Porträt Johann Duves.
 - prompt: m0170
   file: ./pavoque/StefanPoker/wav/m0170.wav
   date: 2007-12-21T17:25:39+0100
   style: poker
+  text: Meister wurde der Deutsche Rugby Club Hannover (Hannover).
 - prompt: m0180
   file: ./pavoque/StefanPoker/wav/m0180.wav
   date: 2007-12-21T17:25:39+0100
   style: poker
+  text: Es ist die Enterprise...
 - prompt: m0187
   file: ./pavoque/StefanPoker/wav/m0187.wav
   date: 2007-12-21T17:25:39+0100
   style: poker
+  text: Ein Zoologe betreibt Zoologie als Wissenschaft.
 - prompt: m0188
   file: ./pavoque/StefanPoker/wav/m0188.wav
   date: 2007-12-21T17:25:39+0100
   style: poker
+  text: Häufige Dürren taten ein Übriges.
 - prompt: m0204
   file: ./pavoque/StefanPoker/wav/m0204.wav
   date: 2007-12-21T17:25:40+0100
   style: poker
+  text: Er wird in drei Größen gezüchtet (über fünfzehn Zoll, zwölf bis fünfzehn Zoll und bis zwölf Zoll).
 - prompt: m0208
   file: ./pavoque/StefanPoker/wav/m0208.wav
   date: 2007-12-21T17:25:40+0100
   style: poker
+  text: Sitz des Bezirks ist Landshut.
 - prompt: m0210
   file: ./pavoque/StefanPoker/wav/m0210.wav
   date: 2007-12-21T17:25:40+0100
   style: poker
+  text: Sie hat eine Affäre mit Matthew.
 - prompt: m0216
   file: ./pavoque/StefanPoker/wav/m0216.wav
   date: 2007-12-21T17:25:40+0100
   style: poker
+  text: Man nimmt es in Form von Tabletten oder Zäpfchen ein oder appliziert intravenös.
 - prompt: m0225
   file: ./pavoque/StefanPoker/wav/m0225.wav
   date: 2007-12-21T17:25:40+0100
   style: poker
+  text: Jedes Jahr im November findet ein Gipfeltreffen der ASEAN Staaten statt.
 - prompt: m0263
   file: ./pavoque/StefanPoker/wav/m0263.wav
   date: 2007-12-21T17:25:40+0100
   style: poker
+  text: 'Siehe auch: Supercomputer.'
 - prompt: m0271
   file: ./pavoque/StefanPoker/wav/m0271.wav
   date: 2007-12-21T17:25:40+0100
   style: poker
+  text: Sie hatten zusammen zwei Kinder, Rahul und Priyanka.
 - prompt: m0273
   file: ./pavoque/StefanPoker/wav/m0273.wav
   date: 2007-12-21T17:25:40+0100
   style: poker
+  text: Mit der Zeit wurden die Whigs zur Liberal Party, die Tories zur Conservative Party.
 - prompt: m0274
   file: ./pavoque/StefanPoker/wav/m0274.wav
   date: 2007-12-21T17:25:40+0100
   style: poker
+  text: 'Bis das Feuer angezündet wird ruft man: Enner, zwoon, dräi - Budewähn!'
 - prompt: m0316
   file: ./pavoque/StefanPoker/wav/m0316.wav
   date: 2007-12-21T17:25:41+0100
   style: poker
+  text: 'In aggressiven Situationen ist dieser Laut länger und höher: krääääh.'
 - prompt: m0325
   file: ./pavoque/StefanPoker/wav/m0325.wav
   date: 2007-12-21T17:25:41+0100
   style: poker
+  text: Beispiele für solche Observable sind;
 - prompt: m0340
   file: ./pavoque/StefanPoker/wav/m0340.wav
   date: 2007-12-21T17:25:41+0100
   style: poker
+  text: 'Siehe auch: Provinz Phangnga. Der Bezirk Phangnga ist in neun Unterbezirke
+    (Tambon) unterteilt.'
 - prompt: m0352
   file: ./pavoque/StefanPoker/wav/m0352.wav
   date: 2007-12-21T17:25:41+0100
   style: poker
+  text: Tenside, Emulsion, Schaum, Rauigkeit.
 - prompt: m0367
   file: ./pavoque/StefanPoker/wav/m0367.wav
   date: 2007-12-21T17:25:41+0100
   style: poker
+  text: Rektor der Universität ist Professor Antoni Tajduś.
 - prompt: m0368
   file: ./pavoque/StefanPoker/wav/m0368.wav
   date: 2007-12-21T17:25:41+0100
   style: poker
+  text: 'Siehe auch: Buttero, Cowboy, Csikós, Gaucho, Vaquero.'
 - prompt: m0373
   file: ./pavoque/StefanPoker/wav/m0373.wav
   date: 2007-12-21T17:25:41+0100
   style: poker
+  text: Empire Earth spielt in fünfzehn Epochen.
 - prompt: m0377
   file: ./pavoque/StefanPoker/wav/m0377.wav
   date: 2007-12-21T17:25:41+0100
   style: poker
+  text: Das Verfahren wurde von der französischen Firma Saint Jean Industries erfunden.
 - prompt: m0384
   file: ./pavoque/StefanPoker/wav/m0384.wav
   date: 2007-12-21T17:25:41+0100
   style: poker
+  text: Doch heute ist Saire eines der größten Feste der Region.
 - prompt: m0388
   file: ./pavoque/StefanPoker/wav/m0388.wav
   date: 2007-12-21T17:25:42+0100
   style: poker
+  text: Onkologie, Palliation, Krebs (Medizin), Metastase, Kraniopharyngeom.
 - prompt: m0392
   file: ./pavoque/StefanPoker/wav/m0392.wav
   date: 2007-12-21T17:25:42+0100
   style: poker
+  text: Bei Wagram wurde er verwundet.
 - prompt: m0399
   file: ./pavoque/StefanPoker/wav/m0399.wav
   date: 2007-12-21T17:25:42+0100
   style: poker
+  text: Vergleiche Mist gleich Dung, englisch dung, schwedisch dynga.
 - prompt: poker_n0009
   file: ./pavoque/StefanPoker/wav/poker_n0009.wav
   date: 2007-12-21T17:25:42+0100
   style: poker
+  text: Na dann teilen Sie mal die Karten aus.
 - prompt: poker_n0025
   file: ./pavoque/StefanPoker/wav/poker_n0025.wav
   date: 2007-12-21T17:25:42+0100
   style: poker
+  text: Also mit drei Karten kann ich nicht anfangen!
 - prompt: poker_n0030
   file: ./pavoque/StefanPoker/wav/poker_n0030.wav
   date: 2007-12-21T17:25:42+0100
   style: poker
+  text: Ich setze zehn.
 - prompt: poker_n0034
   file: ./pavoque/StefanPoker/wav/poker_n0034.wav
   date: 2007-12-21T17:25:42+0100
   style: poker
+  text: Ich bringe fünfzig.
 - prompt: poker_n0045
   file: ./pavoque/StefanPoker/wav/poker_n0045.wav
   date: 2007-12-21T17:25:42+0100
   style: poker
+  text: Ich gehe mit und bringe weitere fünfzig.
 - prompt: poker_n0048
   file: ./pavoque/StefanPoker/wav/poker_n0048.wav
   date: 2007-12-21T17:25:42+0100
   style: poker
+  text: Ohne mich!
 - prompt: poker_n0064
   file: ./pavoque/StefanPoker/wav/poker_n0064.wav
   date: 2007-12-21T17:25:43+0100
   style: poker
+  text: Ich will keine neuen Karten.
 - prompt: poker_n0088
   file: ./pavoque/StefanPoker/wav/poker_n0088.wav
   date: 2007-12-21T17:25:43+0100
   style: poker
+  text: Die beste Beikarte ist meine Pik Zwei.
 - prompt: poker_n0089
   file: ./pavoque/StefanPoker/wav/poker_n0089.wav
   date: 2007-12-21T17:25:43+0100
   style: poker
+  text: Die wertvollste Beikarte ist Deine Pik Drei.
 - prompt: poker_n0093
   file: ./pavoque/StefanPoker/wav/poker_n0093.wav
   date: 2007-12-21T17:25:43+0100
   style: poker
+  text: Die wertvollste Beikarte ist eine Pik Sieben.
 - prompt: poker_n0094
   file: ./pavoque/StefanPoker/wav/poker_n0094.wav
   date: 2007-12-21T17:25:43+0100
   style: poker
+  text: Also die höchste Karte hier ist meine Pik Acht.
 - prompt: poker_n0105
   file: ./pavoque/StefanPoker/wav/poker_n0105.wav
   date: 2007-12-21T17:25:43+0100
   style: poker
+  text: Die beste Beikarte ist Deine Herz Sechs.
 - prompt: poker_n0118
   file: ./pavoque/StefanPoker/wav/poker_n0118.wav
   date: 2007-12-21T17:25:43+0100
   style: poker
+  text: Die beste Beikarte ist Deine Kreuz Sechs.
 - prompt: poker_n0142
   file: ./pavoque/StefanPoker/wav/poker_n0142.wav
   date: 2007-12-21T17:25:43+0100
   style: poker
+  text: Na wie sieht’s aus? Spielen wir noch eine Runde?
 - prompt: poker_n0143
   file: ./pavoque/StefanPoker/wav/poker_n0143.wav
   date: 2007-12-21T17:25:44+0100
   style: poker
+  text: Sind Sie auch beim nächsten Spiel dabei?
 - prompt: poker_n0149
   file: ./pavoque/StefanPoker/wav/poker_n0149.wav
   date: 2007-12-21T17:25:44+0100
   style: poker
+  text: Wir spielen doch weiter, oder?
 - prompt: poker_n0157
   file: ./pavoque/StefanPoker/wav/poker_n0157.wav
   date: 2007-12-21T17:25:44+0100
   style: poker
+  text: Vielleicht ein anderes Mal.
 - prompt: poker_n0168
   file: ./pavoque/StefanPoker/wav/poker_n0168.wav
   date: 2007-12-21T17:25:44+0100
   style: poker
+  text: Meinst du der Kerl ist eingeschlafen? Es ist seit einer ganzen Weile nix mehr passiert.
