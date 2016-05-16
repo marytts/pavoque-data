@@ -43,9 +43,8 @@ task yaml << {
     def yaml = new Yaml(options)
     ['angry', 'happy', 'neutral', 'outtakes', 'poker', 'sad'].each { style ->
         def yamlFile = file("pavoque-${style}.yaml")
-        def data = yaml.load(yamlFile.newReader()).collect {
-            it + [text: file("Text/${it.prompt - ~/[a-z]$/}.txt").text.trim()]
+        yaml.load(yamlFile.newReader()).each {
+            file("Text/${it.prompt - ~/[a-z]$/}.txt").text = it.text + '\n'
         }
-        yaml.dump data, yamlFile.newWriter()
     }
 }
