@@ -109,3 +109,37 @@ task text {
         }
     }
 }
+
+task lab {
+    def labDir = file("$buildDir/lab")
+    group 'Build'
+    description "Extract segments as Xwaves label files into $labDir"
+    inputs.files yamlFiles
+    outputs.dir labDir
+    def stylemap = [
+            neutral: 'Neutral',
+            poker  : 'Poker',
+            happy  : 'Poppy',
+            sad    : 'Obadiah',
+            angry  : 'Spike'
+    ]
+    doFirst {
+        stylemap.values().each {
+            file("$labDir/${it}").mkdirs()
+        }
+    }
+    doLast {
+        yamlFiles.each { yamlFile ->
+            new Yaml().load(yamlFile.newReader()).each { utterance ->
+                if (utterance.segments) {
+                    file("$labDir/${stylemap[yamlFile.name - 'pavoque-' - '.yaml']}/${utterance.prompt - ~/[a-z]$/}.lab").withWriter { lab ->
+                        lab.println '#'
+                        utterance.segments.each { segment ->
+                            lab.println sprintf("    %s  125 %s", segment.end, segment.lab)
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
