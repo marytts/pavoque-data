@@ -57,7 +57,7 @@ task text {
     doLast {
         yamlFiles.each { yamlFile ->
             new Yaml().load(yamlFile.newReader()).each { utterance ->
-                file("$textDir/${utterance.prompt - ~/[a-z]$/}.txt").text = utterance.text
+                file("$textDir/${utterance.prompt}.txt").text = utterance.text
             }
         }
     }
@@ -69,23 +69,14 @@ task lab {
     description "Extract segments as Xwaves label files into $labDir"
     inputs.files yamlFiles
     outputs.dir labDir
-    def stylemap = [
-            neutral: 'Neutral',
-            poker  : 'Poker',
-            happy  : 'Poppy',
-            sad    : 'Obadiah',
-            angry  : 'Spike'
-    ]
     doFirst {
-        stylemap.values().each {
-            file("$labDir/${it}").mkdirs()
-        }
+        labDir.mkdirs()
     }
     doLast {
         yamlFiles.each { yamlFile ->
             new Yaml().load(yamlFile.newReader()).each { utterance ->
                 if (utterance.segments) {
-                    file("$labDir/${stylemap[yamlFile.name - 'pavoque-' - '.yaml']}/${utterance.prompt - ~/[a-z]$/}.lab").withWriter { lab ->
+                    file("$labDir/$utterance.prompt-${utterance.style}.lab").withWriter { lab ->
                         lab.println '#'
                         utterance.segments.each { segment ->
                             lab.println sprintf("    %s  125 %s", segment.end, segment.lab)
@@ -103,17 +94,8 @@ task wav {
     description "Extract audio as WAV files into $wavDir"
     inputs.files yamlFiles
     outputs.dir wavDir
-    def stylemap = [
-            neutral: 'Neutral',
-            poker  : 'Poker',
-            happy  : 'Poppy',
-            sad    : 'Obadiah',
-            angry  : 'Spike'
-    ]
     doFirst {
-        stylemap.values().each {
-            file("$wavDir/${it}").mkdirs()
-        }
+        wavDir.mkdirs()
     }
     doLast {
         yamlFiles.each { yamlFile ->
@@ -121,7 +103,7 @@ task wav {
                 exec {
                     commandLine 'sox',
                             file("${yamlFile.name - '.yaml' + '.flac'}"),
-                            file("$wavDir/${stylemap[utterance.style]}/${utterance.prompt}.wav"),
+                            file("$wavDir/$utterance.prompt-${utterance.style}.wav"),
                             'trim',
                             utterance.start,
                             '=' + utterance.end
