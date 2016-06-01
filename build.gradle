@@ -4,7 +4,6 @@ buildscript {
     }
     dependencies {
         classpath group: 'org.yaml', name: 'snakeyaml', version: '1.17'
-        classpath group: 'com.xlson.groovycsv', name: 'groovycsv', version: '1.1'
     }
 }
 
@@ -12,9 +11,7 @@ plugins {
     id 'base'
 }
 
-import org.yaml.snakeyaml.DumperOptions
 import org.yaml.snakeyaml.Yaml
-import com.xlson.groovycsv.CsvParser
 
 group 'de.dfki.mary'
 version '0.2-SNAPSHOT'
@@ -45,69 +42,6 @@ subprojects {
         from configurations.default
         into "$rootDir/Recordings"
         rename { "${project.name}.tar" }
-    }
-}
-
-task yaml << {
-    def yaml = new Yaml()
-    def offsets = [:]
-    CsvParser.parseCsv([separator: '\t'], file('pavoque-outtakes.tsv').newReader()).each { row ->
-        offsets[row.rowLabel] = [start: row.Start.toFloat(), end: row.End.toFloat()]
-    }
-    def options = new DumperOptions()
-    options.defaultFlowStyle = DumperOptions.FlowStyle.BLOCK
-    new Yaml(options).dump(yaml.load(file('pavoque-outtakes.yaml').newReader()).each { utterance ->
-        utterance.start = offsets[utterance.prompt].start
-        utterance.end = offsets[utterance.prompt].end
-    }, file('pavoque-outtakes.yaml').newWriter())
-    def stylemap = [
-            Neutral: 'neutral',
-            Poker  : 'poker',
-            Poppy  : 'happy',
-            Obadiah: 'sad',
-            Spike  : 'angry'
-    ]
-    def data = []
-    yamlFiles.findAll { it.name != 'pavoque-outtakes.yaml' }.each { yamlFile ->
-        data += yaml.load(yamlFile.newReader())
-    }
-    styles.each { style ->
-        CsvParser.parseCsv([separator: '\t'], file("pavoque-${style}.tsv").newReader()).each { row ->
-            def utterance = data.find { it.prompt == row.rowLabel && it.style == style }
-            utterance.start = row.Start.toFloat()
-            utterance.end = row.End.toFloat()
-        }
-    }
-    file('ManualLabels').eachDir { dir ->
-        dir.eachFileMatch(~/.*.lab/) { file ->
-            def prompt = file.name - '.lab'
-            def style = stylemap[dir.name]
-            def start = 0
-            def lines = []
-            def header = true
-            file.eachLine { line ->
-                switch (line) {
-                    case ~/^#/:
-                        header = false
-                        break
-                    default:
-                        if (!header) {
-                            lines << line
-                        }
-                        break
-                }
-            }
-            def segments = lines.collect { line ->
-                def fields = line.trim().split(/\s+/)
-                def label = fields.length < 3 ? '' : fields.drop(2).join('')
-                def end = fields.first().toFloat()
-                [lab: label, end: end]
-            }
-            data.find { it.prompt == prompt && it.style == style }.segments = segments
-        }
-    }
-    styles.each { style ->
-        yaml.dump(data.findAll { it.style == style }, file("pavoque-${style}.yaml").newWriter())
     }
 }
 
