@@ -16,6 +16,8 @@
   - {lab: aI, end: 1.185}
   - {lab: k, end: 1.386784}
   - {lab: _, end: 2.335}
+  start: 0.0
+  end: 2.34
 - prompt: spike0002
   file: ./pavoque/StefanSpike/wav/spike0002.wav
   date: 2007-11-06T13:07:02+0100
@@ -51,6 +53,8 @@
   - {lab: '@', end: 1.57921}
   - {lab: n, end: 1.736815}
   - {lab: _, end: 3.595}
+  start: 2.34
+  end: 5.94
 - prompt: spike0003
   file: ./pavoque/StefanSpike/wav/spike0003.wav
   date: 2007-11-06T13:07:12+0100
@@ -113,6 +117,8 @@
   - {lab: I, end: 3.660769}
   - {lab: n, end: 3.741332}
   - {lab: _, end: 5.995}
+  start: 5.94
+  end: 11.94
 - prompt: spike0004
   file: ./pavoque/StefanSpike/wav/spike0004.wav
   date: 2007-11-06T13:07:18+0100
@@ -149,6 +155,8 @@
   - {lab: '@', end: 1.77}
   - {lab: n, end: 1.874222}
   - {lab: _, end: 3.775}
+  start: 11.94
+  end: 15.72
 - prompt: spike0005
   file: ./pavoque/StefanSpike/wav/spike0005.wav
   date: 2007-11-06T13:07:24+0100
@@ -197,6 +205,8 @@
   - {lab: n, end: 3.08075}
   - {lab: t, end: 3.21774}
   - {lab: _, end: 4.435}
+  start: 15.72
+  end: 20.16
 - prompt: spike0006
   file: ./pavoque/StefanSpike/wav/spike0006.wav
   date: 2007-11-06T13:07:32+0100
@@ -236,6 +246,8 @@
   - {lab: t, end: 2.148358}
   - {lab: '@', end: 2.303421}
   - {lab: _, end: 3.835}
+  start: 20.16
+  end: 24.0
 - prompt: spike0007
   file: ./pavoque/StefanSpike/wav/spike0007.wav
   date: 2007-11-06T13:07:36+0100
@@ -260,6 +272,8 @@
   - {lab: t, end: 1.247613}
   - {lab: '@', end: 1.363147}
   - {lab: _, end: 2.995}
+  start: 24.0
+  end: 27.0
 - prompt: spike0008
   file: ./pavoque/StefanSpike/wav/spike0008.wav
   date: 2007-11-06T13:07:42+0100
@@ -273,6 +287,8 @@
   - {lab: j, end: 0.61}
   - {lab: 'a:', end: 0.963273}
   - {lab: _, end: 1.915}
+  start: 27.0
+  end: 28.92
 - prompt: spike0009
   file: ./pavoque/StefanSpike/wav/spike0009.wav
   date: 2007-11-06T13:07:46+0100
@@ -295,6 +311,8 @@
   - {lab: O, end: 1.48}
   - {lab: n, end: 1.608409}
   - {lab: _, end: 2.515}
+  start: 28.92
+  end: 31.44
 - prompt: spike0010
   file: ./pavoque/StefanSpike/wav/spike0010.wav
   date: 2007-11-06T13:07:52+0100
@@ -336,6 +354,8 @@
   - {lab: d, end: 2.387845}
   - {lab: 'u:', end: 2.581195}
   - {lab: _, end: 4.075}
+  start: 31.44
+  end: 35.52
 - prompt: spike0011
   file: ./pavoque/StefanSpike/wav/spike0011.wav
   date: 2007-11-06T13:08:00+0100
@@ -374,6 +394,8 @@
   - {lab: d, end: 2.23}
   - {lab: 'u:', end: 2.452683}
   - {lab: _, end: 3.835}
+  start: 35.52
+  end: 39.36
 - prompt: spike0012
   file: ./pavoque/StefanSpike/wav/spike0012.wav
   date: 2007-11-06T13:08:04+0100
@@ -407,6 +429,8 @@
   - {lab: 'a:', end: 2.079925}
   - {lab: l, end: 2.247621}
   - {lab: _, end: 3.415}
+  start: 39.36
+  end: 42.78
 - prompt: spike0013
   file: ./pavoque/StefanSpike/wav/spike0013.wav
   date: 2007-11-06T13:08:30+0100
@@ -441,6 +465,8 @@
   - {lab: '@', end: 1.972478}
   - {lab: n, end: 2.064811}
   - {lab: _, end: 3.775}
+  start: 42.78
+  end: 46.56
 - prompt: spike0014
   file: ./pavoque/StefanSpike/wav/spike0014.wav
   date: 2007-11-06T13:08:44+0100
@@ -474,6 +500,8 @@
   - {lab: k, end: 2.06}
   - {lab: t, end: 2.219959}
   - {lab: _, end: 3.355}
+  start: 46.56
+  end: 49.92
 - prompt: spike0015
   file: ./pavoque/StefanSpike/wav/spike0015.wav
   date: 2007-11-06T13:08:48+0100
@@ -493,6 +521,8 @@
   - {lab: d, end: 1.025095}
   - {lab: 'a:', end: 1.348791}
   - {lab: _, end: 2.455}
+  start: 49.92
+  end: 52.38
 - prompt: spike0016
   file: ./pavoque/StefanSpike/wav/spike0016.wav
   date: 2007-11-06T13:08:56+0100
@@ -532,6 +562,8 @@
   - {lab: s, end: 2.533545}
   - {lab: t, end: 2.60678}
   - {lab: _, end: 3.895}
+  start: 52.38
+  end: 56.28
 - prompt: spike0017
   file: ./pavoque/StefanSpike/wav/spike0017.wav
   date: 2007-11-06T13:09:02+0100
@@ -573,6 +605,8 @@
   - {lab: l, end: 2.755}
   - {lab: t, end: 2.94169}
   - {lab: _, end: 4.075}
+  start: 56.28
+  end: 60.36
 - prompt: spike0018
   file: ./pavoque/StefanSpike/wav/spike0018.wav
   date: 2007-11-06T13:09:10+0100
@@ -653,6 +687,8 @@
   - {lab: '@', end: 4.719946}
   - {lab: n, end: 4.823114}
   - {lab: _, end: 6.595}
+  start: 60.36
+  end: 66.96
 - prompt: spike0019
   file: ./pavoque/StefanSpike/wav/spike0019.wav
   date: 2007-11-06T13:09:18+0100
@@ -699,6 +735,8 @@
   - {lab: '@', end: 2.665}
   - {lab: n, end: 2.807035}
   - {lab: _, end: 4.195}
+  start: 66.96
+  end: 71.16
 - prompt: spike0021
   file: ./pavoque/StefanSpike/wav/spike0021.wav
   date: 2007-11-06T13:09:28+0100
@@ -731,6 +769,8 @@
   - {lab: j, end: 1.765005}
   - {lab: a, end: 1.991083}
   - {lab: _, end: 3.295}
+  start: 71.16
+  end: 74.46
 - prompt: spike0022
   file: ./pavoque/StefanSpike/wav/spike0022.wav
   date: 2007-11-06T13:09:34+0100
@@ -761,6 +801,8 @@
   - {lab: n, end: 2.07}
   - {lab: s, end: 2.315758}
   - {lab: _, end: 3.355}
+  start: 74.46
+  end: 77.82
 - prompt: spike0023
   file: ./pavoque/StefanSpike/wav/spike0023.wav
   date: 2007-11-06T13:09:40+0100
@@ -783,6 +825,8 @@
   - {lab: I, end: 1.405}
   - {lab: n, end: 1.588068}
   - {lab: _, end: 2.575}
+  start: 77.82
+  end: 80.4
 - prompt: spike0024
   file: ./pavoque/StefanSpike/wav/spike0024.wav
   date: 2007-11-06T13:09:44+0100
@@ -804,6 +848,8 @@
   - {lab: a, end: 1.3}
   - {lab: N, end: 1.390769}
   - {lab: _, end: 2.635}
+  start: 80.4
+  end: 83.04
 - prompt: spike0025
   file: ./pavoque/StefanSpike/wav/spike0025.wav
   date: 2007-11-06T13:09:50+0100
@@ -836,6 +882,8 @@
   - {lab: O, end: 1.84629}
   - {lab: pf, end: 2.099766}
   - {lab: _, end: 3.535}
+  start: 83.04
+  end: 86.58
 - prompt: spike0026
   file: ./pavoque/StefanSpike/wav/spike0026.wav
   date: 2007-11-06T13:09:56+0100
@@ -861,6 +909,8 @@
   - {lab: I, end: 1.55}
   - {lab: C, end: 1.771542}
   - {lab: _, end: 3.055}
+  start: 86.58
+  end: 89.64
 - prompt: spike0028
   file: ./pavoque/StefanSpike/wav/spike0028.wav
   date: 2007-11-06T13:10:10+0100
@@ -898,6 +948,8 @@
   - {lab: '@', end: 2.348473}
   - {lab: n, end: 2.471915}
   - {lab: _, end: 3.655}
+  start: 89.64
+  end: 93.3
 - prompt: spike0029
   file: ./pavoque/StefanSpike/wav/spike0029.wav
   date: 2007-11-06T13:10:18+0100
@@ -956,6 +1008,8 @@
   - {lab: s, end: 4.186356}
   - {lab: t, end: 4.302421}
   - {lab: _, end: 5.335}
+  start: 93.3
+  end: 98.64
 - prompt: spike0030
   file: ./pavoque/StefanSpike/wav/spike0030.wav
   date: 2007-11-06T13:11:18+0100
@@ -1026,6 +1080,8 @@
   - {lab: 'E:', end: 4.960624}
   - {lab: t, end: 5.148559}
   - {lab: _, end: 6.355}
+  start: 98.64
+  end: 105.0
 - prompt: spike0031
   file: ./pavoque/StefanSpike/wav/spike0031.wav
   date: 2007-11-06T13:11:24+0100
@@ -1064,6 +1120,8 @@
   - {lab: s, end: 2.675}
   - {lab: t, end: 2.78}
   - {lab: _, end: 3.775}
+  start: 105.0
+  end: 108.78
 - prompt: spike0032
   file: ./pavoque/StefanSpike/wav/spike0032.wav
   date: 2007-11-06T13:11:32+0100
@@ -1127,6 +1185,8 @@
   - {lab: '@', end: 3.845403}
   - {lab: n, end: 3.944003}
   - {lab: _, end: 5.695}
+  start: 108.78
+  end: 114.48
 - prompt: spike0033
   file: ./pavoque/StefanSpike/wav/spike0033.wav
   date: 2007-11-06T13:11:38+0100
@@ -1163,6 +1223,8 @@
   - {lab: '@', end: 1.853745}
   - {lab: n, end: 1.948281}
   - {lab: _, end: 3.535}
+  start: 114.48
+  end: 118.02
 - prompt: spike0034
   file: ./pavoque/StefanSpike/wav/spike0034.wav
   date: 2007-11-06T13:11:44+0100
@@ -1198,6 +1260,8 @@
   - {lab: d, end: 2.42}
   - {lab: '6', end: 2.62}
   - {lab: _, end: 3.655}
+  start: 118.02
+  end: 121.68
 - prompt: spike0035
   file: ./pavoque/StefanSpike/wav/spike0035.wav
   date: 2007-11-06T13:12:28+0100
@@ -1249,6 +1313,8 @@
   - {lab: s, end: 3.754163}
   - {lab: t, end: 3.869706}
   - {lab: _, end: 5.155}
+  start: 121.68
+  end: 126.84
 - prompt: spike0036
   file: ./pavoque/StefanSpike/wav/spike0036.wav
   date: 2007-11-06T13:12:32+0100
@@ -1261,6 +1327,8 @@
   - {lab: z, end: 0.82415}
   - {lab: 'o:', end: 1.187055}
   - {lab: _, end: 1.855}
+  start: 126.84
+  end: 128.7
 - prompt: spike0037
   file: ./pavoque/StefanSpike/wav/spike0037.wav
   date: 2007-11-06T13:12:40+0100
@@ -1312,6 +1380,8 @@
   - {lab: n, end: 4.481316}
   - {lab: t, end: 4.672388}
   - {lab: _, end: 5.095}
+  start: 128.7
+  end: 133.8
 - prompt: spike0038
   file: ./pavoque/StefanSpike/wav/spike0038.wav
   date: 2007-11-06T13:12:46+0100
@@ -1352,6 +1422,8 @@
   - {lab: l, end: 2.34}
   - {lab: t, end: 2.477098}
   - {lab: _, end: 4.075}
+  start: 133.8
+  end: 137.88
 - prompt: spike0039
   file: ./pavoque/StefanSpike/wav/spike0039.wav
   date: 2007-11-06T13:12:56+0100
@@ -1427,6 +1499,8 @@
   - {lab: aI, end: 5.625}
   - {lab: t, end: 5.805861}
   - {lab: _, end: 7.075}
+  start: 137.88
+  end: 144.96
 - prompt: spike0040
   file: ./pavoque/StefanSpike/wav/spike0040.wav
   date: 2007-11-06T13:13:02+0100
@@ -1470,6 +1544,8 @@
   - {lab: '@', end: 2.645}
   - {lab: n, end: 2.794032}
   - {lab: _, end: 4.435}
+  start: 144.96
+  end: 149.4
 - prompt: spike0041
   file: ./pavoque/StefanSpike/wav/spike0041.wav
   date: 2007-11-06T13:13:10+0100
@@ -1513,6 +1589,8 @@
   - {lab: s, end: 2.675281}
   - {lab: t, end: 2.835}
   - {lab: _, end: 4.375}
+  start: 149.4
+  end: 153.78
 - prompt: spike0042
   file: ./pavoque/StefanSpike/wav/spike0042.wav
   date: 2007-11-06T13:13:16+0100
@@ -1559,6 +1637,8 @@
   - {lab: '@', end: 3.596432}
   - {lab: s, end: 3.791695}
   - {lab: _, end: 4.435}
+  start: 153.78
+  end: 158.22
 - prompt: spike0043
   file: ./pavoque/StefanSpike/wav/spike0043.wav
   date: 2007-11-06T13:13:20+0100
@@ -1577,6 +1657,8 @@
   - {lab: d, end: 1.387259}
   - {lab: 'u:', end: 1.636177}
   - {lab: _, end: 2.335}
+  start: 158.22
+  end: 160.56
 - prompt: spike0044
   file: ./pavoque/StefanSpike/wav/spike0044.wav
   date: 2007-11-06T13:13:26+0100
@@ -1606,6 +1688,8 @@
   - {lab: h, end: 1.645}
   - {lab: E, end: 1.881727}
   - {lab: _, end: 3.295}
+  start: 160.56
+  end: 163.86
 - prompt: spike0045
   file: ./pavoque/StefanSpike/wav/spike0045.wav
   date: 2007-11-06T13:13:32+0100
@@ -1638,6 +1722,8 @@
   - {lab: n, end: 2.326967}
   - {lab: '@', end: 2.54621}
   - {lab: _, end: 3.535}
+  start: 163.86
+  end: 167.4
 - prompt: spike0046
   file: ./pavoque/StefanSpike/wav/spike0046.wav
   date: 2007-11-06T13:13:38+0100
@@ -1664,6 +1750,8 @@
   - {lab: C, end: 1.964143}
   - {lab: '6', end: 2.21234}
   - {lab: _, end: 3.115}
+  start: 167.4
+  end: 170.52
 - prompt: spike0047
   file: ./pavoque/StefanSpike/wav/spike0047.wav
   date: 2007-11-06T13:13:42+0100
@@ -1677,6 +1765,8 @@
   - {lab: a, end: 1.075}
   - {lab: s, end: 1.370849}
   - {lab: _, end: 1.975}
+  start: 170.52
+  end: 172.5
 - prompt: spike0048
   file: ./pavoque/StefanSpike/wav/spike0048.wav
   date: 2007-11-06T13:13:46+0100
@@ -1687,6 +1777,8 @@
   - {lab: v, end: 0.344346}
   - {lab: 'i:', end: 0.743569}
   - {lab: _, end: 1.735}
+  start: 172.5
+  end: 174.24
 - prompt: spike0049
   file: ./pavoque/StefanSpike/wav/spike0049.wav
   date: 2007-11-06T13:13:52+0100
@@ -1702,6 +1794,8 @@
   - {lab: t, end: 1.002858}
   - {lab: '6', end: 1.377386}
   - {lab: _, end: 2.215}
+  start: 174.24
+  end: 176.46
 - prompt: spike0050
   file: ./pavoque/StefanSpike/wav/spike0050.wav
   date: 2007-11-06T13:13:56+0100
@@ -1718,6 +1812,8 @@
   - {lab: t, end: 0.914498}
   - {lab: '6', end: 1.257524}
   - {lab: _, end: 2.215}
+  start: 176.46
+  end: 178.68
 - prompt: spike0051
   file: ./pavoque/StefanSpike/wav/spike0051.wav
   date: 2007-11-06T13:14:02+0100
@@ -1764,6 +1860,8 @@
   - {lab: '@', end: 2.205}
   - {lab: n, end: 2.312789}
   - {lab: _, end: 4.195}
+  start: 178.68
+  end: 182.88
 - prompt: spike0052
   file: ./pavoque/StefanSpike/wav/spike0052.wav
   date: 2007-11-06T13:14:08+0100
@@ -1791,6 +1889,8 @@
   - {lab: p, end: 1.278141}
   - {lab: 'i:', end: 1.462255}
   - {lab: _, end: 3.175}
+  start: 182.88
+  end: 186.06
 - prompt: spike0053
   file: ./pavoque/StefanSpike/wav/spike0053.wav
   date: 2007-11-06T13:15:02+0100
@@ -1821,6 +1921,8 @@
   - {lab: n, end: 1.808833}
   - {lab: s, end: 2.007168}
   - {lab: _, end: 3.355}
+  start: 186.06
+  end: 189.42
 - prompt: spike0054
   file: ./pavoque/StefanSpike/wav/spike0054.wav
   date: 2007-11-06T13:15:06+0100
@@ -1853,6 +1955,8 @@
   - {lab: j, end: 1.822158}
   - {lab: a, end: 2.080232}
   - {lab: _, end: 3.295}
+  start: 189.42
+  end: 192.72
 - prompt: m0001
   file: ./pavoque/StefanSpike/wav/m0001.wav
   date: 2007-11-06T13:15:52+0100
@@ -1887,6 +1991,8 @@
   - {lab: '@', end: 2.255}
   - {lab: t, end: 2.424575}
   - {lab: _, end: 3.715}
+  start: 192.72
+  end: 196.44
 - prompt: m0002
   file: ./pavoque/StefanSpike/wav/m0002.wav
   date: 2007-11-06T13:15:58+0100
@@ -1923,6 +2029,8 @@
   - {lab: a, end: 2.810106}
   - {lab: 'o:', end: 3.039164}
   - {lab: _, end: 3.775}
+  start: 196.44
+  end: 200.22
 - prompt: m0003
   file: ./pavoque/StefanSpike/wav/m0003.wav
   date: 2007-11-06T13:16:04+0100
@@ -1952,6 +2060,8 @@
   - {lab: '@', end: 2.154098}
   - {lab: l, end: 2.304584}
   - {lab: _, end: 3.115}
+  start: 200.22
+  end: 203.34
 - prompt: m0004
   file: ./pavoque/StefanSpike/wav/m0004.wav
   date: 2007-11-06T13:16:10+0100
@@ -1979,6 +2089,8 @@
   - {lab: U, end: 2.107429}
   - {lab: l, end: 2.284276}
   - {lab: _, end: 3.055}
+  start: 203.34
+  end: 206.4
 - prompt: m0005
   file: ./pavoque/StefanSpike/wav/m0005.wav
   date: 2007-11-06T13:16:16+0100
@@ -2010,6 +2122,8 @@
   - {lab: a, end: 2.21}
   - {lab: n, end: 2.363928}
   - {lab: _, end: 3.235}
+  start: 206.4
+  end: 209.64
 - prompt: m0007
   file: ./pavoque/StefanSpike/wav/m0007.wav
   date: 2007-11-06T13:16:26+0100
@@ -2034,6 +2148,8 @@
   - {lab: z, end: 1.82}
   - {lab: 'e:', end: 2.095056}
   - {lab: _, end: 2.875}
+  start: 209.64
+  end: 212.52
 - prompt: m0008
   file: ./pavoque/StefanSpike/wav/m0008.wav
   date: 2007-11-06T13:16:34+0100
@@ -2077,6 +2193,8 @@
   - {lab: t, end: 2.631418}
   - {lab: '@', end: 2.764838}
   - {lab: _, end: 4.135}
+  start: 212.52
+  end: 216.66
 - prompt: m0006
   file: ./pavoque/StefanSpike/wav/m0006.wav
   date: 2007-11-06T13:16:56+0100
@@ -2114,6 +2232,8 @@
   - {lab: n, end: 2.614491}
   - {lab: s, end: 2.821512}
   - {lab: _, end: 3.715}
+  start: 216.66
+  end: 220.38
 - prompt: m0009
   file: ./pavoque/StefanSpike/wav/m0009.wav
   date: 2007-11-06T13:17:10+0100
@@ -2172,6 +2292,8 @@
   - {lab: m, end: 3.43}
   - {lab: a, end: 3.660929}
   - {lab: _, end: 5.155}
+  start: 220.38
+  end: 225.54
 - prompt: m0011
   file: ./pavoque/StefanSpike/wav/m0011.wav
   date: 2007-11-06T13:17:22+0100
@@ -2203,6 +2325,8 @@
   - {lab: Y, end: 2.179686}
   - {lab: k, end: 2.340643}
   - {lab: _, end: 3.295}
+  start: 225.54
+  end: 228.84
 - prompt: m0012
   file: ./pavoque/StefanSpike/wav/m0012.wav
   date: 2007-11-06T13:17:28+0100
@@ -2235,6 +2359,8 @@
   - {lab: I, end: 2.465}
   - {lab: S, end: 2.761152}
   - {lab: _, end: 3.415}
+  start: 228.84
+  end: 232.26
 - prompt: m0013
   file: ./pavoque/StefanSpike/wav/m0013.wav
   date: 2007-11-06T13:17:36+0100
@@ -2287,6 +2413,8 @@
   - {lab: '6', end: 3.492301}
   - {lab: n, end: 3.527924}
   - {lab: _, end: 5.095}
+  start: 232.26
+  end: 237.36
 - prompt: m0014
   file: ./pavoque/StefanSpike/wav/m0014.wav
   date: 2007-11-06T13:17:42+0100
@@ -2320,6 +2448,8 @@
   - {lab: aU, end: 2.565}
   - {lab: s, end: 2.864964}
   - {lab: _, end: 3.415}
+  start: 237.36
+  end: 240.78
 - prompt: m0015
   file: ./pavoque/StefanSpike/wav/m0015.wav
   date: 2007-11-06T13:17:48+0100
@@ -2353,6 +2483,8 @@
   - {lab: 'i:', end: 2.56}
   - {lab: f, end: 2.79311}
   - {lab: _, end: 3.655}
+  start: 240.78
+  end: 244.44
 - prompt: m0016
   file: ./pavoque/StefanSpike/wav/m0016.wav
   date: 2007-11-06T13:17:54+0100
@@ -2382,6 +2514,8 @@
   - {lab: '@', end: 3.185}
   - {lab: n, end: 3.270064}
   - {lab: _, end: 3.775}
+  start: 244.44
+  end: 248.22
 - prompt: m0017
   file: ./pavoque/StefanSpike/wav/m0017.wav
   date: 2007-11-06T13:18:00+0100
@@ -2412,6 +2546,8 @@
   - {lab: aI, end: 2.776945}
   - {lab: C, end: 3.036823}
   - {lab: _, end: 3.595}
+  start: 248.22
+  end: 251.82
 - prompt: m0018
   file: ./pavoque/StefanSpike/wav/m0018.wav
   date: 2007-11-06T13:18:06+0100
@@ -2440,6 +2576,8 @@
   - {lab: t, end: 2.167205}
   - {lab: '@', end: 2.388255}
   - {lab: _, end: 2.935}
+  start: 251.82
+  end: 254.76
 - prompt: m0019
   file: ./pavoque/StefanSpike/wav/m0019.wav
   date: 2007-11-06T13:18:12+0100
@@ -2477,6 +2615,8 @@
   - {lab: '@', end: 2.304266}
   - {lab: n, end: 2.398869}
   - {lab: _, end: 3.715}
+  start: 254.76
+  end: 258.48
 - prompt: m0020
   file: ./pavoque/StefanSpike/wav/m0020.wav
   date: 2007-11-06T13:18:18+0100
@@ -2509,6 +2649,8 @@
   - {lab: '@', end: 2.61}
   - {lab: t, end: 2.747638}
   - {lab: _, end: 3.415}
+  start: 258.48
+  end: 261.9
 - prompt: m0021
   file: ./pavoque/StefanSpike/wav/m0021.wav
   date: 2007-11-06T13:18:24+0100
@@ -2536,6 +2678,8 @@
   - {lab: 'y:', end: 2.2}
   - {lab: t, end: 2.429272}
   - {lab: _, end: 3.115}
+  start: 261.9
+  end: 265.02
 - prompt: m0022
   file: ./pavoque/StefanSpike/wav/m0022.wav
   date: 2007-11-06T13:18:30+0100
@@ -2583,6 +2727,8 @@
   - {lab: R, end: 3.26}
   - {lab: 'i:', end: 3.489081}
   - {lab: _, end: 4.795}
+  start: 265.02
+  end: 269.82
 - prompt: m0023
   file: ./pavoque/StefanSpike/wav/m0023.wav
   date: 2007-11-06T13:18:36+0100
@@ -2619,6 +2765,8 @@
   - {lab: n, end: 2.946831}
   - {lab: '@', end: 3.185182}
   - {lab: '', end: 3.730687}
+  start: 269.82
+  end: 273.54
 - prompt: m0024
   file: ./pavoque/StefanSpike/wav/m0024.wav
   date: 2007-11-06T13:18:42+0100
@@ -2647,6 +2795,8 @@
   - {lab: aI, end: 2.41}
   - {lab: m, end: 2.566603}
   - {lab: _, end: 3.235}
+  start: 273.54
+  end: 276.78
 - prompt: m0025
   file: ./pavoque/StefanSpike/wav/m0025.wav
   date: 2007-11-06T13:18:48+0100
@@ -2677,6 +2827,8 @@
   - {lab: n, end: 2.282509}
   - {lab: d, end: 2.406004}
   - {lab: _, end: 3.175}
+  start: 276.78
+  end: 279.96
 - prompt: m0026
   file: ./pavoque/StefanSpike/wav/m0026.wav
   date: 2007-11-06T13:18:54+0100
@@ -2704,6 +2856,8 @@
   - {lab: I, end: 2.315}
   - {lab: C, end: 2.566859}
   - {lab: _, end: 3.115}
+  start: 279.96
+  end: 283.08
 - prompt: m0027
   file: ./pavoque/StefanSpike/wav/m0027.wav
   date: 2007-11-06T13:19:00+0100
@@ -2740,6 +2894,8 @@
   - {lab: n, end: 2.54}
   - {lab: t, end: 2.704179}
   - {lab: _, end: 3.715}
+  start: 283.08
+  end: 286.8
 - prompt: m0028
   file: ./pavoque/StefanSpike/wav/m0028.wav
   date: 2007-11-06T13:19:06+0100
@@ -2771,6 +2927,8 @@
   - {lab: '@', end: 2.55}
   - {lab: l, end: 2.698034}
   - {lab: _, end: 3.235}
+  start: 286.8
+  end: 290.04
 - prompt: m0029
   file: ./pavoque/StefanSpike/wav/m0029.wav
   date: 2007-11-06T13:19:38+0100
@@ -2806,6 +2964,8 @@
   - {lab: ts, end: 2.57}
   - {lab: t, end: 2.693889}
   - {lab: _, end: 3.535}
+  start: 290.04
+  end: 293.58
 - prompt: m0030
   file: ./pavoque/StefanSpike/wav/m0030.wav
   date: 2007-11-06T13:19:46+0100
@@ -2870,6 +3030,8 @@
   - {lab: '@', end: 5.385}
   - {lab: s, end: 5.633137}
   - {lab: _, end: 6.355}
+  start: 293.58
+  end: 299.94
 - prompt: m0031
   file: ./pavoque/StefanSpike/wav/m0031.wav
   date: 2007-11-06T13:20:04+0100
@@ -2913,6 +3075,8 @@
   - {lab: '6', end: 2.695}
   - {lab: k, end: 2.846542}
   - {lab: _, end: 4.135}
+  start: 299.94
+  end: 304.08
 - prompt: m0032
   file: ./pavoque/StefanSpike/wav/m0032.wav
   date: 2007-11-06T13:20:12+0100
@@ -2978,6 +3142,8 @@
   - {lab: k, end: 5.095}
   - {lab: t, end: 5.319462}
   - {lab: _, end: 5.995}
+  start: 304.08
+  end: 310.08
 - prompt: m0033
   file: ./pavoque/StefanSpike/wav/m0033.wav
   date: 2007-11-06T13:20:18+0100
@@ -3014,6 +3180,8 @@
   - {lab: n, end: 2.745}
   - {lab: s, end: 2.958587}
   - {lab: _, end: 4.015}
+  start: 310.08
+  end: 314.1
 - prompt: m0034
   file: ./pavoque/StefanSpike/wav/m0034.wav
   date: 2007-11-06T13:20:26+0100
@@ -3059,6 +3227,8 @@
   - {lab: '@', end: 2.795}
   - {lab: n, end: 2.930795}
   - {lab: _, end: 4.795}
+  start: 314.1
+  end: 318.9
 - prompt: m0035
   file: ./pavoque/StefanSpike/wav/m0035.wav
   date: 2007-11-06T13:20:32+0100
@@ -3093,6 +3263,8 @@
   - {lab: aI, end: 2.320006}
   - {lab: t, end: 2.582903}
   - {lab: _, end: 3.835}
+  start: 318.9
+  end: 322.74
 - prompt: m0037
   file: ./pavoque/StefanSpike/wav/m0037.wav
   date: 2007-11-06T13:20:44+0100
@@ -3122,6 +3294,8 @@
   - {lab: '@', end: 1.79}
   - {lab: n, end: 1.880766}
   - {lab: _, end: 3.115}
+  start: 322.74
+  end: 325.86
 - prompt: m0038
   file: ./pavoque/StefanSpike/wav/m0038.wav
   date: 2007-11-06T13:20:50+0100
@@ -3153,6 +3327,8 @@
   - {lab: b, end: 2.421117}
   - {lab: '@', end: 2.668707}
   - {lab: _, end: 3.535}
+  start: 325.86
+  end: 329.4
 - prompt: m0039
   file: ./pavoque/StefanSpike/wav/m0039.wav
   date: 2007-11-06T13:20:56+0100
@@ -3189,6 +3365,8 @@
   - {lab: n, end: 2.68}
   - {lab: OY, end: 3.05}
   - {lab: _, end: 3.835}
+  start: 329.4
+  end: 333.24
 - prompt: m0040
   file: ./pavoque/StefanSpike/wav/m0040.wav
   date: 2007-11-06T13:21:02+0100
@@ -3223,6 +3401,8 @@
   - {lab: '@', end: 2.695653}
   - {lab: n, end: 2.811093}
   - {lab: _, end: 3.475}
+  start: 333.24
+  end: 336.72
 - prompt: m0041
   file: ./pavoque/StefanSpike/wav/m0041.wav
   date: 2007-11-06T13:21:08+0100
@@ -3260,6 +3440,8 @@
   - {lab: n, end: 2.936388}
   - {lab: t, end: 3.114537}
   - {lab: _, end: 3.715}
+  start: 336.72
+  end: 340.44
 - prompt: m0043
   file: ./pavoque/StefanSpike/wav/m0043.wav
   date: 2007-11-06T13:21:20+0100
@@ -3292,6 +3474,8 @@
   - {lab: '@', end: 2.185}
   - {lab: n, end: 2.296271}
   - {lab: _, end: 3.655}
+  start: 340.44
+  end: 344.1
 - prompt: m0044
   file: ./pavoque/StefanSpike/wav/m0044.wav
   date: 2007-11-06T13:21:26+0100
@@ -3323,6 +3507,8 @@
   - {lab: z, end: 1.825}
   - {lab: '@', end: 2.000184}
   - {lab: _, end: 2.995}
+  start: 344.1
+  end: 347.1
 - prompt: m0045
   file: ./pavoque/StefanSpike/wav/m0045.wav
   date: 2007-11-06T13:21:30+0100
@@ -3354,6 +3540,8 @@
   - {lab: I, end: 1.881381}
   - {lab: t, end: 2.092061}
   - {lab: _, end: 3.115}
+  start: 347.1
+  end: 350.22
 - prompt: m0036
   file: ./pavoque/StefanSpike/wav/m0036.wav
   date: 2007-11-06T13:22:12+0100
@@ -3390,6 +3578,8 @@
   - {lab: 'i:', end: 3.020342}
   - {lab: '6', end: 3.194758}
   - {lab: _, end: 3.655}
+  start: 350.22
+  end: 353.88
 - prompt: m0046
   file: ./pavoque/StefanSpike/wav/m0046.wav
   date: 2007-11-06T13:22:38+0100
@@ -3417,6 +3607,8 @@
   - {lab: a, end: 1.87}
   - {lab: n, end: 2.010627}
   - {lab: _, end: 2.995}
+  start: 353.88
+  end: 356.88
 - prompt: m0047
   file: ./pavoque/StefanSpike/wav/m0047.wav
   date: 2007-11-06T13:22:42+0100
@@ -3450,6 +3642,8 @@
   - {lab: n, end: 2.225}
   - {lab: '@', end: 2.444104}
   - {lab: _, end: 3.355}
+  start: 356.88
+  end: 360.24
 - prompt: m0048
   file: ./pavoque/StefanSpike/wav/m0048.wav
   date: 2007-11-06T13:22:50+0100
@@ -3508,6 +3702,8 @@
   - {lab: '@', end: 4.252384}
   - {lab: n, end: 4.372757}
   - {lab: '', end: 5.215}
+  start: 360.24
+  end: 365.46
 - prompt: m0049
   file: ./pavoque/StefanSpike/wav/m0049.wav
   date: 2007-11-06T13:22:56+0100
@@ -3535,6 +3731,8 @@
   - {lab: x, end: 1.935494}
   - {lab: ts, end: 2.270153}
   - {lab: _, end: 3.055}
+  start: 365.46
+  end: 368.52
 - prompt: m0050
   file: ./pavoque/StefanSpike/wav/m0050.wav
   date: 2007-11-06T13:23:02+0100
@@ -3569,6 +3767,8 @@
   - {lab: 'o:', end: 2.900129}
   - {lab: '6', end: 3.105834}
   - {lab: _, end: 3.895}
+  start: 368.52
+  end: 372.42
 - prompt: m0051
   file: ./pavoque/StefanSpike/wav/m0051.wav
   date: 2007-11-06T13:23:08+0100
@@ -3599,6 +3799,8 @@
   - {lab: 'a:', end: 2.59}
   - {lab: l, end: 2.726999}
   - {lab: _, end: 3.055}
+  start: 372.42
+  end: 375.48
 - prompt: m0053
   file: ./pavoque/StefanSpike/wav/m0053.wav
   date: 2007-11-06T13:23:20+0100
@@ -3630,6 +3832,8 @@
   - {lab: l, end: 1.825}
   - {lab: 'o:', end: 1.971475}
   - {lab: _, end: 3.235}
+  start: 375.48
+  end: 378.72
 - prompt: m0054
   file: ./pavoque/StefanSpike/wav/m0054.wav
   date: 2007-11-06T13:23:26+0100
@@ -3666,6 +3870,8 @@
   - {lab: EI, end: 2.449631}
   - {lab: s, end: 2.637544}
   - {lab: _, end: 3.775}
+  start: 378.72
+  end: 382.5
 - prompt: m0056
   file: ./pavoque/StefanSpike/wav/m0056.wav
   date: 2007-11-06T13:23:40+0100
@@ -3710,6 +3916,8 @@
   - {lab: m, end: 3.215}
   - {lab: 'a:', end: 3.424224}
   - {lab: _, end: 4.675}
+  start: 382.5
+  end: 387.18
 - prompt: m0052
   file: ./pavoque/StefanSpike/wav/m0052.wav
   date: 2007-11-06T13:24:22+0100
@@ -3745,6 +3953,8 @@
   - {lab: 'e:', end: 2.585}
   - {lab: '6', end: 2.797061}
   - {lab: _, end: 3.535}
+  start: 387.18
+  end: 390.72
 - prompt: m0058
   file: ./pavoque/StefanSpike/wav/m0058.wav
   date: 2007-11-06T13:24:38+0100
@@ -3784,6 +3994,8 @@
   - {lab: k, end: 2.51165}
   - {lab: t, end: 2.752435}
   - {lab: _, end: 3.835}
+  start: 390.72
+  end: 394.56
 - prompt: m0059
   file: ./pavoque/StefanSpike/wav/m0059.wav
   date: 2007-11-06T13:24:46+0100
@@ -3816,6 +4028,8 @@
   - {lab: l, end: 2.885}
   - {lab: ts, end: 3.152923}
   - {lab: _, end: 3.835}
+  start: 394.56
+  end: 398.4
 - prompt: m0060
   file: ./pavoque/StefanSpike/wav/m0060.wav
   date: 2007-11-06T13:24:52+0100
@@ -3848,6 +4062,8 @@
   - {lab: a, end: 2.235}
   - {lab: n, end: 2.346519}
   - {lab: _, end: 3.415}
+  start: 398.4
+  end: 401.82
 - prompt: m0061
   file: ./pavoque/StefanSpike/wav/m0061.wav
   date: 2007-11-06T13:24:56+0100
@@ -3879,6 +4095,8 @@
   - {lab: '@', end: 1.935}
   - {lab: t, end: 2.061732}
   - {lab: _, end: 3.295}
+  start: 401.82
+  end: 405.12
 - prompt: m0062
   file: ./pavoque/StefanSpike/wav/m0062.wav
   date: 2007-11-06T13:25:02+0100
@@ -3912,6 +4130,8 @@
   - {lab: I, end: 2.72}
   - {lab: S, end: 2.939276}
   - {lab: _, end: 3.655}
+  start: 405.12
+  end: 408.78
 - prompt: m0063
   file: ./pavoque/StefanSpike/wav/m0063.wav
   date: 2007-11-06T13:25:10+0100
@@ -3952,6 +4172,8 @@
   - {lab: I, end: 3.141897}
   - {lab: l, end: 3.27762}
   - {lab: _, end: 4.075}
+  start: 408.78
+  end: 412.86
 - prompt: m0064
   file: ./pavoque/StefanSpike/wav/m0064.wav
   date: 2007-11-06T13:25:16+0100
@@ -3998,6 +4220,8 @@
   - {lab: '@', end: 3.27}
   - {lab: n, end: 3.38797}
   - {lab: _, end: 4.195}
+  start: 412.86
+  end: 417.06
 - prompt: m0065
   file: ./pavoque/StefanSpike/wav/m0065.wav
   date: 2007-11-06T13:25:22+0100
@@ -4025,6 +4249,8 @@
   - {lab: 'e:', end: 2.164862}
   - {lab: t, end: 2.368899}
   - {lab: _, end: 2.755}
+  start: 417.06
+  end: 419.82
 - prompt: m0066
   file: ./pavoque/StefanSpike/wav/m0066.wav
   date: 2007-11-06T13:26:34+0100
@@ -4099,6 +4325,8 @@
   - {lab: '@', end: 4.915}
   - {lab: n, end: 5.032952}
   - {lab: _, end: 6.775}
+  start: 419.82
+  end: 426.6
 - prompt: m0067
   file: ./pavoque/StefanSpike/wav/m0067.wav
   date: 2007-11-06T13:26:56+0100
@@ -4162,6 +4390,8 @@
   - {lab: l, end: 4.125}
   - {lab: 'E:', end: 4.40356}
   - {lab: _, end: 6.295}
+  start: 426.6
+  end: 432.9
 - prompt: m0068
   file: ./pavoque/StefanSpike/wav/m0068.wav
   date: 2007-11-06T13:27:02+0100
@@ -4209,6 +4439,8 @@
   - {lab: '2:', end: 3.415}
   - {lab: n, end: 3.502328}
   - {lab: _, end: 4.255}
+  start: 432.9
+  end: 437.16
 - prompt: m0069
   file: ./pavoque/StefanSpike/wav/m0069.wav
   date: 2007-11-06T13:27:12+0100
@@ -4267,6 +4499,8 @@
   - {lab: t, end: 3.986669}
   - {lab: '6', end: 4.139483}
   - {lab: _, end: 5.935}
+  start: 437.16
+  end: 443.1
 - prompt: m0070
   file: ./pavoque/StefanSpike/wav/m0070.wav
   date: 2007-11-06T13:27:50+0100
@@ -4321,6 +4555,8 @@
   - {lab: 'u:', end: 3.83}
   - {lab: x, end: 3.989228}
   - {lab: _, end: 5.335}
+  start: 443.1
+  end: 448.44
 - prompt: m0071
   file: ./pavoque/StefanSpike/wav/m0071.wav
   date: 2007-11-06T13:27:56+0100
@@ -4357,6 +4593,8 @@
   - {lab: a, end: 2.71}
   - {lab: n, end: 2.862385}
   - {lab: _, end: 3.835}
+  start: 448.44
+  end: 452.28
 - prompt: m0072
   file: ./pavoque/StefanSpike/wav/m0072.wav
   date: 2007-11-06T13:28:02+0100
@@ -4392,6 +4630,8 @@
   - {lab: aU, end: 2.675}
   - {lab: s, end: 2.915938}
   - {lab: _, end: 3.655}
+  start: 452.28
+  end: 455.94
 - prompt: m0073
   file: ./pavoque/StefanSpike/wav/m0073.wav
   date: 2007-11-06T13:28:10+0100
@@ -4435,6 +4675,8 @@
   - {lab: 'o:', end: 3.13502}
   - {lab: l, end: 3.25418}
   - {lab: _, end: 4.255}
+  start: 455.94
+  end: 460.2
 - prompt: m0074
   file: ./pavoque/StefanSpike/wav/m0074.wav
   date: 2007-11-06T13:28:16+0100
@@ -4471,6 +4713,8 @@
   - {lab: '@', end: 2.58}
   - {lab: n, end: 2.756679}
   - {lab: _, end: 3.775}
+  start: 460.2
+  end: 463.98
 - prompt: m0075
   file: ./pavoque/StefanSpike/wav/m0075.wav
   date: 2007-11-06T13:28:22+0100
@@ -4507,6 +4751,8 @@
   - {lab: n, end: 2.280754}
   - {lab: t, end: 2.439191}
   - {lab: _, end: 3.775}
+  start: 463.98
+  end: 467.76
 - prompt: m0076
   file: ./pavoque/StefanSpike/wav/m0076.wav
   date: 2007-11-06T13:28:28+0100
@@ -4551,6 +4797,8 @@
   - {lab: l, end: 2.72}
   - {lab: t, end: 2.848956}
   - {lab: _, end: 4.495}
+  start: 467.76
+  end: 472.26
 - prompt: m0077
   file: ./pavoque/StefanSpike/wav/m0077.wav
   date: 2007-11-06T13:28:34+0100
@@ -4583,6 +4831,8 @@
   - {lab: C, end: 2.93393}
   - {lab: t, end: 3.067235}
   - {lab: _, end: 3.715}
+  start: 472.26
+  end: 475.98
 - prompt: m0078
   file: ./pavoque/StefanSpike/wav/m0078.wav
   date: 2007-11-06T13:28:42+0100
@@ -4638,6 +4888,8 @@
   - {lab: '@', end: 3.647421}
   - {lab: n, end: 3.787423}
   - {lab: _, end: 5.155}
+  start: 475.98
+  end: 481.14
 - prompt: m0079
   file: ./pavoque/StefanSpike/wav/m0079.wav
   date: 2007-11-06T13:28:48+0100
@@ -4672,6 +4924,8 @@
   - {lab: n, end: 2.125631}
   - {lab: t, end: 2.322164}
   - {lab: _, end: 3.235}
+  start: 481.14
+  end: 484.38
 - prompt: m0080
   file: ./pavoque/StefanSpike/wav/m0080.wav
   date: 2007-11-06T13:28:54+0100
@@ -4705,6 +4959,8 @@
   - {lab: I, end: 2.565}
   - {lab: C, end: 2.806608}
   - {lab: _, end: 3.415}
+  start: 484.38
+  end: 487.8
 - prompt: m0081
   file: ./pavoque/StefanSpike/wav/m0081.wav
   date: 2007-11-06T13:29:00+0100
@@ -4732,6 +4988,8 @@
   - {lab: '@', end: 1.924242}
   - {lab: l, end: 2.047893}
   - {lab: _, end: 3.175}
+  start: 487.8
+  end: 490.98
 - prompt: m0082
   file: ./pavoque/StefanSpike/wav/m0082.wav
   date: 2007-11-06T13:29:04+0100
@@ -4758,6 +5016,8 @@
   - {lab: '6', end: 1.84}
   - {lab: C, end: 2.067757}
   - {lab: _, end: 2.995}
+  start: 490.98
+  end: 493.98
 - prompt: m0083
   file: ./pavoque/StefanSpike/wav/m0083.wav
   date: 2007-11-06T13:29:10+0100
@@ -4788,6 +5048,8 @@
   - {lab: m, end: 1.995}
   - {lab: 'i:', end: 2.200559}
   - {lab: _, end: 3.235}
+  start: 493.98
+  end: 497.22
 - prompt: m0084
   file: ./pavoque/StefanSpike/wav/m0084.wav
   date: 2007-11-06T13:29:18+0100
@@ -4846,6 +5108,8 @@
   - {lab: I, end: 4.178671}
   - {lab: s, end: 4.383796}
   - {lab: _, end: 5.215}
+  start: 497.22
+  end: 502.44
 - prompt: m0085
   file: ./pavoque/StefanSpike/wav/m0085.wav
   date: 2007-11-06T13:29:24+0100
@@ -4887,6 +5151,8 @@
   - {lab: '@', end: 2.710168}
   - {lab: n, end: 2.835479}
   - {lab: _, end: 4.135}
+  start: 502.44
+  end: 506.58
 - prompt: m0086
   file: ./pavoque/StefanSpike/wav/m0086.wav
   date: 2007-11-06T13:29:30+0100
@@ -4918,6 +5184,8 @@
   - {lab: g, end: 2.152508}
   - {lab: 'i:', end: 2.421824}
   - {lab: _, end: 3.055}
+  start: 506.58
+  end: 509.64
 - prompt: m0087
   file: ./pavoque/StefanSpike/wav/m0087.wav
   date: 2007-11-06T13:29:36+0100
@@ -4950,6 +5218,8 @@
   - {lab: '@', end: 2.59}
   - {lab: n, end: 2.746463}
   - {lab: _, end: 3.655}
+  start: 509.64
+  end: 513.3
 - prompt: m0088
   file: ./pavoque/StefanSpike/wav/m0088.wav
   date: 2007-11-06T13:29:42+0100
@@ -4978,6 +5248,8 @@
   - {lab: I, end: 1.995}
   - {lab: C, end: 2.285314}
   - {lab: _, end: 3.235}
+  start: 513.3
+  end: 516.54
 - prompt: m0089
   file: ./pavoque/StefanSpike/wav/m0089.wav
   date: 2007-11-06T13:29:48+0100
@@ -5012,6 +5284,8 @@
   - {lab: aI, end: 2.535}
   - {lab: n, end: 2.667478}
   - {lab: _, end: 3.535}
+  start: 516.54
+  end: 520.08
 - prompt: m0090
   file: ./pavoque/StefanSpike/wav/m0090.wav
   date: 2007-11-06T13:29:54+0100
@@ -5050,6 +5324,8 @@
   - {lab: x, end: 2.365297}
   - {lab: t, end: 2.536615}
   - {lab: _, end: 3.895}
+  start: 520.08
+  end: 523.98
 - prompt: m0091
   file: ./pavoque/StefanSpike/wav/m0091.wav
   date: 2007-11-06T13:30:00+0100
@@ -5087,6 +5363,8 @@
   - {lab: '6', end: 2.364069}
   - {lab: t, end: 2.529247}
   - {lab: _, end: 3.895}
+  start: 523.98
+  end: 527.88
 - prompt: m0092
   file: ./pavoque/StefanSpike/wav/m0092.wav
   date: 2007-11-06T13:30:06+0100
@@ -5117,6 +5395,8 @@
   - {lab: 'e:', end: 2.022797}
   - {lab: l, end: 2.149337}
   - {lab: _, end: 3.415}
+  start: 527.88
+  end: 531.3
 - prompt: m0093
   file: ./pavoque/StefanSpike/wav/m0093.wav
   date: 2007-11-06T13:30:16+0100
@@ -5186,6 +5466,8 @@
   - {lab: '@', end: 4.595}
   - {lab: n, end: 4.710582}
   - {lab: _, end: 6.115}
+  start: 531.3
+  end: 537.42
 - prompt: m0094
   file: ./pavoque/StefanSpike/wav/m0094.wav
   date: 2007-11-06T13:30:20+0100
@@ -5215,6 +5497,8 @@
   - {lab: '@', end: 2.175}
   - {lab: n, end: 2.287065}
   - {lab: _, end: 2.995}
+  start: 537.42
+  end: 540.42
 - prompt: m0095
   file: ./pavoque/StefanSpike/wav/m0095.wav
   date: 2007-11-06T13:30:28+0100
@@ -5264,6 +5548,8 @@
   - {lab: '@', end: 3.725}
   - {lab: n, end: 3.844114}
   - {lab: _, end: 4.855}
+  start: 540.42
+  end: 545.28
 - prompt: m0097
   file: ./pavoque/StefanSpike/wav/m0097.wav
   date: 2007-11-06T13:30:42+0100
@@ -5295,6 +5581,8 @@
   - {lab: U, end: 2.87}
   - {lab: N, end: 2.948653}
   - {lab: _, end: 3.475}
+  start: 545.28
+  end: 548.76
 - prompt: m0098
   file: ./pavoque/StefanSpike/wav/m0098.wav
   date: 2007-11-06T13:30:46+0100
@@ -5321,6 +5609,8 @@
   - {lab: OY, end: 1.954418}
   - {lab: tS, end: 2.273293}
   - {lab: _, end: 3.175}
+  start: 548.76
+  end: 551.94
 - prompt: m0099
   file: ./pavoque/StefanSpike/wav/m0099.wav
   date: 2007-11-06T13:30:54+0100
@@ -5358,6 +5648,8 @@
   - {lab: C, end: 2.698995}
   - {lab: t, end: 2.8458}
   - {lab: _, end: 3.835}
+  start: 551.94
+  end: 555.78
 - prompt: m0101
   file: ./pavoque/StefanSpike/wav/m0101.wav
   date: 2007-11-06T13:31:04+0100
@@ -5386,6 +5678,8 @@
   - {lab: 'y:', end: 2.539944}
   - {lab: '6', end: 2.711977}
   - {lab: _, end: 3.175}
+  start: 555.78
+  end: 558.96
 - prompt: m0103
   file: ./pavoque/StefanSpike/wav/m0103.wav
   date: 2007-11-06T13:31:16+0100
@@ -5420,6 +5714,8 @@
   - {lab: 'E:', end: 2.252278}
   - {lab: '6', end: 2.458035}
   - {lab: _, end: 3.535}
+  start: 558.96
+  end: 562.5
 - prompt: m0104
   file: ./pavoque/StefanSpike/wav/m0104.wav
   date: 2007-11-06T13:31:22+0100
@@ -5466,6 +5762,8 @@
   - {lab: a, end: 3.385}
   - {lab: N, end: 3.508007}
   - {lab: _, end: 4.555}
+  start: 562.5
+  end: 567.06
 - prompt: m0105
   file: ./pavoque/StefanSpike/wav/m0105.wav
   date: 2007-11-06T13:31:30+0100
@@ -5506,6 +5804,8 @@
   - {lab: n, end: 3.08}
   - {lab: t, end: 3.227385}
   - {lab: _, end: 4.135}
+  start: 567.06
+  end: 571.2
 - prompt: m0106
   file: ./pavoque/StefanSpike/wav/m0106.wav
   date: 2007-11-06T13:31:34+0100
@@ -5534,6 +5834,8 @@
   - {lab: '@', end: 2.09}
   - {lab: n, end: 2.2352}
   - {lab: _, end: 3.175}
+  start: 571.2
+  end: 574.38
 - prompt: m0102
   file: ./pavoque/StefanSpike/wav/m0102.wav
   date: 2007-11-06T13:33:00+0100
@@ -5562,6 +5864,8 @@
   - {lab: O, end: 1.53}
   - {lab: N, end: 1.72722}
   - {lab: _, end: 2.995}
+  start: 574.38
+  end: 577.38
 - prompt: m0100
   file: ./pavoque/StefanSpike/wav/m0100.wav
   date: 2007-11-06T13:33:20+0100
@@ -5590,6 +5894,8 @@
   - {lab: p, end: 2.2115}
   - {lab: OY, end: 2.535245}
   - {lab: _, end: 2.995}
+  start: 577.38
+  end: 580.38
 - prompt: m0096
   file: ./pavoque/StefanSpike/wav/m0096.wav
   date: 2007-11-06T13:33:54+0100
@@ -5639,6 +5945,8 @@
   - {lab: E, end: 3.237827}
   - {lab: f, end: 3.42948}
   - {lab: _, end: 4.855}
+  start: 580.38
+  end: 585.24
 - prompt: m0107
   file: ./pavoque/StefanSpike/wav/m0107.wav
   date: 2007-11-06T13:34:34+0100
@@ -5723,6 +6031,8 @@
   - {lab: '@', end: 5.775}
   - {lab: n, end: 5.900215}
   - {lab: _, end: 7.915}
+  start: 585.24
+  end: 593.16
 - prompt: m0109
   file: ./pavoque/StefanSpike/wav/m0109.wav
   date: 2007-11-06T13:34:48+0100
@@ -5774,6 +6084,8 @@
   - {lab: '6', end: 3.758777}
   - {lab: s, end: 3.985372}
   - {lab: _, end: 5.035}
+  start: 593.16
+  end: 598.2
 - prompt: m0110
   file: ./pavoque/StefanSpike/wav/m0110.wav
   date: 2007-11-06T13:34:54+0100
@@ -5813,6 +6125,8 @@
   - {lab: O, end: 2.433189}
   - {lab: l, end: 2.603918}
   - {lab: _, end: 4.075}
+  start: 598.2
+  end: 602.28
 - prompt: m0111
   file: ./pavoque/StefanSpike/wav/m0111.wav
   date: 2007-11-06T13:35:00+0100
@@ -5863,6 +6177,8 @@
   - {lab: '@', end: 3.747913}
   - {lab: n, end: 3.85462}
   - {lab: _, end: 4.675}
+  start: 602.28
+  end: 606.96
 - prompt: m0112
   file: ./pavoque/StefanSpike/wav/m0112.wav
   date: 2007-11-06T13:35:08+0100
@@ -5904,6 +6220,8 @@
   - {lab: f, end: 3.22}
   - {lab: t, end: 3.352273}
   - {lab: _, end: 4.435}
+  start: 606.96
+  end: 611.4
 - prompt: m0113
   file: ./pavoque/StefanSpike/wav/m0113.wav
   date: 2007-11-06T13:35:14+0100
@@ -5945,6 +6263,8 @@
   - {lab: I, end: 2.88}
   - {lab: C, end: 3.106899}
   - {lab: _, end: 4.555}
+  start: 611.4
+  end: 615.96
 - prompt: m0114
   file: ./pavoque/StefanSpike/wav/m0114.wav
   date: 2007-11-06T13:35:22+0100
@@ -5991,6 +6311,8 @@
   - {lab: '@', end: 3.67}
   - {lab: t, end: 3.859266}
   - {lab: _, end: 4.735}
+  start: 615.96
+  end: 620.7
 - prompt: m0116
   file: ./pavoque/StefanSpike/wav/m0116.wav
   date: 2007-11-06T13:35:34+0100
@@ -6025,6 +6347,8 @@
   - {lab: '@', end: 2.47}
   - {lab: n, end: 2.636255}
   - {lab: _, end: 3.595}
+  start: 620.7
+  end: 624.3
 - prompt: m0117
   file: ./pavoque/StefanSpike/wav/m0117.wav
   date: 2007-11-06T13:35:40+0100
@@ -6058,6 +6382,8 @@
   - {lab: z, end: 2.17}
   - {lab: 'e:', end: 2.432517}
   - {lab: _, end: 3.415}
+  start: 624.3
+  end: 627.72
 - prompt: m0118
   file: ./pavoque/StefanSpike/wav/m0118.wav
   date: 2007-11-06T13:35:46+0100
@@ -6092,6 +6418,8 @@
   - {lab: d, end: 2.646104}
   - {lab: '@', end: 2.837126}
   - {lab: _, end: 3.775}
+  start: 627.72
+  end: 631.5
 - prompt: m0119
   file: ./pavoque/StefanSpike/wav/m0119.wav
   date: 2007-11-06T13:35:52+0100
@@ -6118,6 +6446,8 @@
   - {lab: p, end: 2.346653}
   - {lab: t, end: 2.483643}
   - {lab: _, end: 2.995}
+  start: 631.5
+  end: 634.5
 - prompt: m0120
   file: ./pavoque/StefanSpike/wav/m0120.wav
   date: 2007-11-06T13:35:58+0100
@@ -6148,6 +6478,8 @@
   - {lab: O, end: 2.275}
   - {lab: n, end: 2.403921}
   - {lab: _, end: 3.295}
+  start: 634.5
+  end: 637.8
 - prompt: m0121
   file: ./pavoque/StefanSpike/wav/m0121.wav
   date: 2007-11-06T13:36:04+0100
@@ -6184,6 +6516,8 @@
   - {lab: '@', end: 2.480336}
   - {lab: l, end: 2.65044}
   - {lab: _, end: 3.775}
+  start: 637.8
+  end: 641.58
 - prompt: m0122
   file: ./pavoque/StefanSpike/wav/m0122.wav
   date: 2007-11-06T13:36:12+0100
@@ -6241,6 +6575,8 @@
   - {lab: '@', end: 3.862998}
   - {lab: n, end: 3.993812}
   - {lab: _, end: 5.635}
+  start: 641.58
+  end: 647.22
 - prompt: m0123
   file: ./pavoque/StefanSpike/wav/m0123.wav
   date: 2007-11-06T13:36:18+0100
@@ -6275,6 +6611,8 @@
   - {lab: pf, end: 2.475}
   - {lab: '@', end: 2.681605}
   - {lab: _, end: 3.535}
+  start: 647.22
+  end: 650.76
 - prompt: m0124
   file: ./pavoque/StefanSpike/wav/m0124.wav
   date: 2007-11-06T13:37:14+0100
@@ -6329,6 +6667,8 @@
   - {lab: '@', end: 3.72}
   - {lab: n, end: 3.824416}
   - {lab: _, end: 4.795}
+  start: 650.76
+  end: 655.56
 - prompt: m0125
   file: ./pavoque/StefanSpike/wav/m0125.wav
   date: 2007-11-06T13:37:20+0100
@@ -6364,6 +6704,8 @@
   - {lab: '@', end: 2.506373}
   - {lab: l, end: 2.651963}
   - {lab: _, end: 3.715}
+  start: 655.56
+  end: 659.28
 - prompt: m0126
   file: ./pavoque/StefanSpike/wav/m0126.wav
   date: 2007-11-06T13:37:26+0100
@@ -6407,6 +6749,8 @@
   - {lab: tS, end: 3.335}
   - {lab: t, end: 3.463821}
   - {lab: _, end: 4.315}
+  start: 659.28
+  end: 663.6
 - prompt: m0127
   file: ./pavoque/StefanSpike/wav/m0127.wav
   date: 2007-11-06T13:37:32+0100
@@ -6449,6 +6793,8 @@
   - {lab: d, end: 2.94}
   - {lab: 'a:', end: 3.189072}
   - {lab: _, end: 4.255}
+  start: 663.6
+  end: 667.86
 - prompt: m0128
   file: ./pavoque/StefanSpike/wav/m0128.wav
   date: 2007-11-06T13:38:00+0100
@@ -6522,6 +6868,8 @@
   - {lab: 'i:', end: 5.24}
   - {lab: m, end: 5.360367}
   - {lab: _, end: 6.835}
+  start: 667.86
+  end: 674.7
 - prompt: m0129
   file: ./pavoque/StefanSpike/wav/m0129.wav
   date: 2007-11-06T13:38:06+0100
@@ -6554,6 +6902,8 @@
   - {lab: k, end: 2.695038}
   - {lab: t, end: 2.893375}
   - {lab: _, end: 3.475}
+  start: 674.7
+  end: 678.18
 - prompt: m0130
   file: ./pavoque/StefanSpike/wav/m0130.wav
   date: 2007-11-06T13:38:12+0100
@@ -6601,6 +6951,8 @@
   - {lab: n, end: 3.423533}
   - {lab: ts, end: 3.692599}
   - {lab: _, end: 4.435}
+  start: 678.18
+  end: 682.62
 - prompt: m0131
   file: ./pavoque/StefanSpike/wav/m0131.wav
   date: 2007-11-06T13:38:18+0100
@@ -6635,6 +6987,8 @@
   - {lab: b, end: 2.643056}
   - {lab: '6', end: 2.915178}
   - {lab: _, end: 3.595}
+  start: 682.62
+  end: 686.22
 - prompt: m0132
   file: ./pavoque/StefanSpike/wav/m0132.wav
   date: 2007-11-06T13:38:26+0100
@@ -6680,6 +7034,8 @@
   - {lab: EI, end: 3.39361}
   - {lab: k, end: 3.610433}
   - {lab: _, end: 4.255}
+  start: 686.22
+  end: 690.48
 - prompt: m0133
   file: ./pavoque/StefanSpike/wav/m0133.wav
   date: 2007-11-06T13:38:32+0100
@@ -6724,6 +7080,8 @@
   - {lab: '@', end: 3.245}
   - {lab: n, end: 3.36095}
   - {lab: _, end: 4.195}
+  start: 690.48
+  end: 694.68
 - prompt: m0134
   file: ./pavoque/StefanSpike/wav/m0134.wav
   date: 2007-11-06T13:38:38+0100
@@ -6753,6 +7111,8 @@
   - {lab: I, end: 2.175}
   - {lab: C, end: 2.443483}
   - {lab: _, end: 3.175}
+  start: 694.68
+  end: 697.86
 - prompt: m0135
   file: ./pavoque/StefanSpike/wav/m0135.wav
   date: 2007-11-06T13:38:44+0100
@@ -6789,6 +7149,8 @@
   - {lab: aI, end: 3.055}
   - {lab: t, end: 3.23893}
   - {lab: _, end: 4.075}
+  start: 697.86
+  end: 701.94
 - prompt: m0136
   file: ./pavoque/StefanSpike/wav/m0136.wav
   date: 2007-11-06T13:38:50+0100
@@ -6819,6 +7181,8 @@
   - {lab: '@', end: 2.152268}
   - {lab: n, end: 2.277521}
   - {lab: _, end: 3.055}
+  start: 701.94
+  end: 705.0
 - prompt: m0137
   file: ./pavoque/StefanSpike/wav/m0137.wav
   date: 2007-11-06T13:38:56+0100
@@ -6846,6 +7210,8 @@
   - {lab: 'a:', end: 2.132605}
   - {lab: k, end: 2.262784}
   - {lab: _, end: 3.055}
+  start: 705.0
+  end: 708.06
 - prompt: m0138
   file: ./pavoque/StefanSpike/wav/m0138.wav
   date: 2007-11-06T13:39:02+0100
@@ -6878,6 +7244,8 @@
   - {lab: '@', end: 2.359402}
   - {lab: n, end: 2.469356}
   - {lab: _, end: 3.415}
+  start: 708.06
+  end: 711.48
 - prompt: m0139
   file: ./pavoque/StefanSpike/wav/m0139.wav
   date: 2007-11-06T13:39:08+0100
@@ -6906,6 +7274,8 @@
   - {lab: E, end: 2.0}
   - {lab: f, end: 2.242707}
   - {lab: _, end: 3.415}
+  start: 711.48
+  end: 714.9
 - prompt: m0141
   file: ./pavoque/StefanSpike/wav/m0141.wav
   date: 2007-11-06T13:39:22+0100
@@ -6942,6 +7312,8 @@
   - {lab: 'u:', end: 3.368186}
   - {lab: '6', end: 3.540772}
   - {lab: _, end: 3.955}
+  start: 714.9
+  end: 718.86
 - prompt: m0142
   file: ./pavoque/StefanSpike/wav/m0142.wav
   date: 2007-11-06T13:39:30+0100
@@ -7017,6 +7389,8 @@
   - {lab: l, end: 5.645}
   - {lab: '6', end: 5.813984}
   - {lab: _, end: 6.475}
+  start: 718.86
+  end: 725.34
 - prompt: m0143
   file: ./pavoque/StefanSpike/wav/m0143.wav
   date: 2007-11-06T13:39:38+0100
@@ -7057,6 +7431,8 @@
   - {lab: I, end: 3.23}
   - {lab: C, end: 3.421746}
   - {lab: _, end: 4.195}
+  start: 725.34
+  end: 729.54
 - prompt: m0144
   file: ./pavoque/StefanSpike/wav/m0144.wav
   date: 2007-11-06T13:39:46+0100
@@ -7110,6 +7486,8 @@
   - {lab: '2:', end: 3.627157}
   - {lab: '6', end: 3.789879}
   - {lab: _, end: 5.155}
+  start: 729.54
+  end: 734.7
 - prompt: m0146
   file: ./pavoque/StefanSpike/wav/m0146.wav
   date: 2007-11-06T13:40:20+0100
@@ -7152,6 +7530,8 @@
   - {lab: m, end: 3.44}
   - {lab: a~, end: 3.662498}
   - {lab: _, end: 4.435}
+  start: 734.7
+  end: 739.14
 - prompt: m0147
   file: ./pavoque/StefanSpike/wav/m0147.wav
   date: 2007-11-06T13:40:26+0100
@@ -7183,6 +7563,8 @@
   - {lab: aI, end: 2.65}
   - {lab: n, end: 2.779777}
   - {lab: _, end: 3.475}
+  start: 739.14
+  end: 742.62
 - prompt: m0148
   file: ./pavoque/StefanSpike/wav/m0148.wav
   date: 2007-11-06T13:40:32+0100
@@ -7217,6 +7599,8 @@
   - {lab: 'a:', end: 3.064956}
   - {lab: f, end: 3.26945}
   - {lab: _, end: 3.775}
+  start: 742.62
+  end: 746.4
 - prompt: m0149
   file: ./pavoque/StefanSpike/wav/m0149.wav
   date: 2007-11-06T13:40:38+0100
@@ -7245,6 +7629,8 @@
   - {lab: n, end: 1.82}
   - {lab: t, end: 1.987028}
   - {lab: _, end: 3.115}
+  start: 746.4
+  end: 749.52
 - prompt: m0150
   file: ./pavoque/StefanSpike/wav/m0150.wav
   date: 2007-11-06T13:40:46+0100
@@ -7299,6 +7685,8 @@
   - {lab: k, end: 3.954514}
   - {lab: '6', end: 4.154698}
   - {lab: _, end: 5.695}
+  start: 749.52
+  end: 755.22
 - prompt: m0151
   file: ./pavoque/StefanSpike/wav/m0151.wav
   date: 2007-11-06T13:40:52+0100
@@ -7334,6 +7722,8 @@
   - {lab: I, end: 2.28}
   - {lab: C, end: 2.494743}
   - {lab: _, end: 3.535}
+  start: 755.22
+  end: 758.76
 - prompt: m0152
   file: ./pavoque/StefanSpike/wav/m0152.wav
   date: 2007-11-06T13:41:02+0100
@@ -7411,6 +7801,8 @@
   - {lab: I, end: 6.025}
   - {lab: S, end: 6.270002}
   - {lab: _, end: 6.415}
+  start: 758.76
+  end: 765.18
 - prompt: m0153
   file: ./pavoque/StefanSpike/wav/m0153.wav
   date: 2007-11-06T13:41:08+0100
@@ -7454,6 +7846,8 @@
   - {lab: '@', end: 3.801132}
   - {lab: n, end: 3.90677}
   - {lab: _, end: 4.375}
+  start: 765.18
+  end: 769.56
 - prompt: m0154
   file: ./pavoque/StefanSpike/wav/m0154.wav
   date: 2007-11-06T13:41:16+0100
@@ -7518,6 +7912,8 @@
   - {lab: I, end: 4.975}
   - {lab: n, end: 5.065213}
   - {lab: _, end: 5.755}
+  start: 769.56
+  end: 775.32
 - prompt: m0155
   file: ./pavoque/StefanSpike/wav/m0155.wav
   date: 2007-11-06T13:41:24+0100
@@ -7569,6 +7965,8 @@
   - {lab: '@', end: 3.98}
   - {lab: t, end: 4.121529}
   - {lab: _, end: 4.975}
+  start: 775.32
+  end: 780.3
 - prompt: m0156
   file: ./pavoque/StefanSpike/wav/m0156.wav
   date: 2007-11-06T13:41:32+0100
@@ -7628,6 +8026,8 @@
   - {lab: 'o:', end: 4.038414}
   - {lab: x, end: 4.196855}
   - {lab: _, end: 5.755}
+  start: 780.3
+  end: 786.06
 - prompt: m0157
   file: ./pavoque/StefanSpike/wav/m0157.wav
   date: 2007-11-06T13:41:38+0100
@@ -7656,6 +8056,8 @@
   - {lab: n, end: 2.17}
   - {lab: '6', end: 2.373441}
   - {lab: _, end: 3.175}
+  start: 786.06
+  end: 789.24
 - prompt: m0158
   file: ./pavoque/StefanSpike/wav/m0158.wav
   date: 2007-11-06T13:41:44+0100
@@ -7686,6 +8088,8 @@
   - {lab: '@', end: 2.792185}
   - {lab: n, end: 2.891708}
   - {lab: _, end: 3.295}
+  start: 789.24
+  end: 792.54
 - prompt: m0159
   file: ./pavoque/StefanSpike/wav/m0159.wav
   date: 2007-11-06T13:41:50+0100
@@ -7722,6 +8126,8 @@
   - {lab: 'y:', end: 2.925}
   - {lab: t, end: 3.089126}
   - {lab: _, end: 3.655}
+  start: 792.54
+  end: 796.2
 - prompt: m0160
   file: ./pavoque/StefanSpike/wav/m0160.wav
   date: 2007-11-06T13:41:56+0100
@@ -7748,6 +8154,8 @@
   - {lab: 'o:', end: 2.132788}
   - {lab: 'a:', end: 2.421417}
   - {lab: _, end: 2.935}
+  start: 796.2
+  end: 799.14
 - prompt: m0145
   file: ./pavoque/StefanSpike/wav/m0145.wav
   date: 2007-11-06T13:42:56+0100
@@ -7807,6 +8215,8 @@
   - {lab: '@', end: 4.462767}
   - {lab: n, end: 4.548129}
   - {lab: _, end: 5.755}
+  start: 799.14
+  end: 804.9
 - prompt: m0161
   file: ./pavoque/StefanSpike/wav/m0161.wav
   date: 2007-11-06T13:43:30+0100
@@ -7880,6 +8290,8 @@
   - {lab: '@', end: 5.505989}
   - {lab: n, end: 5.668725}
   - {lab: _, end: 6.595}
+  start: 804.9
+  end: 811.5
 - prompt: m0163
   file: ./pavoque/StefanSpike/wav/m0163.wav
   date: 2007-11-06T13:43:42+0100
@@ -7909,6 +8321,8 @@
   - {lab: '6', end: 2.774646}
   - {lab: t, end: 2.966955}
   - {lab: _, end: 3.175}
+  start: 811.5
+  end: 814.68
 - prompt: m0164
   file: ./pavoque/StefanSpike/wav/m0164.wav
   date: 2007-11-06T13:43:48+0100
@@ -7940,6 +8354,8 @@
   - {lab: aI, end: 2.57}
   - {lab: n, end: 2.69892}
   - {lab: _, end: 3.595}
+  start: 814.68
+  end: 818.28
 - prompt: m0165
   file: ./pavoque/StefanSpike/wav/m0165.wav
   date: 2007-11-06T13:43:54+0100
@@ -7972,6 +8388,8 @@
   - {lab: O, end: 2.345}
   - {lab: x, end: 2.543769}
   - {lab: _, end: 3.655}
+  start: 818.28
+  end: 821.94
 - prompt: m0166
   file: ./pavoque/StefanSpike/wav/m0166.wav
   date: 2007-11-06T13:44:02+0100
@@ -8021,6 +8439,8 @@
   - {lab: '@', end: 3.225}
   - {lab: s, end: 3.499436}
   - {lab: _, end: 4.735}
+  start: 821.94
+  end: 826.68
 - prompt: m0167
   file: ./pavoque/StefanSpike/wav/m0167.wav
   date: 2007-11-06T13:44:08+0100
@@ -8051,6 +8471,8 @@
   - {lab: d, end: 2.16}
   - {lab: '@', end: 2.388119}
   - {lab: _, end: 3.115}
+  start: 826.68
+  end: 829.8
 - prompt: m0168
   file: ./pavoque/StefanSpike/wav/m0168.wav
   date: 2007-11-06T13:44:18+0100
@@ -8127,6 +8549,8 @@
   - {lab: U, end: 5.330515}
   - {lab: N, end: 5.417709}
   - {lab: _, end: 6.835}
+  start: 829.8
+  end: 836.64
 - prompt: m0169
   file: ./pavoque/StefanSpike/wav/m0169.wav
   date: 2007-11-06T13:44:24+0100
@@ -8175,6 +8599,8 @@
   - {lab: 'u:', end: 3.195327}
   - {lab: l, end: 3.375267}
   - {lab: _, end: 4.495}
+  start: 836.64
+  end: 841.14
 - prompt: m0170
   file: ./pavoque/StefanSpike/wav/m0170.wav
   date: 2007-11-06T13:44:32+0100
@@ -8222,6 +8648,8 @@
   - {lab: f, end: 3.89}
   - {lab: '6', end: 4.12439}
   - {lab: _, end: 4.915}
+  start: 841.14
+  end: 846.06
 - prompt: m0171
   file: ./pavoque/StefanSpike/wav/m0171.wav
   date: 2007-11-06T13:44:36+0100
@@ -8249,6 +8677,8 @@
   - {lab: O, end: 2.25}
   - {lab: n, end: 2.400138}
   - {lab: _, end: 2.938592}
+  start: 846.06
+  end: 849.06
 - prompt: m0172
   file: ./pavoque/StefanSpike/wav/m0172.wav
   date: 2007-11-06T13:44:44+0100
@@ -8304,6 +8734,8 @@
   - {lab: '@', end: 3.555}
   - {lab: n, end: 3.670889}
   - {lab: _, end: 4.855}
+  start: 849.06
+  end: 853.92
 - prompt: m0173
   file: ./pavoque/StefanSpike/wav/m0173.wav
   date: 2007-11-06T13:44:50+0100
@@ -8341,6 +8773,8 @@
   - {lab: '@', end: 2.639063}
   - {lab: n, end: 2.81414}
   - {lab: _, end: 3.715}
+  start: 853.92
+  end: 857.64
 - prompt: m0174
   file: ./pavoque/StefanSpike/wav/m0174.wav
   date: 2007-11-06T13:44:56+0100
@@ -8376,6 +8810,8 @@
   - {lab: aI, end: 2.905}
   - {lab: s, end: 3.155228}
   - {lab: _, end: 3.775}
+  start: 857.64
+  end: 861.42
 - prompt: m0175
   file: ./pavoque/StefanSpike/wav/m0175.wav
   date: 2007-11-06T13:45:02+0100
@@ -8402,6 +8838,8 @@
   - {lab: x, end: 1.98}
   - {lab: t, end: 2.131645}
   - {lab: _, end: 2.995}
+  start: 861.42
+  end: 864.42
 - prompt: m0176
   file: ./pavoque/StefanSpike/wav/m0176.wav
   date: 2007-11-06T13:45:08+0100
@@ -8431,6 +8869,8 @@
   - {lab: '@', end: 1.865}
   - {lab: n, end: 2.022797}
   - {lab: _, end: 3.415}
+  start: 864.42
+  end: 867.84
 - prompt: m0178
   file: ./pavoque/StefanSpike/wav/m0178.wav
   date: 2007-11-06T13:45:20+0100
@@ -8490,6 +8930,8 @@
   - {lab: l, end: 4.585}
   - {lab: k, end: 4.744916}
   - {lab: _, end: 5.215}
+  start: 867.84
+  end: 873.06
 - prompt: m0179
   file: ./pavoque/StefanSpike/wav/m0179.wav
   date: 2007-11-06T13:45:28+0100
@@ -8549,6 +8991,8 @@
   - {lab: t, end: 4.349056}
   - {lab: '@', end: 4.519026}
   - {lab: _, end: 5.455}
+  start: 873.06
+  end: 878.52
 - prompt: m0180
   file: ./pavoque/StefanSpike/wav/m0180.wav
   date: 2007-11-06T13:45:34+0100
@@ -8575,6 +9019,8 @@
   - {lab: aI, end: 2.14}
   - {lab: s, end: 2.406679}
   - {lab: _, end: 2.935}
+  start: 878.52
+  end: 881.46
 - prompt: m0181
   file: ./pavoque/StefanSpike/wav/m0181.wav
   date: 2007-11-06T13:45:40+0100
@@ -8612,6 +9058,8 @@
   - {lab: I, end: 2.245}
   - {lab: N, end: 2.363617}
   - {lab: _, end: 3.835}
+  start: 881.46
+  end: 885.3
 - prompt: m0182
   file: ./pavoque/StefanSpike/wav/m0182.wav
   date: 2007-11-06T13:45:48+0100
@@ -8665,6 +9113,8 @@
   - {lab: 'a:', end: 3.561196}
   - {lab: s, end: 3.791486}
   - {lab: _, end: 5.335}
+  start: 885.3
+  end: 890.64
 - prompt: m0183
   file: ./pavoque/StefanSpike/wav/m0183.wav
   date: 2007-11-06T13:45:54+0100
@@ -8697,6 +9147,8 @@
   - {lab: a, end: 2.285}
   - {lab: N, end: 2.399109}
   - {lab: _, end: 3.595}
+  start: 890.64
+  end: 894.24
 - prompt: m0184
   file: ./pavoque/StefanSpike/wav/m0184.wav
   date: 2007-11-06T13:46:02+0100
@@ -8751,6 +9203,8 @@
   - {lab: '@', end: 3.620209}
   - {lab: l, end: 3.765779}
   - {lab: _, end: 5.395}
+  start: 894.24
+  end: 899.64
 - prompt: m0185
   file: ./pavoque/StefanSpike/wav/m0185.wav
   date: 2007-11-06T13:46:08+0100
@@ -8789,6 +9243,8 @@
   - {lab: '@', end: 2.767891}
   - {lab: n, end: 2.914668}
   - {lab: _, end: 4.075}
+  start: 899.64
+  end: 903.72
 - prompt: m0187
   file: ./pavoque/StefanSpike/wav/m0187.wav
   date: 2007-11-06T13:46:22+0100
@@ -8834,6 +9290,8 @@
   - {lab: f, end: 3.555}
   - {lab: t, end: 3.681807}
   - {lab: _, end: 4.315}
+  start: 903.72
+  end: 908.04
 - prompt: m0188
   file: ./pavoque/StefanSpike/wav/m0188.wav
   date: 2007-11-06T13:46:28+0100
@@ -8869,6 +9327,8 @@
   - {lab: '@', end: 2.39}
   - {lab: s, end: 2.628108}
   - {lab: _, end: 3.475}
+  start: 908.04
+  end: 911.52
 - prompt: m0189
   file: ./pavoque/StefanSpike/wav/m0189.wav
   date: 2007-11-06T13:46:34+0100
@@ -8895,6 +9355,8 @@
   - {lab: '@', end: 2.077567}
   - {lab: n, end: 2.211221}
   - {lab: _, end: 3.115}
+  start: 911.52
+  end: 914.64
 - prompt: m0190
   file: ./pavoque/StefanSpike/wav/m0190.wav
   date: 2007-11-06T13:46:40+0100
@@ -8945,6 +9407,8 @@
   - {lab: U, end: 3.435}
   - {lab: m, end: 3.522497}
   - {lab: _, end: 4.675}
+  start: 914.64
+  end: 919.32
 - prompt: m0191
   file: ./pavoque/StefanSpike/wav/m0191.wav
   date: 2007-11-06T13:46:46+0100
@@ -8975,6 +9439,8 @@
   - {lab: aI, end: 2.228365}
   - {lab: t, end: 2.43407}
   - {lab: _, end: 3.475}
+  start: 919.32
+  end: 922.8
 - prompt: m0192
   file: ./pavoque/StefanSpike/wav/m0192.wav
   date: 2007-11-06T13:46:52+0100
@@ -9011,6 +9477,8 @@
   - {lab: I, end: 2.205}
   - {lab: C, end: 2.417871}
   - {lab: _, end: 3.655}
+  start: 922.8
+  end: 926.46
 - prompt: m0193
   file: ./pavoque/StefanSpike/wav/m0193.wav
   date: 2007-11-06T13:47:00+0100
@@ -9050,6 +9518,8 @@
   - {lab: 'u:', end: 3.335}
   - {lab: x, end: 3.425474}
   - {lab: _, end: 4.015}
+  start: 926.46
+  end: 930.48
 - prompt: m0194
   file: ./pavoque/StefanSpike/wav/m0194.wav
   date: 2007-11-06T13:47:06+0100
@@ -9102,6 +9572,8 @@
   - {lab: O, end: 3.465}
   - {lab: l, end: 3.56462}
   - {lab: _, end: 4.855}
+  start: 930.48
+  end: 935.34
 - prompt: m0195
   file: ./pavoque/StefanSpike/wav/m0195.wav
   date: 2007-11-06T13:47:12+0100
@@ -9140,6 +9612,8 @@
   - {lab: R, end: 2.525}
   - {lab: 'i:', end: 2.747468}
   - {lab: _, end: 3.775}
+  start: 935.34
+  end: 939.12
 - prompt: m0196
   file: ./pavoque/StefanSpike/wav/m0196.wav
   date: 2007-11-06T13:47:18+0100
@@ -9173,6 +9647,8 @@
   - {lab: l, end: 2.745}
   - {lab: t, end: 2.923308}
   - {lab: _, end: 3.655}
+  start: 939.12
+  end: 942.78
 - prompt: m0162
   file: ./pavoque/StefanSpike/wav/m0162.wav
   date: 2007-11-06T13:48:20+0100
@@ -9226,6 +9702,8 @@
   - {lab: aI, end: 3.8}
   - {lab: t, end: 4.066398}
   - {lab: _, end: 4.795}
+  start: 942.78
+  end: 947.58
 - prompt: m0177
   file: ./pavoque/StefanSpike/wav/m0177.wav
   date: 2007-11-06T13:48:48+0100
@@ -9254,6 +9732,8 @@
   - {lab: l, end: 2.079182}
   - {lab: '@', end: 2.345}
   - {lab: _, end: 3.055}
+  start: 947.58
+  end: 950.64
 - prompt: m0186
   file: ./pavoque/StefanSpike/wav/m0186.wav
   date: 2007-11-06T13:49:16+0100
@@ -9291,6 +9771,8 @@
   - {lab: h, end: 2.99}
   - {lab: EI, end: 3.25257}
   - {lab: _, end: 4.135}
+  start: 950.64
+  end: 954.78
 - prompt: m0197
   file: ./pavoque/StefanSpike/wav/m0197.wav
   date: 2007-11-06T13:49:52+0100
@@ -9345,6 +9827,8 @@
   - {lab: 'o:', end: 4.225}
   - {lab: n, end: 4.338231}
   - {lab: _, end: 5.395}
+  start: 954.78
+  end: 960.18
 - prompt: m0198
   file: ./pavoque/StefanSpike/wav/m0198.wav
   date: 2007-11-06T13:49:58+0100
@@ -9383,6 +9867,8 @@
   - {lab: aI, end: 2.805}
   - {lab: '6', end: 3.016075}
   - {lab: _, end: 4.135}
+  start: 960.18
+  end: 964.32
 - prompt: m0199
   file: ./pavoque/StefanSpike/wav/m0199.wav
   date: 2007-11-06T13:50:14+0100
@@ -9431,6 +9917,8 @@
   - {lab: a, end: 3.76}
   - {lab: t, end: 3.966336}
   - {lab: _, end: 4.615}
+  start: 964.32
+  end: 968.94
 - prompt: m0200
   file: ./pavoque/StefanSpike/wav/m0200.wav
   date: 2007-11-06T13:50:54+0100
@@ -9480,6 +9968,8 @@
   - {lab: aI, end: 4.19}
   - {lab: n, end: 4.33098}
   - {lab: _, end: 5.215}
+  start: 968.94
+  end: 974.16
 - prompt: m0251
   file: ./pavoque/StefanSpike/wav/m0251.wav
   date: 2007-11-06T13:52:54+0100
@@ -9507,6 +9997,8 @@
   - {lab: n, end: 2.365}
   - {lab: s, end: 2.641994}
   - {lab: _, end: 3.615}
+  start: 974.16
+  end: 977.78
 - prompt: m0252
   file: ./pavoque/StefanSpike/wav/m0252.wav
   date: 2007-11-06T13:53:04+0100
@@ -9553,6 +10045,8 @@
   - {lab: r, end: 3.630961}
   - {lab: 'o:', end: 3.837971}
   - {lab: _, end: 4.995}
+  start: 977.78
+  end: 982.78
 - prompt: m0253
   file: ./pavoque/StefanSpike/wav/m0253.wav
   date: 2007-11-06T13:53:18+0100
@@ -9673,6 +10167,8 @@
   - {lab: '6', end: 9.009439}
   - {lab: t, end: 9.175871}
   - {lab: _, end: 10.455}
+  start: 982.78
+  end: 993.24
 - prompt: m0254
   file: ./pavoque/StefanSpike/wav/m0254.wav
   date: 2007-11-06T13:53:36+0100
@@ -9708,6 +10204,8 @@
   - {lab: k, end: 2.960556}
   - {lab: ts, end: 3.262881}
   - {lab: _, end: 4.215}
+  start: 993.24
+  end: 997.46
 - prompt: m0255
   file: ./pavoque/StefanSpike/wav/m0255.wav
   date: 2007-11-06T13:53:44+0100
@@ -9746,6 +10244,8 @@
   - {lab: '@', end: 3.26}
   - {lab: n, end: 3.404812}
   - {lab: _, end: 4.695}
+  start: 997.46
+  end: 1002.16
 - prompt: m0256
   file: ./pavoque/StefanSpike/wav/m0256.wav
   date: 2007-11-06T13:53:52+0100
@@ -9774,6 +10274,8 @@
   - {lab: 'a:', end: 2.705}
   - {lab: n, end: 2.784415}
   - {lab: _, end: 3.555}
+  start: 1002.16
+  end: 1005.72
 - prompt: m0257
   file: ./pavoque/StefanSpike/wav/m0257.wav
   date: 2007-11-06T13:54:00+0100
@@ -9813,6 +10315,8 @@
   - {lab: 'e:', end: 2.780888}
   - {lab: 'o:', end: 2.953504}
   - {lab: _, end: 4.575}
+  start: 1005.72
+  end: 1010.3
 - prompt: m0259
   file: ./pavoque/StefanSpike/wav/m0259.wav
   date: 2007-11-06T13:54:14+0100
@@ -9851,6 +10355,8 @@
   - {lab: O, end: 3.668298}
   - {lab: f, end: 3.850055}
   - {lab: _, end: 4.455}
+  start: 1010.3
+  end: 1014.76
 - prompt: m0258
   file: ./pavoque/StefanSpike/wav/m0258.wav
   date: 2007-11-06T13:55:34+0100
@@ -9879,6 +10385,8 @@
   - {lab: t, end: 2.443228}
   - {lab: '6', end: 2.638837}
   - {lab: _, end: 3.555}
+  start: 1014.76
+  end: 1018.32
 - prompt: m0260
   file: ./pavoque/StefanSpike/wav/m0260.wav
   date: 2007-11-06T13:56:12+0100
@@ -9931,6 +10439,8 @@
   - {lab: l, end: 5.425}
   - {lab: t, end: 5.610413}
   - {lab: _, end: 7.355}
+  start: 1018.32
+  end: 1025.68
 - prompt: m0261
   file: ./pavoque/StefanSpike/wav/m0261.wav
   date: 2007-11-06T13:56:40+0100
@@ -9967,6 +10477,8 @@
   - {lab: I, end: 2.825}
   - {lab: n, end: 3.003889}
   - {lab: _, end: 4.515}
+  start: 1025.68
+  end: 1030.2
 - prompt: m0262
   file: ./pavoque/StefanSpike/wav/m0262.wav
   date: 2007-11-06T13:56:48+0100
@@ -9998,6 +10510,8 @@
   - {lab: aI, end: 2.565}
   - {lab: v, end: 2.77633}
   - {lab: _, end: 3.915}
+  start: 1030.2
+  end: 1034.12
 - prompt: m0263
   file: ./pavoque/StefanSpike/wav/m0263.wav
   date: 2007-11-06T13:56:54+0100
@@ -10025,6 +10539,8 @@
   - {lab: t, end: 2.359046}
   - {lab: '6', end: 2.568812}
   - {lab: _, end: 3.555}
+  start: 1034.12
+  end: 1037.68
 - prompt: m0264
   file: ./pavoque/StefanSpike/wav/m0264.wav
   date: 2007-11-06T13:57:02+0100
@@ -10063,6 +10579,8 @@
   - {lab: n, end: 3.105}
   - {lab: s, end: 3.335963}
   - {lab: _, end: 4.215}
+  start: 1037.68
+  end: 1041.9
 - prompt: m0265
   file: ./pavoque/StefanSpike/wav/m0265.wav
   date: 2007-11-06T13:57:24+0100
@@ -10104,6 +10622,8 @@
   - {lab: z, end: 3.964881}
   - {lab: d, end: 4.077865}
   - {lab: _, end: 4.875}
+  start: 1041.9
+  end: 1046.78
 - prompt: m0266
   file: ./pavoque/StefanSpike/wav/m0266.wav
   date: 2007-11-06T13:57:32+0100
@@ -10137,6 +10657,8 @@
   - {lab: n, end: 2.858001}
   - {lab: _, end: 3.078556}
   - {lab: '', end: 3.735}
+  start: 1046.78
+  end: 1050.52
 - prompt: m0267
   file: ./pavoque/StefanSpike/wav/m0267.wav
   date: 2007-11-06T13:57:40+0100
@@ -10176,6 +10698,8 @@
   - {lab: m, end: 3.365}
   - {lab: 'i:', end: 3.573528}
   - {lab: _, end: 4.395}
+  start: 1050.52
+  end: 1054.92
 - prompt: m0268
   file: ./pavoque/StefanSpike/wav/m0268.wav
   date: 2007-11-06T13:57:48+0100
@@ -10213,6 +10737,8 @@
   - {lab: s, end: 2.847935}
   - {lab: t, end: 2.957767}
   - {lab: _, end: 4.455}
+  start: 1054.92
+  end: 1059.38
 - prompt: m0269
   file: ./pavoque/StefanSpike/wav/m0269.wav
   date: 2007-11-06T13:57:58+0100
@@ -10273,6 +10799,8 @@
   - {lab: 'i:', end: 5.210776}
   - {lab: '6', end: 5.4042}
   - {lab: _, end: 6.135}
+  start: 1059.38
+  end: 1065.52
 - prompt: m0270
   file: ./pavoque/StefanSpike/wav/m0270.wav
   date: 2007-11-06T13:58:04+0100
@@ -10298,6 +10826,8 @@
   - {lab: OY, end: 2.38}
   - {lab: s, end: 2.589682}
   - {lab: _, end: 3.495}
+  start: 1065.52
+  end: 1069.02
 - prompt: m0271
   file: ./pavoque/StefanSpike/wav/m0271.wav
   date: 2007-11-06T13:58:30+0100
@@ -10345,6 +10875,8 @@
   - {lab: k, end: 3.951034}
   - {lab: 'a:', end: 4.160264}
   - {lab: _, end: 5.115}
+  start: 1069.02
+  end: 1074.14
 - prompt: m0272
   file: ./pavoque/StefanSpike/wav/m0272.wav
   date: 2007-11-06T13:58:36+0100
@@ -10379,6 +10911,8 @@
   - {lab: v, end: 3.105}
   - {lab: 'i:', end: 3.349609}
   - {lab: _, end: 4.035}
+  start: 1074.14
+  end: 1078.18
 - prompt: m0273
   file: ./pavoque/StefanSpike/wav/m0273.wav
   date: 2007-11-06T13:58:48+0100
@@ -10446,6 +10980,8 @@
   - {lab: t, end: 5.318457}
   - {lab: 'i:', end: 5.489552}
   - {lab: _, end: 6.975}
+  start: 1078.18
+  end: 1085.16
 - prompt: m0275
   file: ./pavoque/StefanSpike/wav/m0275.wav
   date: 2007-11-06T13:59:04+0100
@@ -10478,6 +11014,8 @@
   - {lab: a, end: 2.145223}
   - {lab: t, end: 2.327625}
   - {lab: _, end: 3.795}
+  start: 1085.16
+  end: 1088.96
 - prompt: m0277
   file: ./pavoque/StefanSpike/wav/m0277.wav
   date: 2007-11-06T13:59:22+0100
@@ -10519,6 +11057,8 @@
   - {lab: k, end: 3.089769}
   - {lab: 'a:', end: 3.304783}
   - {lab: _, end: 4.275}
+  start: 1088.96
+  end: 1093.24
 - prompt: m0276
   file: ./pavoque/StefanSpike/wav/m0276.wav
   date: 2007-11-06T13:59:46+0100
@@ -10578,6 +11118,8 @@
   - {lab: r, end: 4.78}
   - {lab: '@', end: 5.003145}
   - {lab: _, end: 5.655}
+  start: 1093.24
+  end: 1098.9
 - prompt: m0279
   file: ./pavoque/StefanSpike/wav/m0279.wav
   date: 2007-11-06T14:01:04+0100
@@ -10662,6 +11204,8 @@
   - {lab: l, end: 6.662947}
   - {lab: n, end: 6.707162}
   - {lab: _, end: 7.575}
+  start: 1098.9
+  end: 1106.48
 - prompt: m0280
   file: ./pavoque/StefanSpike/wav/m0280.wav
   date: 2007-11-06T14:01:12+0100
@@ -10699,6 +11243,8 @@
   - {lab: n, end: 2.55}
   - {lab: t, end: 2.681067}
   - {lab: _, end: 4.395}
+  start: 1106.48
+  end: 1110.88
 - prompt: m0281
   file: ./pavoque/StefanSpike/wav/m0281.wav
   date: 2007-11-06T14:03:10+0100
@@ -10780,6 +11326,8 @@
   - {lab: d, end: 6.110443}
   - {lab: Z, end: 6.33}
   - {lab: _, end: 7.755}
+  start: 1110.88
+  end: 1118.64
 - prompt: m0282
   file: ./pavoque/StefanSpike/wav/m0282.wav
   date: 2007-11-06T14:03:18+0100
@@ -10819,6 +11367,8 @@
   - {lab: l, end: 2.805566}
   - {lab: s, end: 3.041973}
   - {lab: _, end: 4.455}
+  start: 1118.64
+  end: 1123.1
 - prompt: m0283
   file: ./pavoque/StefanSpike/wav/m0283.wav
   date: 2007-11-06T14:03:28+0100
@@ -10885,6 +11435,8 @@
   - {lab: b, end: 5.780264}
   - {lab: '6', end: 5.991196}
   - {lab: _, end: 7.215}
+  start: 1123.1
+  end: 1130.32
 - prompt: m0284
   file: ./pavoque/StefanSpike/wav/m0284.wav
   date: 2007-11-06T14:03:38+0100
@@ -10941,6 +11493,8 @@
   - {lab: I, end: 5.055}
   - {lab: k, end: 5.224475}
   - {lab: _, end: 5.955}
+  start: 1130.32
+  end: 1136.28
 - prompt: m0285
   file: ./pavoque/StefanSpike/wav/m0285.wav
   date: 2007-11-06T14:03:46+0100
@@ -10970,6 +11524,8 @@
   - {lab: aU, end: 3.14}
   - {lab: x, end: 3.332711}
   - {lab: _, end: 4.155}
+  start: 1136.28
+  end: 1140.44
 - prompt: m0286
   file: ./pavoque/StefanSpike/wav/m0286.wav
   date: 2007-11-06T14:03:54+0100
@@ -11001,6 +11557,8 @@
   - {lab: U, end: 3.16}
   - {lab: t, end: 3.323825}
   - {lab: _, end: 4.275}
+  start: 1140.44
+  end: 1144.72
 - prompt: m0287
   file: ./pavoque/StefanSpike/wav/m0287.wav
   date: 2007-11-06T14:04:02+0100
@@ -11050,6 +11608,8 @@
   - {lab: n, end: 3.813019}
   - {lab: t, end: 3.978242}
   - {lab: _, end: 4.815}
+  start: 1144.72
+  end: 1149.54
 - prompt: m0288
   file: ./pavoque/StefanSpike/wav/m0288.wav
   date: 2007-11-06T14:04:08+0100
@@ -11077,6 +11637,8 @@
   - {lab: '@', end: 2.06}
   - {lab: n, end: 2.194812}
   - {lab: _, end: 3.495}
+  start: 1149.54
+  end: 1153.04
 - prompt: m0289
   file: ./pavoque/StefanSpike/wav/m0289.wav
   date: 2007-11-06T14:04:18+0100
@@ -11134,6 +11696,8 @@
   - {lab: U, end: 4.29}
   - {lab: b, end: 4.334298}
   - {lab: _, end: 5.655}
+  start: 1153.04
+  end: 1158.7
 - prompt: m0290
   file: ./pavoque/StefanSpike/wav/m0290.wav
   date: 2007-11-06T14:04:28+0100
@@ -11193,6 +11757,8 @@
   - {lab: '@', end: 4.089853}
   - {lab: n, end: 4.232343}
   - {lab: _, end: 5.655}
+  start: 1158.7
+  end: 1164.36
 - prompt: m0291
   file: ./pavoque/StefanSpike/wav/m0291.wav
   date: 2007-11-06T14:04:36+0100
@@ -11239,6 +11805,8 @@
   - {lab: R, end: 4.014463}
   - {lab: '@', end: 4.203611}
   - {lab: _, end: 5.475}
+  start: 1164.36
+  end: 1169.84
 - prompt: m0292
   file: ./pavoque/StefanSpike/wav/m0292.wav
   date: 2007-11-06T14:04:44+0100
@@ -11282,6 +11850,8 @@
   - {lab: 'a:', end: 3.606288}
   - {lab: n, end: 3.731595}
   - {lab: _, end: 4.695}
+  start: 1169.84
+  end: 1174.54
 - prompt: m0293
   file: ./pavoque/StefanSpike/wav/m0293.wav
   date: 2007-11-06T14:04:52+0100
@@ -11322,6 +11892,8 @@
   - {lab: 'a:', end: 3.635}
   - {lab: l, end: 3.782653}
   - {lab: _, end: 4.515}
+  start: 1174.54
+  end: 1179.06
 - prompt: m0294
   file: ./pavoque/StefanSpike/wav/m0294.wav
   date: 2007-11-06T14:05:00+0100
@@ -11349,6 +11921,8 @@
   - {lab: O, end: 2.575}
   - {lab: n, end: 2.684254}
   - {lab: _, end: 3.495}
+  start: 1179.06
+  end: 1182.56
 - prompt: m0295
   file: ./pavoque/StefanSpike/wav/m0295.wav
   date: 2007-11-06T14:05:08+0100
@@ -11392,6 +11966,8 @@
   - {lab: '@', end: 4.48}
   - {lab: n, end: 4.625289}
   - {lab: _, end: 4.935}
+  start: 1182.56
+  end: 1187.5
 - prompt: m0296
   file: ./pavoque/StefanSpike/wav/m0296.wav
   date: 2007-11-06T14:06:00+0100
@@ -11463,6 +12039,8 @@
   - {lab: l, end: 6.115}
   - {lab: t, end: 6.295792}
   - {lab: _, end: 7.395}
+  start: 1187.5
+  end: 1194.9
 - prompt: m0297
   file: ./pavoque/StefanSpike/wav/m0297.wav
   date: 2007-11-06T14:06:10+0100
@@ -11506,6 +12084,8 @@
   - {lab: '6', end: 3.57}
   - {lab: n, end: 3.679735}
   - {lab: _, end: 4.815}
+  start: 1194.9
+  end: 1199.72
 - prompt: m0298
   file: ./pavoque/StefanSpike/wav/m0298.wav
   date: 2007-11-06T14:06:16+0100
@@ -11530,6 +12110,8 @@
   - {lab: 'i:', end: 2.37}
   - {lab: l, end: 2.503701}
   - {lab: _, end: 3.555}
+  start: 1199.72
+  end: 1203.28
 - prompt: m0299
   file: ./pavoque/StefanSpike/wav/m0299.wav
   date: 2007-11-06T14:06:24+0100
@@ -11574,6 +12156,8 @@
   - {lab: a, end: 3.036447}
   - {lab: t, end: 3.216362}
   - {lab: _, end: 4.875}
+  start: 1203.28
+  end: 1208.16
 - prompt: m0300
   file: ./pavoque/StefanSpike/wav/m0300.wav
   date: 2007-11-06T14:06:32+0100
@@ -11602,6 +12186,8 @@
   - {lab: '@', end: 1.851845}
   - {lab: k, end: 2.028737}
   - {lab: _, end: 3.675}
+  start: 1208.16
+  end: 1211.84
 - prompt: m0301
   file: ./pavoque/StefanSpike/wav/m0301.wav
   date: 2007-11-06T14:06:42+0100
@@ -11688,6 +12274,8 @@
   - {lab: a, end: 6.92}
   - {lab: n, end: 7.054145}
   - {lab: _, end: 7.875}
+  start: 1211.84
+  end: 1219.72
 - prompt: m0302
   file: ./pavoque/StefanSpike/wav/m0302.wav
   date: 2007-11-06T14:06:52+0100
@@ -11733,6 +12321,8 @@
   - {lab: aI, end: 3.385}
   - {lab: n, end: 3.471438}
   - {lab: _, end: 4.755}
+  start: 1219.72
+  end: 1224.48
 - prompt: m0303
   file: ./pavoque/StefanSpike/wav/m0303.wav
   date: 2007-11-06T14:07:14+0100
@@ -11761,6 +12351,8 @@
   - {lab: a, end: 2.27}
   - {lab: n, end: 2.416263}
   - {lab: _, end: 3.615}
+  start: 1224.48
+  end: 1228.1
 - prompt: m0304
   file: ./pavoque/StefanSpike/wav/m0304.wav
   date: 2007-11-06T14:07:24+0100
@@ -11846,6 +12438,8 @@
   - {lab: I, end: 6.925}
   - {lab: C, end: 7.13191}
   - {lab: _, end: 7.755}
+  start: 1228.1
+  end: 1235.86
 - prompt: m0305
   file: ./pavoque/StefanSpike/wav/m0305.wav
   date: 2007-11-06T14:07:36+0100
@@ -11925,6 +12519,8 @@
   - {lab: k, end: 5.749301}
   - {lab: 'a:', end: 5.966551}
   - {lab: _, end: 7.335}
+  start: 1235.86
+  end: 1243.2
 - prompt: m0306
   file: ./pavoque/StefanSpike/wav/m0306.wav
   date: 2007-11-06T14:07:44+0100
@@ -11966,6 +12562,8 @@
   - {lab: 'i:', end: 3.39}
   - {lab: n, end: 3.538828}
   - {lab: _, end: 4.515}
+  start: 1243.2
+  end: 1247.72
 - prompt: m0307
   file: ./pavoque/StefanSpike/wav/m0307.wav
   date: 2007-11-06T14:07:52+0100
@@ -12026,6 +12624,8 @@
   - {lab: 'u:', end: 4.67}
   - {lab: n, end: 4.800735}
   - {lab: _, end: 5.775}
+  start: 1247.72
+  end: 1253.5
 - prompt: m0308
   file: ./pavoque/StefanSpike/wav/m0308.wav
   date: 2007-11-06T14:08:04+0100
@@ -12103,6 +12703,8 @@
   - {lab: j, end: 6.605}
   - {lab: 'o:', end: 6.848725}
   - {lab: _, end: 7.275}
+  start: 1253.5
+  end: 1260.78
 - prompt: m0309
   file: ./pavoque/StefanSpike/wav/m0309.wav
   date: 2007-11-06T14:08:48+0100
@@ -12194,6 +12796,8 @@
   - {lab: 'i:', end: 9.085}
   - {lab: 'o:', end: 9.299795}
   - {lab: _, end: 10.295}
+  start: 1260.78
+  end: 1271.08
 - prompt: m0310
   file: ./pavoque/StefanSpike/wav/m0310.wav
   date: 2007-11-06T14:09:28+0100
@@ -12229,6 +12833,8 @@
   - {lab: v, end: 3.04}
   - {lab: aU, end: 3.324155}
   - {lab: _, end: 4.395}
+  start: 1271.08
+  end: 1275.48
 - prompt: m0311
   file: ./pavoque/StefanSpike/wav/m0311.wav
   date: 2007-11-06T14:09:36+0100
@@ -12265,6 +12871,8 @@
   - {lab: aI, end: 3.35}
   - {lab: n, end: 3.447157}
   - {lab: _, end: 4.395}
+  start: 1275.48
+  end: 1279.88
 - prompt: m0312
   file: ./pavoque/StefanSpike/wav/m0312.wav
   date: 2007-11-06T14:09:44+0100
@@ -12307,6 +12915,8 @@
   - {lab: U, end: 3.158062}
   - {lab: m, end: 3.247748}
   - {lab: _, end: 4.575}
+  start: 1279.88
+  end: 1284.46
 - prompt: m0313
   file: ./pavoque/StefanSpike/wav/m0313.wav
   date: 2007-11-06T14:09:54+0100
@@ -12376,6 +12986,8 @@
   - {lab: '@', end: 5.765}
   - {lab: s, end: 5.993325}
   - {lab: _, end: 6.855}
+  start: 1284.46
+  end: 1291.32
 - prompt: m0314
   file: ./pavoque/StefanSpike/wav/m0314.wav
   date: 2007-11-06T14:10:02+0100
@@ -12419,6 +13031,8 @@
   - {lab: '@', end: 3.76}
   - {lab: n, end: 3.871485}
   - {lab: _, end: 4.635}
+  start: 1291.32
+  end: 1295.96
 - prompt: m0316
   file: ./pavoque/StefanSpike/wav/m0316.wav
   date: 2007-11-06T14:10:20+0100
@@ -12477,6 +13091,8 @@
   - {lab: R, end: 5.0}
   - {lab: 'E:', end: 5.532535}
   - {lab: _, end: 6.135}
+  start: 1295.96
+  end: 1302.1
 - prompt: m0317
   file: ./pavoque/StefanSpike/wav/m0317.wav
   date: 2007-11-06T14:10:30+0100
@@ -12521,6 +13137,8 @@
   - {lab: '@', end: 3.782166}
   - {lab: n, end: 3.901913}
   - {lab: _, end: 4.755}
+  start: 1302.1
+  end: 1306.86
 - prompt: m0318
   file: ./pavoque/StefanSpike/wav/m0318.wav
   date: 2007-11-06T14:10:44+0100
@@ -12651,6 +13269,8 @@
   - {lab: '@', end: 10.59}
   - {lab: t, end: 10.712603}
   - {lab: _, end: 10.875}
+  start: 1306.86
+  end: 1317.74
 - prompt: m0315
   file: ./pavoque/StefanSpike/wav/m0315.wav
   date: 2007-11-06T14:11:16+0100
@@ -12695,6 +13315,8 @@
   - {lab: '@', end: 3.665}
   - {lab: t, end: 3.799361}
   - {lab: _, end: 4.755}
+  start: 1317.74
+  end: 1322.5
 - prompt: m0319
   file: ./pavoque/StefanSpike/wav/m0319.wav
   date: 2007-11-06T14:11:36+0100
@@ -12763,6 +13385,8 @@
   - {lab: I, end: 5.685}
   - {lab: z, end: 5.905}
   - {lab: _, end: 7.255}
+  start: 1322.5
+  end: 1329.76
 - prompt: m0321
   file: ./pavoque/StefanSpike/wav/m0321.wav
   date: 2007-11-06T14:12:48+0100
@@ -12819,6 +13443,8 @@
   - {lab: 'o:', end: 4.283605}
   - {lab: '6', end: 4.438072}
   - {lab: _, end: 6.015}
+  start: 1329.76
+  end: 1335.78
 - prompt: m0322
   file: ./pavoque/StefanSpike/wav/m0322.wav
   date: 2007-11-06T14:12:58+0100
@@ -12885,6 +13511,8 @@
   - {lab: '@', end: 5.105}
   - {lab: n, end: 5.193583}
   - {lab: _, end: 6.555}
+  start: 1335.78
+  end: 1342.34
 - prompt: m0323
   file: ./pavoque/StefanSpike/wav/m0323.wav
   date: 2007-11-06T14:13:06+0100
@@ -12922,6 +13550,8 @@
   - {lab: n, end: 3.515}
   - {lab: t, end: 3.635659}
   - {lab: _, end: 4.215}
+  start: 1342.34
+  end: 1346.56
 - prompt: m0324
   file: ./pavoque/StefanSpike/wav/m0324.wav
   date: 2007-11-06T14:13:12+0100
@@ -12952,6 +13582,8 @@
   - {lab: a, end: 2.49}
   - {lab: R, end: 2.62}
   - {lab: _, end: 3.915}
+  start: 1346.56
+  end: 1350.48
 - prompt: m0325
   file: ./pavoque/StefanSpike/wav/m0325.wav
   date: 2007-11-06T14:13:20+0100
@@ -12989,6 +13621,8 @@
   - {lab: n, end: 2.69}
   - {lab: t, end: 2.788772}
   - {lab: _, end: 4.215}
+  start: 1350.48
+  end: 1354.7
 - prompt: m0326
   file: ./pavoque/StefanSpike/wav/m0326.wav
   date: 2007-11-06T14:13:26+0100
@@ -13016,6 +13650,8 @@
   - {lab: a, end: 2.11}
   - {lab: x, end: 2.288614}
   - {lab: _, end: 3.255}
+  start: 1354.7
+  end: 1357.96
 - prompt: m0327
   file: ./pavoque/StefanSpike/wav/m0327.wav
   date: 2007-11-06T14:13:38+0100
@@ -13094,6 +13730,8 @@
   - {lab: aI, end: 5.41154}
   - {lab: n, end: 5.490137}
   - {lab: _, end: 6.975}
+  start: 1357.96
+  end: 1364.94
 - prompt: m0328
   file: ./pavoque/StefanSpike/wav/m0328.wav
   date: 2007-11-06T14:13:46+0100
@@ -13142,6 +13780,8 @@
   - {lab: S, end: 3.872763}
   - {lab: _, end: 4.109859}
   - {lab: '', end: 5.115}
+  start: 1364.94
+  end: 1370.06
 - prompt: m0329
   file: ./pavoque/StefanSpike/wav/m0329.wav
   date: 2007-11-06T14:13:54+0100
@@ -13191,6 +13831,8 @@
   - {lab: '@', end: 4.043661}
   - {lab: n, end: 4.208991}
   - {lab: _, end: 4.995}
+  start: 1370.06
+  end: 1375.06
 - prompt: m0330
   file: ./pavoque/StefanSpike/wav/m0330.wav
   date: 2007-11-06T14:14:02+0100
@@ -13226,6 +13868,8 @@
   - {lab: 'E:', end: 3.493545}
   - {lab: '6', end: 3.671016}
   - {lab: _, end: 4.335}
+  start: 1375.06
+  end: 1379.4
 - prompt: m0331
   file: ./pavoque/StefanSpike/wav/m0331.wav
   date: 2007-11-06T14:14:12+0100
@@ -13282,6 +13926,8 @@
   - {lab: '@', end: 4.415}
   - {lab: n, end: 4.526731}
   - {lab: _, end: 5.715}
+  start: 1379.4
+  end: 1385.12
 - prompt: m0332
   file: ./pavoque/StefanSpike/wav/m0332.wav
   date: 2007-11-06T14:14:18+0100
@@ -13314,6 +13960,8 @@
   - {lab: a, end: 2.443783}
   - {lab: n, end: 2.59245}
   - {lab: _, end: 4.155}
+  start: 1385.12
+  end: 1389.28
 - prompt: m0333
   file: ./pavoque/StefanSpike/wav/m0333.wav
   date: 2007-11-06T14:14:42+0100
@@ -13361,6 +14009,8 @@
   - {lab: aI, end: 4.095}
   - {lab: k, end: 4.230762}
   - {lab: _, end: 5.295}
+  start: 1389.28
+  end: 1394.58
 - prompt: m0334
   file: ./pavoque/StefanSpike/wav/m0334.wav
   date: 2007-11-06T14:30:26+0100
@@ -13437,6 +14087,8 @@
   - {lab: a, end: 6.285008}
   - {lab: l, end: 6.470457}
   - {lab: _, end: 7.275}
+  start: 1394.58
+  end: 1401.86
 - prompt: m0335
   file: ./pavoque/StefanSpike/wav/m0335.wav
   date: 2007-11-06T14:30:36+0100
@@ -13493,6 +14145,8 @@
   - {lab: I, end: 4.23}
   - {lab: t, end: 4.382932}
   - {lab: _, end: 5.895}
+  start: 1401.86
+  end: 1407.76
 - prompt: m0336
   file: ./pavoque/StefanSpike/wav/m0336.wav
   date: 2007-11-06T14:30:58+0100
@@ -13549,6 +14203,8 @@
   - {lab: '6', end: 4.18}
   - {lab: t, end: 4.370722}
   - {lab: _, end: 5.955}
+  start: 1407.76
+  end: 1413.72
 - prompt: m0337
   file: ./pavoque/StefanSpike/wav/m0337.wav
   date: 2007-11-06T14:31:56+0100
@@ -13631,6 +14287,8 @@
   - {lab: I, end: 7.645}
   - {lab: S, end: 7.910403}
   - {lab: _, end: 8.575}
+  start: 1413.72
+  end: 1422.3
 - prompt: m0338
   file: ./pavoque/StefanSpike/wav/m0338.wav
   date: 2007-11-06T14:32:36+0100
@@ -13669,6 +14327,8 @@
   - {lab: '@', end: 3.131022}
   - {lab: n, end: 3.265524}
   - {lab: _, end: 4.515}
+  start: 1422.3
+  end: 1426.82
 - prompt: m0339
   file: ./pavoque/StefanSpike/wav/m0339.wav
   date: 2007-11-06T14:32:44+0100
@@ -13708,6 +14368,8 @@
   - {lab: j, end: 2.63}
   - {lab: 'u:', end: 2.826879}
   - {lab: _, end: 4.275}
+  start: 1426.82
+  end: 1431.1
 - prompt: m0340
   file: ./pavoque/StefanSpike/wav/m0340.wav
   date: 2007-11-06T14:32:54+0100
@@ -13788,6 +14450,8 @@
   - {lab: l, end: 6.955}
   - {lab: t, end: 7.114003}
   - {lab: _, end: 7.695}
+  start: 1431.1
+  end: 1438.8
 - prompt: m0341
   file: ./pavoque/StefanSpike/wav/m0341.wav
   date: 2007-11-06T14:33:02+0100
@@ -13836,6 +14500,8 @@
   - {lab: 'o:', end: 4.11}
   - {lab: n, end: 4.161692}
   - {lab: _, end: 4.995}
+  start: 1438.8
+  end: 1443.8
 - prompt: m0343
   file: ./pavoque/StefanSpike/wav/m0343.wav
   date: 2007-11-06T14:34:04+0100
@@ -13894,6 +14560,8 @@
   - {lab: aI, end: 4.515}
   - {lab: C, end: 4.72471}
   - {lab: _, end: 5.835}
+  start: 1443.8
+  end: 1449.64
 - prompt: m0344
   file: ./pavoque/StefanSpike/wav/m0344.wav
   date: 2007-11-06T14:34:14+0100
@@ -13950,6 +14618,8 @@
   - {lab: 'o:', end: 4.755}
   - {lab: n, end: 4.820324}
   - {lab: _, end: 5.955}
+  start: 1449.64
+  end: 1455.6
 - prompt: m0345
   file: ./pavoque/StefanSpike/wav/m0345.wav
   date: 2007-11-06T14:34:22+0100
@@ -13982,6 +14652,8 @@
   - {lab: O, end: 2.799317}
   - {lab: l, end: 2.979304}
   - {lab: _, end: 3.855}
+  start: 1455.6
+  end: 1459.46
 - prompt: m0346
   file: ./pavoque/StefanSpike/wav/m0346.wav
   date: 2007-11-06T14:34:54+0100
@@ -14061,6 +14733,8 @@
   - {lab: '@', end: 6.65}
   - {lab: t, end: 6.832897}
   - {lab: _, end: 7.515}
+  start: 1459.46
+  end: 1466.98
 - prompt: m0347
   file: ./pavoque/StefanSpike/wav/m0347.wav
   date: 2007-11-06T14:35:16+0100
@@ -14134,6 +14808,8 @@
   - {lab: l, end: 5.82}
   - {lab: t, end: 5.974613}
   - {lab: _, end: 7.215}
+  start: 1466.98
+  end: 1474.2
 - prompt: m0348
   file: ./pavoque/StefanSpike/wav/m0348.wav
   date: 2007-11-06T14:35:24+0100
@@ -14165,6 +14841,8 @@
   - {lab: '@', end: 2.81}
   - {lab: n, end: 2.916032}
   - {lab: _, end: 3.855}
+  start: 1474.2
+  end: 1478.06
 - prompt: m0349
   file: ./pavoque/StefanSpike/wav/m0349.wav
   date: 2007-11-06T14:35:34+0100
@@ -14234,6 +14912,8 @@
   - {lab: C, end: 5.873219}
   - {lab: t, end: 5.986213}
   - {lab: _, end: 7.155}
+  start: 1478.06
+  end: 1485.22
 - prompt: m0350
   file: ./pavoque/StefanSpike/wav/m0350.wav
   date: 2007-11-06T14:35:42+0100
@@ -14278,6 +14958,8 @@
   - {lab: R, end: 3.73}
   - {lab: '6', end: 3.881985}
   - {lab: _, end: 4.875}
+  start: 1485.22
+  end: 1490.1
 - prompt: m0351
   file: ./pavoque/StefanSpike/wav/m0351.wav
   date: 2007-11-06T14:35:54+0100
@@ -14351,6 +15033,8 @@
   - {lab: U, end: 5.502098}
   - {lab: N, end: 5.6016}
   - {lab: _, end: 7.095}
+  start: 1490.1
+  end: 1497.2
 - prompt: m0353
   file: ./pavoque/StefanSpike/wav/m0353.wav
   date: 2007-11-06T14:36:10+0100
@@ -14391,6 +15075,8 @@
   - {lab: s, end: 2.715}
   - {lab: EI, end: 2.941664}
   - {lab: _, end: 4.695}
+  start: 1497.2
+  end: 1501.9
 - prompt: m0354
   file: ./pavoque/StefanSpike/wav/m0354.wav
   date: 2007-11-06T14:36:18+0100
@@ -14445,6 +15131,8 @@
   - {lab: '@', end: 3.835}
   - {lab: n, end: 3.910511}
   - {lab: _, end: 5.655}
+  start: 1501.9
+  end: 1507.56
 - prompt: m0355
   file: ./pavoque/StefanSpike/wav/m0355.wav
   date: 2007-11-06T14:36:26+0100
@@ -14481,6 +15169,8 @@
   - {lab: a, end: 3.43}
   - {lab: p, end: 3.561146}
   - {lab: _, end: 3.915}
+  start: 1507.56
+  end: 1511.48
 - prompt: m0356
   file: ./pavoque/StefanSpike/wav/m0356.wav
   date: 2007-11-06T14:36:34+0100
@@ -14534,6 +15224,8 @@
   - {lab: C, end: 3.705532}
   - {lab: t, end: 3.799506}
   - {lab: _, end: 5.535}
+  start: 1511.48
+  end: 1517.02
 - prompt: m0357
   file: ./pavoque/StefanSpike/wav/m0357.wav
   date: 2007-11-06T14:36:42+0100
@@ -14565,6 +15257,8 @@
   - {lab: f, end: 2.285}
   - {lab: '6', end: 2.550124}
   - {lab: _, end: 4.035}
+  start: 1517.02
+  end: 1521.06
 - prompt: m0358
   file: ./pavoque/StefanSpike/wav/m0358.wav
   date: 2007-11-06T14:36:50+0100
@@ -14606,6 +15300,8 @@
   - {lab: a, end: 3.505}
   - {lab: n, end: 3.656631}
   - {lab: _, end: 4.875}
+  start: 1521.06
+  end: 1525.94
 - prompt: m0359
   file: ./pavoque/StefanSpike/wav/m0359.wav
   date: 2007-11-06T14:36:58+0100
@@ -14647,6 +15343,8 @@
   - {lab: E, end: 3.911962}
   - {lab: '6', end: 4.05014}
   - {lab: _, end: 5.055}
+  start: 1525.94
+  end: 1531.0
 - prompt: m0360
   file: ./pavoque/StefanSpike/wav/m0360.wav
   date: 2007-11-06T14:37:08+0100
@@ -14698,6 +15396,8 @@
   - {lab: '@', end: 3.749141}
   - {lab: l, end: 3.894095}
   - {lab: _, end: 5.535}
+  start: 1531.0
+  end: 1536.54
 - prompt: m0361
   file: ./pavoque/StefanSpike/wav/m0361.wav
   date: 2007-11-06T14:37:16+0100
@@ -14731,6 +15431,8 @@
   - {lab: E, end: 2.605}
   - {lab: n, end: 2.697266}
   - {lab: _, end: 4.215}
+  start: 1536.54
+  end: 1540.76
 - prompt: m0363
   file: ./pavoque/StefanSpike/wav/m0363.wav
   date: 2007-11-06T14:37:34+0100
@@ -14798,6 +15500,8 @@
   - {lab: '@', end: 5.5}
   - {lab: n, end: 5.619786}
   - {lab: _, end: 6.795}
+  start: 1540.76
+  end: 1547.56
 - prompt: m0364
   file: ./pavoque/StefanSpike/wav/m0364.wav
   date: 2007-11-06T14:37:44+0100
@@ -14864,6 +15568,8 @@
   - {lab: 'e:', end: 4.43}
   - {lab: '6', end: 4.585761}
   - {lab: _, end: 6.255}
+  start: 1547.56
+  end: 1553.82
 - prompt: m0352
   file: ./pavoque/StefanSpike/wav/m0352.wav
   date: 2007-11-06T14:39:02+0100
@@ -14901,6 +15607,8 @@
   - {lab: aI, end: 3.8}
   - {lab: t, end: 3.953278}
   - {lab: _, end: 5.215}
+  start: 1553.82
+  end: 1559.04
 - prompt: m0362
   file: ./pavoque/StefanSpike/wav/m0362.wav
   date: 2007-11-06T14:39:36+0100
@@ -14950,6 +15658,8 @@
   - {lab: n, end: 3.935}
   - {lab: t, end: 4.115851}
   - {lab: _, end: 5.055}
+  start: 1559.04
+  end: 1564.1
 - prompt: m0365
   file: ./pavoque/StefanSpike/wav/m0365.wav
   date: 2007-11-06T14:39:52+0100
@@ -15019,6 +15729,8 @@
   - {lab: 'a:', end: 5.48846}
   - {lab: l, end: 5.597271}
   - {lab: _, end: 6.435}
+  start: 1564.1
+  end: 1570.54
 - prompt: m0366
   file: ./pavoque/StefanSpike/wav/m0366.wav
   date: 2007-11-06T14:40:00+0100
@@ -15046,6 +15758,8 @@
   - {lab: k, end: 2.52978}
   - {lab: 'a:', end: 2.760292}
   - {lab: _, end: 3.435}
+  start: 1570.54
+  end: 1573.98
 - prompt: m0367
   file: ./pavoque/StefanSpike/wav/m0367.wav
   date: 2007-11-06T14:40:08+0100
@@ -15101,6 +15815,8 @@
   - {lab: U, end: 3.708688}
   - {lab: s, end: 3.959864}
   - {lab: _, end: 5.055}
+  start: 1573.98
+  end: 1579.04
 - prompt: m0368
   file: ./pavoque/StefanSpike/wav/m0368.wav
   date: 2007-11-06T14:40:46+0100
@@ -15145,6 +15861,8 @@
   - {lab: r, end: 4.87668}
   - {lab: 'o:', end: 5.076267}
   - {lab: _, end: 7.175}
+  start: 1579.04
+  end: 1586.22
 - prompt: m0369
   file: ./pavoque/StefanSpike/wav/m0369.wav
   date: 2007-11-06T14:41:14+0100
@@ -15190,6 +15908,8 @@
   - {lab: O, end: 3.635}
   - {lab: S, end: 3.896552}
   - {lab: _, end: 4.815}
+  start: 1586.22
+  end: 1591.04
 - prompt: m0370
   file: ./pavoque/StefanSpike/wav/m0370.wav
   date: 2007-11-06T14:41:24+0100
@@ -15247,6 +15967,8 @@
   - {lab: ts, end: 4.404788}
   - {lab: t, end: 4.502427}
   - {lab: _, end: 5.595}
+  start: 1591.04
+  end: 1596.64
 - prompt: m0371
   file: ./pavoque/StefanSpike/wav/m0371.wav
   date: 2007-11-06T14:41:32+0100
@@ -15294,6 +16016,8 @@
   - {lab: d, end: 3.85}
   - {lab: '@', end: 4.049281}
   - {lab: _, end: 4.995}
+  start: 1596.64
+  end: 1601.64
 - prompt: m0373
   file: ./pavoque/StefanSpike/wav/m0373.wav
   date: 2007-11-06T14:41:50+0100
@@ -15334,6 +16058,8 @@
   - {lab: '@', end: 3.44}
   - {lab: n, end: 3.552644}
   - {lab: _, end: 4.395}
+  start: 1601.64
+  end: 1606.04
 - prompt: m0374
   file: ./pavoque/StefanSpike/wav/m0374.wav
   date: 2007-11-06T14:41:58+0100
@@ -15366,6 +16092,8 @@
   - {lab: l, end: 2.29}
   - {lab: '@', end: 2.507714}
   - {lab: _, end: 4.095}
+  start: 1606.04
+  end: 1610.14
 - prompt: m0375
   file: ./pavoque/StefanSpike/wav/m0375.wav
   date: 2007-11-06T14:42:10+0100
@@ -15450,6 +16178,8 @@
   - {lab: '@', end: 6.981679}
   - {lab: n, end: 7.095277}
   - {lab: _, end: 8.235}
+  start: 1610.14
+  end: 1618.38
 - prompt: m0376
   file: ./pavoque/StefanSpike/wav/m0376.wav
   date: 2007-11-06T14:42:20+0100
@@ -15507,6 +16237,8 @@
   - {lab: O, end: 4.515}
   - {lab: n, end: 4.624014}
   - {lab: _, end: 5.595}
+  start: 1618.38
+  end: 1623.98
 - prompt: m0377
   file: ./pavoque/StefanSpike/wav/m0377.wav
   date: 2007-11-06T14:42:30+0100
@@ -15575,6 +16307,8 @@
   - {lab: '@', end: 5.285}
   - {lab: n, end: 5.380099}
   - {lab: _, end: 6.735}
+  start: 1623.98
+  end: 1630.72
 - prompt: m0378
   file: ./pavoque/StefanSpike/wav/m0378.wav
   date: 2007-11-06T14:42:36+0100
@@ -15609,6 +16343,8 @@
   - {lab: b, end: 3.034169}
   - {lab: aI, end: 3.349609}
   - {lab: _, end: 4.035}
+  start: 1630.72
+  end: 1634.76
 - prompt: m0379
   file: ./pavoque/StefanSpike/wav/m0379.wav
   date: 2007-11-06T14:42:48+0100
@@ -15673,6 +16409,8 @@
   - {lab: a, end: 6.095}
   - {lab: x, end: 6.271691}
   - {lab: _, end: 6.915}
+  start: 1634.76
+  end: 1641.68
 - prompt: m0380
   file: ./pavoque/StefanSpike/wav/m0380.wav
   date: 2007-11-06T14:42:54+0100
@@ -15705,6 +16443,8 @@
   - {lab: t, end: 2.635}
   - {lab: '@', end: 2.842317}
   - {lab: _, end: 3.855}
+  start: 1641.68
+  end: 1645.54
 - prompt: m0381
   file: ./pavoque/StefanSpike/wav/m0381.wav
   date: 2007-11-06T14:43:04+0100
@@ -15763,6 +16503,8 @@
   - {lab: '@', end: 4.724507}
   - {lab: t, end: 4.867004}
   - {lab: _, end: 5.535}
+  start: 1645.54
+  end: 1651.08
 - prompt: m0382
   file: ./pavoque/StefanSpike/wav/m0382.wav
   date: 2007-11-06T14:43:14+0100
@@ -15838,6 +16580,8 @@
   - {lab: '6', end: 6.32}
   - {lab: f, end: 6.509423}
   - {lab: _, end: 7.155}
+  start: 1651.08
+  end: 1658.24
 - prompt: m0383
   file: ./pavoque/StefanSpike/wav/m0383.wav
   date: 2007-11-06T14:43:22+0100
@@ -15878,6 +16622,8 @@
   - {lab: I, end: 3.225}
   - {lab: n, end: 3.376419}
   - {lab: _, end: 4.515}
+  start: 1658.24
+  end: 1662.76
 - prompt: m0384
   file: ./pavoque/StefanSpike/wav/m0384.wav
   date: 2007-11-06T14:43:30+0100
@@ -15930,6 +16676,8 @@
   - {lab: 'o:', end: 3.97}
   - {lab: n, end: 4.08649}
   - {lab: _, end: 5.355}
+  start: 1662.76
+  end: 1668.12
 - prompt: m0385
   file: ./pavoque/StefanSpike/wav/m0385.wav
   date: 2007-11-06T14:43:38+0100
@@ -15959,6 +16707,8 @@
   - {lab: a, end: 2.37}
   - {lab: x, end: 2.555444}
   - {lab: _, end: 3.855}
+  start: 1668.12
+  end: 1671.98
 - prompt: m0387
   file: ./pavoque/StefanSpike/wav/m0387.wav
   date: 2007-11-06T14:43:56+0100
@@ -16005,6 +16755,8 @@
   - {lab: N, end: 3.835295}
   - {lab: t, end: 3.992539}
   - {lab: _, end: 5.115}
+  start: 1671.98
+  end: 1677.1
 - prompt: m0372
   file: ./pavoque/StefanSpike/wav/m0372.wav
   date: 2007-11-06T14:44:44+0100
@@ -16076,6 +16828,8 @@
   - {lab: n, end: 6.204134}
   - {lab: t, end: 6.344775}
   - {lab: _, end: 6.915}
+  start: 1677.1
+  end: 1684.02
 - prompt: m0386
   file: ./pavoque/StefanSpike/wav/m0386.wav
   date: 2007-11-06T14:45:22+0100
@@ -16129,6 +16883,8 @@
   - {lab: '6', end: 4.435}
   - {lab: t, end: 4.596644}
   - {lab: _, end: 5.475}
+  start: 1684.02
+  end: 1689.5
 - prompt: m0388
   file: ./pavoque/StefanSpike/wav/m0388.wav
   date: 2007-11-06T14:45:52+0100
@@ -16196,6 +16952,8 @@
   - {lab: 'o:', end: 6.740058}
   - {lab: m, end: 6.897903}
   - {lab: _, end: 8.075}
+  start: 1689.5
+  end: 1697.58
 - prompt: m0389
   file: ./pavoque/StefanSpike/wav/m0389.wav
   date: 2007-11-06T14:47:04+0100
@@ -16235,6 +16993,8 @@
   - {lab: 'e:', end: 3.01}
   - {lab: '6', end: 3.200083}
   - {lab: _, end: 4.395}
+  start: 1697.58
+  end: 1701.98
 - prompt: m0390
   file: ./pavoque/StefanSpike/wav/m0390.wav
   date: 2007-11-06T14:47:56+0100
@@ -16307,6 +17067,8 @@
   - {lab: 'o:', end: 7.345}
   - {lab: n, end: 7.478307}
   - {lab: _, end: 8.215}
+  start: 1701.98
+  end: 1710.2
 - prompt: m0391
   file: ./pavoque/StefanSpike/wav/m0391.wav
   date: 2007-11-06T14:48:46+0100
@@ -16356,6 +17118,8 @@
   - {lab: b, end: 4.098612}
   - {lab: EI, end: 4.391216}
   - {lab: _, end: 5.175}
+  start: 1710.2
+  end: 1715.38
 - prompt: m0392
   file: ./pavoque/StefanSpike/wav/m0392.wav
   date: 2007-11-06T14:48:54+0100
@@ -16388,6 +17152,8 @@
   - {lab: '@', end: 2.45}
   - {lab: t, end: 2.623031}
   - {lab: _, end: 3.795}
+  start: 1715.38
+  end: 1719.18
 - prompt: m0393
   file: ./pavoque/StefanSpike/wav/m0393.wav
   date: 2007-11-06T14:49:00+0100
@@ -16425,6 +17191,8 @@
   - {lab: l, end: 2.695}
   - {lab: 'a:', end: 2.942363}
   - {lab: _, end: 4.275}
+  start: 1719.18
+  end: 1723.46
 - prompt: m0394
   file: ./pavoque/StefanSpike/wav/m0394.wav
   date: 2007-11-06T14:49:10+0100
@@ -16484,6 +17252,8 @@
   - {lab: '6', end: 4.595}
   - {lab: ts, end: 4.846408}
   - {lab: _, end: 6.195}
+  start: 1723.46
+  end: 1729.66
 - prompt: m0395
   file: ./pavoque/StefanSpike/wav/m0395.wav
   date: 2007-11-06T14:49:20+0100
@@ -16528,6 +17298,8 @@
   - {lab: aI, end: 3.85}
   - {lab: n, end: 3.999453}
   - {lab: _, end: 4.935}
+  start: 1729.66
+  end: 1734.6
 - prompt: m0396
   file: ./pavoque/StefanSpike/wav/m0396.wav
   date: 2007-11-06T14:49:30+0100
@@ -16595,6 +17367,8 @@
   - {lab: n, end: 5.205}
   - {lab: '@', end: 5.413729}
   - {lab: _, end: 6.675}
+  start: 1734.6
+  end: 1741.28
 - prompt: m0397
   file: ./pavoque/StefanSpike/wav/m0397.wav
   date: 2007-11-06T14:49:38+0100
@@ -16657,6 +17431,8 @@
   - {lab: aI, end: 4.50837}
   - {lab: t, end: 4.727646}
   - {lab: _, end: 6.255}
+  start: 1741.28
+  end: 1747.54
 - prompt: m0398
   file: ./pavoque/StefanSpike/wav/m0398.wav
   date: 2007-11-06T14:50:20+0100
@@ -16717,6 +17493,8 @@
   - {lab: '?', end: 4.757675}
   - {lab: '2:', end: 5.06478}
   - {lab: _, end: 5.955}
+  start: 1747.54
+  end: 1753.5
 - prompt: m0399
   file: ./pavoque/StefanSpike/wav/m0399.wav
   date: 2007-11-06T14:50:30+0100
@@ -16765,6 +17543,8 @@
   - {lab: N, end: 4.78}
   - {lab: 'a:', end: 5.049823}
   - {lab: _, end: 5.655}
+  start: 1753.5
+  end: 1759.16
 - prompt: m0400
   file: ./pavoque/StefanSpike/wav/m0400.wav
   date: 2007-11-06T14:50:54+0100
@@ -16831,6 +17611,8 @@
   - {lab: '@', end: 5.39}
   - {lab: n, end: 5.519798}
   - {lab: _, end: 6.855}
+  start: 1759.16
+  end: 1766.02
 - prompt: poker_a0001
   file: ./pavoque/StefanSpike/wav/poker_a0001.wav
   date: 2007-11-06T14:51:02+0100
@@ -16874,6 +17656,8 @@
   - {lab: '@', end: 2.775}
   - {lab: n, end: 2.861918}
   - {lab: _, end: 4.755}
+  start: 1766.02
+  end: 1770.78
 - prompt: poker_a0002
   file: ./pavoque/StefanSpike/wav/poker_a0002.wav
   date: 2007-11-06T14:51:10+0100
@@ -16917,6 +17701,8 @@
   - {lab: '@', end: 2.79}
   - {lab: n, end: 2.902759}
   - {lab: _, end: 4.695}
+  start: 1770.78
+  end: 1775.48
 - prompt: poker_a0003
   file: ./pavoque/StefanSpike/wav/poker_a0003.wav
   date: 2007-11-06T14:51:18+0100
@@ -16960,6 +17746,8 @@
   - {lab: '@', end: 3.224819}
   - {lab: n, end: 3.296875}
   - {lab: _, end: 4.695}
+  start: 1775.48
+  end: 1780.18
 - prompt: poker_a0004
   file: ./pavoque/StefanSpike/wav/poker_a0004.wav
   date: 2007-11-06T14:51:26+0100
@@ -17003,6 +17791,8 @@
   - {lab: '@', end: 3.35}
   - {lab: n, end: 3.447464}
   - {lab: _, end: 4.695}
+  start: 1780.18
+  end: 1784.88
 - prompt: poker_a0005
   file: ./pavoque/StefanSpike/wav/poker_a0005.wav
   date: 2007-11-06T14:51:34+0100
@@ -17042,6 +17832,8 @@
   - {lab: t, end: 2.71}
   - {lab: '@', end: 2.920285}
   - {lab: _, end: 4.455}
+  start: 1784.88
+  end: 1789.34
 - prompt: poker_a0006
   file: ./pavoque/StefanSpike/wav/poker_a0006.wav
   date: 2007-11-06T14:51:42+0100
@@ -17079,6 +17871,8 @@
   - {lab: l, end: 2.24}
   - {lab: n, end: 2.313498}
   - {lab: _, end: 4.335}
+  start: 1789.34
+  end: 1793.68
 - prompt: poker_a0007
   file: ./pavoque/StefanSpike/wav/poker_a0007.wav
   date: 2007-11-06T14:51:50+0100
@@ -17114,6 +17908,8 @@
   - {lab: l, end: 2.63}
   - {lab: n, end: 2.757419}
   - {lab: _, end: 4.335}
+  start: 1793.68
+  end: 1798.02
 - prompt: poker_a0008
   file: ./pavoque/StefanSpike/wav/poker_a0008.wav
   date: 2007-11-06T14:51:56+0100
@@ -17131,6 +17927,8 @@
   - {lab: aU, end: 1.15}
   - {lab: s, end: 1.393737}
   - {lab: _, end: 2.775}
+  start: 1798.02
+  end: 1800.8
 - prompt: poker_a0009
   file: ./pavoque/StefanSpike/wav/poker_a0009.wav
   date: 2007-11-06T14:52:04+0100
@@ -17156,6 +17954,8 @@
   - {lab: '@', end: 1.725107}
   - {lab: n, end: 1.852427}
   - {lab: _, end: 3.555}
+  start: 1800.8
+  end: 1804.36
 - prompt: poker_a0010
   file: ./pavoque/StefanSpike/wav/poker_a0010.wav
   date: 2007-11-06T14:52:10+0100
@@ -17182,6 +17982,8 @@
   - {lab: t, end: 1.705}
   - {lab: '@', end: 1.940345}
   - {lab: _, end: 3.495}
+  start: 1804.36
+  end: 1807.86
 - prompt: poker_a0011
   file: ./pavoque/StefanSpike/wav/poker_a0011.wav
   date: 2007-11-06T14:52:18+0100
@@ -17208,6 +18010,8 @@
   - {lab: '@', end: 1.845354}
   - {lab: n, end: 1.993108}
   - {lab: _, end: 3.555}
+  start: 1807.86
+  end: 1811.42
 - prompt: poker_a0012
   file: ./pavoque/StefanSpike/wav/poker_a0012.wav
   date: 2007-11-06T14:52:24+0100
@@ -17234,6 +18038,8 @@
   - {lab: '@', end: 1.922768}
   - {lab: n, end: 2.072094}
   - {lab: _, end: 3.555}
+  start: 1811.42
+  end: 1814.98
 - prompt: poker_a0013
   file: ./pavoque/StefanSpike/wav/poker_a0013.wav
   date: 2007-11-06T14:52:32+0100
@@ -17264,6 +18070,8 @@
   - {lab: t, end: 2.005}
   - {lab: '@', end: 2.244613}
   - {lab: _, end: 3.795}
+  start: 1814.98
+  end: 1818.78
 - prompt: poker_a0014
   file: ./pavoque/StefanSpike/wav/poker_a0014.wav
   date: 2007-11-06T14:52:38+0100
@@ -17294,6 +18102,8 @@
   - {lab: '@', end: 2.090688}
   - {lab: n, end: 2.26596}
   - {lab: _, end: 3.855}
+  start: 1818.78
+  end: 1822.64
 - prompt: poker_a0015
   file: ./pavoque/StefanSpike/wav/poker_a0015.wav
   date: 2007-11-06T14:52:46+0100
@@ -17324,6 +18134,8 @@
   - {lab: '@', end: 2.059619}
   - {lab: n, end: 2.204236}
   - {lab: _, end: 3.855}
+  start: 1822.64
+  end: 1826.5
 - prompt: poker_a0016
   file: ./pavoque/StefanSpike/wav/poker_a0016.wav
   date: 2007-11-06T14:52:52+0100
@@ -17338,6 +18150,8 @@
   - {lab: aU, end: 1.135052}
   - {lab: n, end: 1.255567}
   - {lab: _, end: 2.535}
+  start: 1826.5
+  end: 1829.04
 - prompt: poker_a0017
   file: ./pavoque/StefanSpike/wav/poker_a0017.wav
   date: 2007-11-06T14:52:58+0100
@@ -17356,6 +18170,8 @@
   - {lab: '@', end: 1.183156}
   - {lab: n, end: 1.328594}
   - {lab: _, end: 2.895}
+  start: 1829.04
+  end: 1831.94
 - prompt: poker_a0018
   file: ./pavoque/StefanSpike/wav/poker_a0018.wav
   date: 2007-11-06T14:53:06+0100
@@ -17387,6 +18203,8 @@
   - {lab: aU, end: 2.1009}
   - {lab: f, end: 2.294642}
   - {lab: _, end: 3.855}
+  start: 1831.94
+  end: 1835.8
 - prompt: poker_a0019
   file: ./pavoque/StefanSpike/wav/poker_a0019.wav
   date: 2007-11-06T14:53:12+0100
@@ -17409,6 +18227,8 @@
   - {lab: '@', end: 1.561153}
   - {lab: n, end: 1.705362}
   - {lab: _, end: 3.255}
+  start: 1835.8
+  end: 1839.06
 - prompt: poker_a0020
   file: ./pavoque/StefanSpike/wav/poker_a0020.wav
   date: 2007-11-06T14:53:20+0100
@@ -17446,6 +18266,8 @@
   - {lab: I, end: 2.255}
   - {lab: S, end: 2.504567}
   - {lab: _, end: 4.395}
+  start: 1839.06
+  end: 1843.46
 - prompt: poker_a0021
   file: ./pavoque/StefanSpike/wav/poker_a0021.wav
   date: 2007-11-06T14:53:28+0100
@@ -17481,6 +18303,8 @@
   - {lab: p, end: 2.119974}
   - {lab: t, end: 2.246481}
   - {lab: _, end: 4.215}
+  start: 1843.46
+  end: 1847.68
 - prompt: poker_a0022
   file: ./pavoque/StefanSpike/wav/poker_a0022.wav
   date: 2007-11-06T14:53:34+0100
@@ -17502,6 +18326,8 @@
   - {lab: 'a:', end: 1.391557}
   - {lab: '6', end: 1.454024}
   - {lab: _, end: 3.075}
+  start: 1847.68
+  end: 1850.76
 - prompt: poker_a0023
   file: ./pavoque/StefanSpike/wav/poker_a0023.wav
   date: 2007-11-06T14:53:40+0100
@@ -17525,6 +18351,8 @@
   - {lab: '@', end: 1.409861}
   - {lab: n, end: 1.476249}
   - {lab: _, end: 3.195}
+  start: 1850.76
+  end: 1853.96
 - prompt: poker_a0024
   file: ./pavoque/StefanSpike/wav/poker_a0024.wav
   date: 2007-11-06T14:53:48+0100
@@ -17546,6 +18374,8 @@
   - {lab: R, end: 1.299996}
   - {lab: '@', end: 1.432039}
   - {lab: _, end: 3.135}
+  start: 1853.96
+  end: 1857.1
 - prompt: poker_a0025
   file: ./pavoque/StefanSpike/wav/poker_a0025.wav
   date: 2007-11-06T14:54:02+0100
@@ -17570,6 +18400,8 @@
   - {lab: '@', end: 1.81}
   - {lab: n, end: 1.889798}
   - {lab: _, end: 3.315}
+  start: 1857.1
+  end: 1860.42
 - prompt: poker_a0026
   file: ./pavoque/StefanSpike/wav/poker_a0026.wav
   date: 2007-11-06T14:54:08+0100
@@ -17593,6 +18425,8 @@
   - {lab: I, end: 1.44}
   - {lab: N, end: 1.535219}
   - {lab: _, end: 3.255}
+  start: 1860.42
+  end: 1863.68
 - prompt: poker_a0027
   file: ./pavoque/StefanSpike/wav/poker_a0027.wav
   date: 2007-11-06T14:54:16+0100
@@ -17616,6 +18450,8 @@
   - {lab: C, end: 1.752229}
   - {lab: '@', end: 1.966836}
   - {lab: _, end: 3.315}
+  start: 1863.68
+  end: 1867.0
 - prompt: poker_a0028
   file: ./pavoque/StefanSpike/wav/poker_a0028.wav
   date: 2007-11-06T14:54:22+0100
@@ -17641,6 +18477,8 @@
   - {lab: EI, end: 1.644345}
   - {lab: t, end: 1.85932}
   - {lab: _, end: 3.435}
+  start: 1867.0
+  end: 1870.44
 - prompt: poker_a0029
   file: ./pavoque/StefanSpike/wav/poker_a0029.wav
   date: 2007-11-06T14:54:28+0100
@@ -17665,6 +18503,8 @@
   - {lab: s, end: 1.725}
   - {lab: '@', end: 1.899718}
   - {lab: _, end: 3.195}
+  start: 1870.44
+  end: 1873.64
 - prompt: poker_a0030
   file: ./pavoque/StefanSpike/wav/poker_a0030.wav
   date: 2007-11-06T14:54:36+0100
@@ -17687,6 +18527,8 @@
   - {lab: a, end: 1.365}
   - {lab: S, end: 1.581766}
   - {lab: _, end: 3.135}
+  start: 1873.64
+  end: 1876.78
 - prompt: poker_a0031
   file: ./pavoque/StefanSpike/wav/poker_a0031.wav
   date: 2007-11-06T14:54:42+0100
@@ -17710,6 +18552,8 @@
   - {lab: aU, end: 1.515}
   - {lab: s, end: 1.703203}
   - {lab: _, end: 3.375}
+  start: 1876.78
+  end: 1880.16
 - prompt: poker_a0032
   file: ./pavoque/StefanSpike/wav/poker_a0032.wav
   date: 2007-11-06T14:54:50+0100
@@ -17736,6 +18580,8 @@
   - {lab: I, end: 1.715}
   - {lab: N, end: 1.768928}
   - {lab: _, end: 3.435}
+  start: 1880.16
+  end: 1883.6
 - prompt: poker_a0033
   file: ./pavoque/StefanSpike/wav/poker_a0033.wav
   date: 2007-11-06T14:54:56+0100
@@ -17758,6 +18604,8 @@
   - {lab: C, end: 1.66}
   - {lab: '@', end: 1.864503}
   - {lab: _, end: 3.255}
+  start: 1883.6
+  end: 1886.86
 - prompt: poker_a0034
   file: ./pavoque/StefanSpike/wav/poker_a0034.wav
   date: 2007-11-06T14:55:10+0100
@@ -17785,6 +18633,8 @@
   - {lab: a, end: 1.836944}
   - {lab: S, end: 2.095}
   - {lab: _, end: 3.675}
+  start: 1886.86
+  end: 1890.54
 - prompt: poker_a0035
   file: ./pavoque/StefanSpike/wav/poker_a0035.wav
   date: 2007-11-06T14:55:16+0100
@@ -17811,6 +18661,8 @@
   - {lab: a, end: 2.015}
   - {lab: S, end: 2.238527}
   - {lab: _, end: 3.495}
+  start: 1890.54
+  end: 1894.04
 - prompt: poker_a0036
   file: ./pavoque/StefanSpike/wav/poker_a0036.wav
   date: 2007-11-06T14:55:26+0100
@@ -17866,6 +18718,8 @@
   - {lab: Y, end: 3.518572}
   - {lab: k, end: 3.664721}
   - {lab: _, end: 5.895}
+  start: 1894.04
+  end: 1899.94
 - prompt: poker_a0037
   file: ./pavoque/StefanSpike/wav/poker_a0037.wav
   date: 2007-11-06T14:55:34+0100
@@ -17913,6 +18767,8 @@
   - {lab: l, end: 3.304456}
   - {lab: t, end: 3.463177}
   - {lab: _, end: 5.055}
+  start: 1899.94
+  end: 1905.0
 - prompt: poker_a0038
   file: ./pavoque/StefanSpike/wav/poker_a0038.wav
   date: 2007-11-06T14:55:40+0100
@@ -17927,6 +18783,8 @@
   - {lab: m, end: 0.955}
   - {lab: t, end: 1.151502}
   - {lab: _, end: 2.535}
+  start: 1905.0
+  end: 1907.54
 - prompt: poker_a0039
   file: ./pavoque/StefanSpike/wav/poker_a0039.wav
   date: 2007-11-06T14:55:48+0100
@@ -17946,6 +18804,8 @@
   - {lab: s, end: 1.333957}
   - {lab: t, end: 1.490338}
   - {lab: _, end: 2.955}
+  start: 1907.54
+  end: 1910.5
 - prompt: poker_a0040
   file: ./pavoque/StefanSpike/wav/poker_a0040.wav
   date: 2007-11-06T14:55:52+0100
@@ -17958,6 +18818,8 @@
   - {lab: s, end: 0.931002}
   - {lab: t, end: 1.072239}
   - {lab: _, end: 2.295}
+  start: 1910.5
+  end: 1912.8
 - prompt: poker_a0042
   file: ./pavoque/StefanSpike/wav/poker_a0042.wav
   date: 2007-11-06T14:56:06+0100
@@ -17986,6 +18848,8 @@
   - {lab: aI, end: 1.870576}
   - {lab: n, end: 1.98648}
   - {lab: _, end: 3.795}
+  start: 1912.8
+  end: 1916.6
 - prompt: poker_a0043
   file: ./pavoque/StefanSpike/wav/poker_a0043.wav
   date: 2007-11-06T14:56:12+0100
@@ -18008,6 +18872,8 @@
   - {lab: C, end: 1.632348}
   - {lab: t, end: 1.771489}
   - {lab: _, end: 3.315}
+  start: 1916.6
+  end: 1919.92
 - prompt: poker_a0044
   file: ./pavoque/StefanSpike/wav/poker_a0044.wav
   date: 2007-11-06T14:56:20+0100
@@ -18029,6 +18895,8 @@
   - {lab: 'u:', end: 1.41}
   - {lab: '6', end: 1.698589}
   - {lab: _, end: 3.195}
+  start: 1919.92
+  end: 1923.12
 - prompt: poker_a0045
   file: ./pavoque/StefanSpike/wav/poker_a0045.wav
   date: 2007-11-06T14:56:26+0100
@@ -18051,6 +18919,8 @@
   - {lab: 'u:', end: 1.440501}
   - {lab: '6', end: 1.699375}
   - {lab: _, end: 3.195}
+  start: 1923.12
+  end: 1926.32
 - prompt: poker_a0046
   file: ./pavoque/StefanSpike/wav/poker_a0046.wav
   date: 2007-11-06T14:56:34+0100
@@ -18086,6 +18956,8 @@
   - {lab: n, end: 2.21}
   - {lab: t, end: 2.363942}
   - {lab: _, end: 4.155}
+  start: 1926.32
+  end: 1930.48
 - prompt: poker_a0047
   file: ./pavoque/StefanSpike/wav/poker_a0047.wav
   date: 2007-11-06T14:56:42+0100
@@ -18119,6 +18991,8 @@
   - {lab: n, end: 2.24867}
   - {lab: t, end: 2.419197}
   - {lab: _, end: 4.095}
+  start: 1930.48
+  end: 1934.58
 - prompt: poker_a0048
   file: ./pavoque/StefanSpike/wav/poker_a0048.wav
   date: 2007-11-06T14:56:50+0100
@@ -18174,6 +19048,8 @@
   - {lab: '@', end: 3.596672}
   - {lab: n, end: 3.714531}
   - {lab: _, end: 5.895}
+  start: 1934.58
+  end: 1940.48
 - prompt: poker_a0049
   file: ./pavoque/StefanSpike/wav/poker_a0049.wav
   date: 2007-11-06T14:57:00+0100
@@ -18231,6 +19107,8 @@
   - {lab: '@', end: 3.82}
   - {lab: n, end: 3.948601}
   - {lab: _, end: 6.075}
+  start: 1940.48
+  end: 1946.56
 - prompt: poker_a0050
   file: ./pavoque/StefanSpike/wav/poker_a0050.wav
   date: 2007-11-06T14:57:06+0100
@@ -18255,6 +19133,8 @@
   - {lab: a, end: 1.8}
   - {lab: n, end: 1.959201}
   - {lab: _, end: 3.255}
+  start: 1946.56
+  end: 1949.82
 - prompt: poker_a0041
   file: ./pavoque/StefanSpike/wav/poker_a0041.wav
   date: 2007-11-06T14:57:22+0100
@@ -18272,6 +19152,8 @@
   - {lab: s, end: 1.39787}
   - {lab: t, end: 1.551785}
   - {lab: _, end: 2.715}
+  start: 1949.82
+  end: 1952.54
 - prompt: spike0055
   file: ./pavoque/StefanSpike/wav/spike0055.wav
   date: 2007-11-07T13:10:00+0100
@@ -18291,6 +19173,8 @@
   - {lab: a, end: 1.405}
   - {lab: x, end: 1.653223}
   - {lab: _, end: 2.955}
+  start: 1952.54
+  end: 1955.5
 - prompt: spike0056
   file: ./pavoque/StefanSpike/wav/spike0056.wav
   date: 2007-11-07T13:10:08+0100
@@ -18315,6 +19199,8 @@
   - {lab: I, end: 1.525}
   - {lab: C, end: 1.769647}
   - {lab: _, end: 3.015}
+  start: 1955.5
+  end: 1958.52
 - prompt: spike0057
   file: ./pavoque/StefanSpike/wav/spike0057.wav
   date: 2007-11-07T13:10:16+0100
@@ -18359,6 +19245,8 @@
   - {lab: '@', end: 3.132381}
   - {lab: n, end: 3.227996}
   - {lab: _, end: 4.635}
+  start: 1958.52
+  end: 1963.16
 - prompt: spike0058
   file: ./pavoque/StefanSpike/wav/spike0058.wav
   date: 2007-11-07T13:10:22+0100
@@ -18393,6 +19281,8 @@
   - {lab: I, end: 3.525}
   - {lab: C, end: 3.749437}
   - {lab: _, end: 4.155}
+  start: 1963.16
+  end: 1967.32
 - prompt: spike0060
   file: ./pavoque/StefanSpike/wav/spike0060.wav
   date: 2007-11-07T13:10:38+0100
@@ -18442,6 +19332,8 @@
   - {lab: '@', end: 3.254354}
   - {lab: n, end: 3.323263}
   - {lab: _, end: 5.415}
+  start: 1967.32
+  end: 1972.74
 - prompt: spike0061
   file: ./pavoque/StefanSpike/wav/spike0061.wav
   date: 2007-11-07T13:10:48+0100
@@ -18501,6 +19393,8 @@
   - {lab: '@', end: 3.867384}
   - {lab: n, end: 3.942581}
   - {lab: _, end: 6.075}
+  start: 1972.74
+  end: 1978.82
 - prompt: spike0062
   file: ./pavoque/StefanSpike/wav/spike0062.wav
   date: 2007-11-07T13:10:58+0100
@@ -18560,6 +19454,8 @@
   - {lab: s, end: 3.811483}
   - {lab: t, end: 3.930081}
   - {lab: _, end: 5.835}
+  start: 1978.82
+  end: 1984.66
 - prompt: spike0059
   file: ./pavoque/StefanSpike/wav/spike0059.wav
   date: 2007-11-07T13:12:20+0100
@@ -18587,6 +19483,8 @@
   - {lab: '@', end: 1.745}
   - {lab: n, end: 1.849435}
   - {lab: _, end: 3.615}
+  start: 1984.66
+  end: 1988.28
 - prompt: spike0063
   file: ./pavoque/StefanSpike/wav/spike0063.wav
   date: 2007-11-07T13:12:48+0100
@@ -18646,6 +19544,8 @@
   - {lab: s, end: 5.299505}
   - {lab: t, end: 5.428642}
   - {lab: _, end: 6.435}
+  start: 1988.28
+  end: 1994.72
 - prompt: spike0064
   file: ./pavoque/StefanSpike/wav/spike0064.wav
   date: 2007-11-07T13:12:54+0100
@@ -18676,6 +19576,8 @@
   - {lab: I, end: 2.965}
   - {lab: C, end: 3.204153}
   - {lab: _, end: 3.735}
+  start: 1994.72
+  end: 1998.46
 - prompt: spike0065
   file: ./pavoque/StefanSpike/wav/spike0065.wav
   date: 2007-11-07T13:13:02+0100
@@ -18706,6 +19608,8 @@
   - {lab: I, end: 2.5}
   - {lab: n, end: 2.658579}
   - {lab: _, end: 3.915}
+  start: 1998.46
+  end: 2002.38
 - prompt: spike0066
   file: ./pavoque/StefanSpike/wav/spike0066.wav
   date: 2007-11-07T13:13:10+0100
@@ -18746,6 +19650,8 @@
   - {lab: s, end: 2.541139}
   - {lab: t, end: 2.668894}
   - {lab: _, end: 4.695}
+  start: 2002.38
+  end: 2007.08
 - prompt: spike0067
   file: ./pavoque/StefanSpike/wav/spike0067.wav
   date: 2007-11-07T13:13:18+0100
@@ -18782,6 +19688,8 @@
   - {lab: '6', end: 2.945}
   - {lab: t, end: 3.116733}
   - {lab: _, end: 4.155}
+  start: 2007.08
+  end: 2011.24
 - prompt: spike0068
   file: ./pavoque/StefanSpike/wav/spike0068.wav
   date: 2007-11-07T13:13:26+0100
@@ -18819,6 +19727,8 @@
   - {lab: s, end: 2.855419}
   - {lab: t, end: 2.992987}
   - {lab: _, end: 4.335}
+  start: 2011.24
+  end: 2015.58
 - prompt: spike0069
   file: ./pavoque/StefanSpike/wav/spike0069.wav
   date: 2007-11-07T13:13:34+0100
@@ -18854,6 +19764,8 @@
   - {lab: d, end: 2.422935}
   - {lab: '6', end: 2.610234}
   - {lab: _, end: 4.155}
+  start: 2015.58
+  end: 2019.74
 - prompt: spike0070
   file: ./pavoque/StefanSpike/wav/spike0070.wav
   date: 2007-11-07T13:13:42+0100
@@ -18895,6 +19807,8 @@
   - {lab: '6', end: 2.747894}
   - {lab: t, end: 2.882214}
   - {lab: _, end: 4.995}
+  start: 2019.74
+  end: 2024.74
 - prompt: spike0071
   file: ./pavoque/StefanSpike/wav/spike0071.wav
   date: 2007-11-07T13:13:50+0100
@@ -18938,6 +19852,8 @@
   - {lab: '@', end: 2.775}
   - {lab: n, end: 2.892369}
   - {lab: _, end: 4.935}
+  start: 2024.74
+  end: 2029.68
 - prompt: spike0072
   file: ./pavoque/StefanSpike/wav/spike0072.wav
   date: 2007-11-07T13:13:58+0100
@@ -18960,6 +19876,8 @@
   - {lab: a, end: 1.405}
   - {lab: s, end: 1.606252}
   - {lab: _, end: 3.135}
+  start: 2029.68
+  end: 2032.82
 - prompt: spike0073
   file: ./pavoque/StefanSpike/wav/spike0073.wav
   date: 2007-11-07T13:14:04+0100
@@ -18993,6 +19911,8 @@
   - {lab: s, end: 2.19142}
   - {lab: t, end: 2.291982}
   - {lab: _, end: 4.155}
+  start: 2032.82
+  end: 2036.98
 - prompt: spike0074
   file: ./pavoque/StefanSpike/wav/spike0074.wav
   date: 2007-11-07T13:14:14+0100
@@ -19051,6 +19971,8 @@
   - {lab: s, end: 3.892769}
   - {lab: t, end: 3.998187}
   - {lab: _, end: 5.775}
+  start: 2036.98
+  end: 2042.76
 - prompt: spike0075
   file: ./pavoque/StefanSpike/wav/spike0075.wav
   date: 2007-11-07T13:14:22+0100
@@ -19092,6 +20014,8 @@
   - {lab: l, end: 2.982287}
   - {lab: t, end: 3.141811}
   - {lab: _, end: 4.515}
+  start: 2042.76
+  end: 2047.28
 - prompt: spike0076
   file: ./pavoque/StefanSpike/wav/spike0076.wav
   date: 2007-11-07T13:14:30+0100
@@ -19140,6 +20064,8 @@
   - {lab: v, end: 4.04}
   - {lab: '@', end: 4.343489}
   - {lab: _, end: 5.055}
+  start: 2047.28
+  end: 2052.34
 - prompt: spike0077
   file: ./pavoque/StefanSpike/wav/spike0077.wav
   date: 2007-11-07T13:14:36+0100
@@ -19152,6 +20078,8 @@
   - {lab: z, end: 0.777924}
   - {lab: 'o:', end: 1.216162}
   - {lab: _, end: 2.355}
+  start: 2052.34
+  end: 2054.7
 - prompt: spike0078
   file: ./pavoque/StefanSpike/wav/spike0078.wav
   date: 2007-11-07T13:14:42+0100
@@ -19170,6 +20098,8 @@
   - {lab: d, end: 0.873989}
   - {lab: 'u:', end: 1.131785}
   - {lab: _, end: 2.835}
+  start: 2054.7
+  end: 2057.54
 - prompt: spike0079
   file: ./pavoque/StefanSpike/wav/spike0079.wav
   date: 2007-11-07T13:14:50+0100
@@ -19196,6 +20126,8 @@
   - {lab: C, end: 1.84}
   - {lab: '6', end: 2.081106}
   - {lab: _, end: 3.615}
+  start: 2057.54
+  end: 2061.16
 - prompt: spike0080
   file: ./pavoque/StefanSpike/wav/spike0080.wav
   date: 2007-11-07T13:14:56+0100
@@ -19222,6 +20154,8 @@
   - {lab: '@', end: 2.126499}
   - {lab: n, end: 2.253053}
   - {lab: _, end: 3.555}
+  start: 2061.16
+  end: 2064.72
 - prompt: spike0081
   file: ./pavoque/StefanSpike/wav/spike0081.wav
   date: 2007-11-07T13:15:02+0100
@@ -19244,6 +20178,8 @@
   - {lab: a, end: 1.3}
   - {lab: s, end: 1.473505}
   - {lab: _, end: 3.135}
+  start: 2064.72
+  end: 2067.86
 - prompt: spike0082
   file: ./pavoque/StefanSpike/wav/spike0082.wav
   date: 2007-11-07T13:15:12+0100
@@ -19294,6 +20230,8 @@
   - {lab: aI, end: 3.055}
   - {lab: n, end: 3.172744}
   - {lab: _, end: 5.295}
+  start: 2067.86
+  end: 2073.16
 - prompt: spike0083
   file: ./pavoque/StefanSpike/wav/spike0083.wav
   date: 2007-11-07T13:15:18+0100
@@ -19316,6 +20254,8 @@
   - {lab: a, end: 1.567826}
   - {lab: s, end: 1.783716}
   - {lab: _, end: 3.135}
+  start: 2073.16
+  end: 2076.3
 - prompt: spike0084
   file: ./pavoque/StefanSpike/wav/spike0084.wav
   date: 2007-11-07T13:15:24+0100
@@ -19341,6 +20281,8 @@
   - {lab: '6', end: 1.89}
   - {lab: t, end: 2.035119}
   - {lab: _, end: 3.315}
+  start: 2076.3
+  end: 2079.62
 - prompt: spike0085
   file: ./pavoque/StefanSpike/wav/spike0085.wav
   date: 2007-11-07T13:15:32+0100
@@ -19361,6 +20303,8 @@
   - {lab: 'e:', end: 1.326911}
   - {lab: '6', end: 1.512078}
   - {lab: _, end: 2.955}
+  start: 2079.62
+  end: 2082.58
 - prompt: spike0086
   file: ./pavoque/StefanSpike/wav/spike0086.wav
   date: 2007-11-07T13:15:40+0100
@@ -19414,6 +20358,8 @@
   - {lab: s, end: 3.66184}
   - {lab: t, end: 3.753281}
   - {lab: _, end: 5.595}
+  start: 2082.58
+  end: 2088.18
 - prompt: spike0087
   file: ./pavoque/StefanSpike/wav/spike0087.wav
   date: 2007-11-07T13:15:46+0100
@@ -19424,6 +20370,8 @@
   - {lab: v, end: 0.481536}
   - {lab: 'i:', end: 0.732594}
   - {lab: _, end: 2.235}
+  start: 2088.18
+  end: 2090.42
 - prompt: spike0088
   file: ./pavoque/StefanSpike/wav/spike0088.wav
   date: 2007-11-07T13:15:52+0100
@@ -19439,6 +20387,8 @@
   - {lab: t, end: 0.884633}
   - {lab: '6', end: 1.069804}
   - {lab: _, end: 2.715}
+  start: 2090.42
+  end: 2093.14
 - prompt: spike0089
   file: ./pavoque/StefanSpike/wav/spike0089.wav
   date: 2007-11-07T13:16:00+0100
@@ -19480,6 +20430,8 @@
   - {lab: '@', end: 2.17}
   - {lab: m, end: 2.252279}
   - {lab: _, end: 4.455}
+  start: 2093.14
+  end: 2097.6
 - prompt: spike0090
   file: ./pavoque/StefanSpike/wav/spike0090.wav
   date: 2007-11-07T13:16:08+0100
@@ -19507,6 +20459,8 @@
   - {lab: p, end: 1.615033}
   - {lab: 'i:', end: 1.785954}
   - {lab: _, end: 3.675}
+  start: 2097.6
+  end: 2101.28
 - prompt: spike0091
   file: ./pavoque/StefanSpike/wav/spike0091.wav
   date: 2007-11-07T13:16:14+0100
@@ -19537,6 +20491,8 @@
   - {lab: n, end: 1.865}
   - {lab: s, end: 2.04841}
   - {lab: _, end: 3.855}
+  start: 2101.28
+  end: 2105.14
 - prompt: spike0092
   file: ./pavoque/StefanSpike/wav/spike0092.wav
   date: 2007-11-07T13:16:22+0100
@@ -19569,6 +20525,8 @@
   - {lab: j, end: 1.818081}
   - {lab: a, end: 1.966018}
   - {lab: _, end: 3.795}
+  start: 2105.14
+  end: 2108.94
 - prompt: spike0093
   file: ./pavoque/StefanSpike/wav/spike0093.wav
   date: 2007-11-07T13:16:28+0100
@@ -19588,6 +20546,8 @@
   - {lab: a, end: 1.19}
   - {lab: x, end: 1.40332}
   - {lab: _, end: 2.955}
+  start: 2108.94
+  end: 2111.9
 - prompt: spike0094
   file: ./pavoque/StefanSpike/wav/spike0094.wav
   date: 2007-11-07T13:16:36+0100
@@ -19633,6 +20593,8 @@
   - {lab: '@', end: 2.761767}
   - {lab: n, end: 2.844431}
   - {lab: _, end: 4.815}
+  start: 2111.9
+  end: 2116.72
 - prompt: spike0095
   file: ./pavoque/StefanSpike/wav/spike0095.wav
   date: 2007-11-07T13:16:42+0100
@@ -19647,6 +20609,8 @@
   - {lab: O, end: 1.051601}
   - {lab: x, end: 1.283352}
   - {lab: _, end: 2.595}
+  start: 2116.72
+  end: 2119.32
 - prompt: spike0096
   file: ./pavoque/StefanSpike/wav/spike0096.wav
   date: 2007-11-07T13:16:48+0100
@@ -19673,6 +20637,8 @@
   - {lab: I, end: 1.725}
   - {lab: C, end: 1.937924}
   - {lab: _, end: 3.195}
+  start: 2119.32
+  end: 2122.52
 - prompt: spike0097
   file: ./pavoque/StefanSpike/wav/spike0097.wav
   date: 2007-11-07T13:16:56+0100
@@ -19712,6 +20678,8 @@
   - {lab: '@', end: 2.730002}
   - {lab: n, end: 2.817649}
   - {lab: _, end: 4.635}
+  start: 2122.52
+  end: 2127.16
 - prompt: spike0098
   file: ./pavoque/StefanSpike/wav/spike0098.wav
   date: 2007-11-07T13:17:06+0100
@@ -19754,6 +20722,8 @@
   - {lab: '@', end: 2.739593}
   - {lab: n, end: 2.94984}
   - {lab: _, end: 4.815}
+  start: 2127.16
+  end: 2131.98
 - prompt: spike0099
   file: ./pavoque/StefanSpike/wav/spike0099.wav
   date: 2007-11-07T13:17:14+0100
@@ -19814,6 +20784,8 @@
   - {lab: s, end: 4.194404}
   - {lab: t, end: 4.312907}
   - {lab: _, end: 6.375}
+  start: 2131.98
+  end: 2138.36
 - prompt: spike0100
   file: ./pavoque/StefanSpike/wav/spike0100.wav
   date: 2007-11-07T13:17:24+0100
@@ -19854,6 +20826,8 @@
   - {lab: s, end: 2.635347}
   - {lab: t, end: 2.747394}
   - {lab: _, end: 4.695}
+  start: 2138.36
+  end: 2143.06
 - prompt: spike0101
   file: ./pavoque/StefanSpike/wav/spike0101.wav
   date: 2007-11-07T13:17:32+0100
@@ -19894,6 +20868,8 @@
   - {lab: s, end: 2.545606}
   - {lab: t, end: 2.703025}
   - {lab: _, end: 4.515}
+  start: 2143.06
+  end: 2147.58
 - prompt: spike0102
   file: ./pavoque/StefanSpike/wav/spike0102.wav
   date: 2007-11-07T13:17:38+0100
@@ -19929,6 +20905,8 @@
   - {lab: t, end: 2.178018}
   - {lab: '6', end: 2.373801}
   - {lab: _, end: 3.915}
+  start: 2147.58
+  end: 2151.5
 - prompt: spike0103
   file: ./pavoque/StefanSpike/wav/spike0103.wav
   date: 2007-11-07T13:17:46+0100
@@ -19965,6 +20943,8 @@
   - {lab: l, end: 2.215}
   - {lab: t, end: 2.358733}
   - {lab: _, end: 4.215}
+  start: 2151.5
+  end: 2155.72
 - prompt: spike0104
   file: ./pavoque/StefanSpike/wav/spike0104.wav
   date: 2007-11-07T13:17:56+0100
@@ -20013,6 +20993,8 @@
   - {lab: h, end: 3.762717}
   - {lab: E, end: 3.996207}
   - {lab: _, end: 5.595}
+  start: 2155.72
+  end: 2161.32
 - prompt: spike0105
   file: ./pavoque/StefanSpike/wav/spike0105.wav
   date: 2007-11-07T13:18:06+0100
@@ -20091,6 +21073,8 @@
   - {lab: l, end: 5.035296}
   - {lab: '@', end: 5.239472}
   - {lab: _, end: 7.755}
+  start: 2161.32
+  end: 2169.08
 - prompt: spike0106
   file: ./pavoque/StefanSpike/wav/spike0106.wav
   date: 2007-11-07T13:18:18+0100
@@ -20178,6 +21162,8 @@
   - {lab: ts, end: 5.561087}
   - {lab: t, end: 5.6676}
   - {lab: _, end: 8.535}
+  start: 2169.08
+  end: 2177.62
 - prompt: spike0107
   file: ./pavoque/StefanSpike/wav/spike0107.wav
   date: 2007-11-07T13:18:28+0100
@@ -20227,6 +21213,8 @@
   - {lab: '@', end: 3.73}
   - {lab: n, end: 3.885987}
   - {lab: _, end: 5.175}
+  start: 2177.62
+  end: 2182.8
 - prompt: spike0108
   file: ./pavoque/StefanSpike/wav/spike0108.wav
   date: 2007-11-07T13:18:34+0100
@@ -20245,6 +21233,8 @@
   - {lab: d, end: 1.053538}
   - {lab: 'u:', end: 1.310635}
   - {lab: _, end: 2.835}
+  start: 2182.8
+  end: 2185.64
 - prompt: spike0109
   file: ./pavoque/StefanSpike/wav/spike0109.wav
   date: 2007-11-07T13:18:40+0100
@@ -20273,6 +21263,8 @@
   - {lab: aU, end: 1.869408}
   - {lab: f, end: 2.119255}
   - {lab: _, end: 3.555}
+  start: 2185.64
+  end: 2189.2
 - prompt: spike0110
   file: ./pavoque/StefanSpike/wav/spike0110.wav
   date: 2007-11-07T13:18:50+0100
@@ -20321,6 +21313,8 @@
   - {lab: s, end: 2.814892}
   - {lab: t, end: 2.94386}
   - {lab: _, end: 5.115}
+  start: 2189.2
+  end: 2194.32
 - prompt: spike0111
   file: ./pavoque/StefanSpike/wav/spike0111.wav
   date: 2007-11-07T13:18:56+0100
@@ -20334,6 +21328,8 @@
   - {lab: a, end: 1.075}
   - {lab: s, end: 1.343597}
   - {lab: _, end: 2.475}
+  start: 2194.32
+  end: 2196.8
 - prompt: spike0112
   file: ./pavoque/StefanSpike/wav/spike0112.wav
   date: 2007-11-07T13:19:02+0100
@@ -20349,6 +21345,8 @@
   - {lab: t, end: 1.187196}
   - {lab: '6', end: 1.543565}
   - {lab: _, end: 2.715}
+  start: 2196.8
+  end: 2199.52
 - prompt: spike0113
   file: ./pavoque/StefanSpike/wav/spike0113.wav
   date: 2007-11-07T13:19:08+0100
@@ -20361,6 +21359,8 @@
   - {lab: z, end: 0.589209}
   - {lab: 'o:', end: 0.800989}
   - {lab: _, end: 2.355}
+  start: 2199.52
+  end: 2201.88
 - prompt: spike0114
   file: ./pavoque/StefanSpike/wav/spike0114.wav
   date: 2007-11-07T13:19:14+0100
@@ -20377,6 +21377,8 @@
   - {lab: C, end: 0.935513}
   - {lab: t, end: 1.041474}
   - {lab: _, end: 2.715}
+  start: 2201.88
+  end: 2204.6
 - prompt: spike0115
   file: ./pavoque/StefanSpike/wav/spike0115.wav
   date: 2007-11-07T13:19:22+0100
@@ -20417,6 +21419,8 @@
   - {lab: '@', end: 2.730462}
   - {lab: n, end: 2.80239}
   - {lab: _, end: 4.575}
+  start: 2204.6
+  end: 2209.18
 - prompt: spike0116
   file: ./pavoque/StefanSpike/wav/spike0116.wav
   date: 2007-11-07T13:19:28+0100
@@ -20439,6 +21443,8 @@
   - {lab: s, end: 1.53767}
   - {lab: t, end: 1.671107}
   - {lab: _, end: 3.075}
+  start: 2209.18
+  end: 2212.26
 - prompt: spike0117
   file: ./pavoque/StefanSpike/wav/spike0117.wav
   date: 2007-11-07T13:19:36+0100
@@ -20492,6 +21498,8 @@
   - {lab: '@', end: 3.43}
   - {lab: n, end: 3.541082}
   - {lab: _, end: 5.595}
+  start: 2212.26
+  end: 2217.86
 - prompt: spike0118
   file: ./pavoque/StefanSpike/wav/spike0118.wav
   date: 2007-11-07T13:19:44+0100
@@ -20528,6 +21536,8 @@
   - {lab: '@', end: 2.449204}
   - {lab: n, end: 2.531392}
   - {lab: _, end: 4.335}
+  start: 2217.86
+  end: 2222.2
 - prompt: spike0119
   file: ./pavoque/StefanSpike/wav/spike0119.wav
   date: 2007-11-07T13:19:50+0100
@@ -20538,6 +21548,8 @@
   - {lab: v, end: 0.432755}
   - {lab: 'i:', end: 0.844537}
   - {lab: _, end: 2.235}
+  start: 2222.2
+  end: 2224.44
 - prompt: spike0120
   file: ./pavoque/StefanSpike/wav/spike0120.wav
   date: 2007-11-07T13:19:58+0100
@@ -20584,6 +21596,8 @@
   - {lab: '@', end: 2.355}
   - {lab: n, end: 2.453575}
   - {lab: _, end: 4.695}
+  start: 2224.44
+  end: 2229.14
 - prompt: spike0121
   file: ./pavoque/StefanSpike/wav/spike0121.wav
   date: 2007-11-07T13:20:06+0100
@@ -20611,6 +21625,8 @@
   - {lab: p, end: 1.752566}
   - {lab: 'i:', end: 1.916018}
   - {lab: _, end: 3.675}
+  start: 2229.14
+  end: 2232.82
 - prompt: spike0122
   file: ./pavoque/StefanSpike/wav/spike0122.wav
   date: 2007-11-07T13:20:12+0100
@@ -20641,6 +21657,8 @@
   - {lab: n, end: 1.94}
   - {lab: s, end: 2.119161}
   - {lab: _, end: 3.855}
+  start: 2232.82
+  end: 2236.68
 - prompt: spike0123
   file: ./pavoque/StefanSpike/wav/spike0123.wav
   date: 2007-11-07T13:20:20+0100
@@ -20673,6 +21691,8 @@
   - {lab: j, end: 1.924678}
   - {lab: a, end: 2.09254}
   - {lab: _, end: 3.795}
+  start: 2236.68
+  end: 2240.48
 - prompt: spike0124
   file: ./pavoque/StefanSpike/wav/spike0124.wav
   date: 2007-11-07T13:20:28+0100
@@ -20708,6 +21728,8 @@
   - {lab: '@', end: 2.817102}
   - {lab: l, end: 2.930233}
   - {lab: _, end: 3.915}
+  start: 2240.48
+  end: 2244.4
 - prompt: spike0125
   file: ./pavoque/StefanSpike/wav/spike0125.wav
   date: 2007-11-07T13:20:36+0100
@@ -20753,6 +21775,8 @@
   - {lab: '@', end: 2.683856}
   - {lab: n, end: 2.79068}
   - {lab: _, end: 4.815}
+  start: 2244.4
+  end: 2249.22
 - prompt: spike0126
   file: ./pavoque/StefanSpike/wav/spike0126.wav
   date: 2007-11-07T13:20:44+0100
@@ -20787,6 +21811,8 @@
   - {lab: s, end: 2.217118}
   - {lab: t, end: 2.303648}
   - {lab: _, end: 4.455}
+  start: 2249.22
+  end: 2253.68
 - prompt: spike0127
   file: ./pavoque/StefanSpike/wav/spike0127.wav
   date: 2007-11-07T13:20:52+0100
@@ -20837,6 +21863,8 @@
   - {lab: '@', end: 3.151819}
   - {lab: n, end: 3.280465}
   - {lab: _, end: 5.415}
+  start: 2253.68
+  end: 2259.1
 - prompt: spike0128
   file: ./pavoque/StefanSpike/wav/spike0128.wav
   date: 2007-11-07T13:21:00+0100
@@ -20867,6 +21895,8 @@
   - {lab: s, end: 2.516437}
   - {lab: t, end: 2.619106}
   - {lab: _, end: 4.035}
+  start: 2259.1
+  end: 2263.14
 - prompt: spike0130
   file: ./pavoque/StefanSpike/wav/spike0130.wav
   date: 2007-11-07T13:21:14+0100
@@ -20895,6 +21925,8 @@
   - {lab: 'E:', end: 1.813105}
   - {lab: '6', end: 2.072689}
   - {lab: _, end: 3.555}
+  start: 2263.14
+  end: 2266.7
 - prompt: spike0131
   file: ./pavoque/StefanSpike/wav/spike0131.wav
   date: 2007-11-07T13:21:22+0100
@@ -20938,6 +21970,8 @@
   - {lab: '@', end: 3.188376}
   - {lab: n, end: 3.323873}
   - {lab: _, end: 4.515}
+  start: 2266.7
+  end: 2271.22
 - prompt: spike0132
   file: ./pavoque/StefanSpike/wav/spike0132.wav
   date: 2007-11-07T13:21:30+0100
@@ -20982,6 +22016,8 @@
   - {lab: I, end: 3.24}
   - {lab: C, end: 3.438692}
   - {lab: _, end: 5.055}
+  start: 2271.22
+  end: 2276.28
 - prompt: spike0133
   file: ./pavoque/StefanSpike/wav/spike0133.wav
   date: 2007-11-07T13:21:38+0100
@@ -21022,6 +22058,8 @@
   - {lab: s, end: 2.916026}
   - {lab: t, end: 3.029819}
   - {lab: _, end: 4.695}
+  start: 2276.28
+  end: 2280.98
 - prompt: spike0134
   file: ./pavoque/StefanSpike/wav/spike0134.wav
   date: 2007-11-07T13:21:44+0100
@@ -21034,6 +22072,8 @@
   - {lab: C, end: 0.685}
   - {lab: '6', end: 1.020833}
   - {lab: _, end: 2.415}
+  start: 2280.98
+  end: 2283.4
 - prompt: spike0135
   file: ./pavoque/StefanSpike/wav/spike0135.wav
   date: 2007-11-07T13:21:50+0100
@@ -21046,6 +22086,8 @@
   - {lab: n, end: 0.49}
   - {lab: aU, end: 0.940778}
   - {lab: _, end: 2.355}
+  start: 2283.4
+  end: 2285.76
 - prompt: spike0136
   file: ./pavoque/StefanSpike/wav/spike0136.wav
   date: 2007-11-07T13:21:56+0100
@@ -21066,6 +22108,8 @@
   - {lab: z, end: 1.075181}
   - {lab: 'o:', end: 1.257522}
   - {lab: _, end: 3.075}
+  start: 2285.76
+  end: 2288.84
 - prompt: spike0138
   file: ./pavoque/StefanSpike/wav/spike0138.wav
   date: 2007-11-07T13:22:10+0100
@@ -21083,6 +22127,8 @@
   - {lab: 'o:', end: 1.005}
   - {lab: s, end: 1.199075}
   - {lab: _, end: 2.715}
+  start: 2288.84
+  end: 2291.56
 - prompt: spike0139
   file: ./pavoque/StefanSpike/wav/spike0139.wav
   date: 2007-11-07T13:22:16+0100
@@ -21103,6 +22149,8 @@
   - {lab: 'e:', end: 1.245}
   - {lab: '6', end: 1.457655}
   - {lab: _, end: 2.955}
+  start: 2291.56
+  end: 2294.52
 - prompt: spike0140
   file: ./pavoque/StefanSpike/wav/spike0140.wav
   date: 2007-11-07T13:22:24+0100
@@ -21122,6 +22170,8 @@
   - {lab: t, end: 0.967593}
   - {lab: '6', end: 1.19255}
   - {lab: _, end: 3.075}
+  start: 2294.52
+  end: 2297.6
 - prompt: spike0142
   file: ./pavoque/StefanSpike/wav/spike0142.wav
   date: 2007-11-07T13:22:38+0100
@@ -21148,6 +22198,8 @@
   - {lab: 'a:', end: 1.99}
   - {lab: s, end: 2.188678}
   - {lab: _, end: 3.495}
+  start: 2297.6
+  end: 2301.1
 - prompt: spike0143
   file: ./pavoque/StefanSpike/wav/spike0143.wav
   date: 2007-11-07T13:22:44+0100
@@ -21166,6 +22218,8 @@
   - {lab: d, end: 1.58}
   - {lab: 'u:', end: 1.788499}
   - {lab: _, end: 2.835}
+  start: 2301.1
+  end: 2303.94
 - prompt: spike0144
   file: ./pavoque/StefanSpike/wav/spike0144.wav
   date: 2007-11-07T13:22:52+0100
@@ -21200,6 +22254,8 @@
   - {lab: n, end: 2.368637}
   - {lab: t, end: 2.567934}
   - {lab: _, end: 4.035}
+  start: 2303.94
+  end: 2307.98
 - prompt: spike0145
   file: ./pavoque/StefanSpike/wav/spike0145.wav
   date: 2007-11-07T13:22:58+0100
@@ -21210,6 +22266,8 @@
   - {lab: v, end: 0.466445}
   - {lab: 'i:', end: 0.835486}
   - {lab: _, end: 2.235}
+  start: 2307.98
+  end: 2310.22
 - prompt: spike0146
   file: ./pavoque/StefanSpike/wav/spike0146.wav
   date: 2007-11-07T13:23:02+0100
@@ -21222,6 +22280,8 @@
   - {lab: z, end: 0.59266}
   - {lab: 'o:', end: 0.947982}
   - {lab: _, end: 2.355}
+  start: 2310.22
+  end: 2312.58
 - prompt: spike0148
   file: ./pavoque/StefanSpike/wav/spike0148.wav
   date: 2007-11-07T13:23:16+0100
@@ -21238,6 +22298,8 @@
   - {lab: t, end: 1.009012}
   - {lab: '6', end: 1.239604}
   - {lab: _, end: 2.715}
+  start: 2312.58
+  end: 2315.3
 - prompt: spike0149
   file: ./pavoque/StefanSpike/wav/spike0149.wav
   date: 2007-11-07T13:23:24+0100
@@ -21280,6 +22342,8 @@
   - {lab: l, end: 2.715}
   - {lab: s, end: 2.897953}
   - {lab: _, end: 4.935}
+  start: 2315.3
+  end: 2320.24
 - prompt: spike0150
   file: ./pavoque/StefanSpike/wav/spike0150.wav
   date: 2007-11-07T13:23:32+0100
@@ -21325,6 +22389,8 @@
   - {lab: l, end: 3.031723}
   - {lab: s, end: 3.210922}
   - {lab: _, end: 5.115}
+  start: 2320.24
+  end: 2325.36
 - prompt: spike0151
   file: ./pavoque/StefanSpike/wav/spike0151.wav
   date: 2007-11-07T13:23:40+0100
@@ -21372,6 +22438,8 @@
   - {lab: l, end: 3.54}
   - {lab: s, end: 3.720707}
   - {lab: _, end: 5.055}
+  start: 2325.36
+  end: 2330.42
 - prompt: spike0147
   file: ./pavoque/StefanSpike/wav/spike0147.wav
   date: 2007-11-07T13:24:36+0100
@@ -21387,6 +22455,8 @@
   - {lab: t, end: 1.059105}
   - {lab: '6', end: 1.338973}
   - {lab: _, end: 2.715}
+  start: 2330.42
+  end: 2333.14
 - prompt: spike0141
   file: ./pavoque/StefanSpike/wav/spike0141.wav
   date: 2007-11-07T13:25:02+0100
@@ -21423,6 +22493,8 @@
   - {lab: n, end: 2.715}
   - {lab: t, end: 2.907427}
   - {lab: _, end: 4.215}
+  start: 2333.14
+  end: 2337.36
 - prompt: spike0137
   file: ./pavoque/StefanSpike/wav/spike0137.wav
   date: 2007-11-07T13:25:26+0100
@@ -21459,6 +22531,8 @@
   - {lab: s, end: 3.080654}
   - {lab: t, end: 3.172823}
   - {lab: _, end: 4.455}
+  start: 2337.36
+  end: 2341.82
 - prompt: spike0129
   file: ./pavoque/StefanSpike/wav/spike0129.wav
   date: 2007-11-07T13:25:54+0100
@@ -21488,6 +22562,8 @@
   - {lab: d, end: 2.160744}
   - {lab: '@', end: 2.373745}
   - {lab: _, end: 3.495}
+  start: 2341.82
+  end: 2345.32
 - prompt: m0201
   file: ./pavoque/StefanSpike/wav/m0201.wav
   date: 2007-11-07T13:26:36+0100
@@ -21516,6 +22592,8 @@
   - {lab: a~, end: 2.525}
   - {lab: Z, end: 2.795017}
   - {lab: _, end: 3.855}
+  start: 2345.32
+  end: 2349.18
 - prompt: m0202
   file: ./pavoque/StefanSpike/wav/m0202.wav
   date: 2007-11-07T13:26:48+0100
@@ -21582,6 +22660,8 @@
   - {lab: aI, end: 5.245}
   - {lab: n, end: 5.351616}
   - {lab: _, end: 7.095}
+  start: 2349.18
+  end: 2356.28
 - prompt: m0203
   file: ./pavoque/StefanSpike/wav/m0203.wav
   date: 2007-11-07T13:28:00+0100
@@ -21611,6 +22691,8 @@
   - {lab: aI, end: 3.135}
   - {lab: n, end: 3.260518}
   - {lab: _, end: 3.795}
+  start: 2356.28
+  end: 2360.08
 - prompt: m0204
   file: ./pavoque/StefanSpike/wav/m0204.wav
   date: 2007-11-07T13:28:10+0100
@@ -21696,6 +22778,8 @@
   - {lab: O, end: 7.425}
   - {lab: l, end: 7.55913}
   - {lab: _, end: 7.875}
+  start: 2360.08
+  end: 2367.96
 - prompt: m0205
   file: ./pavoque/StefanSpike/wav/m0205.wav
   date: 2007-11-07T13:28:20+0100
@@ -21750,6 +22834,8 @@
   - {lab: '6', end: 4.675}
   - {lab: p, end: 4.841883}
   - {lab: _, end: 5.775}
+  start: 2367.96
+  end: 2373.74
 - prompt: m0206
   file: ./pavoque/StefanSpike/wav/m0206.wav
   date: 2007-11-07T13:28:30+0100
@@ -21810,6 +22896,8 @@
   - {lab: aI, end: 4.689721}
   - {lab: t, end: 4.862891}
   - {lab: _, end: 6.015}
+  start: 2373.74
+  end: 2379.76
 - prompt: m0207
   file: ./pavoque/StefanSpike/wav/m0207.wav
   date: 2007-11-07T13:28:36+0100
@@ -21840,6 +22928,8 @@
   - {lab: '@', end: 2.925}
   - {lab: n, end: 3.049333}
   - {lab: _, end: 3.855}
+  start: 2379.76
+  end: 2383.62
 - prompt: m0208
   file: ./pavoque/StefanSpike/wav/m0208.wav
   date: 2007-11-07T13:28:44+0100
@@ -21872,6 +22962,8 @@
   - {lab: 'u:', end: 2.58}
   - {lab: t, end: 2.772269}
   - {lab: _, end: 3.795}
+  start: 2383.62
+  end: 2387.42
 - prompt: m0209
   file: ./pavoque/StefanSpike/wav/m0209.wav
   date: 2007-11-07T13:28:52+0100
@@ -21923,6 +23015,8 @@
   - {lab: 'u:', end: 4.23}
   - {lab: 'i:', end: 4.450273}
   - {lab: _, end: 5.415}
+  start: 2387.42
+  end: 2392.84
 - prompt: m0210
   file: ./pavoque/StefanSpike/wav/m0210.wav
   date: 2007-11-07T13:29:00+0100
@@ -21954,6 +23048,8 @@
   - {lab: j, end: 2.5485}
   - {lab: 'u:', end: 2.743169}
   - {lab: _, end: 3.915}
+  start: 2392.84
+  end: 2396.76
 - prompt: m0211
   file: ./pavoque/StefanSpike/wav/m0211.wav
   date: 2007-11-07T13:29:08+0100
@@ -21984,6 +23080,8 @@
   - {lab: '@', end: 2.476497}
   - {lab: t, end: 2.642948}
   - {lab: _, end: 3.675}
+  start: 2396.76
+  end: 2400.44
 - prompt: m0212
   file: ./pavoque/StefanSpike/wav/m0212.wav
   date: 2007-11-07T13:29:16+0100
@@ -22028,6 +23126,8 @@
   - {lab: l, end: 3.315}
   - {lab: '@', end: 3.468447}
   - {lab: _, end: 4.815}
+  start: 2400.44
+  end: 2405.26
 - prompt: m0213
   file: ./pavoque/StefanSpike/wav/m0213.wav
   date: 2007-11-07T13:30:12+0100
@@ -22085,6 +23185,8 @@
   - {lab: w, end: 4.36}
   - {lab: aU, end: 4.714755}
   - {lab: _, end: 5.775}
+  start: 2405.26
+  end: 2411.04
 - prompt: m0214
   file: ./pavoque/StefanSpike/wav/m0214.wav
   date: 2007-11-07T13:30:18+0100
@@ -22114,6 +23216,8 @@
   - {lab: 'u:', end: 2.694272}
   - {lab: t, end: 2.841668}
   - {lab: _, end: 3.795}
+  start: 2411.04
+  end: 2414.84
 - prompt: m0215
   file: ./pavoque/StefanSpike/wav/m0215.wav
   date: 2007-11-07T13:30:28+0100
@@ -22164,6 +23268,8 @@
   - {lab: z, end: 3.63}
   - {lab: '@', end: 3.783124}
   - {lab: _, end: 5.295}
+  start: 2414.84
+  end: 2420.14
 - prompt: m0217
   file: ./pavoque/StefanSpike/wav/m0217.wav
   date: 2007-11-07T13:30:46+0100
@@ -22198,6 +23304,8 @@
   - {lab: h, end: 2.272482}
   - {lab: '@', end: 2.539652}
   - {lab: _, end: 4.095}
+  start: 2420.14
+  end: 2424.24
 - prompt: m0218
   file: ./pavoque/StefanSpike/wav/m0218.wav
   date: 2007-11-07T13:30:54+0100
@@ -22241,6 +23349,8 @@
   - {lab: 'e:', end: 3.125}
   - {lab: '6', end: 3.33124}
   - {lab: _, end: 4.935}
+  start: 2424.24
+  end: 2429.18
 - prompt: m0219
   file: ./pavoque/StefanSpike/wav/m0219.wav
   date: 2007-11-07T13:31:04+0100
@@ -22317,6 +23427,8 @@
   - {lab: s, end: 5.913918}
   - {lab: t, end: 6.046567}
   - {lab: _, end: 7.455}
+  start: 2429.18
+  end: 2436.64
 - prompt: m0220
   file: ./pavoque/StefanSpike/wav/m0220.wav
   date: 2007-11-07T13:31:14+0100
@@ -22373,6 +23485,8 @@
   - {lab: l, end: 4.03}
   - {lab: t, end: 4.17461}
   - {lab: _, end: 5.655}
+  start: 2436.64
+  end: 2442.3
 - prompt: m0221
   file: ./pavoque/StefanSpike/wav/m0221.wav
   date: 2007-11-07T13:31:20+0100
@@ -22400,6 +23514,8 @@
   - {lab: '6', end: 2.195}
   - {lab: C, end: 2.416877}
   - {lab: _, end: 3.795}
+  start: 2442.3
+  end: 2446.1
 - prompt: m0223
   file: ./pavoque/StefanSpike/wav/m0223.wav
   date: 2007-11-07T13:31:42+0100
@@ -22459,6 +23575,8 @@
   - {lab: l, end: 4.225}
   - {lab: '@', end: 4.37832}
   - {lab: _, end: 6.435}
+  start: 2446.1
+  end: 2452.54
 - prompt: m0224
   file: ./pavoque/StefanSpike/wav/m0224.wav
   date: 2007-11-07T13:31:50+0100
@@ -22503,6 +23621,8 @@
   - {lab: n, end: 3.104834}
   - {lab: ts, end: 3.348062}
   - {lab: _, end: 4.815}
+  start: 2452.54
+  end: 2457.36
 - prompt: m0225
   file: ./pavoque/StefanSpike/wav/m0225.wav
   date: 2007-11-07T13:32:00+0100
@@ -22568,6 +23688,8 @@
   - {lab: a, end: 4.646935}
   - {lab: t, end: 4.825025}
   - {lab: _, end: 6.315}
+  start: 2457.36
+  end: 2463.68
 - prompt: m0226
   file: ./pavoque/StefanSpike/wav/m0226.wav
   date: 2007-11-07T13:32:08+0100
@@ -22608,6 +23730,8 @@
   - {lab: S, end: 3.32}
   - {lab: 'o:', end: 3.5439}
   - {lab: _, end: 4.755}
+  start: 2463.68
+  end: 2468.44
 - prompt: m0228
   file: ./pavoque/StefanSpike/wav/m0228.wav
   date: 2007-11-07T13:32:26+0100
@@ -22658,6 +23782,8 @@
   - {lab: '@', end: 3.915}
   - {lab: t, end: 4.03611}
   - {lab: _, end: 5.295}
+  start: 2468.44
+  end: 2473.74
 - prompt: m0229
   file: ./pavoque/StefanSpike/wav/m0229.wav
   date: 2007-11-07T13:32:36+0100
@@ -22732,6 +23858,8 @@
   - {lab: aI, end: 6.11}
   - {lab: n, end: 6.190441}
   - {lab: _, end: 7.275}
+  start: 2473.74
+  end: 2481.02
 - prompt: m0230
   file: ./pavoque/StefanSpike/wav/m0230.wav
   date: 2007-11-07T13:32:46+0100
@@ -22790,6 +23918,8 @@
   - {lab: '@', end: 4.559313}
   - {lab: n, end: 4.721444}
   - {lab: _, end: 6.195}
+  start: 2481.02
+  end: 2487.22
 - prompt: m0231
   file: ./pavoque/StefanSpike/wav/m0231.wav
   date: 2007-11-07T13:32:56+0100
@@ -22855,6 +23985,8 @@
   - {lab: 'i:', end: 5.072944}
   - {lab: l, end: 5.233854}
   - {lab: _, end: 6.495}
+  start: 2487.22
+  end: 2493.72
 - prompt: m0232
   file: ./pavoque/StefanSpike/wav/m0232.wav
   date: 2007-11-07T13:33:06+0100
@@ -22917,6 +24049,8 @@
   - {lab: l, end: 4.22}
   - {lab: '@', end: 4.361554}
   - {lab: _, end: 6.135}
+  start: 2493.72
+  end: 2499.86
 - prompt: m0233
   file: ./pavoque/StefanSpike/wav/m0233.wav
   date: 2007-11-07T13:33:12+0100
@@ -22946,6 +24080,8 @@
   - {lab: I, end: 1.91}
   - {lab: C, end: 2.171637}
   - {lab: _, end: 3.435}
+  start: 2499.86
+  end: 2503.3
 - prompt: m0234
   file: ./pavoque/StefanSpike/wav/m0234.wav
   date: 2007-11-07T13:33:20+0100
@@ -22974,6 +24110,8 @@
   - {lab: n, end: 1.925}
   - {lab: ts, end: 2.090158}
   - {lab: _, end: 3.675}
+  start: 2503.3
+  end: 2506.98
 - prompt: m0235
   file: ./pavoque/StefanSpike/wav/m0235.wav
   date: 2007-11-07T13:33:28+0100
@@ -23015,6 +24153,8 @@
   - {lab: t, end: 3.113265}
   - {lab: '@', end: 3.309083}
   - {lab: _, end: 4.275}
+  start: 2506.98
+  end: 2511.26
 - prompt: m0236
   file: ./pavoque/StefanSpike/wav/m0236.wav
   date: 2007-11-07T13:33:34+0100
@@ -23043,6 +24183,8 @@
   - {lab: '@', end: 2.157506}
   - {lab: n, end: 2.237345}
   - {lab: _, end: 3.795}
+  start: 2511.26
+  end: 2515.06
 - prompt: m0237
   file: ./pavoque/StefanSpike/wav/m0237.wav
   date: 2007-11-07T13:33:46+0100
@@ -23116,6 +24258,8 @@
   - {lab: aU, end: 4.87}
   - {lab: m, end: 5.00615}
   - {lab: _, end: 7.155}
+  start: 2515.06
+  end: 2522.22
 - prompt: m0238
   file: ./pavoque/StefanSpike/wav/m0238.wav
   date: 2007-11-07T13:33:54+0100
@@ -23166,6 +24310,8 @@
   - {lab: l, end: 3.964429}
   - {lab: '6', end: 4.139466}
   - {lab: _, end: 6.075}
+  start: 2522.22
+  end: 2528.3
 - prompt: m0239
   file: ./pavoque/StefanSpike/wav/m0239.wav
   date: 2007-11-07T13:34:02+0100
@@ -23205,6 +24351,8 @@
   - {lab: I, end: 3.21}
   - {lab: C, end: 3.394564}
   - {lab: _, end: 4.575}
+  start: 2528.3
+  end: 2532.88
 - prompt: m0240
   file: ./pavoque/StefanSpike/wav/m0240.wav
   date: 2007-11-07T13:34:10+0100
@@ -23241,6 +24389,8 @@
   - {lab: n, end: 2.35}
   - {lab: '6', end: 2.553808}
   - {lab: _, end: 4.035}
+  start: 2532.88
+  end: 2536.92
 - prompt: m0242
   file: ./pavoque/StefanSpike/wav/m0242.wav
   date: 2007-11-07T13:34:30+0100
@@ -23291,6 +24441,8 @@
   - {lab: U, end: 3.745}
   - {lab: N, end: 3.806279}
   - {lab: _, end: 5.475}
+  start: 2536.92
+  end: 2542.4
 - prompt: m0243
   file: ./pavoque/StefanSpike/wav/m0243.wav
   date: 2007-11-07T13:34:42+0100
@@ -23380,6 +24532,8 @@
   - {lab: '@', end: 7.365}
   - {lab: n, end: 7.462795}
   - {lab: _, end: 8.955}
+  start: 2542.4
+  end: 2551.36
 - prompt: m0244
   file: ./pavoque/StefanSpike/wav/m0244.wav
   date: 2007-11-07T13:34:50+0100
@@ -23423,6 +24577,8 @@
   - {lab: aU, end: 3.340876}
   - {lab: f, end: 3.595126}
   - {lab: _, end: 4.635}
+  start: 2551.36
+  end: 2556.0
 - prompt: m0245
   file: ./pavoque/StefanSpike/wav/m0245.wav
   date: 2007-11-07T13:34:58+0100
@@ -23455,6 +24611,8 @@
   - {lab: 'a:', end: 2.25312}
   - {lab: '@', end: 2.479722}
   - {lab: _, end: 3.915}
+  start: 2556.0
+  end: 2559.92
 - prompt: m0246
   file: ./pavoque/StefanSpike/wav/m0246.wav
   date: 2007-11-07T13:35:06+0100
@@ -23502,6 +24660,8 @@
   - {lab: '6', end: 3.405}
   - {lab: s, end: 3.675803}
   - {lab: _, end: 4.995}
+  start: 2559.92
+  end: 2564.92
 - prompt: m0247
   file: ./pavoque/StefanSpike/wav/m0247.wav
   date: 2007-11-07T13:35:12+0100
@@ -23533,6 +24693,8 @@
   - {lab: m, end: 2.045}
   - {lab: '@', end: 2.235272}
   - {lab: _, end: 3.555}
+  start: 2564.92
+  end: 2568.48
 - prompt: m0248
   file: ./pavoque/StefanSpike/wav/m0248.wav
   date: 2007-11-07T13:35:20+0100
@@ -23569,6 +24731,8 @@
   - {lab: E, end: 2.605}
   - {lab: m, end: 2.698728}
   - {lab: _, end: 4.155}
+  start: 2568.48
+  end: 2572.64
 - prompt: m0249
   file: ./pavoque/StefanSpike/wav/m0249.wav
   date: 2007-11-07T13:35:28+0100
@@ -23598,6 +24762,8 @@
   - {lab: OY, end: 1.896312}
   - {lab: tS, end: 2.183185}
   - {lab: _, end: 3.855}
+  start: 2572.64
+  end: 2576.5
 - prompt: m0227
   file: ./pavoque/StefanSpike/wav/m0227.wav
   date: 2007-11-07T13:35:54+0100
@@ -23661,6 +24827,8 @@
   - {lab: n, end: 5.185}
   - {lab: '6', end: 5.429376}
   - {lab: _, end: 6.135}
+  start: 2576.5
+  end: 2582.64
 - prompt: m0241
   file: ./pavoque/StefanSpike/wav/m0241.wav
   date: 2007-11-07T13:37:12+0100
@@ -23723,6 +24891,8 @@
   - {lab: 'u:', end: 4.58}
   - {lab: t, end: 4.747915}
   - {lab: _, end: 6.255}
+  start: 2582.64
+  end: 2588.9
 - prompt: spike0020
   file: ./pavoque/StefanSpike/wav/spike0020.wav
   date: 2007-12-21T17:37:14+0100
@@ -23750,6 +24920,8 @@
   - {lab: p, end: 1.57884}
   - {lab: 'i:', end: 1.856255}
   - {lab: _, end: 4.175}
+  start: 2588.9
+  end: 2593.08
 - prompt: m0010
   file: ./pavoque/StefanSpike/wav/m0010.wav
   date: 2007-12-21T17:37:15+0100
@@ -23795,6 +24967,8 @@
   - {lab: R, end: 3.71}
   - {lab: aI, end: 4.092894}
   - {lab: _, end: 5.135}
+  start: 2593.08
+  end: 2598.22
 - prompt: m0042
   file: ./pavoque/StefanSpike/wav/m0042.wav
   date: 2007-12-21T17:37:15+0100
@@ -23830,6 +25004,8 @@
   - {lab: O, end: 2.926086}
   - {lab: n, end: 3.010829}
   - {lab: _, end: 4.475}
+  start: 2598.22
+  end: 2602.7
 - prompt: m0055
   file: ./pavoque/StefanSpike/wav/m0055.wav
   date: 2007-12-21T17:37:15+0100
@@ -23888,6 +25064,8 @@
   - {lab: U, end: 4.49}
   - {lab: N, end: 4.58342}
   - {lab: _, end: 6.575}
+  start: 2602.7
+  end: 2609.28
 - prompt: m0057
   file: ./pavoque/StefanSpike/wav/m0057.wav
   date: 2007-12-21T17:37:15+0100
@@ -23926,6 +25104,8 @@
   - {lab: aU, end: 2.9}
   - {lab: s, end: 3.203402}
   - {lab: _, end: 5.075}
+  start: 2609.28
+  end: 2614.36
 - prompt: m0108
   file: ./pavoque/StefanSpike/wav/m0108.wav
   date: 2007-12-21T17:37:15+0100
@@ -23967,6 +25147,8 @@
   - {lab: '9', end: 3.365}
   - {lab: l, end: 3.564525}
   - {lab: _, end: 5.015}
+  start: 2614.36
+  end: 2619.38
 - prompt: m0115
   file: ./pavoque/StefanSpike/wav/m0115.wav
   date: 2007-12-21T17:37:16+0100
@@ -24012,6 +25194,8 @@
   - {lab: l, end: 3.135}
   - {lab: k, end: 3.370845}
   - {lab: _, end: 5.255}
+  start: 2619.38
+  end: 2624.64
 - prompt: m0140
   file: ./pavoque/StefanSpike/wav/m0140.wav
   date: 2007-12-21T17:37:16+0100
@@ -24073,6 +25257,8 @@
   - {lab: n, end: 4.52}
   - {lab: t, end: 4.702751}
   - {lab: _, end: 6.875}
+  start: 2624.64
+  end: 2631.52
 - prompt: m0216
   file: ./pavoque/StefanSpike/wav/m0216.wav
   date: 2007-12-21T17:37:16+0100
@@ -24147,6 +25333,8 @@
   - {lab: '2:', end: 5.642238}
   - {lab: s, end: 5.981214}
   - {lab: _, end: 7.295}
+  start: 2631.52
+  end: 2638.82
 - prompt: m0222
   file: ./pavoque/StefanSpike/wav/m0222.wav
   date: 2007-12-21T17:37:16+0100
@@ -24214,6 +25402,8 @@
   - {lab: '@', end: 5.62}
   - {lab: n, end: 5.746836}
   - {lab: _, end: 7.115}
+  start: 2638.82
+  end: 2645.94
 - prompt: m0250
   file: ./pavoque/StefanSpike/wav/m0250.wav
   date: 2007-12-21T17:37:16+0100
@@ -24269,6 +25459,8 @@
   - {lab: '?', end: 6.075}
   - {lab: 'y:', end: 6.346436}
   - {lab: _, end: 6.350735}
+  start: 2645.94
+  end: 2652.28
 - prompt: m0274
   file: ./pavoque/StefanSpike/wav/m0274.wav
   date: 2007-12-21T17:37:17+0100
@@ -24328,6 +25520,8 @@
   - {lab: 'E:', end: 5.595}
   - {lab: n, end: 5.758503}
   - {lab: _, end: 6.695}
+  start: 2652.28
+  end: 2658.98
 - prompt: m0278
   file: ./pavoque/StefanSpike/wav/m0278.wav
   date: 2007-12-21T17:37:17+0100
@@ -24389,6 +25583,8 @@
   - {lab: '6', end: 5.795}
   - {lab: ts, end: 6.079282}
   - {lab: _, end: 6.110606}
+  start: 2658.98
+  end: 2665.08
 - prompt: m0320
   file: ./pavoque/StefanSpike/wav/m0320.wav
   date: 2007-12-21T17:37:17+0100
@@ -24422,6 +25618,8 @@
   - {lab: EI, end: 3.105}
   - {lab: m, end: 3.248745}
   - {lab: _, end: 4.835}
+  start: 2665.08
+  end: 2669.92
 - prompt: m0342
   file: ./pavoque/StefanSpike/wav/m0342.wav
   date: 2007-12-21T17:37:17+0100
@@ -24487,6 +25685,8 @@
   - {lab: t, end: 5.245}
   - {lab: 'a:', end: 5.47868}
   - {lab: _, end: 6.815}
+  start: 2669.92
+  end: 2676.74
 - prompt: spike0027
   file: ./pavoque/StefanSpike/wav/spike0027.wav
   date: 2007-12-21T17:37:17+0100
@@ -24536,3 +25736,5 @@
   - {lab: '@', end: 3.382023}
   - {lab: n, end: 3.539854}
   - {lab: _, end: 5.915}
+  start: 2676.74
+  end: 2682.66

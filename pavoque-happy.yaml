@@ -19,6 +19,8 @@
   - {lab: p, end: 1.442674}
   - {lab: 'i:', end: 1.543351}
   - {lab: _, end: 1.595}
+  start: 0.0
+  end: 1.6
 - prompt: poppy0002
   file: ./pavoque/StefanPoppy/wav/poppy0002.wav
   date: 2007-11-05T09:14:36+0100
@@ -39,6 +41,8 @@
   - {lab: n, end: 1.125}
   - {lab: s, end: 1.232572}
   - {lab: _, end: 1.295}
+  start: 1.6
+  end: 2.9
 - prompt: poppy0003
   file: ./pavoque/StefanPoppy/wav/poppy0003.wav
   date: 2007-11-05T09:14:40+0100
@@ -73,6 +77,8 @@
   - {lab: '@', end: 1.6299}
   - {lab: n, end: 1.746718}
   - {lab: _, end: 2.435}
+  start: 2.9
+  end: 5.34
 - prompt: poppy0004
   file: ./pavoque/StefanPoppy/wav/poppy0004.wav
   date: 2007-11-05T09:15:42+0100
@@ -107,6 +113,8 @@
   - {lab: '@', end: 1.968585}
   - {lab: n, end: 2.039342}
   - {lab: _, end: 3.595}
+  start: 5.34
+  end: 8.94
 - prompt: poppy0006
   file: ./pavoque/StefanPoppy/wav/poppy0006.wav
   date: 2007-11-05T09:15:56+0100
@@ -166,6 +174,8 @@
   - {lab: t, end: 3.747786}
   - {lab: '@', end: 3.855251}
   - {lab: _, end: 5.875}
+  start: 8.94
+  end: 14.82
 - prompt: poppy0007
   file: ./pavoque/StefanPoppy/wav/poppy0007.wav
   date: 2007-11-05T09:16:02+0100
@@ -198,6 +208,8 @@
   - {lab: t, end: 2.08043}
   - {lab: '@', end: 2.178843}
   - {lab: _, end: 3.415}
+  start: 14.82
+  end: 18.24
 - prompt: poppy0008
   file: ./pavoque/StefanPoppy/wav/poppy0008.wav
   date: 2007-11-05T09:16:08+0100
@@ -223,6 +235,8 @@
   - {lab: O, end: 1.885914}
   - {lab: n, end: 1.956666}
   - {lab: _, end: 2.815}
+  start: 18.24
+  end: 21.06
 - prompt: poppy0009
   file: ./pavoque/StefanPoppy/wav/poppy0009.wav
   date: 2007-11-05T09:16:12+0100
@@ -233,6 +247,8 @@
   - {lab: h, end: 0.46}
   - {lab: aI, end: 0.680693}
   - {lab: _, end: 1.675}
+  start: 21.06
+  end: 22.74
 - prompt: poppy0010
   file: ./pavoque/StefanPoppy/wav/poppy0010.wav
   date: 2007-11-05T09:16:16+0100
@@ -251,6 +267,8 @@
   - {lab: p, end: 0.965619}
   - {lab: 'i:', end: 1.049412}
   - {lab: _, end: 2.335}
+  start: 22.74
+  end: 25.08
 - prompt: poppy0011
   file: ./pavoque/StefanPoppy/wav/poppy0011.wav
   date: 2007-11-05T09:16:20+0100
@@ -265,6 +283,8 @@
   - {lab: t, end: 1.055}
   - {lab: s, end: 1.193129}
   - {lab: _, end: 2.155}
+  start: 25.08
+  end: 27.24
 - prompt: poppy0012
   file: ./pavoque/StefanPoppy/wav/poppy0012.wav
   date: 2007-11-05T09:16:28+0100
@@ -309,6 +329,8 @@
   - {lab: '@', end: 2.61}
   - {lab: n, end: 2.690676}
   - {lab: _, end: 4.255}
+  start: 27.24
+  end: 31.5
 - prompt: poppy0013
   file: ./pavoque/StefanPoppy/wav/poppy0013.wav
   date: 2007-11-05T09:16:34+0100
@@ -343,6 +365,8 @@
   - {lab: '@', end: 1.775709}
   - {lab: n, end: 1.877151}
   - {lab: _, end: 3.775}
+  start: 31.5
+  end: 35.28
 - prompt: poppy0014
   file: ./pavoque/StefanPoppy/wav/poppy0014.wav
   date: 2007-11-05T09:16:40+0100
@@ -376,6 +400,8 @@
   - {lab: k, end: 1.874993}
   - {lab: t, end: 1.998032}
   - {lab: _, end: 3.355}
+  start: 35.28
+  end: 38.64
 - prompt: poppy0015
   file: ./pavoque/StefanPoppy/wav/poppy0015.wav
   date: 2007-11-05T09:16:44+0100
@@ -395,6 +421,8 @@
   - {lab: d, end: 1.185242}
   - {lab: 'a:', end: 1.401991}
   - {lab: _, end: 2.455}
+  start: 38.64
+  end: 41.1
 - prompt: poppy0016
   file: ./pavoque/StefanPoppy/wav/poppy0016.wav
   date: 2007-11-05T09:16:50+0100
@@ -434,6 +462,8 @@
   - {lab: s, end: 2.327811}
   - {lab: t, end: 2.419748}
   - {lab: _, end: 3.895}
+  start: 41.1
+  end: 45.0
 - prompt: poppy0017
   file: ./pavoque/StefanPoppy/wav/poppy0017.wav
   date: 2007-11-05T09:16:58+0100
@@ -475,6 +505,8 @@
   - {lab: l, end: 2.622451}
   - {lab: t, end: 2.748058}
   - {lab: _, end: 4.075}
+  start: 45.0
+  end: 49.08
 - prompt: poppy0019
   file: ./pavoque/StefanPoppy/wav/poppy0019.wav
   date: 2007-11-05T09:17:12+0100
@@ -500,6 +532,8 @@
   - {lab: I, end: 1.7}
   - {lab: C, end: 1.922736}
   - {lab: _, end: 2.575}
+  start: 49.08
+  end: 51.66
 - prompt: poppy0023
   file: ./pavoque/StefanPoppy/wav/poppy0023.wav
   date: 2007-11-05T09:18:14+0100
@@ -545,6 +579,8 @@
   - {lab: '@', end: 2.743888}
   - {lab: n, end: 2.822319}
   - {lab: _, end: 4.375}
+  start: 51.66
+  end: 56.04
 - prompt: poppy0024
   file: ./pavoque/StefanPoppy/wav/poppy0024.wav
   date: 2007-11-05T09:19:02+0100
@@ -569,6 +605,8 @@
   - {lab: I, end: 1.9506}
   - {lab: C, end: 2.159427}
   - {lab: _, end: 2.935}
+  start: 56.04
+  end: 58.98
 - prompt: poppy0026
   file: ./pavoque/StefanPoppy/wav/poppy0026.wav
   date: 2007-11-05T09:19:30+0100
@@ -594,6 +632,8 @@
   - {lab: a, end: 1.915}
   - {lab: n, end: 2.01159}
   - {lab: _, end: 2.875}
+  start: 58.98
+  end: 61.86
 - prompt: poppy0028
   file: ./pavoque/StefanPoppy/wav/poppy0028.wav
   date: 2007-11-05T09:19:42+0100
@@ -625,6 +665,8 @@
   - {lab: '@', end: 1.75}
   - {lab: n, end: 1.906252}
   - {lab: _, end: 3.475}
+  start: 61.86
+  end: 65.34
 - prompt: poppy0029
   file: ./pavoque/StefanPoppy/wav/poppy0029.wav
   date: 2007-11-05T09:19:48+0100
@@ -644,6 +686,8 @@
   - {lab: aI, end: 1.695}
   - {lab: t, end: 1.8822}
   - {lab: _, end: 2.455}
+  start: 65.34
+  end: 67.8
 - prompt: poppy0030
   file: ./pavoque/StefanPoppy/wav/poppy0030.wav
   date: 2007-11-05T09:19:54+0100
@@ -674,6 +718,8 @@
   - {lab: d, end: 1.845}
   - {lab: '6', end: 2.015033}
   - {lab: _, end: 3.235}
+  start: 67.8
+  end: 71.04
 - prompt: poppy0031
   file: ./pavoque/StefanPoppy/wav/poppy0031.wav
   date: 2007-11-05T09:19:58+0100
@@ -702,6 +748,8 @@
   - {lab: I, end: 2.065}
   - {lab: C, end: 2.275}
   - {lab: _, end: 2.935}
+  start: 71.04
+  end: 73.98
 - prompt: poppy0032
   file: ./pavoque/StefanPoppy/wav/poppy0032.wav
   date: 2007-11-05T09:20:04+0100
@@ -719,6 +767,8 @@
   - {lab: x, end: 1.02}
   - {lab: t, end: 1.159807}
   - {lab: _, end: 2.215}
+  start: 73.98
+  end: 76.2
 - prompt: poppy0033
   file: ./pavoque/StefanPoppy/wav/poppy0033.wav
   date: 2007-11-05T09:20:08+0100
@@ -744,6 +794,8 @@
   - {lab: I, end: 1.640362}
   - {lab: S, end: 1.830495}
   - {lab: _, end: 2.695}
+  start: 76.2
+  end: 78.9
 - prompt: poppy0034
   file: ./pavoque/StefanPoppy/wav/poppy0034.wav
   date: 2007-11-05T09:20:12+0100
@@ -756,6 +808,8 @@
   - {lab: h, end: 0.500394}
   - {lab: 'u:', end: 1.050436}
   - {lab: _, end: 1.795}
+  start: 78.9
+  end: 80.7
 - prompt: poppy0035
   file: ./pavoque/StefanPoppy/wav/poppy0035.wav
   date: 2007-11-05T09:20:16+0100
@@ -771,6 +825,8 @@
   - {lab: I, end: 0.660802}
   - {lab: C, end: 0.815189}
   - {lab: _, end: 2.035}
+  start: 80.7
+  end: 82.74
 - prompt: poppy0036
   file: ./pavoque/StefanPoppy/wav/poppy0036.wav
   date: 2007-11-05T09:20:22+0100
@@ -791,6 +847,8 @@
   - {lab: 'e:', end: 0.93}
   - {lab: '6', end: 1.088493}
   - {lab: _, end: 2.455}
+  start: 82.74
+  end: 85.2
 - prompt: poppy0037
   file: ./pavoque/StefanPoppy/wav/poppy0037.wav
   date: 2007-11-05T09:20:26+0100
@@ -807,6 +865,8 @@
   - {lab: t, end: 1.01009}
   - {lab: '6', end: 1.202393}
   - {lab: _, end: 2.215}
+  start: 85.2
+  end: 87.42
 - prompt: poppy0038
   file: ./pavoque/StefanPoppy/wav/poppy0038.wav
   date: 2007-11-05T09:20:32+0100
@@ -840,6 +900,8 @@
   - {lab: I, end: 2.21}
   - {lab: C, end: 2.350023}
   - {lab: _, end: 3.535}
+  start: 87.42
+  end: 90.96
 - prompt: poppy0039
   file: ./pavoque/StefanPoppy/wav/poppy0039.wav
   date: 2007-11-05T09:20:54+0100
@@ -877,6 +939,8 @@
   - {lab: '@', end: 2.275}
   - {lab: n, end: 2.359896}
   - {lab: _, end: 3.775}
+  start: 90.96
+  end: 94.74
 - prompt: poppy0041
   file: ./pavoque/StefanPoppy/wav/poppy0041.wav
   date: 2007-11-05T09:21:04+0100
@@ -902,6 +966,8 @@
   - {lab: z, end: 1.445}
   - {lab: 'o:', end: 1.651116}
   - {lab: _, end: 2.875}
+  start: 94.74
+  end: 97.62
 - prompt: poppy0042
   file: ./pavoque/StefanPoppy/wav/poppy0042.wav
   date: 2007-11-05T09:21:18+0100
@@ -936,6 +1002,8 @@
   - {lab: '@', end: 2.183824}
   - {lab: n, end: 2.279826}
   - {lab: _, end: 3.715}
+  start: 97.62
+  end: 101.34
 - prompt: poppy0043
   file: ./pavoque/StefanPoppy/wav/poppy0043.wav
   date: 2007-11-05T09:21:24+0100
@@ -948,6 +1016,8 @@
   - {lab: z, end: 0.69}
   - {lab: 'o:', end: 0.945234}
   - {lab: _, end: 1.855}
+  start: 101.34
+  end: 103.2
 - prompt: poppy0044
   file: ./pavoque/StefanPoppy/wav/poppy0044.wav
   date: 2007-11-05T09:21:30+0100
@@ -988,6 +1058,8 @@
   - {lab: s, end: 3.422108}
   - {lab: t, end: 3.556999}
   - {lab: _, end: 4.135}
+  start: 103.2
+  end: 107.34
 - prompt: poppy0045
   file: ./pavoque/StefanPoppy/wav/poppy0045.wav
   date: 2007-11-05T09:21:50+0100
@@ -1040,6 +1112,8 @@
   - {lab: '@', end: 3.875}
   - {lab: n, end: 3.961396}
   - {lab: _, end: 5.215}
+  start: 107.34
+  end: 112.56
 - prompt: poppy0046
   file: ./pavoque/StefanPoppy/wav/poppy0046.wav
   date: 2007-11-05T09:21:54+0100
@@ -1050,6 +1124,8 @@
   - {lab: v, end: 0.620153}
   - {lab: 'i:', end: 0.86}
   - {lab: _, end: 1.735}
+  start: 112.56
+  end: 114.3
 - prompt: poppy0047
   file: ./pavoque/StefanPoppy/wav/poppy0047.wav
   date: 2007-11-05T09:22:00+0100
@@ -1085,6 +1161,8 @@
   - {lab: '@', end: 2.482062}
   - {lab: n, end: 2.547887}
   - {lab: _, end: 3.535}
+  start: 114.3
+  end: 117.84
 - prompt: poppy0048
   file: ./pavoque/StefanPoppy/wav/poppy0048.wav
   date: 2007-11-05T09:22:06+0100
@@ -1131,6 +1209,8 @@
   - {lab: '@', end: 2.46}
   - {lab: n, end: 2.529861}
   - {lab: _, end: 4.195}
+  start: 117.84
+  end: 122.04
 - prompt: poppy0051
   file: ./pavoque/StefanPoppy/wav/poppy0051.wav
   date: 2007-11-05T09:22:24+0100
@@ -1162,6 +1242,8 @@
   - {lab: j, end: 1.51}
   - {lab: a, end: 1.714956}
   - {lab: _, end: 3.175}
+  start: 122.04
+  end: 125.22
 - prompt: poppy0049
   file: ./pavoque/StefanPoppy/wav/poppy0049.wav
   date: 2007-11-05T09:22:44+0100
@@ -1191,6 +1273,8 @@
   - {lab: n, end: 1.612749}
   - {lab: s, end: 1.77429}
   - {lab: _, end: 3.235}
+  start: 125.22
+  end: 128.46
 - prompt: poppy0050
   file: ./pavoque/StefanPoppy/wav/poppy0050.wav
   date: 2007-11-05T09:24:06+0100
@@ -1217,6 +1301,8 @@
   - {lab: aI, end: 1.57}
   - {lab: k, end: 1.713648}
   - {lab: _, end: 3.055}
+  start: 128.46
+  end: 131.52
 - prompt: poppy0053
   file: ./pavoque/StefanPoppy/wav/poppy0053.wav
   date: 2007-11-05T09:25:20+0100
@@ -1247,6 +1333,8 @@
   - {lab: 'a:', end: 1.815}
   - {lab: s, end: 1.980004}
   - {lab: _, end: 3.295}
+  start: 131.52
+  end: 134.82
 - prompt: poppy0054
   file: ./pavoque/StefanPoppy/wav/poppy0054.wav
   date: 2007-11-05T09:25:28+0100
@@ -1292,6 +1380,8 @@
   - {lab: aI, end: 3.07}
   - {lab: n, end: 3.136968}
   - {lab: _, end: 4.615}
+  start: 134.82
+  end: 139.44
 - prompt: poppy0056
   file: ./pavoque/StefanPoppy/wav/poppy0056.wav
   date: 2007-11-05T09:25:40+0100
@@ -1326,6 +1416,8 @@
   - {lab: '@', end: 2.305}
   - {lab: n, end: 2.392594}
   - {lab: _, end: 3.775}
+  start: 139.44
+  end: 143.22
 - prompt: poppy0057
   file: ./pavoque/StefanPoppy/wav/poppy0057.wav
   date: 2007-11-05T09:25:46+0100
@@ -1360,6 +1452,8 @@
   - {lab: x, end: 2.205}
   - {lab: t, end: 2.326771}
   - {lab: _, end: 3.595}
+  start: 143.22
+  end: 146.82
 - prompt: poppy0058
   file: ./pavoque/StefanPoppy/wav/poppy0058.wav
   date: 2007-11-05T09:25:52+0100
@@ -1400,6 +1494,8 @@
   - {lab: s, end: 2.406957}
   - {lab: t, end: 2.442367}
   - {lab: _, end: 4.135}
+  start: 146.82
+  end: 150.96
 - prompt: poppy0059
   file: ./pavoque/StefanPoppy/wav/poppy0059.wav
   date: 2007-11-05T09:26:00+0100
@@ -1449,6 +1545,8 @@
   - {lab: s, end: 4.04}
   - {lab: t, end: 4.162654}
   - {lab: _, end: 4.675}
+  start: 150.96
+  end: 155.64
 - prompt: poppy0060
   file: ./pavoque/StefanPoppy/wav/poppy0060.wav
   date: 2007-11-05T09:26:06+0100
@@ -1477,6 +1575,8 @@
   - {lab: '@', end: 2.66}
   - {lab: n, end: 2.782801}
   - {lab: _, end: 3.235}
+  start: 155.64
+  end: 158.88
 - prompt: m0001
   file: ./pavoque/StefanPoppy/wav/m0001.wav
   date: 2007-11-05T09:27:40+0100
@@ -1511,6 +1611,8 @@
   - {lab: '@', end: 2.705}
   - {lab: t, end: 2.843048}
   - {lab: _, end: 4.215}
+  start: 158.88
+  end: 163.1
 - prompt: m0004
   file: ./pavoque/StefanPoppy/wav/m0004.wav
   date: 2007-11-05T09:28:24+0100
@@ -1538,6 +1640,8 @@
   - {lab: U, end: 2.12999}
   - {lab: l, end: 2.331733}
   - {lab: _, end: 3.555}
+  start: 163.1
+  end: 166.66
 - prompt: m0005
   file: ./pavoque/StefanPoppy/wav/m0005.wav
   date: 2007-11-05T09:28:30+0100
@@ -1571,6 +1675,8 @@
   - {lab: a, end: 2.495}
   - {lab: n, end: 2.603442}
   - {lab: _, end: 3.735}
+  start: 166.66
+  end: 170.4
 - prompt: m0006
   file: ./pavoque/StefanPoppy/wav/m0006.wav
   date: 2007-11-05T09:28:38+0100
@@ -1608,6 +1714,8 @@
   - {lab: n, end: 2.601492}
   - {lab: s, end: 2.84387}
   - {lab: _, end: 4.215}
+  start: 170.4
+  end: 174.62
 - prompt: m0007
   file: ./pavoque/StefanPoppy/wav/m0007.wav
   date: 2007-11-05T09:28:44+0100
@@ -1632,6 +1740,8 @@
   - {lab: z, end: 2.28}
   - {lab: 'e:', end: 2.548292}
   - {lab: _, end: 3.375}
+  start: 174.62
+  end: 178.0
 - prompt: m0008
   file: ./pavoque/StefanPoppy/wav/m0008.wav
   date: 2007-11-05T09:28:52+0100
@@ -1675,6 +1785,8 @@
   - {lab: t, end: 2.865354}
   - {lab: '@', end: 3.005}
   - {lab: _, end: 4.635}
+  start: 178.0
+  end: 182.64
 - prompt: m0009
   file: ./pavoque/StefanPoppy/wav/m0009.wav
   date: 2007-11-05T09:29:16+0100
@@ -1733,6 +1845,8 @@
   - {lab: m, end: 4.015}
   - {lab: a, end: 4.248148}
   - {lab: _, end: 5.655}
+  start: 182.64
+  end: 188.3
 - prompt: m0010
   file: ./pavoque/StefanPoppy/wav/m0010.wav
   date: 2007-11-05T09:29:22+0100
@@ -1779,6 +1893,8 @@
   - {lab: R, end: 3.675}
   - {lab: aI, end: 3.968381}
   - {lab: _, end: 4.635}
+  start: 188.3
+  end: 192.94
 - prompt: m0011
   file: ./pavoque/StefanPoppy/wav/m0011.wav
   date: 2007-11-05T09:29:30+0100
@@ -1811,6 +1927,8 @@
   - {lab: Y, end: 2.432102}
   - {lab: k, end: 2.59566}
   - {lab: _, end: 3.795}
+  start: 192.94
+  end: 196.74
 - prompt: m0012
   file: ./pavoque/StefanPoppy/wav/m0012.wav
   date: 2007-11-05T09:29:36+0100
@@ -1843,6 +1961,8 @@
   - {lab: I, end: 2.66}
   - {lab: S, end: 2.92}
   - {lab: _, end: 3.915}
+  start: 196.74
+  end: 200.66
 - prompt: m0013
   file: ./pavoque/StefanPoppy/wav/m0013.wav
   date: 2007-11-05T09:29:46+0100
@@ -1895,6 +2015,8 @@
   - {lab: '6', end: 3.615}
   - {lab: n, end: 3.693983}
   - {lab: _, end: 5.595}
+  start: 200.66
+  end: 206.26
 - prompt: m0014
   file: ./pavoque/StefanPoppy/wav/m0014.wav
   date: 2007-11-05T09:29:52+0100
@@ -1928,6 +2050,8 @@
   - {lab: aU, end: 2.89}
   - {lab: s, end: 3.183478}
   - {lab: _, end: 3.915}
+  start: 206.26
+  end: 210.18
 - prompt: m0015
   file: ./pavoque/StefanPoppy/wav/m0015.wav
   date: 2007-11-05T09:30:00+0100
@@ -1961,6 +2085,8 @@
   - {lab: 'i:', end: 2.61}
   - {lab: f, end: 2.754282}
   - {lab: _, end: 4.155}
+  start: 210.18
+  end: 214.34
 - prompt: m0016
   file: ./pavoque/StefanPoppy/wav/m0016.wav
   date: 2007-11-05T09:30:06+0100
@@ -1991,6 +2117,8 @@
   - {lab: '@', end: 3.18}
   - {lab: n, end: 3.270199}
   - {lab: _, end: 4.275}
+  start: 214.34
+  end: 218.62
 - prompt: m0018
   file: ./pavoque/StefanPoppy/wav/m0018.wav
   date: 2007-11-05T09:30:20+0100
@@ -2019,6 +2147,8 @@
   - {lab: t, end: 2.21}
   - {lab: '@', end: 2.375}
   - {lab: _, end: 3.435}
+  start: 218.62
+  end: 222.06
 - prompt: m0019
   file: ./pavoque/StefanPoppy/wav/m0019.wav
   date: 2007-11-05T09:30:28+0100
@@ -2056,6 +2186,8 @@
   - {lab: '@', end: 2.395}
   - {lab: n, end: 2.491009}
   - {lab: _, end: 4.215}
+  start: 222.06
+  end: 226.28
 - prompt: m0020
   file: ./pavoque/StefanPoppy/wav/m0020.wav
   date: 2007-11-05T09:30:34+0100
@@ -2088,6 +2220,8 @@
   - {lab: '@', end: 1.925}
   - {lab: t, end: 2.05}
   - {lab: _, end: 3.915}
+  start: 226.28
+  end: 230.2
 - prompt: m0021
   file: ./pavoque/StefanPoppy/wav/m0021.wav
   date: 2007-11-05T09:30:40+0100
@@ -2115,6 +2249,8 @@
   - {lab: 'y:', end: 2.065}
   - {lab: t, end: 2.3}
   - {lab: _, end: 3.615}
+  start: 230.2
+  end: 233.82
 - prompt: m0022
   file: ./pavoque/StefanPoppy/wav/m0022.wav
   date: 2007-11-05T09:30:48+0100
@@ -2162,6 +2298,8 @@
   - {lab: R, end: 3.62062}
   - {lab: 'i:', end: 3.841254}
   - {lab: _, end: 5.295}
+  start: 233.82
+  end: 239.12
 - prompt: m0023
   file: ./pavoque/StefanPoppy/wav/m0023.wav
   date: 2007-11-05T09:31:10+0100
@@ -2199,6 +2337,8 @@
   - {lab: '@', end: 2.991406}
   - {lab: _, end: 3.067655}
   - {lab: '', end: 4.215}
+  start: 239.12
+  end: 243.34
 - prompt: m0024
   file: ./pavoque/StefanPoppy/wav/m0024.wav
   date: 2007-11-05T09:31:16+0100
@@ -2227,6 +2367,8 @@
   - {lab: aI, end: 2.655}
   - {lab: m, end: 2.806528}
   - {lab: _, end: 3.735}
+  start: 243.34
+  end: 247.08
 - prompt: m0025
   file: ./pavoque/StefanPoppy/wav/m0025.wav
   date: 2007-11-05T09:31:22+0100
@@ -2257,6 +2399,8 @@
   - {lab: n, end: 2.305}
   - {lab: d, end: 2.415}
   - {lab: _, end: 3.675}
+  start: 247.08
+  end: 250.76
 - prompt: m0027
   file: ./pavoque/StefanPoppy/wav/m0027.wav
   date: 2007-11-05T09:31:48+0100
@@ -2293,6 +2437,8 @@
   - {lab: n, end: 2.372176}
   - {lab: t, end: 2.52}
   - {lab: _, end: 4.215}
+  start: 250.76
+  end: 254.98
 - prompt: m0028
   file: ./pavoque/StefanPoppy/wav/m0028.wav
   date: 2007-11-05T09:31:54+0100
@@ -2324,6 +2470,8 @@
   - {lab: '@', end: 2.329207}
   - {lab: l, end: 2.506035}
   - {lab: _, end: 3.735}
+  start: 254.98
+  end: 258.72
 - prompt: m0030
   file: ./pavoque/StefanPoppy/wav/m0030.wav
   date: 2007-11-05T09:32:12+0100
@@ -2387,6 +2535,8 @@
   - {lab: '@', end: 5.24}
   - {lab: s, end: 5.460772}
   - {lab: _, end: 6.855}
+  start: 258.72
+  end: 265.58
 - prompt: m0031
   file: ./pavoque/StefanPoppy/wav/m0031.wav
   date: 2007-11-05T09:32:46+0100
@@ -2430,6 +2580,8 @@
   - {lab: '6', end: 2.725}
   - {lab: k, end: 2.855468}
   - {lab: _, end: 4.635}
+  start: 265.58
+  end: 270.22
 - prompt: m0032
   file: ./pavoque/StefanPoppy/wav/m0032.wav
   date: 2007-11-05T09:32:56+0100
@@ -2495,6 +2647,8 @@
   - {lab: k, end: 5.239646}
   - {lab: t, end: 5.38869}
   - {lab: _, end: 6.495}
+  start: 270.22
+  end: 276.72
 - prompt: m0034
   file: ./pavoque/StefanPoppy/wav/m0034.wav
   date: 2007-11-05T09:33:12+0100
@@ -2540,6 +2694,8 @@
   - {lab: '@', end: 3.097723}
   - {lab: n, end: 3.196296}
   - {lab: _, end: 5.295}
+  start: 276.72
+  end: 282.02
 - prompt: m0035
   file: ./pavoque/StefanPoppy/wav/m0035.wav
   date: 2007-11-05T09:33:18+0100
@@ -2574,6 +2730,8 @@
   - {lab: aI, end: 2.77}
   - {lab: t, end: 3.007794}
   - {lab: _, end: 4.335}
+  start: 282.02
+  end: 286.36
 - prompt: m0037
   file: ./pavoque/StefanPoppy/wav/m0037.wav
   date: 2007-11-05T09:33:32+0100
@@ -2603,6 +2761,8 @@
   - {lab: '@', end: 2.66}
   - {lab: n, end: 2.778517}
   - {lab: _, end: 3.615}
+  start: 286.36
+  end: 289.98
 - prompt: m0038
   file: ./pavoque/StefanPoppy/wav/m0038.wav
   date: 2007-11-05T09:33:40+0100
@@ -2634,6 +2794,8 @@
   - {lab: b, end: 2.425}
   - {lab: '@', end: 2.6}
   - {lab: _, end: 4.035}
+  start: 289.98
+  end: 294.02
 - prompt: m0039
   file: ./pavoque/StefanPoppy/wav/m0039.wav
   date: 2007-11-05T09:33:46+0100
@@ -2670,6 +2832,8 @@
   - {lab: n, end: 2.565}
   - {lab: OY, end: 2.818338}
   - {lab: _, end: 4.335}
+  start: 294.02
+  end: 298.36
 - prompt: m0040
   file: ./pavoque/StefanPoppy/wav/m0040.wav
   date: 2007-11-05T09:33:54+0100
@@ -2704,6 +2868,8 @@
   - {lab: '@', end: 2.82}
   - {lab: n, end: 2.917968}
   - {lab: _, end: 3.975}
+  start: 298.36
+  end: 302.34
 - prompt: m0041
   file: ./pavoque/StefanPoppy/wav/m0041.wav
   date: 2007-11-05T09:34:00+0100
@@ -2741,6 +2907,8 @@
   - {lab: n, end: 2.928636}
   - {lab: t, end: 3.059183}
   - {lab: _, end: 4.215}
+  start: 302.34
+  end: 306.56
 - prompt: m0042
   file: ./pavoque/StefanPoppy/wav/m0042.wav
   date: 2007-11-05T09:34:08+0100
@@ -2777,6 +2945,8 @@
   - {lab: O, end: 3.045}
   - {lab: n, end: 3.111704}
   - {lab: _, end: 3.975}
+  start: 306.56
+  end: 310.54
 - prompt: m0043
   file: ./pavoque/StefanPoppy/wav/m0043.wav
   date: 2007-11-05T09:34:14+0100
@@ -2809,6 +2979,8 @@
   - {lab: '@', end: 2.32}
   - {lab: n, end: 2.441945}
   - {lab: _, end: 4.155}
+  start: 310.54
+  end: 314.7
 - prompt: m0044
   file: ./pavoque/StefanPoppy/wav/m0044.wav
   date: 2007-11-05T09:34:22+0100
@@ -2839,6 +3011,8 @@
   - {lab: z, end: 2.205}
   - {lab: '@', end: 2.341687}
   - {lab: _, end: 3.495}
+  start: 314.7
+  end: 318.2
 - prompt: m0045
   file: ./pavoque/StefanPoppy/wav/m0045.wav
   date: 2007-11-05T09:34:28+0100
@@ -2870,6 +3044,8 @@
   - {lab: I, end: 2.315}
   - {lab: t, end: 2.460466}
   - {lab: _, end: 3.615}
+  start: 318.2
+  end: 321.82
 - prompt: m0046
   file: ./pavoque/StefanPoppy/wav/m0046.wav
   date: 2007-11-05T09:34:34+0100
@@ -2897,6 +3073,8 @@
   - {lab: a, end: 1.885}
   - {lab: n, end: 2.014752}
   - {lab: _, end: 3.495}
+  start: 321.82
+  end: 325.32
 - prompt: m0048
   file: ./pavoque/StefanPoppy/wav/m0048.wav
   date: 2007-11-05T09:34:50+0100
@@ -2955,6 +3133,8 @@
   - {lab: '@', end: 4.065}
   - {lab: n, end: 4.130811}
   - {lab: _, end: 5.715}
+  start: 325.32
+  end: 331.04
 - prompt: m0049
   file: ./pavoque/StefanPoppy/wav/m0049.wav
   date: 2007-11-05T09:34:56+0100
@@ -2982,6 +3162,8 @@
   - {lab: x, end: 2.27026}
   - {lab: ts, end: 2.5}
   - {lab: _, end: 3.555}
+  start: 331.04
+  end: 334.6
 - prompt: m0050
   file: ./pavoque/StefanPoppy/wav/m0050.wav
   date: 2007-11-05T09:35:04+0100
@@ -3016,6 +3198,8 @@
   - {lab: 'o:', end: 3.128847}
   - {lab: '6', end: 3.23998}
   - {lab: _, end: 4.395}
+  start: 334.6
+  end: 339.0
 - prompt: m0051
   file: ./pavoque/StefanPoppy/wav/m0051.wav
   date: 2007-11-05T09:35:10+0100
@@ -3046,6 +3230,8 @@
   - {lab: 'a:', end: 2.92}
   - {lab: l, end: 3.042549}
   - {lab: _, end: 3.555}
+  start: 339.0
+  end: 342.56
 - prompt: m0052
   file: ./pavoque/StefanPoppy/wav/m0052.wav
   date: 2007-11-05T09:35:30+0100
@@ -3080,6 +3266,8 @@
   - {lab: 'e:', end: 2.75}
   - {lab: '6', end: 2.955}
   - {lab: _, end: 4.035}
+  start: 342.56
+  end: 346.6
 - prompt: m0053
   file: ./pavoque/StefanPoppy/wav/m0053.wav
   date: 2007-11-05T09:35:38+0100
@@ -3111,6 +3299,8 @@
   - {lab: l, end: 2.125}
   - {lab: 'o:', end: 2.264485}
   - {lab: _, end: 3.735}
+  start: 346.6
+  end: 350.34
 - prompt: m0054
   file: ./pavoque/StefanPoppy/wav/m0054.wav
   date: 2007-11-05T09:35:44+0100
@@ -3147,6 +3337,8 @@
   - {lab: EI, end: 2.68}
   - {lab: s, end: 2.868447}
   - {lab: _, end: 4.275}
+  start: 350.34
+  end: 354.62
 - prompt: m0055
   file: ./pavoque/StefanPoppy/wav/m0055.wav
   date: 2007-11-05T09:35:54+0100
@@ -3205,6 +3397,8 @@
   - {lab: U, end: 4.13}
   - {lab: N, end: 4.233575}
   - {lab: _, end: 6.075}
+  start: 354.62
+  end: 360.7
 - prompt: m0056
   file: ./pavoque/StefanPoppy/wav/m0056.wav
   date: 2007-11-05T09:36:02+0100
@@ -3249,6 +3443,8 @@
   - {lab: m, end: 3.375}
   - {lab: 'a:', end: 3.56}
   - {lab: _, end: 5.175}
+  start: 360.7
+  end: 365.88
 - prompt: m0057
   file: ./pavoque/StefanPoppy/wav/m0057.wav
   date: 2007-11-05T09:36:10+0100
@@ -3287,6 +3483,8 @@
   - {lab: aU, end: 2.745}
   - {lab: s, end: 2.971845}
   - {lab: _, end: 4.575}
+  start: 365.88
+  end: 370.46
 - prompt: m0058
   file: ./pavoque/StefanPoppy/wav/m0058.wav
   date: 2007-11-05T09:36:26+0100
@@ -3326,6 +3524,8 @@
   - {lab: k, end: 2.87}
   - {lab: t, end: 3.037444}
   - {lab: _, end: 4.335}
+  start: 370.46
+  end: 374.8
 - prompt: m0059
   file: ./pavoque/StefanPoppy/wav/m0059.wav
   date: 2007-11-05T09:36:34+0100
@@ -3359,6 +3559,8 @@
   - {lab: l, end: 3.187622}
   - {lab: ts, end: 3.445}
   - {lab: _, end: 4.335}
+  start: 374.8
+  end: 379.14
 - prompt: m0060
   file: ./pavoque/StefanPoppy/wav/m0060.wav
   date: 2007-11-05T09:36:40+0100
@@ -3391,6 +3593,8 @@
   - {lab: a, end: 3.02}
   - {lab: n, end: 3.131016}
   - {lab: _, end: 3.915}
+  start: 379.14
+  end: 383.06
 - prompt: m0061
   file: ./pavoque/StefanPoppy/wav/m0061.wav
   date: 2007-11-05T09:36:48+0100
@@ -3422,6 +3626,8 @@
   - {lab: '@', end: 2.76}
   - {lab: t, end: 2.903771}
   - {lab: _, end: 3.795}
+  start: 383.06
+  end: 386.86
 - prompt: m0062
   file: ./pavoque/StefanPoppy/wav/m0062.wav
   date: 2007-11-05T09:37:08+0100
@@ -3455,6 +3661,8 @@
   - {lab: I, end: 3.088738}
   - {lab: S, end: 3.33}
   - {lab: _, end: 4.155}
+  start: 386.86
+  end: 391.02
 - prompt: m0063
   file: ./pavoque/StefanPoppy/wav/m0063.wav
   date: 2007-11-05T09:37:16+0100
@@ -3495,6 +3703,8 @@
   - {lab: I, end: 3.881696}
   - {lab: l, end: 3.996101}
   - {lab: _, end: 4.575}
+  start: 391.02
+  end: 395.6
 - prompt: m0064
   file: ./pavoque/StefanPoppy/wav/m0064.wav
   date: 2007-11-05T09:37:24+0100
@@ -3541,6 +3751,8 @@
   - {lab: '@', end: 3.685}
   - {lab: n, end: 3.800586}
   - {lab: _, end: 4.695}
+  start: 395.6
+  end: 400.3
 - prompt: m0065
   file: ./pavoque/StefanPoppy/wav/m0065.wav
   date: 2007-11-05T09:37:30+0100
@@ -3568,6 +3780,8 @@
   - {lab: 'e:', end: 2.19}
   - {lab: t, end: 2.413795}
   - {lab: _, end: 3.255}
+  start: 400.3
+  end: 403.56
 - prompt: m0066
   file: ./pavoque/StefanPoppy/wav/m0066.wav
   date: 2007-11-05T09:37:40+0100
@@ -3642,6 +3856,8 @@
   - {lab: '@', end: 5.42}
   - {lab: n, end: 5.549877}
   - {lab: _, end: 7.275}
+  start: 403.56
+  end: 410.84
 - prompt: m0068
   file: ./pavoque/StefanPoppy/wav/m0068.wav
   date: 2007-11-05T09:38:14+0100
@@ -3690,6 +3906,8 @@
   - {lab: '2:', end: 4.215}
   - {lab: n, end: 4.313186}
   - {lab: _, end: 4.755}
+  start: 410.84
+  end: 415.6
 - prompt: m0069
   file: ./pavoque/StefanPoppy/wav/m0069.wav
   date: 2007-11-05T09:38:36+0100
@@ -3747,6 +3965,8 @@
   - {lab: t, end: 4.33}
   - {lab: '6', end: 4.49}
   - {lab: _, end: 6.435}
+  start: 415.6
+  end: 422.04
 - prompt: m0070
   file: ./pavoque/StefanPoppy/wav/m0070.wav
   date: 2007-11-05T09:39:18+0100
@@ -3800,6 +4020,8 @@
   - {lab: 'u:', end: 4.355}
   - {lab: x, end: 4.531402}
   - {lab: _, end: 5.835}
+  start: 422.04
+  end: 427.88
 - prompt: m0071
   file: ./pavoque/StefanPoppy/wav/m0071.wav
   date: 2007-11-05T09:39:26+0100
@@ -3836,6 +4058,8 @@
   - {lab: a, end: 2.98}
   - {lab: n, end: 3.084808}
   - {lab: _, end: 4.335}
+  start: 427.88
+  end: 432.22
 - prompt: m0072
   file: ./pavoque/StefanPoppy/wav/m0072.wav
   date: 2007-11-05T09:39:34+0100
@@ -3871,6 +4095,8 @@
   - {lab: aU, end: 2.975}
   - {lab: s, end: 3.154997}
   - {lab: _, end: 4.155}
+  start: 432.22
+  end: 436.38
 - prompt: m0073
   file: ./pavoque/StefanPoppy/wav/m0073.wav
   date: 2007-11-05T09:39:40+0100
@@ -3914,6 +4140,8 @@
   - {lab: 'o:', end: 3.7}
   - {lab: l, end: 3.813748}
   - {lab: _, end: 4.755}
+  start: 436.38
+  end: 441.14
 - prompt: m0074
   file: ./pavoque/StefanPoppy/wav/m0074.wav
   date: 2007-11-05T09:39:48+0100
@@ -3950,6 +4178,8 @@
   - {lab: '@', end: 2.898106}
   - {lab: n, end: 3.029838}
   - {lab: _, end: 4.275}
+  start: 441.14
+  end: 445.42
 - prompt: m0075
   file: ./pavoque/StefanPoppy/wav/m0075.wav
   date: 2007-11-05T09:39:56+0100
@@ -3986,6 +4216,8 @@
   - {lab: n, end: 2.811825}
   - {lab: t, end: 2.937394}
   - {lab: _, end: 4.275}
+  start: 445.42
+  end: 449.7
 - prompt: m0076
   file: ./pavoque/StefanPoppy/wav/m0076.wav
   date: 2007-11-05T09:40:18+0100
@@ -4030,6 +4262,8 @@
   - {lab: l, end: 3.375}
   - {lab: t, end: 3.527107}
   - {lab: _, end: 4.995}
+  start: 449.7
+  end: 454.7
 - prompt: m0078
   file: ./pavoque/StefanPoppy/wav/m0078.wav
   date: 2007-11-05T09:40:34+0100
@@ -4085,6 +4319,8 @@
   - {lab: '@', end: 3.716192}
   - {lab: n, end: 3.79399}
   - {lab: _, end: 5.655}
+  start: 454.7
+  end: 460.36
 - prompt: m0079
   file: ./pavoque/StefanPoppy/wav/m0079.wav
   date: 2007-11-05T09:40:52+0100
@@ -4119,6 +4355,8 @@
   - {lab: n, end: 2.465}
   - {lab: t, end: 2.59}
   - {lab: _, end: 3.735}
+  start: 460.36
+  end: 464.1
 - prompt: m0080
   file: ./pavoque/StefanPoppy/wav/m0080.wav
   date: 2007-11-05T09:40:58+0100
@@ -4152,6 +4390,8 @@
   - {lab: I, end: 2.285}
   - {lab: C, end: 2.5}
   - {lab: _, end: 3.915}
+  start: 464.1
+  end: 468.02
 - prompt: m0081
   file: ./pavoque/StefanPoppy/wav/m0081.wav
   date: 2007-11-05T09:41:06+0100
@@ -4179,6 +4419,8 @@
   - {lab: '@', end: 2.043983}
   - {lab: l, end: 2.271991}
   - {lab: _, end: 3.675}
+  start: 468.02
+  end: 471.7
 - prompt: m0082
   file: ./pavoque/StefanPoppy/wav/m0082.wav
   date: 2007-11-05T09:41:12+0100
@@ -4205,6 +4447,8 @@
   - {lab: '6', end: 2.19}
   - {lab: C, end: 2.445274}
   - {lab: _, end: 3.495}
+  start: 471.7
+  end: 475.2
 - prompt: m0083
   file: ./pavoque/StefanPoppy/wav/m0083.wav
   date: 2007-11-05T09:41:18+0100
@@ -4235,6 +4479,8 @@
   - {lab: m, end: 2.34}
   - {lab: 'i:', end: 2.55}
   - {lab: _, end: 3.735}
+  start: 475.2
+  end: 478.94
 - prompt: m0084
   file: ./pavoque/StefanPoppy/wav/m0084.wav
   date: 2007-11-05T09:41:28+0100
@@ -4293,6 +4539,8 @@
   - {lab: I, end: 4.597106}
   - {lab: s, end: 4.811964}
   - {lab: _, end: 5.715}
+  start: 478.94
+  end: 484.66
 - prompt: m0085
   file: ./pavoque/StefanPoppy/wav/m0085.wav
   date: 2007-11-05T09:41:34+0100
@@ -4334,6 +4582,8 @@
   - {lab: '@', end: 2.942114}
   - {lab: n, end: 3.0484}
   - {lab: _, end: 4.635}
+  start: 484.66
+  end: 489.3
 - prompt: m0086
   file: ./pavoque/StefanPoppy/wav/m0086.wav
   date: 2007-11-05T09:41:54+0100
@@ -4365,6 +4615,8 @@
   - {lab: g, end: 2.56685}
   - {lab: 'i:', end: 2.8}
   - {lab: _, end: 3.555}
+  start: 489.3
+  end: 492.86
 - prompt: m0087
   file: ./pavoque/StefanPoppy/wav/m0087.wav
   date: 2007-11-05T09:42:00+0100
@@ -4397,6 +4649,8 @@
   - {lab: '@', end: 2.887651}
   - {lab: n, end: 3.014775}
   - {lab: _, end: 4.155}
+  start: 492.86
+  end: 497.02
 - prompt: m0088
   file: ./pavoque/StefanPoppy/wav/m0088.wav
   date: 2007-11-05T09:42:08+0100
@@ -4425,6 +4679,8 @@
   - {lab: I, end: 2.48}
   - {lab: C, end: 2.755}
   - {lab: _, end: 3.735}
+  start: 497.02
+  end: 500.76
 - prompt: m0089
   file: ./pavoque/StefanPoppy/wav/m0089.wav
   date: 2007-11-05T09:42:14+0100
@@ -4459,6 +4715,8 @@
   - {lab: aI, end: 2.77}
   - {lab: n, end: 2.907124}
   - {lab: _, end: 4.035}
+  start: 500.76
+  end: 504.8
 - prompt: m0090
   file: ./pavoque/StefanPoppy/wav/m0090.wav
   date: 2007-11-05T09:42:22+0100
@@ -4497,6 +4755,8 @@
   - {lab: x, end: 2.745}
   - {lab: t, end: 2.8964}
   - {lab: _, end: 4.395}
+  start: 504.8
+  end: 509.2
 - prompt: m0091
   file: ./pavoque/StefanPoppy/wav/m0091.wav
   date: 2007-11-05T09:42:28+0100
@@ -4534,6 +4794,8 @@
   - {lab: '6', end: 2.82}
   - {lab: t, end: 2.995}
   - {lab: _, end: 4.395}
+  start: 509.2
+  end: 513.6
 - prompt: m0092
   file: ./pavoque/StefanPoppy/wav/m0092.wav
   date: 2007-11-05T09:42:36+0100
@@ -4564,6 +4826,8 @@
   - {lab: 'e:', end: 2.155}
   - {lab: l, end: 2.26422}
   - {lab: _, end: 3.915}
+  start: 513.6
+  end: 517.52
 - prompt: m0093
   file: ./pavoque/StefanPoppy/wav/m0093.wav
   date: 2007-11-05T09:43:04+0100
@@ -4633,6 +4897,8 @@
   - {lab: '@', end: 4.870663}
   - {lab: n, end: 4.933818}
   - {lab: _, end: 6.615}
+  start: 517.52
+  end: 524.14
 - prompt: m0094
   file: ./pavoque/StefanPoppy/wav/m0094.wav
   date: 2007-11-05T09:43:10+0100
@@ -4662,6 +4928,8 @@
   - {lab: '@', end: 2.195}
   - {lab: n, end: 2.295862}
   - {lab: _, end: 3.495}
+  start: 524.14
+  end: 527.64
 - prompt: m0095
   file: ./pavoque/StefanPoppy/wav/m0095.wav
   date: 2007-11-05T09:43:18+0100
@@ -4711,6 +4979,8 @@
   - {lab: '@', end: 3.695}
   - {lab: n, end: 3.772099}
   - {lab: _, end: 5.355}
+  start: 527.64
+  end: 533.0
 - prompt: m0096
   file: ./pavoque/StefanPoppy/wav/m0096.wav
   date: 2007-11-05T09:43:28+0100
@@ -4760,6 +5030,8 @@
   - {lab: E, end: 3.86}
   - {lab: f, end: 4.001621}
   - {lab: _, end: 5.355}
+  start: 533.0
+  end: 538.36
 - prompt: m0097
   file: ./pavoque/StefanPoppy/wav/m0097.wav
   date: 2007-11-05T09:43:34+0100
@@ -4791,6 +5063,8 @@
   - {lab: U, end: 2.88}
   - {lab: N, end: 2.999622}
   - {lab: _, end: 3.975}
+  start: 538.36
+  end: 542.34
 - prompt: m0098
   file: ./pavoque/StefanPoppy/wav/m0098.wav
   date: 2007-11-05T09:43:40+0100
@@ -4817,6 +5091,8 @@
   - {lab: OY, end: 2.29}
   - {lab: tS, end: 2.645}
   - {lab: _, end: 3.675}
+  start: 542.34
+  end: 546.02
 - prompt: m0099
   file: ./pavoque/StefanPoppy/wav/m0099.wav
   date: 2007-11-05T09:43:48+0100
@@ -4854,6 +5130,8 @@
   - {lab: C, end: 2.935}
   - {lab: t, end: 3.075}
   - {lab: _, end: 4.335}
+  start: 546.02
+  end: 550.36
 - prompt: m0100
   file: ./pavoque/StefanPoppy/wav/m0100.wav
   date: 2007-11-05T09:43:54+0100
@@ -4881,6 +5159,8 @@
   - {lab: p, end: 2.355}
   - {lab: OY, end: 2.665}
   - {lab: _, end: 3.495}
+  start: 550.36
+  end: 553.86
 - prompt: m0101
   file: ./pavoque/StefanPoppy/wav/m0101.wav
   date: 2007-11-05T09:44:02+0100
@@ -4909,6 +5189,8 @@
   - {lab: 'y:', end: 2.11}
   - {lab: '6', end: 2.202279}
   - {lab: _, end: 3.675}
+  start: 553.86
+  end: 557.54
 - prompt: m0102
   file: ./pavoque/StefanPoppy/wav/m0102.wav
   date: 2007-11-05T09:44:08+0100
@@ -4937,6 +5219,8 @@
   - {lab: O, end: 1.87}
   - {lab: N, end: 1.994727}
   - {lab: _, end: 3.495}
+  start: 557.54
+  end: 561.04
 - prompt: m0103
   file: ./pavoque/StefanPoppy/wav/m0103.wav
   date: 2007-11-05T09:44:34+0100
@@ -4971,6 +5255,8 @@
   - {lab: 'E:', end: 2.745}
   - {lab: '6', end: 2.933692}
   - {lab: _, end: 4.035}
+  start: 561.04
+  end: 565.08
 - prompt: m0104
   file: ./pavoque/StefanPoppy/wav/m0104.wav
   date: 2007-11-05T09:44:42+0100
@@ -5017,6 +5303,8 @@
   - {lab: a, end: 3.565}
   - {lab: N, end: 3.658773}
   - {lab: _, end: 5.055}
+  start: 565.08
+  end: 570.14
 - prompt: m0105
   file: ./pavoque/StefanPoppy/wav/m0105.wav
   date: 2007-11-05T09:44:50+0100
@@ -5058,6 +5346,8 @@
   - {lab: n, end: 3.765}
   - {lab: t, end: 3.893295}
   - {lab: _, end: 4.635}
+  start: 570.14
+  end: 574.78
 - prompt: m0106
   file: ./pavoque/StefanPoppy/wav/m0106.wav
   date: 2007-11-05T09:44:56+0100
@@ -5086,6 +5376,8 @@
   - {lab: '@', end: 2.305}
   - {lab: n, end: 2.432213}
   - {lab: _, end: 3.675}
+  start: 574.78
+  end: 578.46
 - prompt: m0108
   file: ./pavoque/StefanPoppy/wav/m0108.wav
   date: 2007-11-05T09:46:38+0100
@@ -5127,6 +5419,8 @@
   - {lab: '9', end: 3.225}
   - {lab: l, end: 3.381699}
   - {lab: _, end: 4.515}
+  start: 578.46
+  end: 582.98
 - prompt: m0109
   file: ./pavoque/StefanPoppy/wav/m0109.wav
   date: 2007-11-05T09:46:46+0100
@@ -5178,6 +5472,8 @@
   - {lab: '6', end: 3.695}
   - {lab: s, end: 3.840316}
   - {lab: _, end: 5.535}
+  start: 582.98
+  end: 588.52
 - prompt: m0110
   file: ./pavoque/StefanPoppy/wav/m0110.wav
   date: 2007-11-05T09:46:54+0100
@@ -5217,6 +5513,8 @@
   - {lab: O, end: 3.385}
   - {lab: l, end: 3.54}
   - {lab: _, end: 4.575}
+  start: 588.52
+  end: 593.1
 - prompt: m0111
   file: ./pavoque/StefanPoppy/wav/m0111.wav
   date: 2007-11-05T09:47:16+0100
@@ -5267,6 +5565,8 @@
   - {lab: '@', end: 3.811626}
   - {lab: n, end: 3.907156}
   - {lab: _, end: 5.175}
+  start: 593.1
+  end: 598.28
 - prompt: m0112
   file: ./pavoque/StefanPoppy/wav/m0112.wav
   date: 2007-11-05T09:47:24+0100
@@ -5308,6 +5608,8 @@
   - {lab: f, end: 3.425}
   - {lab: t, end: 3.555}
   - {lab: _, end: 4.935}
+  start: 598.28
+  end: 603.22
 - prompt: m0113
   file: ./pavoque/StefanPoppy/wav/m0113.wav
   date: 2007-11-05T09:47:32+0100
@@ -5349,6 +5651,8 @@
   - {lab: I, end: 3.365}
   - {lab: C, end: 3.575}
   - {lab: _, end: 5.055}
+  start: 603.22
+  end: 608.28
 - prompt: m0114
   file: ./pavoque/StefanPoppy/wav/m0114.wav
   date: 2007-11-05T09:47:40+0100
@@ -5395,6 +5699,8 @@
   - {lab: '@', end: 3.7}
   - {lab: t, end: 3.870864}
   - {lab: _, end: 5.235}
+  start: 608.28
+  end: 613.52
 - prompt: m0116
   file: ./pavoque/StefanPoppy/wav/m0116.wav
   date: 2007-11-05T09:47:54+0100
@@ -5429,6 +5735,8 @@
   - {lab: '@', end: 2.803778}
   - {lab: n, end: 2.891682}
   - {lab: _, end: 4.095}
+  start: 613.52
+  end: 617.62
 - prompt: m0117
   file: ./pavoque/StefanPoppy/wav/m0117.wav
   date: 2007-11-05T09:48:02+0100
@@ -5462,6 +5770,8 @@
   - {lab: z, end: 2.72}
   - {lab: 'e:', end: 2.97}
   - {lab: _, end: 3.915}
+  start: 617.62
+  end: 621.54
 - prompt: m0118
   file: ./pavoque/StefanPoppy/wav/m0118.wav
   date: 2007-11-05T09:48:08+0100
@@ -5496,6 +5806,8 @@
   - {lab: d, end: 2.72}
   - {lab: '@', end: 2.845}
   - {lab: _, end: 4.275}
+  start: 621.54
+  end: 625.82
 - prompt: m0119
   file: ./pavoque/StefanPoppy/wav/m0119.wav
   date: 2007-11-05T09:48:16+0100
@@ -5522,6 +5834,8 @@
   - {lab: p, end: 2.34}
   - {lab: t, end: 2.45563}
   - {lab: _, end: 3.495}
+  start: 625.82
+  end: 629.32
 - prompt: m0121
   file: ./pavoque/StefanPoppy/wav/m0121.wav
   date: 2007-11-05T09:48:30+0100
@@ -5558,6 +5872,8 @@
   - {lab: '@', end: 3.255}
   - {lab: l, end: 3.414532}
   - {lab: _, end: 4.275}
+  start: 629.32
+  end: 633.6
 - prompt: m0122
   file: ./pavoque/StefanPoppy/wav/m0122.wav
   date: 2007-11-05T09:48:38+0100
@@ -5614,6 +5930,8 @@
   - {lab: '@', end: 4.282273}
   - {lab: n, end: 4.411807}
   - {lab: _, end: 6.135}
+  start: 633.6
+  end: 639.74
 - prompt: m0123
   file: ./pavoque/StefanPoppy/wav/m0123.wav
   date: 2007-11-05T09:48:46+0100
@@ -5647,6 +5965,8 @@
   - {lab: pf, end: 2.78}
   - {lab: '@', end: 2.907834}
   - {lab: _, end: 4.035}
+  start: 639.74
+  end: 643.78
 - prompt: m0124
   file: ./pavoque/StefanPoppy/wav/m0124.wav
   date: 2007-11-05T09:48:54+0100
@@ -5702,6 +6022,8 @@
   - {lab: '@', end: 4.246737}
   - {lab: n, end: 4.325833}
   - {lab: _, end: 5.295}
+  start: 643.78
+  end: 649.08
 - prompt: m0125
   file: ./pavoque/StefanPoppy/wav/m0125.wav
   date: 2007-11-05T09:49:00+0100
@@ -5737,6 +6059,8 @@
   - {lab: '@', end: 2.633782}
   - {lab: l, end: 2.768299}
   - {lab: _, end: 4.215}
+  start: 649.08
+  end: 653.3
 - prompt: m0126
   file: ./pavoque/StefanPoppy/wav/m0126.wav
   date: 2007-11-05T09:49:08+0100
@@ -5779,6 +6103,8 @@
   - {lab: tS, end: 2.826408}
   - {lab: t, end: 2.905524}
   - {lab: _, end: 4.815}
+  start: 653.3
+  end: 658.12
 - prompt: m0127
   file: ./pavoque/StefanPoppy/wav/m0127.wav
   date: 2007-11-05T09:49:16+0100
@@ -5821,6 +6147,8 @@
   - {lab: d, end: 3.18}
   - {lab: 'a:', end: 3.435}
   - {lab: _, end: 4.755}
+  start: 658.12
+  end: 662.88
 - prompt: m0128
   file: ./pavoque/StefanPoppy/wav/m0128.wav
   date: 2007-11-05T09:49:26+0100
@@ -5895,6 +6223,8 @@
   - {lab: 'i:', end: 5.845}
   - {lab: m, end: 5.985968}
   - {lab: _, end: 7.335}
+  start: 662.88
+  end: 670.22
 - prompt: m0129
   file: ./pavoque/StefanPoppy/wav/m0129.wav
   date: 2007-11-05T09:49:34+0100
@@ -5927,6 +6257,8 @@
   - {lab: k, end: 2.705}
   - {lab: t, end: 2.85}
   - {lab: _, end: 3.975}
+  start: 670.22
+  end: 674.2
 - prompt: m0131
   file: ./pavoque/StefanPoppy/wav/m0131.wav
   date: 2007-11-05T09:49:48+0100
@@ -5961,6 +6293,8 @@
   - {lab: b, end: 3.575}
   - {lab: '6', end: 3.8}
   - {lab: _, end: 4.095}
+  start: 674.2
+  end: 678.3
 - prompt: m0132
   file: ./pavoque/StefanPoppy/wav/m0132.wav
   date: 2007-11-05T09:49:56+0100
@@ -6006,6 +6340,8 @@
   - {lab: EI, end: 3.53}
   - {lab: k, end: 3.735}
   - {lab: _, end: 4.755}
+  start: 678.3
+  end: 683.06
 - prompt: m0133
   file: ./pavoque/StefanPoppy/wav/m0133.wav
   date: 2007-11-05T09:50:04+0100
@@ -6050,6 +6386,8 @@
   - {lab: '@', end: 2.95}
   - {lab: n, end: 3.009896}
   - {lab: _, end: 4.695}
+  start: 683.06
+  end: 687.76
 - prompt: m0134
   file: ./pavoque/StefanPoppy/wav/m0134.wav
   date: 2007-11-05T09:50:10+0100
@@ -6079,6 +6417,8 @@
   - {lab: I, end: 1.865}
   - {lab: C, end: 2.06}
   - {lab: _, end: 3.675}
+  start: 687.76
+  end: 691.44
 - prompt: m0135
   file: ./pavoque/StefanPoppy/wav/m0135.wav
   date: 2007-11-05T09:50:18+0100
@@ -6116,6 +6456,8 @@
   - {lab: aI, end: 3.005}
   - {lab: t, end: 3.191062}
   - {lab: _, end: 4.575}
+  start: 691.44
+  end: 696.02
 - prompt: m0136
   file: ./pavoque/StefanPoppy/wav/m0136.wav
   date: 2007-11-05T09:50:24+0100
@@ -6146,6 +6488,8 @@
   - {lab: '@', end: 2.01}
   - {lab: n, end: 2.082834}
   - {lab: _, end: 3.555}
+  start: 696.02
+  end: 699.58
 - prompt: m0138
   file: ./pavoque/StefanPoppy/wav/m0138.wav
   date: 2007-11-05T09:50:38+0100
@@ -6179,6 +6523,8 @@
   - {lab: '@', end: 2.361653}
   - {lab: n, end: 2.485328}
   - {lab: _, end: 3.915}
+  start: 699.58
+  end: 703.5
 - prompt: m0139
   file: ./pavoque/StefanPoppy/wav/m0139.wav
   date: 2007-11-05T09:50:44+0100
@@ -6207,6 +6553,8 @@
   - {lab: E, end: 2.315}
   - {lab: f, end: 2.550982}
   - {lab: _, end: 3.915}
+  start: 703.5
+  end: 707.42
 - prompt: m0140
   file: ./pavoque/StefanPoppy/wav/m0140.wav
   date: 2007-11-05T09:50:54+0100
@@ -6268,6 +6616,8 @@
   - {lab: n, end: 4.518337}
   - {lab: t, end: 4.650432}
   - {lab: _, end: 6.375}
+  start: 707.42
+  end: 713.8
 - prompt: m0141
   file: ./pavoque/StefanPoppy/wav/m0141.wav
   date: 2007-11-05T09:51:02+0100
@@ -6304,6 +6654,8 @@
   - {lab: 'u:', end: 3.735}
   - {lab: '6', end: 3.868049}
   - {lab: _, end: 4.455}
+  start: 713.8
+  end: 718.26
 - prompt: m0142
   file: ./pavoque/StefanPoppy/wav/m0142.wav
   date: 2007-11-05T09:51:12+0100
@@ -6377,6 +6729,8 @@
   - {lab: l, end: 5.591381}
   - {lab: '6', end: 5.73566}
   - {lab: _, end: 6.975}
+  start: 718.26
+  end: 725.24
 - prompt: m0143
   file: ./pavoque/StefanPoppy/wav/m0143.wav
   date: 2007-11-05T09:51:18+0100
@@ -6417,6 +6771,8 @@
   - {lab: I, end: 3.33}
   - {lab: C, end: 3.504736}
   - {lab: _, end: 4.695}
+  start: 725.24
+  end: 729.94
 - prompt: m0144
   file: ./pavoque/StefanPoppy/wav/m0144.wav
   date: 2007-11-05T09:51:28+0100
@@ -6470,6 +6826,8 @@
   - {lab: '2:', end: 3.77}
   - {lab: '6', end: 3.935}
   - {lab: _, end: 5.655}
+  start: 729.94
+  end: 735.6
 - prompt: m0145
   file: ./pavoque/StefanPoppy/wav/m0145.wav
   date: 2007-11-05T09:52:36+0100
@@ -6529,6 +6887,8 @@
   - {lab: '@', end: 3.838611}
   - {lab: n, end: 3.899699}
   - {lab: _, end: 6.255}
+  start: 735.6
+  end: 741.86
 - prompt: m0147
   file: ./pavoque/StefanPoppy/wav/m0147.wav
   date: 2007-11-05T09:53:20+0100
@@ -6560,6 +6920,8 @@
   - {lab: aI, end: 2.97}
   - {lab: n, end: 3.078294}
   - {lab: _, end: 3.975}
+  start: 741.86
+  end: 745.84
 - prompt: m0146
   file: ./pavoque/StefanPoppy/wav/m0146.wav
   date: 2007-11-05T09:54:40+0100
@@ -6602,6 +6964,8 @@
   - {lab: m, end: 3.425}
   - {lab: a~, end: 3.641186}
   - {lab: _, end: 4.935}
+  start: 745.84
+  end: 750.78
 - prompt: m0150
   file: ./pavoque/StefanPoppy/wav/m0150.wav
   date: 2007-11-05T09:55:46+0100
@@ -6656,6 +7020,8 @@
   - {lab: k, end: 4.0423}
   - {lab: '6', end: 4.197877}
   - {lab: _, end: 6.195}
+  start: 750.78
+  end: 756.98
 - prompt: m0151
   file: ./pavoque/StefanPoppy/wav/m0151.wav
   date: 2007-11-05T09:55:52+0100
@@ -6691,6 +7057,8 @@
   - {lab: I, end: 2.455}
   - {lab: C, end: 2.606797}
   - {lab: _, end: 4.035}
+  start: 756.98
+  end: 761.02
 - prompt: m0152
   file: ./pavoque/StefanPoppy/wav/m0152.wav
   date: 2007-11-05T09:56:02+0100
@@ -6763,6 +7131,8 @@
   - {lab: I, end: 6.36}
   - {lab: S, end: 6.605}
   - {lab: _, end: 6.915}
+  start: 761.02
+  end: 767.94
 - prompt: m0153
   file: ./pavoque/StefanPoppy/wav/m0153.wav
   date: 2007-11-05T09:56:10+0100
@@ -6806,6 +7176,8 @@
   - {lab: '@', end: 3.235344}
   - {lab: n, end: 3.350319}
   - {lab: _, end: 4.875}
+  start: 767.94
+  end: 772.82
 - prompt: m0154
   file: ./pavoque/StefanPoppy/wav/m0154.wav
   date: 2007-11-05T09:56:20+0100
@@ -6870,6 +7242,8 @@
   - {lab: I, end: 4.890196}
   - {lab: n, end: 4.976647}
   - {lab: _, end: 6.255}
+  start: 772.82
+  end: 779.08
 - prompt: m0155
   file: ./pavoque/StefanPoppy/wav/m0155.wav
   date: 2007-11-05T09:56:42+0100
@@ -6921,6 +7295,8 @@
   - {lab: '@', end: 3.86}
   - {lab: t, end: 4.001239}
   - {lab: _, end: 5.475}
+  start: 779.08
+  end: 784.56
 - prompt: m0157
   file: ./pavoque/StefanPoppy/wav/m0157.wav
   date: 2007-11-05T09:56:58+0100
@@ -6949,6 +7325,8 @@
   - {lab: n, end: 2.169919}
   - {lab: '6', end: 2.373592}
   - {lab: _, end: 3.675}
+  start: 784.56
+  end: 788.24
 - prompt: m0158
   file: ./pavoque/StefanPoppy/wav/m0158.wav
   date: 2007-11-05T09:57:06+0100
@@ -6979,6 +7357,8 @@
   - {lab: '@', end: 2.850403}
   - {lab: n, end: 2.966444}
   - {lab: _, end: 3.795}
+  start: 788.24
+  end: 792.04
 - prompt: m0159
   file: ./pavoque/StefanPoppy/wav/m0159.wav
   date: 2007-11-05T09:57:12+0100
@@ -7015,6 +7395,8 @@
   - {lab: 'y:', end: 2.73}
   - {lab: t, end: 2.903412}
   - {lab: _, end: 4.155}
+  start: 792.04
+  end: 796.2
 - prompt: m0160
   file: ./pavoque/StefanPoppy/wav/m0160.wav
   date: 2007-11-05T09:57:18+0100
@@ -7041,6 +7423,8 @@
   - {lab: 'o:', end: 2.221768}
   - {lab: 'a:', end: 2.496763}
   - {lab: _, end: 3.435}
+  start: 796.2
+  end: 799.64
 - prompt: m0156
   file: ./pavoque/StefanPoppy/wav/m0156.wav
   date: 2007-11-05T09:57:46+0100
@@ -7100,6 +7484,8 @@
   - {lab: 'o:', end: 4.394095}
   - {lab: x, end: 4.55143}
   - {lab: _, end: 6.255}
+  start: 799.64
+  end: 805.9
 - prompt: m0161
   file: ./pavoque/StefanPoppy/wav/m0161.wav
   date: 2007-11-05T09:58:08+0100
@@ -7173,6 +7559,8 @@
   - {lab: '@', end: 5.223461}
   - {lab: n, end: 5.339512}
   - {lab: _, end: 7.095}
+  start: 805.9
+  end: 813.0
 - prompt: m0162
   file: ./pavoque/StefanPoppy/wav/m0162.wav
   date: 2007-11-05T09:58:16+0100
@@ -7226,6 +7614,8 @@
   - {lab: aI, end: 4.3}
   - {lab: t, end: 4.466423}
   - {lab: _, end: 5.295}
+  start: 813.0
+  end: 818.3
 - prompt: m0163
   file: ./pavoque/StefanPoppy/wav/m0163.wav
   date: 2007-11-05T09:58:22+0100
@@ -7255,6 +7645,8 @@
   - {lab: '6', end: 2.565}
   - {lab: t, end: 2.733818}
   - {lab: _, end: 3.675}
+  start: 818.3
+  end: 821.98
 - prompt: m0164
   file: ./pavoque/StefanPoppy/wav/m0164.wav
   date: 2007-11-05T09:58:42+0100
@@ -7286,6 +7678,8 @@
   - {lab: aI, end: 2.485}
   - {lab: n, end: 2.620807}
   - {lab: _, end: 4.095}
+  start: 821.98
+  end: 826.08
 - prompt: m0165
   file: ./pavoque/StefanPoppy/wav/m0165.wav
   date: 2007-11-05T09:58:50+0100
@@ -7318,6 +7712,8 @@
   - {lab: O, end: 2.53}
   - {lab: x, end: 2.635428}
   - {lab: _, end: 4.155}
+  start: 826.08
+  end: 830.24
 - prompt: m0166
   file: ./pavoque/StefanPoppy/wav/m0166.wav
   date: 2007-11-05T09:58:58+0100
@@ -7367,6 +7763,8 @@
   - {lab: '@', end: 3.99}
   - {lab: s, end: 4.244306}
   - {lab: _, end: 5.235}
+  start: 830.24
+  end: 835.48
 - prompt: m0167
   file: ./pavoque/StefanPoppy/wav/m0167.wav
   date: 2007-11-05T09:59:04+0100
@@ -7397,6 +7795,8 @@
   - {lab: d, end: 2.564144}
   - {lab: '@', end: 2.70664}
   - {lab: _, end: 3.615}
+  start: 835.48
+  end: 839.1
 - prompt: m0168
   file: ./pavoque/StefanPoppy/wav/m0168.wav
   date: 2007-11-05T09:59:14+0100
@@ -7473,6 +7873,8 @@
   - {lab: U, end: 5.717161}
   - {lab: N, end: 5.8}
   - {lab: _, end: 7.335}
+  start: 839.1
+  end: 846.44
 - prompt: m0169
   file: ./pavoque/StefanPoppy/wav/m0169.wav
   date: 2007-11-05T09:59:22+0100
@@ -7521,6 +7923,8 @@
   - {lab: 'u:', end: 3.730696}
   - {lab: l, end: 4.014616}
   - {lab: _, end: 4.995}
+  start: 846.44
+  end: 851.44
 - prompt: m0170
   file: ./pavoque/StefanPoppy/wav/m0170.wav
   date: 2007-11-05T09:59:58+0100
@@ -7568,6 +7972,8 @@
   - {lab: f, end: 3.915}
   - {lab: '6', end: 4.068363}
   - {lab: _, end: 5.415}
+  start: 851.44
+  end: 856.86
 - prompt: m0171
   file: ./pavoque/StefanPoppy/wav/m0171.wav
   date: 2007-11-05T10:00:04+0100
@@ -7595,6 +8001,8 @@
   - {lab: O, end: 2.99}
   - {lab: n, end: 3.101697}
   - {lab: _, end: 3.495}
+  start: 856.86
+  end: 860.36
 - prompt: m0172
   file: ./pavoque/StefanPoppy/wav/m0172.wav
   date: 2007-11-05T10:00:14+0100
@@ -7650,6 +8058,8 @@
   - {lab: '@', end: 3.625983}
   - {lab: n, end: 3.751366}
   - {lab: _, end: 5.355}
+  start: 860.36
+  end: 865.72
 - prompt: m0173
   file: ./pavoque/StefanPoppy/wav/m0173.wav
   date: 2007-11-05T10:00:20+0100
@@ -7687,6 +8097,8 @@
   - {lab: '@', end: 2.57}
   - {lab: n, end: 2.684099}
   - {lab: _, end: 4.215}
+  start: 865.72
+  end: 869.94
 - prompt: m0174
   file: ./pavoque/StefanPoppy/wav/m0174.wav
   date: 2007-11-05T10:00:28+0100
@@ -7722,6 +8134,8 @@
   - {lab: aI, end: 2.925}
   - {lab: s, end: 3.124384}
   - {lab: _, end: 4.275}
+  start: 869.94
+  end: 874.22
 - prompt: m0175
   file: ./pavoque/StefanPoppy/wav/m0175.wav
   date: 2007-11-05T10:00:34+0100
@@ -7748,6 +8162,8 @@
   - {lab: x, end: 2.545}
   - {lab: t, end: 2.699325}
   - {lab: _, end: 3.495}
+  start: 874.22
+  end: 877.72
 - prompt: m0176
   file: ./pavoque/StefanPoppy/wav/m0176.wav
   date: 2007-11-05T10:00:40+0100
@@ -7777,6 +8193,8 @@
   - {lab: '@', end: 2.182427}
   - {lab: n, end: 2.308285}
   - {lab: _, end: 3.915}
+  start: 877.72
+  end: 881.64
 - prompt: m0177
   file: ./pavoque/StefanPoppy/wav/m0177.wav
   date: 2007-11-05T10:00:48+0100
@@ -7805,6 +8223,8 @@
   - {lab: l, end: 2.110729}
   - {lab: 'e:', end: 2.284455}
   - {lab: _, end: 3.555}
+  start: 881.64
+  end: 885.2
 - prompt: m0178
   file: ./pavoque/StefanPoppy/wav/m0178.wav
   date: 2007-11-05T10:00:56+0100
@@ -7864,6 +8284,8 @@
   - {lab: l, end: 4.325}
   - {lab: k, end: 4.465975}
   - {lab: _, end: 5.715}
+  start: 885.2
+  end: 890.92
 - prompt: m0179
   file: ./pavoque/StefanPoppy/wav/m0179.wav
   date: 2007-11-05T10:01:06+0100
@@ -7923,6 +8345,8 @@
   - {lab: t, end: 4.56}
   - {lab: '@', end: 4.684835}
   - {lab: _, end: 5.955}
+  start: 890.92
+  end: 896.88
 - prompt: m0180
   file: ./pavoque/StefanPoppy/wav/m0180.wav
   date: 2007-11-05T10:01:12+0100
@@ -7949,6 +8373,8 @@
   - {lab: aI, end: 2.143556}
   - {lab: s, end: 2.408613}
   - {lab: _, end: 3.435}
+  start: 896.88
+  end: 900.32
 - prompt: m0181
   file: ./pavoque/StefanPoppy/wav/m0181.wav
   date: 2007-11-05T10:01:18+0100
@@ -7986,6 +8412,8 @@
   - {lab: I, end: 2.845}
   - {lab: N, end: 2.968254}
   - {lab: _, end: 4.335}
+  start: 900.32
+  end: 904.66
 - prompt: m0182
   file: ./pavoque/StefanPoppy/wav/m0182.wav
   date: 2007-11-05T10:01:28+0100
@@ -8039,6 +8467,8 @@
   - {lab: 'a:', end: 3.745}
   - {lab: s, end: 3.925511}
   - {lab: _, end: 5.835}
+  start: 904.66
+  end: 910.5
 - prompt: m0183
   file: ./pavoque/StefanPoppy/wav/m0183.wav
   date: 2007-11-05T10:01:34+0100
@@ -8071,6 +8501,8 @@
   - {lab: a, end: 2.815}
   - {lab: N, end: 2.938033}
   - {lab: _, end: 4.095}
+  start: 910.5
+  end: 914.6
 - prompt: m0184
   file: ./pavoque/StefanPoppy/wav/m0184.wav
   date: 2007-11-05T10:01:44+0100
@@ -8125,6 +8557,8 @@
   - {lab: '@', end: 4.123978}
   - {lab: l, end: 4.320784}
   - {lab: _, end: 5.895}
+  start: 914.6
+  end: 920.5
 - prompt: m0185
   file: ./pavoque/StefanPoppy/wav/m0185.wav
   date: 2007-11-05T10:01:52+0100
@@ -8163,6 +8597,8 @@
   - {lab: '@', end: 3.062256}
   - {lab: n, end: 3.201149}
   - {lab: _, end: 4.575}
+  start: 920.5
+  end: 925.08
 - prompt: m0187
   file: ./pavoque/StefanPoppy/wav/m0187.wav
   date: 2007-11-05T10:02:06+0100
@@ -8209,6 +8645,8 @@
   - {lab: f, end: 3.335}
   - {lab: t, end: 3.433314}
   - {lab: _, end: 4.815}
+  start: 925.08
+  end: 929.9
 - prompt: m0188
   file: ./pavoque/StefanPoppy/wav/m0188.wav
   date: 2007-11-05T10:02:14+0100
@@ -8244,6 +8682,8 @@
   - {lab: '@', end: 2.479946}
   - {lab: s, end: 2.676007}
   - {lab: _, end: 3.975}
+  start: 929.9
+  end: 933.88
 - prompt: m0189
   file: ./pavoque/StefanPoppy/wav/m0189.wav
   date: 2007-11-05T10:02:20+0100
@@ -8270,6 +8710,8 @@
   - {lab: '@', end: 1.845}
   - {lab: n, end: 2.002057}
   - {lab: _, end: 3.615}
+  start: 933.88
+  end: 937.5
 - prompt: m0191
   file: ./pavoque/StefanPoppy/wav/m0191.wav
   date: 2007-11-05T10:02:34+0100
@@ -8300,6 +8742,8 @@
   - {lab: aI, end: 2.595}
   - {lab: t, end: 2.81}
   - {lab: _, end: 3.975}
+  start: 937.5
+  end: 941.48
 - prompt: m0192
   file: ./pavoque/StefanPoppy/wav/m0192.wav
   date: 2007-11-05T10:02:42+0100
@@ -8336,6 +8780,8 @@
   - {lab: I, end: 2.46}
   - {lab: C, end: 2.635}
   - {lab: _, end: 4.155}
+  start: 941.48
+  end: 945.64
 - prompt: m0190
   file: ./pavoque/StefanPoppy/wav/m0190.wav
   date: 2007-11-05T10:03:44+0100
@@ -8386,6 +8832,8 @@
   - {lab: U, end: 3.555814}
   - {lab: m, end: 3.62}
   - {lab: _, end: 5.175}
+  start: 945.64
+  end: 950.82
 - prompt: m0193
   file: ./pavoque/StefanPoppy/wav/m0193.wav
   date: 2007-11-05T10:04:08+0100
@@ -8425,6 +8873,8 @@
   - {lab: 'u:', end: 3.805}
   - {lab: x, end: 3.986519}
   - {lab: _, end: 4.515}
+  start: 950.82
+  end: 955.34
 - prompt: m0194
   file: ./pavoque/StefanPoppy/wav/m0194.wav
   date: 2007-11-05T10:04:52+0100
@@ -8477,6 +8927,8 @@
   - {lab: O, end: 3.525}
   - {lab: l, end: 3.655015}
   - {lab: _, end: 5.355}
+  start: 955.34
+  end: 960.7
 - prompt: m0195
   file: ./pavoque/StefanPoppy/wav/m0195.wav
   date: 2007-11-05T10:04:58+0100
@@ -8515,6 +8967,8 @@
   - {lab: R, end: 2.595}
   - {lab: 'i:', end: 2.769917}
   - {lab: _, end: 4.275}
+  start: 960.7
+  end: 964.98
 - prompt: m0196
   file: ./pavoque/StefanPoppy/wav/m0196.wav
   date: 2007-11-05T10:05:06+0100
@@ -8548,6 +9002,8 @@
   - {lab: l, end: 2.15}
   - {lab: t, end: 2.350808}
   - {lab: _, end: 4.155}
+  start: 964.98
+  end: 969.14
 - prompt: m0197
   file: ./pavoque/StefanPoppy/wav/m0197.wav
   date: 2007-11-05T10:05:30+0100
@@ -8602,6 +9058,8 @@
   - {lab: 'o:', end: 3.955}
   - {lab: n, end: 4.032312}
   - {lab: _, end: 5.895}
+  start: 969.14
+  end: 975.04
 - prompt: m0198
   file: ./pavoque/StefanPoppy/wav/m0198.wav
   date: 2007-11-05T10:05:38+0100
@@ -8641,6 +9099,8 @@
   - {lab: aI, end: 2.885}
   - {lab: '6', end: 3.034537}
   - {lab: _, end: 4.635}
+  start: 975.04
+  end: 979.68
 - prompt: m0199
   file: ./pavoque/StefanPoppy/wav/m0199.wav
   date: 2007-11-05T10:05:46+0100
@@ -8689,6 +9149,8 @@
   - {lab: a, end: 3.433697}
   - {lab: t, end: 3.605093}
   - {lab: _, end: 5.115}
+  start: 979.68
+  end: 984.8
 - prompt: m0200
   file: ./pavoque/StefanPoppy/wav/m0200.wav
   date: 2007-11-05T10:05:54+0100
@@ -8738,6 +9200,8 @@
   - {lab: aI, end: 4.165}
   - {lab: n, end: 4.2779}
   - {lab: _, end: 5.715}
+  start: 984.8
+  end: 990.52
 - prompt: m0201
   file: ./pavoque/StefanPoppy/wav/m0201.wav
   date: 2007-11-05T10:06:02+0100
@@ -8766,6 +9230,8 @@
   - {lab: a~, end: 2.99}
   - {lab: Z, end: 3.41}
   - {lab: _, end: 3.855}
+  start: 990.52
+  end: 994.38
 - prompt: m0202
   file: ./pavoque/StefanPoppy/wav/m0202.wav
   date: 2007-11-05T10:06:12+0100
@@ -8831,6 +9297,8 @@
   - {lab: aI, end: 5.578876}
   - {lab: n, end: 5.712138}
   - {lab: _, end: 7.095}
+  start: 994.38
+  end: 1001.48
 - prompt: m0203
   file: ./pavoque/StefanPoppy/wav/m0203.wav
   date: 2007-11-05T10:06:18+0100
@@ -8860,6 +9328,8 @@
   - {lab: aI, end: 2.815}
   - {lab: n, end: 2.930344}
   - {lab: _, end: 3.795}
+  start: 1001.48
+  end: 1005.28
 - prompt: m0204
   file: ./pavoque/StefanPoppy/wav/m0204.wav
   date: 2007-11-05T10:06:28+0100
@@ -8944,6 +9414,8 @@
   - {lab: O, end: 6.97}
   - {lab: l, end: 7.081099}
   - {lab: _, end: 7.875}
+  start: 1005.28
+  end: 1013.16
 - prompt: m0205
   file: ./pavoque/StefanPoppy/wav/m0205.wav
   date: 2007-11-05T10:07:00+0100
@@ -8998,6 +9470,8 @@
   - {lab: '6', end: 4.155663}
   - {lab: p, end: 4.291605}
   - {lab: _, end: 5.775}
+  start: 1013.16
+  end: 1018.94
 - prompt: m0206
   file: ./pavoque/StefanPoppy/wav/m0206.wav
   date: 2007-11-05T10:07:10+0100
@@ -9058,6 +9532,8 @@
   - {lab: aI, end: 4.715}
   - {lab: t, end: 4.90196}
   - {lab: _, end: 6.015}
+  start: 1018.94
+  end: 1024.96
 - prompt: m0208
   file: ./pavoque/StefanPoppy/wav/m0208.wav
   date: 2007-11-05T10:07:22+0100
@@ -9090,6 +9566,8 @@
   - {lab: 'u:', end: 2.775}
   - {lab: t, end: 2.955762}
   - {lab: _, end: 3.795}
+  start: 1024.96
+  end: 1028.76
 - prompt: m0209
   file: ./pavoque/StefanPoppy/wav/m0209.wav
   date: 2007-11-05T10:07:32+0100
@@ -9140,6 +9618,8 @@
   - {lab: 'u:', end: 4.243545}
   - {lab: 'i:', end: 4.444224}
   - {lab: _, end: 5.415}
+  start: 1028.76
+  end: 1034.18
 - prompt: m0210
   file: ./pavoque/StefanPoppy/wav/m0210.wav
   date: 2007-11-05T10:07:38+0100
@@ -9171,6 +9651,8 @@
   - {lab: j, end: 2.374736}
   - {lab: 'u:', end: 2.498344}
   - {lab: _, end: 3.915}
+  start: 1034.18
+  end: 1038.1
 - prompt: m0211
   file: ./pavoque/StefanPoppy/wav/m0211.wav
   date: 2007-11-05T10:07:54+0100
@@ -9201,6 +9683,8 @@
   - {lab: '@', end: 2.596671}
   - {lab: t, end: 2.76066}
   - {lab: _, end: 3.675}
+  start: 1038.1
+  end: 1041.78
 - prompt: m0212
   file: ./pavoque/StefanPoppy/wav/m0212.wav
   date: 2007-11-05T10:08:02+0100
@@ -9245,6 +9729,8 @@
   - {lab: l, end: 3.27}
   - {lab: '@', end: 3.403172}
   - {lab: _, end: 4.815}
+  start: 1041.78
+  end: 1046.6
 - prompt: m0213
   file: ./pavoque/StefanPoppy/wav/m0213.wav
   date: 2007-11-05T10:08:32+0100
@@ -9302,6 +9788,8 @@
   - {lab: w, end: 3.825}
   - {lab: aU, end: 4.184931}
   - {lab: _, end: 5.775}
+  start: 1046.6
+  end: 1052.38
 - prompt: m0215
   file: ./pavoque/StefanPoppy/wav/m0215.wav
   date: 2007-11-05T10:09:00+0100
@@ -9352,6 +9840,8 @@
   - {lab: z, end: 3.781563}
   - {lab: '@', end: 3.914444}
   - {lab: _, end: 5.295}
+  start: 1052.38
+  end: 1057.68
 - prompt: m0216
   file: ./pavoque/StefanPoppy/wav/m0216.wav
   date: 2007-11-05T10:09:22+0100
@@ -9425,6 +9915,8 @@
   - {lab: '2:', end: 5.19}
   - {lab: s, end: 5.42448}
   - {lab: _, end: 6.795}
+  start: 1057.68
+  end: 1064.48
 - prompt: m0217
   file: ./pavoque/StefanPoppy/wav/m0217.wav
   date: 2007-11-05T10:09:30+0100
@@ -9459,6 +9951,8 @@
   - {lab: h, end: 2.285161}
   - {lab: '@', end: 2.45}
   - {lab: _, end: 4.095}
+  start: 1064.48
+  end: 1068.58
 - prompt: m0218
   file: ./pavoque/StefanPoppy/wav/m0218.wav
   date: 2007-11-05T10:09:38+0100
@@ -9502,6 +9996,8 @@
   - {lab: 'e:', end: 3.583813}
   - {lab: '6', end: 3.774934}
   - {lab: _, end: 4.935}
+  start: 1068.58
+  end: 1073.52
 - prompt: m0219
   file: ./pavoque/StefanPoppy/wav/m0219.wav
   date: 2007-11-05T10:09:48+0100
@@ -9578,6 +10074,8 @@
   - {lab: s, end: 5.868125}
   - {lab: t, end: 6.016341}
   - {lab: _, end: 7.455}
+  start: 1073.52
+  end: 1080.98
 - prompt: m0220
   file: ./pavoque/StefanPoppy/wav/m0220.wav
   date: 2007-11-05T10:09:56+0100
@@ -9634,6 +10132,8 @@
   - {lab: l, end: 4.04}
   - {lab: t, end: 4.191121}
   - {lab: _, end: 5.655}
+  start: 1080.98
+  end: 1086.64
 - prompt: m0221
   file: ./pavoque/StefanPoppy/wav/m0221.wav
   date: 2007-11-05T10:10:04+0100
@@ -9661,6 +10161,8 @@
   - {lab: '6', end: 2.38}
   - {lab: C, end: 2.645776}
   - {lab: _, end: 3.795}
+  start: 1086.64
+  end: 1090.44
 - prompt: m0222
   file: ./pavoque/StefanPoppy/wav/m0222.wav
   date: 2007-11-05T10:10:12+0100
@@ -9726,6 +10228,8 @@
   - {lab: '@', end: 5.545}
   - {lab: n, end: 5.690036}
   - {lab: _, end: 6.615}
+  start: 1090.44
+  end: 1097.06
 - prompt: m0223
   file: ./pavoque/StefanPoppy/wav/m0223.wav
   date: 2007-11-05T10:11:34+0100
@@ -9785,6 +10289,8 @@
   - {lab: l, end: 4.22}
   - {lab: '@', end: 4.369506}
   - {lab: _, end: 6.435}
+  start: 1097.06
+  end: 1103.5
 - prompt: m0224
   file: ./pavoque/StefanPoppy/wav/m0224.wav
   date: 2007-11-05T10:11:42+0100
@@ -9829,6 +10335,8 @@
   - {lab: n, end: 3.375}
   - {lab: ts, end: 3.567266}
   - {lab: _, end: 4.815}
+  start: 1103.5
+  end: 1108.32
 - prompt: m0225
   file: ./pavoque/StefanPoppy/wav/m0225.wav
   date: 2007-11-05T10:11:52+0100
@@ -9894,6 +10402,8 @@
   - {lab: a, end: 4.655}
   - {lab: t, end: 4.802058}
   - {lab: _, end: 6.315}
+  start: 1108.32
+  end: 1114.64
 - prompt: m0226
   file: ./pavoque/StefanPoppy/wav/m0226.wav
   date: 2007-11-05T10:12:00+0100
@@ -9934,6 +10444,8 @@
   - {lab: S, end: 3.573303}
   - {lab: 'o:', end: 3.725841}
   - {lab: _, end: 4.755}
+  start: 1114.64
+  end: 1119.4
 - prompt: m0228
   file: ./pavoque/StefanPoppy/wav/m0228.wav
   date: 2007-11-05T10:12:18+0100
@@ -9984,6 +10496,8 @@
   - {lab: '@', end: 4.21}
   - {lab: t, end: 4.339586}
   - {lab: _, end: 5.295}
+  start: 1119.4
+  end: 1124.7
 - prompt: m0229
   file: ./pavoque/StefanPoppy/wav/m0229.wav
   date: 2007-11-05T10:12:28+0100
@@ -10058,6 +10572,8 @@
   - {lab: aI, end: 5.48}
   - {lab: n, end: 5.550702}
   - {lab: _, end: 7.275}
+  start: 1124.7
+  end: 1131.98
 - prompt: m0230
   file: ./pavoque/StefanPoppy/wav/m0230.wav
   date: 2007-11-05T10:12:36+0100
@@ -10117,6 +10633,8 @@
   - {lab: '@', end: 4.32}
   - {lab: n, end: 4.429717}
   - {lab: _, end: 6.195}
+  start: 1131.98
+  end: 1138.18
 - prompt: m0231
   file: ./pavoque/StefanPoppy/wav/m0231.wav
   date: 2007-11-05T10:12:46+0100
@@ -10182,6 +10700,8 @@
   - {lab: 'i:', end: 4.635662}
   - {lab: l, end: 4.787904}
   - {lab: _, end: 6.495}
+  start: 1138.18
+  end: 1144.68
 - prompt: m0232
   file: ./pavoque/StefanPoppy/wav/m0232.wav
   date: 2007-11-05T10:12:56+0100
@@ -10244,6 +10764,8 @@
   - {lab: l, end: 4.88}
   - {lab: '@', end: 5.05}
   - {lab: _, end: 6.135}
+  start: 1144.68
+  end: 1150.82
 - prompt: m0233
   file: ./pavoque/StefanPoppy/wav/m0233.wav
   date: 2007-11-05T10:13:02+0100
@@ -10273,6 +10795,8 @@
   - {lab: I, end: 2.155}
   - {lab: C, end: 2.361908}
   - {lab: _, end: 3.435}
+  start: 1150.82
+  end: 1154.26
 - prompt: m0234
   file: ./pavoque/StefanPoppy/wav/m0234.wav
   date: 2007-11-05T10:13:08+0100
@@ -10301,6 +10825,8 @@
   - {lab: n, end: 2.6}
   - {lab: ts, end: 2.810847}
   - {lab: _, end: 3.675}
+  start: 1154.26
+  end: 1157.94
 - prompt: m0235
   file: ./pavoque/StefanPoppy/wav/m0235.wav
   date: 2007-11-05T10:13:16+0100
@@ -10341,6 +10867,8 @@
   - {lab: t, end: 2.9}
   - {lab: '@', end: 3.042962}
   - {lab: _, end: 4.275}
+  start: 1157.94
+  end: 1162.22
 - prompt: m0227
   file: ./pavoque/StefanPoppy/wav/m0227.wav
   date: 2007-11-05T10:13:42+0100
@@ -10404,6 +10932,8 @@
   - {lab: n, end: 5.183298}
   - {lab: '6', end: 5.353501}
   - {lab: _, end: 6.135}
+  start: 1162.22
+  end: 1168.36
 - prompt: m0236
   file: ./pavoque/StefanPoppy/wav/m0236.wav
   date: 2007-11-05T10:13:58+0100
@@ -10432,6 +10962,8 @@
   - {lab: '@', end: 2.02}
   - {lab: n, end: 2.109307}
   - {lab: _, end: 3.795}
+  start: 1168.36
+  end: 1172.16
 - prompt: m0237
   file: ./pavoque/StefanPoppy/wav/m0237.wav
   date: 2007-11-05T10:14:20+0100
@@ -10505,6 +11037,8 @@
   - {lab: aU, end: 5.21027}
   - {lab: m, end: 5.361331}
   - {lab: _, end: 7.155}
+  start: 1172.16
+  end: 1179.32
 - prompt: m0238
   file: ./pavoque/StefanPoppy/wav/m0238.wav
   date: 2007-11-05T10:14:30+0100
@@ -10555,6 +11089,8 @@
   - {lab: l, end: 3.99}
   - {lab: '6', end: 4.133222}
   - {lab: _, end: 6.075}
+  start: 1179.32
+  end: 1185.4
 - prompt: m0239
   file: ./pavoque/StefanPoppy/wav/m0239.wav
   date: 2007-11-05T10:14:38+0100
@@ -10594,6 +11130,8 @@
   - {lab: I, end: 3.22}
   - {lab: C, end: 3.44}
   - {lab: _, end: 4.575}
+  start: 1185.4
+  end: 1189.98
 - prompt: m0240
   file: ./pavoque/StefanPoppy/wav/m0240.wav
   date: 2007-11-05T10:14:44+0100
@@ -10630,6 +11168,8 @@
   - {lab: n, end: 2.468614}
   - {lab: '6', end: 2.637051}
   - {lab: _, end: 4.035}
+  start: 1189.98
+  end: 1194.02
 - prompt: m0241
   file: ./pavoque/StefanPoppy/wav/m0241.wav
   date: 2007-11-05T10:14:54+0100
@@ -10692,6 +11232,8 @@
   - {lab: 'u:', end: 4.73}
   - {lab: t, end: 4.929363}
   - {lab: _, end: 6.255}
+  start: 1194.02
+  end: 1200.28
 - prompt: m0242
   file: ./pavoque/StefanPoppy/wav/m0242.wav
   date: 2007-11-05T10:15:02+0100
@@ -10742,6 +11284,8 @@
   - {lab: U, end: 3.949847}
   - {lab: N, end: 4.033302}
   - {lab: _, end: 5.475}
+  start: 1200.28
+  end: 1205.76
 - prompt: m0243
   file: ./pavoque/StefanPoppy/wav/m0243.wav
   date: 2007-11-05T10:15:14+0100
@@ -10831,6 +11375,8 @@
   - {lab: '@', end: 7.185068}
   - {lab: n, end: 7.258858}
   - {lab: _, end: 8.955}
+  start: 1205.76
+  end: 1214.72
 - prompt: m0244
   file: ./pavoque/StefanPoppy/wav/m0244.wav
   date: 2007-11-05T10:15:22+0100
@@ -10874,6 +11420,8 @@
   - {lab: aU, end: 3.75}
   - {lab: f, end: 3.942892}
   - {lab: _, end: 4.635}
+  start: 1214.72
+  end: 1219.36
 - prompt: m0245
   file: ./pavoque/StefanPoppy/wav/m0245.wav
   date: 2007-11-05T10:15:28+0100
@@ -10906,6 +11454,8 @@
   - {lab: 'a:', end: 2.99}
   - {lab: '@', end: 3.190836}
   - {lab: _, end: 3.915}
+  start: 1219.36
+  end: 1223.28
 - prompt: m0246
   file: ./pavoque/StefanPoppy/wav/m0246.wav
   date: 2007-11-05T10:15:36+0100
@@ -10953,6 +11503,8 @@
   - {lab: '6', end: 3.28}
   - {lab: s, end: 3.49589}
   - {lab: _, end: 4.995}
+  start: 1223.28
+  end: 1228.28
 - prompt: m0248
   file: ./pavoque/StefanPoppy/wav/m0248.wav
   date: 2007-11-05T10:15:50+0100
@@ -10989,6 +11541,8 @@
   - {lab: E, end: 2.665}
   - {lab: m, end: 2.762323}
   - {lab: _, end: 4.155}
+  start: 1228.28
+  end: 1232.44
 - prompt: m0249
   file: ./pavoque/StefanPoppy/wav/m0249.wav
   date: 2007-11-05T10:15:56+0100
@@ -11018,6 +11572,8 @@
   - {lab: OY, end: 1.775098}
   - {lab: tS, end: 2.08}
   - {lab: _, end: 3.855}
+  start: 1232.44
+  end: 1236.3
 - prompt: m0250
   file: ./pavoque/StefanPoppy/wav/m0250.wav
   date: 2007-11-05T10:16:52+0100
@@ -11073,6 +11629,8 @@
   - {lab: '?', end: 8.195}
   - {lab: 'y:', end: 8.613983}
   - {lab: _, end: 9.835}
+  start: 1236.3
+  end: 1246.14
 - prompt: poppy0061
   file: ./pavoque/StefanPoppy/wav/poppy0061.wav
   date: 2007-11-05T10:29:16+0100
@@ -11113,6 +11671,8 @@
   - {lab: '@', end: 3.16982}
   - {lab: n, end: 3.279491}
   - {lab: _, end: 3.875}
+  start: 1246.14
+  end: 1250.02
 - prompt: poppy0062
   file: ./pavoque/StefanPoppy/wav/poppy0062.wav
   date: 2007-11-05T10:29:20+0100
@@ -11138,6 +11698,8 @@
   - {lab: I, end: 1.57}
   - {lab: C, end: 1.7455}
   - {lab: _, end: 2.495}
+  start: 1250.02
+  end: 1252.52
 - prompt: poppy0063
   file: ./pavoque/StefanPoppy/wav/poppy0063.wav
   date: 2007-11-05T10:29:24+0100
@@ -11161,6 +11723,8 @@
   - {lab: t, end: 1.59}
   - {lab: s, end: 1.773467}
   - {lab: _, end: 2.135}
+  start: 1252.52
+  end: 1254.66
 - prompt: poppy0064
   file: ./pavoque/StefanPoppy/wav/poppy0064.wav
   date: 2007-11-05T10:29:30+0100
@@ -11196,6 +11760,8 @@
   - {lab: '@', end: 2.415}
   - {lab: n, end: 2.521646}
   - {lab: _, end: 3.335}
+  start: 1254.66
+  end: 1258.0
 - prompt: poppy0065
   file: ./pavoque/StefanPoppy/wav/poppy0065.wav
   date: 2007-11-05T10:29:36+0100
@@ -11237,6 +11803,8 @@
   - {lab: I, end: 2.485}
   - {lab: C, end: 2.629399}
   - {lab: _, end: 3.695}
+  start: 1258.0
+  end: 1261.7
 - prompt: poppy0066
   file: ./pavoque/StefanPoppy/wav/poppy0066.wav
   date: 2007-11-05T10:29:44+0100
@@ -11286,6 +11854,8 @@
   - {lab: '@', end: 3.252539}
   - {lab: n, end: 3.379285}
   - {lab: _, end: 4.295}
+  start: 1261.7
+  end: 1266.0
 - prompt: poppy0067
   file: ./pavoque/StefanPoppy/wav/poppy0067.wav
   date: 2007-11-05T10:29:50+0100
@@ -11335,6 +11905,8 @@
   - {lab: I, end: 3.525}
   - {lab: C, end: 3.726812}
   - {lab: _, end: 4.655}
+  start: 1266.0
+  end: 1270.66
 - prompt: poppy0068
   file: ./pavoque/StefanPoppy/wav/poppy0068.wav
   date: 2007-11-05T10:29:56+0100
@@ -11364,6 +11936,8 @@
   - {lab: 'o:', end: 2.205}
   - {lab: s, end: 2.458129}
   - {lab: _, end: 3.035}
+  start: 1270.66
+  end: 1273.7
 - prompt: poppy0069
   file: ./pavoque/StefanPoppy/wav/poppy0069.wav
   date: 2007-11-05T10:30:02+0100
@@ -11410,6 +11984,8 @@
   - {lab: n, end: 2.703737}
   - {lab: t, end: 2.86961}
   - {lab: _, end: 3.935}
+  start: 1273.7
+  end: 1277.64
 - prompt: poppy0071
   file: ./pavoque/StefanPoppy/wav/poppy0071.wav
   date: 2007-11-05T10:30:12+0100
@@ -11435,6 +12011,8 @@
   - {lab: b, end: 1.712189}
   - {lab: '6', end: 1.853874}
   - {lab: _, end: 2.315}
+  start: 1277.64
+  end: 1279.96
 - prompt: poppy0072
   file: ./pavoque/StefanPoppy/wav/poppy0072.wav
   date: 2007-11-05T10:30:16+0100
@@ -11453,6 +12031,8 @@
   - {lab: d, end: 1.275938}
   - {lab: 'u:', end: 1.437846}
   - {lab: _, end: 1.835}
+  start: 1279.96
+  end: 1281.8
 - prompt: poppy0073
   file: ./pavoque/StefanPoppy/wav/poppy0073.wav
   date: 2007-11-05T10:30:22+0100
@@ -11483,6 +12063,8 @@
   - {lab: '@', end: 1.79}
   - {lab: n, end: 1.952846}
   - {lab: _, end: 2.675}
+  start: 1281.8
+  end: 1284.48
 - prompt: poppy0074
   file: ./pavoque/StefanPoppy/wav/poppy0074.wav
   date: 2007-11-05T10:30:28+0100
@@ -11528,6 +12110,8 @@
   - {lab: 'e:', end: 3.005861}
   - {lab: '6', end: 3.183341}
   - {lab: _, end: 3.755}
+  start: 1284.48
+  end: 1288.24
 - prompt: poppy0076
   file: ./pavoque/StefanPoppy/wav/poppy0076.wav
   date: 2007-11-05T10:30:36+0100
@@ -11550,6 +12134,8 @@
   - {lab: a, end: 1.49}
   - {lab: s, end: 1.650411}
   - {lab: _, end: 2.135}
+  start: 1288.24
+  end: 1290.38
 - prompt: poppy0077
   file: ./pavoque/StefanPoppy/wav/poppy0077.wav
   date: 2007-11-05T10:30:40+0100
@@ -11570,6 +12156,8 @@
   - {lab: a, end: 1.352141}
   - {lab: s, end: 1.57}
   - {lab: _, end: 2.075}
+  start: 1290.38
+  end: 1292.46
 - prompt: poppy0070
   file: ./pavoque/StefanPoppy/wav/poppy0070.wav
   date: 2007-11-05T10:31:08+0100
@@ -11607,6 +12195,8 @@
   - {lab: '@', end: 2.28}
   - {lab: n, end: 2.395836}
   - {lab: _, end: 3.095}
+  start: 1292.46
+  end: 1295.56
 - prompt: poppy0075
   file: ./pavoque/StefanPoppy/wav/poppy0075.wav
   date: 2007-11-05T10:31:36+0100
@@ -11618,6 +12208,8 @@
   - {lab: a, end: 0.645}
   - {lab: n, end: 0.833867}
   - {lab: _, end: 1.295}
+  start: 1295.56
+  end: 1296.86
 - prompt: poppy0078
   file: ./pavoque/StefanPoppy/wav/poppy0078.wav
   date: 2007-11-05T10:31:52+0100
@@ -11654,6 +12246,8 @@
   - {lab: '@', end: 2.435}
   - {lab: n, end: 2.570238}
   - {lab: _, end: 3.335}
+  start: 1296.86
+  end: 1300.2
 - prompt: poppy0079
   file: ./pavoque/StefanPoppy/wav/poppy0079.wav
   date: 2007-11-05T10:31:56+0100
@@ -11688,6 +12282,8 @@
   - {lab: I, end: 2.465}
   - {lab: C, end: 2.609804}
   - {lab: _, end: 3.095}
+  start: 1300.2
+  end: 1303.3
 - prompt: poppy0080
   file: ./pavoque/StefanPoppy/wav/poppy0080.wav
   date: 2007-11-05T10:32:02+0100
@@ -11722,6 +12318,8 @@
   - {lab: I, end: 2.225}
   - {lab: C, end: 2.398433}
   - {lab: _, end: 3.095}
+  start: 1303.3
+  end: 1306.4
 - prompt: poppy0081
   file: ./pavoque/StefanPoppy/wav/poppy0081.wav
   date: 2007-11-05T10:32:22+0100
@@ -11762,6 +12360,8 @@
   - {lab: 'a:', end: 2.771425}
   - {lab: '6', end: 2.896402}
   - {lab: _, end: 3.455}
+  start: 1306.4
+  end: 1309.86
 - prompt: poppy0082
   file: ./pavoque/StefanPoppy/wav/poppy0082.wav
   date: 2007-11-05T10:32:28+0100
@@ -11794,6 +12394,8 @@
   - {lab: '@', end: 2.202158}
   - {lab: n, end: 2.343117}
   - {lab: _, end: 2.855}
+  start: 1309.86
+  end: 1312.72
 - prompt: poppy0083
   file: ./pavoque/StefanPoppy/wav/poppy0083.wav
   date: 2007-11-05T10:32:32+0100
@@ -11820,6 +12422,8 @@
   - {lab: '@', end: 1.93}
   - {lab: n, end: 2.022086}
   - {lab: _, end: 2.495}
+  start: 1312.72
+  end: 1315.22
 - prompt: poppy0084
   file: ./pavoque/StefanPoppy/wav/poppy0084.wav
   date: 2007-11-05T10:32:52+0100
@@ -11844,6 +12448,8 @@
   - {lab: '@', end: 1.781963}
   - {lab: n, end: 1.868434}
   - {lab: _, end: 2.495}
+  start: 1315.22
+  end: 1317.72
 - prompt: poppy0085
   file: ./pavoque/StefanPoppy/wav/poppy0085.wav
   date: 2007-11-05T10:32:56+0100
@@ -11864,6 +12470,8 @@
   - {lab: 'e:', end: 1.353763}
   - {lab: '6', end: 1.50884}
   - {lab: _, end: 1.955}
+  start: 1317.72
+  end: 1319.68
 - prompt: poppy0086
   file: ./pavoque/StefanPoppy/wav/poppy0086.wav
   date: 2007-11-05T10:33:00+0100
@@ -11880,6 +12488,8 @@
   - {lab: t, end: 1.317166}
   - {lab: '6', end: 1.485641}
   - {lab: _, end: 1.715}
+  start: 1319.68
+  end: 1321.4
 - prompt: poppy0087
   file: ./pavoque/StefanPoppy/wav/poppy0087.wav
   date: 2007-11-05T10:33:04+0100
@@ -11892,6 +12502,8 @@
   - {lab: z, end: 0.615}
   - {lab: 'o:', end: 0.895364}
   - {lab: _, end: 1.355}
+  start: 1321.4
+  end: 1322.76
 - prompt: poppy0088
   file: ./pavoque/StefanPoppy/wav/poppy0088.wav
   date: 2007-11-05T10:33:08+0100
@@ -11902,6 +12514,8 @@
   - {lab: v, end: 0.486988}
   - {lab: 'i:', end: 0.776746}
   - {lab: _, end: 1.235}
+  start: 1322.76
+  end: 1324.0
 - prompt: poppy0089
   file: ./pavoque/StefanPoppy/wav/poppy0089.wav
   date: 2007-11-05T10:33:14+0100
@@ -11948,6 +12562,8 @@
   - {lab: '@', end: 2.24}
   - {lab: n, end: 2.34111}
   - {lab: _, end: 3.695}
+  start: 1324.0
+  end: 1327.7
 - prompt: poppy0090
   file: ./pavoque/StefanPoppy/wav/poppy0090.wav
   date: 2007-11-05T10:33:18+0100
@@ -11977,6 +12593,8 @@
   - {lab: n, end: 1.69}
   - {lab: s, end: 1.847315}
   - {lab: _, end: 2.735}
+  start: 1327.7
+  end: 1330.44
 - prompt: poppy0092
   file: ./pavoque/StefanPoppy/wav/poppy0092.wav
   date: 2007-11-05T10:33:28+0100
@@ -12008,6 +12626,8 @@
   - {lab: j, end: 1.585}
   - {lab: a, end: 1.780574}
   - {lab: _, end: 2.675}
+  start: 1330.44
+  end: 1333.12
 - prompt: m0251
   file: ./pavoque/StefanPoppy/wav/m0251.wav
   date: 2007-11-05T10:34:32+0100
@@ -12035,6 +12655,8 @@
   - {lab: n, end: 2.207115}
   - {lab: s, end: 2.458771}
   - {lab: _, end: 4.115}
+  start: 1333.12
+  end: 1337.24
 - prompt: m0252
   file: ./pavoque/StefanPoppy/wav/m0252.wav
   date: 2007-11-05T10:34:42+0100
@@ -12081,6 +12703,8 @@
   - {lab: r, end: 3.19}
   - {lab: 'o:', end: 3.266161}
   - {lab: _, end: 5.495}
+  start: 1337.24
+  end: 1342.74
 - prompt: m0253
   file: ./pavoque/StefanPoppy/wav/m0253.wav
   date: 2007-11-05T10:34:56+0100
@@ -12203,6 +12827,8 @@
   - {lab: '6', end: 8.415}
   - {lab: t, end: 8.538646}
   - {lab: _, end: 10.955}
+  start: 1342.74
+  end: 1353.7
 - prompt: m0255
   file: ./pavoque/StefanPoppy/wav/m0255.wav
   date: 2007-11-05T10:35:14+0100
@@ -12241,6 +12867,8 @@
   - {lab: '@', end: 3.205}
   - {lab: n, end: 3.317493}
   - {lab: _, end: 5.195}
+  start: 1353.7
+  end: 1358.9
 - prompt: m0254
   file: ./pavoque/StefanPoppy/wav/m0254.wav
   date: 2007-11-05T10:35:48+0100
@@ -12275,6 +12903,8 @@
   - {lab: k, end: 3.02}
   - {lab: ts, end: 3.235602}
   - {lab: _, end: 4.715}
+  start: 1358.9
+  end: 1363.62
 - prompt: m0256
   file: ./pavoque/StefanPoppy/wav/m0256.wav
   date: 2007-11-05T10:35:58+0100
@@ -12303,6 +12933,8 @@
   - {lab: 'a:', end: 2.53}
   - {lab: n, end: 2.647613}
   - {lab: _, end: 4.055}
+  start: 1363.62
+  end: 1367.68
 - prompt: m0258
   file: ./pavoque/StefanPoppy/wav/m0258.wav
   date: 2007-11-05T10:36:16+0100
@@ -12331,6 +12963,8 @@
   - {lab: t, end: 2.605}
   - {lab: '6', end: 2.779215}
   - {lab: _, end: 4.055}
+  start: 1367.68
+  end: 1371.74
 - prompt: m0257
   file: ./pavoque/StefanPoppy/wav/m0257.wav
   date: 2007-11-05T10:36:44+0100
@@ -12370,6 +13004,8 @@
   - {lab: 'e:', end: 3.08}
   - {lab: 'o:', end: 3.189959}
   - {lab: _, end: 5.075}
+  start: 1371.74
+  end: 1376.82
 - prompt: m0259
   file: ./pavoque/StefanPoppy/wav/m0259.wav
   date: 2007-11-05T10:37:00+0100
@@ -12408,6 +13044,8 @@
   - {lab: O, end: 3.785}
   - {lab: f, end: 3.939778}
   - {lab: _, end: 4.955}
+  start: 1376.82
+  end: 1381.78
 - prompt: m0261
   file: ./pavoque/StefanPoppy/wav/m0261.wav
   date: 2007-11-05T10:37:18+0100
@@ -12445,6 +13083,8 @@
   - {lab: I, end: 2.975}
   - {lab: n, end: 3.116997}
   - {lab: _, end: 5.015}
+  start: 1381.78
+  end: 1386.8
 - prompt: m0262
   file: ./pavoque/StefanPoppy/wav/m0262.wav
   date: 2007-11-05T10:37:26+0100
@@ -12476,6 +13116,8 @@
   - {lab: aI, end: 2.668232}
   - {lab: v, end: 2.857902}
   - {lab: _, end: 4.415}
+  start: 1386.8
+  end: 1391.22
 - prompt: m0263
   file: ./pavoque/StefanPoppy/wav/m0263.wav
   date: 2007-11-05T10:37:34+0100
@@ -12503,6 +13145,8 @@
   - {lab: t, end: 2.598554}
   - {lab: '6', end: 2.7944}
   - {lab: _, end: 4.055}
+  start: 1391.22
+  end: 1395.28
 - prompt: m0264
   file: ./pavoque/StefanPoppy/wav/m0264.wav
   date: 2007-11-05T10:37:42+0100
@@ -12541,6 +13185,8 @@
   - {lab: n, end: 3.075}
   - {lab: s, end: 3.267418}
   - {lab: _, end: 4.715}
+  start: 1395.28
+  end: 1400.0
 - prompt: m0265
   file: ./pavoque/StefanPoppy/wav/m0265.wav
   date: 2007-11-05T10:37:52+0100
@@ -12581,6 +13227,8 @@
   - {lab: z, end: 3.885}
   - {lab: d, end: 4.025}
   - {lab: _, end: 5.375}
+  start: 1400.0
+  end: 1405.38
 - prompt: m0266
   file: ./pavoque/StefanPoppy/wav/m0266.wav
   date: 2007-11-05T10:38:00+0100
@@ -12613,6 +13261,8 @@
   - {lab: '@', end: 2.575}
   - {lab: n, end: 2.683504}
   - {lab: _, end: 4.235}
+  start: 1405.38
+  end: 1409.62
 - prompt: m0267
   file: ./pavoque/StefanPoppy/wav/m0267.wav
   date: 2007-11-05T10:38:10+0100
@@ -12652,6 +13302,8 @@
   - {lab: m, end: 3.515}
   - {lab: 'i:', end: 3.767679}
   - {lab: _, end: 4.895}
+  start: 1409.62
+  end: 1414.52
 - prompt: m0269
   file: ./pavoque/StefanPoppy/wav/m0269.wav
   date: 2007-11-05T10:38:28+0100
@@ -12712,6 +13364,8 @@
   - {lab: 'i:', end: 4.88151}
   - {lab: '6', end: 5.08}
   - {lab: _, end: 6.635}
+  start: 1414.52
+  end: 1421.16
 - prompt: m0270
   file: ./pavoque/StefanPoppy/wav/m0270.wav
   date: 2007-11-05T10:38:36+0100
@@ -12737,6 +13391,8 @@
   - {lab: OY, end: 2.64}
   - {lab: s, end: 2.886108}
   - {lab: _, end: 3.995}
+  start: 1421.16
+  end: 1425.16
 - prompt: m0271
   file: ./pavoque/StefanPoppy/wav/m0271.wav
   date: 2007-11-05T10:38:46+0100
@@ -12785,6 +13441,8 @@
   - {lab: k, end: 3.908957}
   - {lab: 'a:', end: 4.076389}
   - {lab: _, end: 5.615}
+  start: 1425.16
+  end: 1430.78
 - prompt: m0272
   file: ./pavoque/StefanPoppy/wav/m0272.wav
   date: 2007-11-05T10:38:54+0100
@@ -12819,6 +13477,8 @@
   - {lab: v, end: 3.13}
   - {lab: 'i:', end: 3.328187}
   - {lab: _, end: 4.535}
+  start: 1430.78
+  end: 1435.32
 - prompt: m0273
   file: ./pavoque/StefanPoppy/wav/m0273.wav
   date: 2007-11-05T10:39:06+0100
@@ -12886,6 +13546,8 @@
   - {lab: t, end: 5.425501}
   - {lab: 'i:', end: 5.562569}
   - {lab: _, end: 7.475}
+  start: 1435.32
+  end: 1442.8
 - prompt: m0275
   file: ./pavoque/StefanPoppy/wav/m0275.wav
   date: 2007-11-05T10:39:26+0100
@@ -12918,6 +13580,8 @@
   - {lab: a, end: 2.85}
   - {lab: t, end: 3.005167}
   - {lab: _, end: 4.295}
+  start: 1442.8
+  end: 1447.1
 - prompt: m0276
   file: ./pavoque/StefanPoppy/wav/m0276.wav
   date: 2007-11-05T10:40:46+0100
@@ -12976,6 +13640,8 @@
   - {lab: r, end: 6.180832}
   - {lab: '@', end: 6.341493}
   - {lab: _, end: 6.855}
+  start: 1447.1
+  end: 1453.96
 - prompt: m0277
   file: ./pavoque/StefanPoppy/wav/m0277.wav
   date: 2007-11-05T10:40:56+0100
@@ -13016,6 +13682,8 @@
   - {lab: k, end: 3.391468}
   - {lab: 'a:', end: 3.587726}
   - {lab: _, end: 5.475}
+  start: 1453.96
+  end: 1459.44
 - prompt: m0278
   file: ./pavoque/StefanPoppy/wav/m0278.wav
   date: 2007-11-05T10:41:08+0100
@@ -13075,6 +13743,8 @@
   - {lab: '6', end: 5.736119}
   - {lab: ts, end: 5.961095}
   - {lab: _, end: 6.795}
+  start: 1459.44
+  end: 1466.24
 - prompt: m0279
   file: ./pavoque/StefanPoppy/wav/m0279.wav
   date: 2007-11-05T10:41:20+0100
@@ -13158,6 +13828,8 @@
   - {lab: l, end: 7.365243}
   - {lab: n, end: 7.472751}
   - {lab: _, end: 8.775}
+  start: 1466.24
+  end: 1475.02
 - prompt: m0280
   file: ./pavoque/StefanPoppy/wav/m0280.wav
   date: 2007-11-05T10:41:30+0100
@@ -13195,6 +13867,8 @@
   - {lab: n, end: 3.025}
   - {lab: t, end: 3.113769}
   - {lab: _, end: 5.595}
+  start: 1475.02
+  end: 1480.62
 - prompt: m0281
   file: ./pavoque/StefanPoppy/wav/m0281.wav
   date: 2007-11-05T10:42:18+0100
@@ -13276,6 +13950,8 @@
   - {lab: d, end: 6.155}
   - {lab: Z, end: 6.344161}
   - {lab: _, end: 8.955}
+  start: 1480.62
+  end: 1489.58
 - prompt: m0282
   file: ./pavoque/StefanPoppy/wav/m0282.wav
   date: 2007-11-05T10:42:28+0100
@@ -13315,6 +13991,8 @@
   - {lab: l, end: 3.08}
   - {lab: s, end: 3.230743}
   - {lab: _, end: 5.655}
+  start: 1489.58
+  end: 1495.24
 - prompt: m0283
   file: ./pavoque/StefanPoppy/wav/m0283.wav
   date: 2007-11-05T10:42:40+0100
@@ -13381,6 +14059,8 @@
   - {lab: b, end: 6.085}
   - {lab: '6', end: 6.242906}
   - {lab: _, end: 8.415}
+  start: 1495.24
+  end: 1503.66
 - prompt: m0284
   file: ./pavoque/StefanPoppy/wav/m0284.wav
   date: 2007-11-05T10:42:52+0100
@@ -13438,6 +14118,8 @@
   - {lab: I, end: 5.27}
   - {lab: k, end: 5.44}
   - {lab: _, end: 7.155}
+  start: 1503.66
+  end: 1510.82
 - prompt: m0285
   file: ./pavoque/StefanPoppy/wav/m0285.wav
   date: 2007-11-05T10:43:02+0100
@@ -13467,6 +14149,8 @@
   - {lab: aU, end: 3.625}
   - {lab: x, end: 3.757285}
   - {lab: _, end: 5.355}
+  start: 1510.82
+  end: 1516.18
 - prompt: m0286
   file: ./pavoque/StefanPoppy/wav/m0286.wav
   date: 2007-11-05T10:43:10+0100
@@ -13497,6 +14181,8 @@
   - {lab: U, end: 3.675}
   - {lab: t, end: 3.840175}
   - {lab: _, end: 5.475}
+  start: 1516.18
+  end: 1521.66
 - prompt: m0287
   file: ./pavoque/StefanPoppy/wav/m0287.wav
   date: 2007-11-05T10:43:20+0100
@@ -13546,6 +14232,8 @@
   - {lab: n, end: 3.93}
   - {lab: t, end: 4.080481}
   - {lab: _, end: 6.015}
+  start: 1521.66
+  end: 1527.68
 - prompt: m0288
   file: ./pavoque/StefanPoppy/wav/m0288.wav
   date: 2007-11-05T10:43:30+0100
@@ -13574,6 +14262,8 @@
   - {lab: '@', end: 2.185}
   - {lab: n, end: 2.280265}
   - {lab: _, end: 4.695}
+  start: 1527.68
+  end: 1532.38
 - prompt: m0289
   file: ./pavoque/StefanPoppy/wav/m0289.wav
   date: 2007-11-05T10:43:40+0100
@@ -13631,6 +14321,8 @@
   - {lab: U, end: 4.465}
   - {lab: b, end: 4.59}
   - {lab: _, end: 6.855}
+  start: 1532.38
+  end: 1539.24
 - prompt: m0290
   file: ./pavoque/StefanPoppy/wav/m0290.wav
   date: 2007-11-05T10:43:52+0100
@@ -13691,6 +14383,8 @@
   - {lab: '@', end: 4.345}
   - {lab: n, end: 4.45138}
   - {lab: _, end: 6.855}
+  start: 1539.24
+  end: 1546.1
 - prompt: m0291
   file: ./pavoque/StefanPoppy/wav/m0291.wav
   date: 2007-11-05T10:44:02+0100
@@ -13737,6 +14431,8 @@
   - {lab: R, end: 3.975541}
   - {lab: '@', end: 4.079659}
   - {lab: _, end: 6.675}
+  start: 1546.1
+  end: 1552.78
 - prompt: m0292
   file: ./pavoque/StefanPoppy/wav/m0292.wav
   date: 2007-11-05T10:44:12+0100
@@ -13780,6 +14476,8 @@
   - {lab: 'a:', end: 3.67}
   - {lab: n, end: 3.793734}
   - {lab: _, end: 5.895}
+  start: 1552.78
+  end: 1558.68
 - prompt: m0293
   file: ./pavoque/StefanPoppy/wav/m0293.wav
   date: 2007-11-05T10:44:22+0100
@@ -13820,6 +14518,8 @@
   - {lab: 'a:', end: 3.56}
   - {lab: l, end: 3.686162}
   - {lab: _, end: 5.715}
+  start: 1558.68
+  end: 1564.4
 - prompt: m0294
   file: ./pavoque/StefanPoppy/wav/m0294.wav
   date: 2007-11-05T10:44:30+0100
@@ -13847,6 +14547,8 @@
   - {lab: O, end: 2.922327}
   - {lab: n, end: 3.002422}
   - {lab: _, end: 4.695}
+  start: 1564.4
+  end: 1569.1
 - prompt: m0295
   file: ./pavoque/StefanPoppy/wav/m0295.wav
   date: 2007-11-05T10:44:40+0100
@@ -13890,6 +14592,8 @@
   - {lab: '@', end: 4.785}
   - {lab: n, end: 4.908528}
   - {lab: _, end: 6.135}
+  start: 1569.1
+  end: 1575.24
 - prompt: m0296
   file: ./pavoque/StefanPoppy/wav/m0296.wav
   date: 2007-11-05T10:44:52+0100
@@ -13960,6 +14664,8 @@
   - {lab: l, end: 6.44}
   - {lab: t, end: 6.59299}
   - {lab: _, end: 8.595}
+  start: 1575.24
+  end: 1583.84
 - prompt: m0297
   file: ./pavoque/StefanPoppy/wav/m0297.wav
   date: 2007-11-05T10:45:14+0100
@@ -14003,6 +14709,8 @@
   - {lab: '6', end: 3.79}
   - {lab: n, end: 3.890366}
   - {lab: _, end: 6.015}
+  start: 1583.84
+  end: 1589.86
 - prompt: m0298
   file: ./pavoque/StefanPoppy/wav/m0298.wav
   date: 2007-11-05T10:45:22+0100
@@ -14027,6 +14735,8 @@
   - {lab: 'i:', end: 2.48}
   - {lab: l, end: 2.610354}
   - {lab: _, end: 4.755}
+  start: 1589.86
+  end: 1594.62
 - prompt: m0299
   file: ./pavoque/StefanPoppy/wav/m0299.wav
   date: 2007-11-05T10:45:32+0100
@@ -14071,6 +14781,8 @@
   - {lab: a, end: 3.3}
   - {lab: t, end: 3.465}
   - {lab: _, end: 6.075}
+  start: 1594.62
+  end: 1600.7
 - prompt: m0300
   file: ./pavoque/StefanPoppy/wav/m0300.wav
   date: 2007-11-05T10:45:40+0100
@@ -14099,6 +14811,8 @@
   - {lab: '@', end: 2.54}
   - {lab: k, end: 2.734882}
   - {lab: _, end: 4.875}
+  start: 1600.7
+  end: 1605.58
 - prompt: m0301
   file: ./pavoque/StefanPoppy/wav/m0301.wav
   date: 2007-11-05T10:45:54+0100
@@ -14185,6 +14899,8 @@
   - {lab: a, end: 6.955}
   - {lab: n, end: 7.089418}
   - {lab: _, end: 9.075}
+  start: 1605.58
+  end: 1614.66
 - prompt: m0302
   file: ./pavoque/StefanPoppy/wav/m0302.wav
   date: 2007-11-05T10:46:04+0100
@@ -14230,6 +14946,8 @@
   - {lab: aI, end: 3.515}
   - {lab: n, end: 3.608928}
   - {lab: _, end: 5.955}
+  start: 1614.66
+  end: 1620.62
 - prompt: m0303
   file: ./pavoque/StefanPoppy/wav/m0303.wav
   date: 2007-11-05T10:46:48+0100
@@ -14258,6 +14976,8 @@
   - {lab: a, end: 2.435}
   - {lab: n, end: 2.533839}
   - {lab: _, end: 4.815}
+  start: 1620.62
+  end: 1625.44
 - prompt: m0304
   file: ./pavoque/StefanPoppy/wav/m0304.wav
   date: 2007-11-05T10:47:00+0100
@@ -14343,6 +15063,8 @@
   - {lab: I, end: 6.86}
   - {lab: C, end: 7.045}
   - {lab: _, end: 8.955}
+  start: 1625.44
+  end: 1634.4
 - prompt: m0305
   file: ./pavoque/StefanPoppy/wav/m0305.wav
   date: 2007-11-05T10:47:14+0100
@@ -14422,6 +15144,8 @@
   - {lab: k, end: 5.95}
   - {lab: 'a:', end: 6.17}
   - {lab: _, end: 8.535}
+  start: 1634.4
+  end: 1642.94
 - prompt: m0306
   file: ./pavoque/StefanPoppy/wav/m0306.wav
   date: 2007-11-05T10:47:22+0100
@@ -14463,6 +15187,8 @@
   - {lab: 'i:', end: 3.717426}
   - {lab: n, end: 3.816939}
   - {lab: _, end: 5.715}
+  start: 1642.94
+  end: 1648.66
 - prompt: m0308
   file: ./pavoque/StefanPoppy/wav/m0308.wav
   date: 2007-11-05T10:47:46+0100
@@ -14540,6 +15266,8 @@
   - {lab: j, end: 7.396468}
   - {lab: 'o:', end: 7.627179}
   - {lab: _, end: 8.475}
+  start: 1648.66
+  end: 1657.14
 - prompt: m0309
   file: ./pavoque/StefanPoppy/wav/m0309.wav
   date: 2007-11-05T10:50:12+0100
@@ -14632,6 +15360,8 @@
   - {lab: 'i:', end: 9.618962}
   - {lab: 'o:', end: 9.748221}
   - {lab: _, end: 11.495}
+  start: 1657.14
+  end: 1668.64
 - prompt: m0310
   file: ./pavoque/StefanPoppy/wav/m0310.wav
   date: 2007-11-05T10:50:34+0100
@@ -14667,6 +15397,8 @@
   - {lab: v, end: 3.13}
   - {lab: aU, end: 3.406446}
   - {lab: _, end: 5.595}
+  start: 1668.64
+  end: 1674.24
 - prompt: m0311
   file: ./pavoque/StefanPoppy/wav/m0311.wav
   date: 2007-11-05T10:50:44+0100
@@ -14703,6 +15435,8 @@
   - {lab: aI, end: 3.35}
   - {lab: n, end: 3.448757}
   - {lab: _, end: 5.595}
+  start: 1674.24
+  end: 1679.84
 - prompt: m0312
   file: ./pavoque/StefanPoppy/wav/m0312.wav
   date: 2007-11-05T10:50:54+0100
@@ -14745,6 +15479,8 @@
   - {lab: U, end: 3.16}
   - {lab: m, end: 3.250942}
   - {lab: _, end: 5.775}
+  start: 1679.84
+  end: 1685.62
 - prompt: m0313
   file: ./pavoque/StefanPoppy/wav/m0313.wav
   date: 2007-11-05T10:51:06+0100
@@ -14814,6 +15550,8 @@
   - {lab: '@', end: 5.43}
   - {lab: s, end: 5.605127}
   - {lab: _, end: 8.055}
+  start: 1685.62
+  end: 1693.68
 - prompt: m0314
   file: ./pavoque/StefanPoppy/wav/m0314.wav
   date: 2007-11-05T10:51:16+0100
@@ -14857,6 +15595,8 @@
   - {lab: '@', end: 3.66}
   - {lab: n, end: 3.806196}
   - {lab: _, end: 5.835}
+  start: 1693.68
+  end: 1699.52
 - prompt: m0315
   file: ./pavoque/StefanPoppy/wav/m0315.wav
   date: 2007-11-05T10:51:26+0100
@@ -14901,6 +15641,8 @@
   - {lab: '@', end: 3.52}
   - {lab: t, end: 3.683745}
   - {lab: _, end: 5.955}
+  start: 1699.52
+  end: 1705.48
 - prompt: m0316
   file: ./pavoque/StefanPoppy/wav/m0316.wav
   date: 2007-11-05T10:51:38+0100
@@ -14963,6 +15705,8 @@
   - {lab: 'E:', end: 5.417237}
   - {lab: 'E:', end: 5.634588}
   - {lab: _, end: 7.335}
+  start: 1705.48
+  end: 1712.82
 - prompt: m0317
   file: ./pavoque/StefanPoppy/wav/m0317.wav
   date: 2007-11-05T10:52:12+0100
@@ -15007,6 +15751,8 @@
   - {lab: '@', end: 3.295}
   - {lab: n, end: 3.420208}
   - {lab: _, end: 5.955}
+  start: 1712.82
+  end: 1718.78
 - prompt: m0318
   file: ./pavoque/StefanPoppy/wav/m0318.wav
   date: 2007-11-05T10:52:28+0100
@@ -15136,6 +15882,8 @@
   - {lab: '@', end: 10.21}
   - {lab: t, end: 10.363965}
   - {lab: _, end: 12.075}
+  start: 1718.78
+  end: 1730.86
 - prompt: m0319
   file: ./pavoque/StefanPoppy/wav/m0319.wav
   date: 2007-11-05T10:52:40+0100
@@ -15203,6 +15951,8 @@
   - {lab: I, end: 6.489004}
   - {lab: z, end: 6.69134}
   - {lab: _, end: 7.455}
+  start: 1730.86
+  end: 1738.32
 - prompt: m0320
   file: ./pavoque/StefanPoppy/wav/m0320.wav
   date: 2007-11-05T10:52:50+0100
@@ -15236,6 +15986,8 @@
   - {lab: EI, end: 4.005}
   - {lab: m, end: 4.170926}
   - {lab: _, end: 5.535}
+  start: 1738.32
+  end: 1743.86
 - prompt: m0321
   file: ./pavoque/StefanPoppy/wav/m0321.wav
   date: 2007-11-05T10:53:02+0100
@@ -15292,6 +16044,8 @@
   - {lab: 'o:', end: 4.710942}
   - {lab: '6', end: 4.764414}
   - {lab: _, end: 7.215}
+  start: 1743.86
+  end: 1751.08
 - prompt: m0322
   file: ./pavoque/StefanPoppy/wav/m0322.wav
   date: 2007-11-05T10:53:14+0100
@@ -15358,6 +16112,8 @@
   - {lab: '@', end: 5.665}
   - {lab: n, end: 5.760823}
   - {lab: _, end: 7.755}
+  start: 1751.08
+  end: 1758.84
 - prompt: m0323
   file: ./pavoque/StefanPoppy/wav/m0323.wav
   date: 2007-11-05T10:53:22+0100
@@ -15395,6 +16151,8 @@
   - {lab: n, end: 3.84}
   - {lab: t, end: 3.993021}
   - {lab: _, end: 5.415}
+  start: 1758.84
+  end: 1764.26
 - prompt: m0324
   file: ./pavoque/StefanPoppy/wav/m0324.wav
   date: 2007-11-05T10:53:32+0100
@@ -15425,6 +16183,8 @@
   - {lab: a, end: 3.189848}
   - {lab: R, end: 3.372983}
   - {lab: _, end: 5.115}
+  start: 1764.26
+  end: 1769.38
 - prompt: m0325
   file: ./pavoque/StefanPoppy/wav/m0325.wav
   date: 2007-11-05T10:53:40+0100
@@ -15462,6 +16222,8 @@
   - {lab: n, end: 2.79}
   - {lab: t, end: 2.91185}
   - {lab: _, end: 5.415}
+  start: 1769.38
+  end: 1774.8
 - prompt: m0326
   file: ./pavoque/StefanPoppy/wav/m0326.wav
   date: 2007-11-05T10:53:50+0100
@@ -15488,6 +16250,8 @@
   - {lab: a, end: 2.68}
   - {lab: x, end: 2.883159}
   - {lab: _, end: 4.455}
+  start: 1774.8
+  end: 1779.26
 - prompt: m0327
   file: ./pavoque/StefanPoppy/wav/m0327.wav
   date: 2007-11-05T10:54:02+0100
@@ -15566,6 +16330,8 @@
   - {lab: aI, end: 5.66}
   - {lab: n, end: 5.770824}
   - {lab: _, end: 8.175}
+  start: 1779.26
+  end: 1787.44
 - prompt: m0328
   file: ./pavoque/StefanPoppy/wav/m0328.wav
   date: 2007-11-05T10:54:12+0100
@@ -15613,6 +16379,8 @@
   - {lab: I, end: 4.09}
   - {lab: S, end: 4.335}
   - {lab: _, end: 6.315}
+  start: 1787.44
+  end: 1793.76
 - prompt: m0329
   file: ./pavoque/StefanPoppy/wav/m0329.wav
   date: 2007-11-05T10:54:22+0100
@@ -15661,6 +16429,8 @@
   - {lab: '@', end: 4.035}
   - {lab: n, end: 4.199831}
   - {lab: _, end: 6.195}
+  start: 1793.76
+  end: 1799.96
 - prompt: m0330
   file: ./pavoque/StefanPoppy/wav/m0330.wav
   date: 2007-11-05T10:54:46+0100
@@ -15696,6 +16466,8 @@
   - {lab: 'E:', end: 3.80478}
   - {lab: '6', end: 4.003955}
   - {lab: _, end: 5.535}
+  start: 1799.96
+  end: 1805.5
 - prompt: m0331
   file: ./pavoque/StefanPoppy/wav/m0331.wav
   date: 2007-11-05T10:54:56+0100
@@ -15752,6 +16524,8 @@
   - {lab: '@', end: 4.687542}
   - {lab: n, end: 4.782489}
   - {lab: _, end: 6.915}
+  start: 1805.5
+  end: 1812.42
 - prompt: m0332
   file: ./pavoque/StefanPoppy/wav/m0332.wav
   date: 2007-11-05T10:55:06+0100
@@ -15784,6 +16558,8 @@
   - {lab: a, end: 2.87}
   - {lab: n, end: 3.019316}
   - {lab: _, end: 5.355}
+  start: 1812.42
+  end: 1817.78
 - prompt: m0333
   file: ./pavoque/StefanPoppy/wav/m0333.wav
   date: 2007-11-05T10:55:16+0100
@@ -15831,6 +16607,8 @@
   - {lab: aI, end: 4.21}
   - {lab: k, end: 4.33}
   - {lab: _, end: 6.495}
+  start: 1817.78
+  end: 1824.28
 - prompt: m0335
   file: ./pavoque/StefanPoppy/wav/m0335.wav
   date: 2007-11-05T10:55:40+0100
@@ -15888,6 +16666,8 @@
   - {lab: I, end: 4.53014}
   - {lab: t, end: 4.729428}
   - {lab: _, end: 7.095}
+  start: 1824.28
+  end: 1831.38
 - prompt: m0334
   file: ./pavoque/StefanPoppy/wav/m0334.wav
   date: 2007-11-05T10:56:52+0100
@@ -15964,6 +16744,8 @@
   - {lab: a, end: 6.11}
   - {lab: l, end: 6.225997}
   - {lab: _, end: 8.475}
+  start: 1831.38
+  end: 1839.86
 - prompt: m0336
   file: ./pavoque/StefanPoppy/wav/m0336.wav
   date: 2007-11-05T10:57:10+0100
@@ -16020,6 +16802,8 @@
   - {lab: '6', end: 3.895}
   - {lab: t, end: 4.031499}
   - {lab: _, end: 7.155}
+  start: 1839.86
+  end: 1847.02
 - prompt: m0337
   file: ./pavoque/StefanPoppy/wav/m0337.wav
   date: 2007-11-05T10:57:22+0100
@@ -16101,6 +16885,8 @@
   - {lab: I, end: 7.58}
   - {lab: S, end: 7.835}
   - {lab: _, end: 8.775}
+  start: 1847.02
+  end: 1855.8
 - prompt: m0339
   file: ./pavoque/StefanPoppy/wav/m0339.wav
   date: 2007-11-05T10:57:42+0100
@@ -16140,6 +16926,8 @@
   - {lab: j, end: 2.441887}
   - {lab: 'u:', end: 2.664996}
   - {lab: _, end: 5.475}
+  start: 1855.8
+  end: 1861.28
 - prompt: m0338
   file: ./pavoque/StefanPoppy/wav/m0338.wav
   date: 2007-11-05T10:58:26+0100
@@ -16178,6 +16966,8 @@
   - {lab: '@', end: 2.735}
   - {lab: n, end: 2.850081}
   - {lab: _, end: 5.715}
+  start: 1861.28
+  end: 1867.0
 - prompt: m0340
   file: ./pavoque/StefanPoppy/wav/m0340.wav
   date: 2007-11-05T10:58:42+0100
@@ -16258,6 +17048,8 @@
   - {lab: l, end: 7.245}
   - {lab: t, end: 7.379168}
   - {lab: _, end: 8.895}
+  start: 1867.0
+  end: 1875.9
 - prompt: m0341
   file: ./pavoque/StefanPoppy/wav/m0341.wav
   date: 2007-11-05T10:58:52+0100
@@ -16305,6 +17097,8 @@
   - {lab: 'o:', end: 4.4}
   - {lab: n, end: 4.487457}
   - {lab: _, end: 6.195}
+  start: 1875.9
+  end: 1882.1
 - prompt: m0343
   file: ./pavoque/StefanPoppy/wav/m0343.wav
   date: 2007-11-05T11:02:26+0100
@@ -16363,6 +17157,8 @@
   - {lab: aI, end: 4.36}
   - {lab: C, end: 4.535077}
   - {lab: _, end: 7.035}
+  start: 1882.1
+  end: 1889.14
 - prompt: m0344
   file: ./pavoque/StefanPoppy/wav/m0344.wav
   date: 2007-11-05T11:02:36+0100
@@ -16419,6 +17215,8 @@
   - {lab: 'o:', end: 4.105}
   - {lab: n, end: 4.197679}
   - {lab: _, end: 7.155}
+  start: 1889.14
+  end: 1896.3
 - prompt: m0345
   file: ./pavoque/StefanPoppy/wav/m0345.wav
   date: 2007-11-05T11:03:46+0100
@@ -16451,6 +17249,8 @@
   - {lab: O, end: 2.62729}
   - {lab: l, end: 2.70427}
   - {lab: _, end: 5.055}
+  start: 1896.3
+  end: 1901.36
 - prompt: m0346
   file: ./pavoque/StefanPoppy/wav/m0346.wav
   date: 2007-11-05T11:03:58+0100
@@ -16530,6 +17330,8 @@
   - {lab: '@', end: 6.89}
   - {lab: t, end: 7.08314}
   - {lab: _, end: 8.715}
+  start: 1901.36
+  end: 1910.08
 - prompt: m0347
   file: ./pavoque/StefanPoppy/wav/m0347.wav
   date: 2007-11-05T11:04:12+0100
@@ -16602,6 +17404,8 @@
   - {lab: l, end: 5.59}
   - {lab: t, end: 5.713838}
   - {lab: _, end: 8.415}
+  start: 1910.08
+  end: 1918.5
 - prompt: m0348
   file: ./pavoque/StefanPoppy/wav/m0348.wav
   date: 2007-11-05T11:04:20+0100
@@ -16633,6 +17437,8 @@
   - {lab: '@', end: 2.725}
   - {lab: n, end: 2.834869}
   - {lab: _, end: 5.055}
+  start: 1918.5
+  end: 1923.56
 - prompt: m0350
   file: ./pavoque/StefanPoppy/wav/m0350.wav
   date: 2007-11-05T11:04:42+0100
@@ -16677,6 +17483,8 @@
   - {lab: R, end: 4.29}
   - {lab: '6', end: 4.419218}
   - {lab: _, end: 6.075}
+  start: 1923.56
+  end: 1929.64
 - prompt: m0349
   file: ./pavoque/StefanPoppy/wav/m0349.wav
   date: 2007-11-05T11:05:10+0100
@@ -16747,6 +17555,8 @@
   - {lab: C, end: 7.070362}
   - {lab: t, end: 7.161141}
   - {lab: _, end: 8.355}
+  start: 1929.64
+  end: 1938.0
 - prompt: poppy0093
   file: ./pavoque/StefanPoppy/wav/poppy0093.wav
   date: 2007-11-05T11:29:10+0100
@@ -16770,6 +17580,8 @@
   - {lab: I, end: 1.544735}
   - {lab: m, end: 1.639283}
   - {lab: _, end: 2.315}
+  start: 1938.0
+  end: 1940.32
 - prompt: poppy0094
   file: ./pavoque/StefanPoppy/wav/poppy0094.wav
   date: 2007-11-05T11:29:14+0100
@@ -16795,6 +17607,8 @@
   - {lab: I, end: 1.405}
   - {lab: m, end: 1.549861}
   - {lab: _, end: 2.435}
+  start: 1940.32
+  end: 1942.76
 - prompt: poppy0095
   file: ./pavoque/StefanPoppy/wav/poppy0095.wav
   date: 2007-11-05T11:29:20+0100
@@ -16825,6 +17639,8 @@
   - {lab: aU, end: 2.05}
   - {lab: s, end: 2.223776}
   - {lab: _, end: 2.975}
+  start: 1942.76
+  end: 1945.74
 - prompt: poppy0096
   file: ./pavoque/StefanPoppy/wav/poppy0096.wav
   date: 2007-11-05T11:29:24+0100
@@ -16849,6 +17665,8 @@
   - {lab: t, end: 1.84288}
   - {lab: '@', end: 1.953985}
   - {lab: _, end: 2.195}
+  start: 1945.74
+  end: 1947.94
 - prompt: poppy0097
   file: ./pavoque/StefanPoppy/wav/poppy0097.wav
   date: 2007-11-05T11:29:28+0100
@@ -16870,6 +17688,8 @@
   - {lab: '@', end: 1.665786}
   - {lab: n, end: 1.801952}
   - {lab: _, end: 2.135}
+  start: 1947.94
+  end: 1950.08
 - prompt: poppy0098
   file: ./pavoque/StefanPoppy/wav/poppy0098.wav
   date: 2007-11-05T11:29:34+0100
@@ -16910,6 +17730,8 @@
   - {lab: l, end: 2.617012}
   - {lab: s, end: 2.810496}
   - {lab: _, end: 3.395}
+  start: 1950.08
+  end: 1953.48
 - prompt: poppy0099
   file: ./pavoque/StefanPoppy/wav/poppy0099.wav
   date: 2007-11-05T11:29:40+0100
@@ -16944,6 +17766,8 @@
   - {lab: '@', end: 2.585}
   - {lab: n, end: 2.723773}
   - {lab: _, end: 2.975}
+  start: 1953.48
+  end: 1956.46
 - prompt: poppy0100
   file: ./pavoque/StefanPoppy/wav/poppy0100.wav
   date: 2007-11-05T11:29:46+0100
@@ -16985,6 +17809,8 @@
   - {lab: '@', end: 2.826934}
   - {lab: n, end: 2.916128}
   - {lab: _, end: 3.755}
+  start: 1956.46
+  end: 1960.22
 - prompt: poppy0101
   file: ./pavoque/StefanPoppy/wav/poppy0101.wav
   date: 2007-11-05T11:29:54+0100
@@ -17047,6 +17873,8 @@
   - {lab: '@', end: 4.343943}
   - {lab: n, end: 4.431659}
   - {lab: _, end: 5.195}
+  start: 1960.22
+  end: 1965.42
 - prompt: poppy0102
   file: ./pavoque/StefanPoppy/wav/poppy0102.wav
   date: 2007-11-05T11:30:00+0100
@@ -17086,6 +17914,8 @@
   - {lab: k, end: 2.700023}
   - {lab: t, end: 2.793219}
   - {lab: _, end: 3.635}
+  start: 1965.42
+  end: 1969.06
 - prompt: poppy0103
   file: ./pavoque/StefanPoppy/wav/poppy0103.wav
   date: 2007-11-05T11:30:14+0100
@@ -17123,6 +17953,8 @@
   - {lab: s, end: 2.619608}
   - {lab: t, end: 2.719978}
   - {lab: _, end: 3.215}
+  start: 1969.06
+  end: 1972.28
 - prompt: poppy0104
   file: ./pavoque/StefanPoppy/wav/poppy0104.wav
   date: 2007-11-05T11:30:20+0100
@@ -17146,6 +17978,8 @@
   - {lab: C, end: 1.433432}
   - {lab: t, end: 1.54385}
   - {lab: _, end: 2.495}
+  start: 1972.28
+  end: 1974.78
 - prompt: poppy0105
   file: ./pavoque/StefanPoppy/wav/poppy0105.wav
   date: 2007-11-05T11:30:26+0100
@@ -17197,6 +18031,8 @@
   - {lab: '6', end: 2.841677}
   - {lab: t, end: 2.973926}
   - {lab: _, end: 4.595}
+  start: 1974.78
+  end: 1979.38
 - prompt: poppy0106
   file: ./pavoque/StefanPoppy/wav/poppy0106.wav
   date: 2007-11-05T11:30:34+0100
@@ -17253,6 +18089,8 @@
   - {lab: '@', end: 3.75}
   - {lab: n, end: 3.873596}
   - {lab: _, end: 4.895}
+  start: 1979.38
+  end: 1984.28
 - prompt: poppy0107
   file: ./pavoque/StefanPoppy/wav/poppy0107.wav
   date: 2007-11-05T11:30:38+0100
@@ -17275,6 +18113,8 @@
   - {lab: O, end: 1.565}
   - {lab: n, end: 1.662032}
   - {lab: _, end: 2.015}
+  start: 1984.28
+  end: 1986.3
 - prompt: poppy0108
   file: ./pavoque/StefanPoppy/wav/poppy0108.wav
   date: 2007-11-05T11:31:00+0100
@@ -17336,6 +18176,8 @@
   - {lab: z, end: 4.585}
   - {lab: 'o:', end: 4.754818}
   - {lab: _, end: 5.615}
+  start: 1986.3
+  end: 1991.92
 - prompt: poppy0109
   file: ./pavoque/StefanPoppy/wav/poppy0109.wav
   date: 2007-11-05T11:31:06+0100
@@ -17367,6 +18209,8 @@
   - {lab: '6', end: 2.2}
   - {lab: n, end: 2.303092}
   - {lab: _, end: 2.795}
+  start: 1991.92
+  end: 1994.72
 - prompt: poppy0110
   file: ./pavoque/StefanPoppy/wav/poppy0110.wav
   date: 2007-11-05T11:31:10+0100
@@ -17394,6 +18238,8 @@
   - {lab: '6', end: 1.65}
   - {lab: n, end: 1.759553}
   - {lab: _, end: 2.555}
+  start: 1994.72
+  end: 1997.28
 - prompt: poppy0111
   file: ./pavoque/StefanPoppy/wav/poppy0111.wav
   date: 2007-11-05T11:31:16+0100
@@ -17432,6 +18278,8 @@
   - {lab: '@', end: 2.39}
   - {lab: s, end: 2.559546}
   - {lab: _, end: 3.095}
+  start: 1997.28
+  end: 2000.38
 - prompt: poppy0112
   file: ./pavoque/StefanPoppy/wav/poppy0112.wav
   date: 2007-11-05T11:31:22+0100
@@ -17472,6 +18320,8 @@
   - {lab: '@', end: 2.84}
   - {lab: n, end: 2.971151}
   - {lab: _, end: 3.155}
+  start: 2000.38
+  end: 2003.54
 - prompt: poppy0113
   file: ./pavoque/StefanPoppy/wav/poppy0113.wav
   date: 2007-11-05T11:31:28+0100
@@ -17509,6 +18359,8 @@
   - {lab: '6', end: 2.755079}
   - {lab: n, end: 2.860788}
   - {lab: _, end: 3.335}
+  start: 2003.54
+  end: 2006.88
 - prompt: poppy0114
   file: ./pavoque/StefanPoppy/wav/poppy0114.wav
   date: 2007-11-05T11:31:32+0100
@@ -17527,6 +18379,8 @@
   - {lab: d, end: 1.223615}
   - {lab: 'u:', end: 1.402697}
   - {lab: _, end: 1.835}
+  start: 2006.88
+  end: 2008.72
 - prompt: poppy0115
   file: ./pavoque/StefanPoppy/wav/poppy0115.wav
   date: 2007-11-05T11:31:38+0100
@@ -17560,6 +18414,8 @@
   - {lab: '@', end: 2.25}
   - {lab: n, end: 2.372489}
   - {lab: _, end: 3.095}
+  start: 2008.72
+  end: 2011.82
 - prompt: poppy0116
   file: ./pavoque/StefanPoppy/wav/poppy0116.wav
   date: 2007-11-05T11:31:40+0100
@@ -17571,6 +18427,8 @@
   - {lab: a, end: 0.77}
   - {lab: n, end: 0.986567}
   - {lab: _, end: 1.295}
+  start: 2011.82
+  end: 2013.12
 - prompt: poppy0117
   file: ./pavoque/StefanPoppy/wav/poppy0117.wav
   date: 2007-11-05T11:31:46+0100
@@ -17591,6 +18449,8 @@
   - {lab: a, end: 1.505202}
   - {lab: s, end: 1.683537}
   - {lab: _, end: 2.075}
+  start: 2013.12
+  end: 2015.2
 - prompt: poppy0118
   file: ./pavoque/StefanPoppy/wav/poppy0118.wav
   date: 2007-11-05T11:31:50+0100
@@ -17616,6 +18476,8 @@
   - {lab: '@', end: 1.51}
   - {lab: n, end: 1.597543}
   - {lab: _, end: 2.435}
+  start: 2015.2
+  end: 2017.64
 - prompt: poppy0119
   file: ./pavoque/StefanPoppy/wav/poppy0119.wav
   date: 2007-11-05T11:31:56+0100
@@ -17647,6 +18509,8 @@
   - {lab: a, end: 2.1}
   - {lab: n, end: 2.170921}
   - {lab: _, end: 2.855}
+  start: 2017.64
+  end: 2020.5
 - prompt: poppy0121
   file: ./pavoque/StefanPoppy/wav/poppy0121.wav
   date: 2007-11-05T11:32:08+0100
@@ -17687,6 +18551,8 @@
   - {lab: I, end: 2.6}
   - {lab: C, end: 2.774682}
   - {lab: _, end: 3.575}
+  start: 2020.5
+  end: 2024.08
 - prompt: poppy0122
   file: ./pavoque/StefanPoppy/wav/poppy0122.wav
   date: 2007-11-05T11:32:12+0100
@@ -17713,6 +18579,8 @@
   - {lab: s, end: 2.06377}
   - {lab: '6', end: 2.204768}
   - {lab: _, end: 2.435}
+  start: 2024.08
+  end: 2026.52
 - prompt: poppy0120
   file: ./pavoque/StefanPoppy/wav/poppy0120.wav
   date: 2007-11-05T11:32:44+0100
@@ -17754,6 +18622,8 @@
   - {lab: '@', end: 2.575}
   - {lab: n, end: 2.687465}
   - {lab: _, end: 3.575}
+  start: 2026.52
+  end: 2030.1
 - prompt: poppy0123
   file: ./pavoque/StefanPoppy/wav/poppy0123.wav
   date: 2007-11-05T11:32:54+0100
@@ -17794,6 +18664,8 @@
   - {lab: '@', end: 2.927377}
   - {lab: n, end: 3.018712}
   - {lab: _, end: 3.695}
+  start: 2030.1
+  end: 2033.8
 - prompt: poppy0124
   file: ./pavoque/StefanPoppy/wav/poppy0124.wav
   date: 2007-11-05T11:33:02+0100
@@ -17843,6 +18715,8 @@
   - {lab: s, end: 3.439076}
   - {lab: t, end: 3.540753}
   - {lab: _, end: 4.415}
+  start: 2033.8
+  end: 2038.22
 - prompt: poppy0125
   file: ./pavoque/StefanPoppy/wav/poppy0125.wav
   date: 2007-11-05T11:33:06+0100
@@ -17859,6 +18733,8 @@
   - {lab: t, end: 1.098759}
   - {lab: '6', end: 1.282551}
   - {lab: _, end: 1.715}
+  start: 2038.22
+  end: 2039.94
 - prompt: poppy0126
   file: ./pavoque/StefanPoppy/wav/poppy0126.wav
   date: 2007-11-05T11:33:10+0100
@@ -17871,6 +18747,8 @@
   - {lab: z, end: 0.6}
   - {lab: 'o:', end: 0.852735}
   - {lab: _, end: 1.355}
+  start: 2039.94
+  end: 2041.3
 - prompt: poppy0127
   file: ./pavoque/StefanPoppy/wav/poppy0127.wav
   date: 2007-11-05T11:33:22+0100
@@ -17881,6 +18759,8 @@
   - {lab: v, end: 0.522692}
   - {lab: 'i:', end: 0.846494}
   - {lab: _, end: 1.235}
+  start: 2041.3
+  end: 2042.54
 - prompt: poppy0128
   file: ./pavoque/StefanPoppy/wav/poppy0128.wav
   date: 2007-11-05T11:33:28+0100
@@ -17927,6 +18807,8 @@
   - {lab: '@', end: 2.355}
   - {lab: n, end: 2.438666}
   - {lab: _, end: 3.695}
+  start: 2042.54
+  end: 2046.24
 - prompt: poppy0129
   file: ./pavoque/StefanPoppy/wav/poppy0129.wav
   date: 2007-11-05T11:33:32+0100
@@ -17956,6 +18838,8 @@
   - {lab: n, end: 1.758223}
   - {lab: s, end: 1.933779}
   - {lab: _, end: 2.735}
+  start: 2046.24
+  end: 2048.98
 - prompt: poppy0130
   file: ./pavoque/StefanPoppy/wav/poppy0130.wav
   date: 2007-11-05T11:33:38+0100
@@ -17982,6 +18866,8 @@
   - {lab: aI, end: 1.61}
   - {lab: k, end: 1.762879}
   - {lab: _, end: 2.555}
+  start: 2048.98
+  end: 2051.54
 - prompt: poppy0131
   file: ./pavoque/StefanPoppy/wav/poppy0131.wav
   date: 2007-11-05T11:33:42+0100
@@ -18013,6 +18899,8 @@
   - {lab: j, end: 1.58}
   - {lab: a, end: 1.734029}
   - {lab: _, end: 2.675}
+  start: 2051.54
+  end: 2054.22
 - prompt: poppy0132
   file: ./pavoque/StefanPoppy/wav/poppy0132.wav
   date: 2007-11-05T11:33:48+0100
@@ -18046,6 +18934,8 @@
   - {lab: '@', end: 1.985}
   - {lab: n, end: 2.05148}
   - {lab: _, end: 2.735}
+  start: 2054.22
+  end: 2056.96
 - prompt: poppy0133
   file: ./pavoque/StefanPoppy/wav/poppy0133.wav
   date: 2007-11-05T11:33:52+0100
@@ -18073,6 +18963,8 @@
   - {lab: '@', end: 2.1}
   - {lab: s, end: 2.31}
   - {lab: _, end: 2.315}
+  start: 2056.96
+  end: 2059.28
 - prompt: poppy0134
   file: ./pavoque/StefanPoppy/wav/poppy0134.wav
   date: 2007-11-05T11:33:58+0100
@@ -18105,6 +18997,8 @@
   - {lab: '@', end: 2.376914}
   - {lab: n, end: 2.497289}
   - {lab: _, end: 2.795}
+  start: 2059.28
+  end: 2062.08
 - prompt: poppy0135
   file: ./pavoque/StefanPoppy/wav/poppy0135.wav
   date: 2007-11-05T11:34:04+0100
@@ -18146,6 +19040,8 @@
   - {lab: x, end: 2.458413}
   - {lab: t, end: 2.588893}
   - {lab: _, end: 3.575}
+  start: 2062.08
+  end: 2065.66
 - prompt: poppy0136
   file: ./pavoque/StefanPoppy/wav/poppy0136.wav
   date: 2007-11-05T11:34:10+0100
@@ -18179,6 +19075,8 @@
   - {lab: '@', end: 1.846561}
   - {lab: n, end: 1.952309}
   - {lab: _, end: 2.855}
+  start: 2065.66
+  end: 2068.52
 - prompt: poppy0137
   file: ./pavoque/StefanPoppy/wav/poppy0137.wav
   date: 2007-11-05T11:34:14+0100
@@ -18207,6 +19105,8 @@
   - {lab: s, end: 1.91}
   - {lab: '6', end: 2.071031}
   - {lab: _, end: 2.615}
+  start: 2068.52
+  end: 2071.14
 - prompt: poppy0138
   file: ./pavoque/StefanPoppy/wav/poppy0138.wav
   date: 2007-11-05T11:34:20+0100
@@ -18230,6 +19130,8 @@
   - {lab: t, end: 1.766015}
   - {lab: '@', end: 1.88375}
   - {lab: _, end: 2.495}
+  start: 2071.14
+  end: 2073.64
 - prompt: poppy0139
   file: ./pavoque/StefanPoppy/wav/poppy0139.wav
   date: 2007-11-05T11:34:26+0100
@@ -18273,6 +19175,8 @@
   - {lab: aI, end: 3.585}
   - {lab: n, end: 3.67399}
   - {lab: _, end: 4.115}
+  start: 2073.64
+  end: 2077.76
 - prompt: poppy0140
   file: ./pavoque/StefanPoppy/wav/poppy0140.wav
   date: 2007-11-05T11:34:30+0100
@@ -18300,6 +19204,8 @@
   - {lab: s, end: 1.845}
   - {lab: '6', end: 2.020833}
   - {lab: _, end: 2.435}
+  start: 2077.76
+  end: 2080.2
 - prompt: poppy0141
   file: ./pavoque/StefanPoppy/wav/poppy0141.wav
   date: 2007-11-05T11:34:38+0100
@@ -18345,6 +19251,8 @@
   - {lab: '6', end: 3.495778}
   - {lab: t, end: 3.58284}
   - {lab: _, end: 4.295}
+  start: 2080.2
+  end: 2084.5
 - prompt: poppy0142
   file: ./pavoque/StefanPoppy/wav/poppy0142.wav
   date: 2007-11-05T11:34:42+0100
@@ -18384,6 +19292,8 @@
   - {lab: 'u:', end: 2.28}
   - {lab: n, end: 2.403172}
   - {lab: _, end: 3.275}
+  start: 2084.5
+  end: 2087.78
 - prompt: poppy0145
   file: ./pavoque/StefanPoppy/wav/poppy0145.wav
   date: 2007-11-05T11:35:02+0100
@@ -18402,6 +19312,8 @@
   - {lab: d, end: 1.30084}
   - {lab: 'u:', end: 1.485}
   - {lab: _, end: 1.835}
+  start: 2087.78
+  end: 2089.62
 - prompt: poppy0146
   file: ./pavoque/StefanPoppy/wav/poppy0146.wav
   date: 2007-11-05T11:35:08+0100
@@ -18422,6 +19334,8 @@
   - {lab: a, end: 1.445}
   - {lab: s, end: 1.609675}
   - {lab: _, end: 2.075}
+  start: 2089.62
+  end: 2091.7
 - prompt: poppy0147
   file: ./pavoque/StefanPoppy/wav/poppy0147.wav
   date: 2007-11-05T11:35:12+0100
@@ -18447,6 +19361,8 @@
   - {lab: '@', end: 1.57}
   - {lab: n, end: 1.696641}
   - {lab: _, end: 2.435}
+  start: 2091.7
+  end: 2094.14
 - prompt: poppy0143
   file: ./pavoque/StefanPoppy/wav/poppy0143.wav
   date: 2007-11-05T11:35:52+0100
@@ -18533,6 +19449,8 @@
   - {lab: '@', end: 5.530788}
   - {lab: n, end: 5.607845}
   - {lab: _, end: 7.055}
+  start: 2094.14
+  end: 2101.2
 - prompt: poppy0144
   file: ./pavoque/StefanPoppy/wav/poppy0144.wav
   date: 2007-11-05T11:36:14+0100
@@ -18574,6 +19492,8 @@
   - {lab: '@', end: 2.97621}
   - {lab: n, end: 3.087227}
   - {lab: _, end: 3.635}
+  start: 2101.2
+  end: 2104.84
 - prompt: poppy0148
   file: ./pavoque/StefanPoppy/wav/poppy0148.wav
   date: 2007-11-05T11:36:28+0100
@@ -18644,6 +19564,8 @@
   - {lab: t, end: 4.42997}
   - {lab: '@', end: 4.535794}
   - {lab: _, end: 5.735}
+  start: 2104.84
+  end: 2110.58
 - prompt: poppy0149
   file: ./pavoque/StefanPoppy/wav/poppy0149.wav
   date: 2007-11-05T11:36:34+0100
@@ -18688,6 +19610,8 @@
   - {lab: s, end: 3.203887}
   - {lab: t, end: 3.315739}
   - {lab: _, end: 3.995}
+  start: 2110.58
+  end: 2114.58
 - prompt: poppy0150
   file: ./pavoque/StefanPoppy/wav/poppy0150.wav
   date: 2007-11-05T11:36:42+0100
@@ -18743,6 +19667,8 @@
   - {lab: '@', end: 3.681956}
   - {lab: n, end: 3.756379}
   - {lab: _, end: 4.835}
+  start: 2114.58
+  end: 2119.42
 - prompt: poppy0151
   file: ./pavoque/StefanPoppy/wav/poppy0151.wav
   date: 2007-11-05T11:36:48+0100
@@ -18782,6 +19708,8 @@
   - {lab: '@', end: 3.270165}
   - {lab: n, end: 3.362554}
   - {lab: _, end: 3.695}
+  start: 2119.42
+  end: 2123.12
 - prompt: poppy0152
   file: ./pavoque/StefanPoppy/wav/poppy0152.wav
   date: 2007-11-05T11:36:52+0100
@@ -18800,6 +19728,8 @@
   - {lab: t, end: 1.31016}
   - {lab: '6', end: 1.461281}
   - {lab: _, end: 1.835}
+  start: 2123.12
+  end: 2124.96
 - prompt: poppy0153
   file: ./pavoque/StefanPoppy/wav/poppy0153.wav
   date: 2007-11-05T11:36:56+0100
@@ -18816,6 +19746,8 @@
   - {lab: t, end: 1.09}
   - {lab: '6', end: 1.239267}
   - {lab: _, end: 1.715}
+  start: 2124.96
+  end: 2126.68
 - prompt: poppy0154
   file: ./pavoque/StefanPoppy/wav/poppy0154.wav
   date: 2007-11-05T11:37:00+0100
@@ -18828,6 +19760,8 @@
   - {lab: z, end: 0.825}
   - {lab: 'o:', end: 1.08657}
   - {lab: _, end: 1.355}
+  start: 2126.68
+  end: 2128.04
 - prompt: poppy0155
   file: ./pavoque/StefanPoppy/wav/poppy0155.wav
   date: 2007-11-05T11:37:04+0100
@@ -18838,6 +19772,8 @@
   - {lab: v, end: 0.580904}
   - {lab: 'i:', end: 0.907132}
   - {lab: _, end: 1.235}
+  start: 2128.04
+  end: 2129.28
 - prompt: poppy0156
   file: ./pavoque/StefanPoppy/wav/poppy0156.wav
   date: 2007-11-05T11:37:10+0100
@@ -18884,6 +19820,8 @@
   - {lab: '@', end: 2.375}
   - {lab: n, end: 2.464276}
   - {lab: _, end: 3.695}
+  start: 2129.28
+  end: 2132.98
 - prompt: poppy0157
   file: ./pavoque/StefanPoppy/wav/poppy0157.wav
   date: 2007-11-05T11:37:16+0100
@@ -18913,6 +19851,8 @@
   - {lab: n, end: 1.867281}
   - {lab: s, end: 2.050817}
   - {lab: _, end: 2.735}
+  start: 2132.98
+  end: 2135.72
 - prompt: poppy0158
   file: ./pavoque/StefanPoppy/wav/poppy0158.wav
   date: 2007-11-05T11:37:20+0100
@@ -18939,6 +19879,8 @@
   - {lab: aI, end: 1.65}
   - {lab: k, end: 1.80745}
   - {lab: _, end: 2.555}
+  start: 2135.72
+  end: 2138.28
 - prompt: poppy0159
   file: ./pavoque/StefanPoppy/wav/poppy0159.wav
   date: 2007-11-05T11:37:26+0100
@@ -18970,6 +19912,8 @@
   - {lab: j, end: 1.595}
   - {lab: a, end: 1.765291}
   - {lab: _, end: 2.675}
+  start: 2138.28
+  end: 2140.96
 - prompt: m0351
   file: ./pavoque/StefanPoppy/wav/m0351.wav
   date: 2007-11-05T11:38:42+0100
@@ -19043,6 +19987,8 @@
   - {lab: U, end: 5.125}
   - {lab: N, end: 5.202494}
   - {lab: _, end: 8.295}
+  start: 2140.96
+  end: 2149.26
 - prompt: m0352
   file: ./pavoque/StefanPoppy/wav/m0352.wav
   date: 2007-11-05T11:38:50+0100
@@ -19079,6 +20025,8 @@
   - {lab: aI, end: 3.815}
   - {lab: t, end: 3.947965}
   - {lab: _, end: 5.415}
+  start: 2149.26
+  end: 2154.68
 - prompt: m0353
   file: ./pavoque/StefanPoppy/wav/m0353.wav
   date: 2007-11-05T11:39:00+0100
@@ -19119,6 +20067,8 @@
   - {lab: s, end: 2.71}
   - {lab: EI, end: 2.943637}
   - {lab: _, end: 5.895}
+  start: 2154.68
+  end: 2160.58
 - prompt: m0354
   file: ./pavoque/StefanPoppy/wav/m0354.wav
   date: 2007-11-05T11:39:10+0100
@@ -19173,6 +20123,8 @@
   - {lab: '@', end: 4.055}
   - {lab: n, end: 4.136934}
   - {lab: _, end: 6.855}
+  start: 2160.58
+  end: 2167.44
 - prompt: m0355
   file: ./pavoque/StefanPoppy/wav/m0355.wav
   date: 2007-11-05T11:39:18+0100
@@ -19209,6 +20161,8 @@
   - {lab: a, end: 3.09}
   - {lab: p, end: 3.238709}
   - {lab: _, end: 5.115}
+  start: 2167.44
+  end: 2172.56
 - prompt: m0356
   file: ./pavoque/StefanPoppy/wav/m0356.wav
   date: 2007-11-05T11:39:58+0100
@@ -19262,6 +20216,8 @@
   - {lab: C, end: 3.26784}
   - {lab: t, end: 3.390772}
   - {lab: _, end: 6.735}
+  start: 2172.56
+  end: 2179.3
 - prompt: m0357
   file: ./pavoque/StefanPoppy/wav/m0357.wav
   date: 2007-11-05T11:40:06+0100
@@ -19293,6 +20249,8 @@
   - {lab: f, end: 2.565}
   - {lab: '6', end: 2.74}
   - {lab: _, end: 5.235}
+  start: 2179.3
+  end: 2184.54
 - prompt: m0358
   file: ./pavoque/StefanPoppy/wav/m0358.wav
   date: 2007-11-05T11:40:16+0100
@@ -19334,6 +20292,8 @@
   - {lab: a, end: 3.295}
   - {lab: n, end: 3.388861}
   - {lab: _, end: 6.075}
+  start: 2184.54
+  end: 2190.62
 - prompt: m0359
   file: ./pavoque/StefanPoppy/wav/m0359.wav
   date: 2007-11-05T11:40:26+0100
@@ -19375,6 +20335,8 @@
   - {lab: n, end: 4.611569}
   - {lab: '6', end: 4.771685}
   - {lab: _, end: 6.255}
+  start: 2190.62
+  end: 2196.88
 - prompt: m0360
   file: ./pavoque/StefanPoppy/wav/m0360.wav
   date: 2007-11-05T11:40:36+0100
@@ -19426,6 +20388,8 @@
   - {lab: '@', end: 4.38}
   - {lab: l, end: 4.576049}
   - {lab: _, end: 6.735}
+  start: 2196.88
+  end: 2203.62
 - prompt: m0361
   file: ./pavoque/StefanPoppy/wav/m0361.wav
   date: 2007-11-05T11:40:46+0100
@@ -19458,6 +20422,8 @@
   - {lab: E, end: 2.695}
   - {lab: n, end: 2.758136}
   - {lab: _, end: 5.415}
+  start: 2203.62
+  end: 2209.04
 - prompt: m0362
   file: ./pavoque/StefanPoppy/wav/m0362.wav
   date: 2007-11-05T11:40:54+0100
@@ -19507,6 +20473,8 @@
   - {lab: n, end: 4.075}
   - {lab: t, end: 4.177571}
   - {lab: _, end: 6.255}
+  start: 2209.04
+  end: 2215.3
 - prompt: m0363
   file: ./pavoque/StefanPoppy/wav/m0363.wav
   date: 2007-11-05T11:41:06+0100
@@ -19574,6 +20542,8 @@
   - {lab: '@', end: 5.205}
   - {lab: n, end: 5.301767}
   - {lab: _, end: 7.995}
+  start: 2215.3
+  end: 2223.3
 - prompt: m0364
   file: ./pavoque/StefanPoppy/wav/m0364.wav
   date: 2007-11-05T11:41:18+0100
@@ -19640,6 +20610,8 @@
   - {lab: 'e:', end: 4.671291}
   - {lab: '6', end: 4.885764}
   - {lab: _, end: 7.455}
+  start: 2223.3
+  end: 2230.76
 - prompt: m0365
   file: ./pavoque/StefanPoppy/wav/m0365.wav
   date: 2007-11-05T11:41:28+0100
@@ -19709,6 +20681,8 @@
   - {lab: 'a:', end: 5.436793}
   - {lab: l, end: 5.546215}
   - {lab: _, end: 7.635}
+  start: 2230.76
+  end: 2238.4
 - prompt: m0366
   file: ./pavoque/StefanPoppy/wav/m0366.wav
   date: 2007-11-05T11:41:36+0100
@@ -19736,6 +20710,8 @@
   - {lab: k, end: 2.66}
   - {lab: 'a:', end: 2.833497}
   - {lab: _, end: 4.635}
+  start: 2238.4
+  end: 2243.04
 - prompt: m0367
   file: ./pavoque/StefanPoppy/wav/m0367.wav
   date: 2007-11-05T11:41:46+0100
@@ -19789,6 +20765,8 @@
   - {lab: 'u:', end: 4.15264}
   - {lab: s, end: 4.370728}
   - {lab: _, end: 6.255}
+  start: 2243.04
+  end: 2249.3
 - prompt: m0368
   file: ./pavoque/StefanPoppy/wav/m0368.wav
   date: 2007-11-05T11:42:30+0100
@@ -19832,6 +20810,8 @@
   - {lab: r, end: 5.365}
   - {lab: 'o:', end: 5.435546}
   - {lab: _, end: 6.375}
+  start: 2249.3
+  end: 2255.68
 - prompt: m0369
   file: ./pavoque/StefanPoppy/wav/m0369.wav
   date: 2007-11-05T11:43:22+0100
@@ -19876,6 +20856,8 @@
   - {lab: O, end: 4.255}
   - {lab: S, end: 4.495}
   - {lab: _, end: 6.015}
+  start: 2255.68
+  end: 2261.7
 - prompt: m0371
   file: ./pavoque/StefanPoppy/wav/m0371.wav
   date: 2007-11-05T11:43:42+0100
@@ -19923,6 +20905,8 @@
   - {lab: d, end: 4.01}
   - {lab: '@', end: 4.154264}
   - {lab: _, end: 6.195}
+  start: 2261.7
+  end: 2267.9
 - prompt: m0372
   file: ./pavoque/StefanPoppy/wav/m0372.wav
   date: 2007-11-05T11:43:54+0100
@@ -19994,6 +20978,8 @@
   - {lab: n, end: 6.21}
   - {lab: t, end: 6.30602}
   - {lab: _, end: 6.328212}
+  start: 2267.9
+  end: 2276.02
 - prompt: m0373
   file: ./pavoque/StefanPoppy/wav/m0373.wav
   date: 2007-11-05T11:44:02+0100
@@ -20034,6 +21020,8 @@
   - {lab: '@', end: 3.426323}
   - {lab: n, end: 3.520936}
   - {lab: _, end: 5.595}
+  start: 2276.02
+  end: 2281.62
 - prompt: m0374
   file: ./pavoque/StefanPoppy/wav/m0374.wav
   date: 2007-11-05T11:44:40+0100
@@ -20066,6 +21054,8 @@
   - {lab: l, end: 2.285}
   - {lab: '@', end: 2.378822}
   - {lab: _, end: 5.295}
+  start: 2281.62
+  end: 2286.92
 - prompt: m0375
   file: ./pavoque/StefanPoppy/wav/m0375.wav
   date: 2007-11-05T11:44:54+0100
@@ -20150,6 +21140,8 @@
   - {lab: '@', end: 7.135}
   - {lab: n, end: 7.217104}
   - {lab: _, end: 9.435}
+  start: 2286.92
+  end: 2296.36
 - prompt: m0376
   file: ./pavoque/StefanPoppy/wav/m0376.wav
   date: 2007-11-05T11:45:16+0100
@@ -20207,6 +21199,8 @@
   - {lab: O, end: 4.15}
   - {lab: n, end: 4.266892}
   - {lab: _, end: 6.795}
+  start: 2296.36
+  end: 2303.16
 - prompt: m0377
   file: ./pavoque/StefanPoppy/wav/m0377.wav
   date: 2007-11-05T11:45:26+0100
@@ -20274,6 +21268,8 @@
   - {lab: '@', end: 5.519798}
   - {lab: n, end: 5.650291}
   - {lab: _, end: 7.935}
+  start: 2303.16
+  end: 2311.1
 - prompt: m0378
   file: ./pavoque/StefanPoppy/wav/m0378.wav
   date: 2007-11-05T11:45:36+0100
@@ -20307,6 +21303,8 @@
   - {lab: b, end: 3.255}
   - {lab: aI, end: 3.575}
   - {lab: _, end: 5.235}
+  start: 2311.1
+  end: 2316.34
 - prompt: m0379
   file: ./pavoque/StefanPoppy/wav/m0379.wav
   date: 2007-11-05T11:45:46+0100
@@ -20371,6 +21369,8 @@
   - {lab: a, end: 6.335}
   - {lab: x, end: 6.561422}
   - {lab: _, end: 8.115}
+  start: 2316.34
+  end: 2324.46
 - prompt: m0380
   file: ./pavoque/StefanPoppy/wav/m0380.wav
   date: 2007-11-05T11:45:56+0100
@@ -20403,6 +21403,8 @@
   - {lab: t, end: 3.08}
   - {lab: '@', end: 3.235724}
   - {lab: _, end: 5.055}
+  start: 2324.46
+  end: 2329.52
 - prompt: m0381
   file: ./pavoque/StefanPoppy/wav/m0381.wav
   date: 2007-11-05T11:46:06+0100
@@ -20462,6 +21464,8 @@
   - {lab: '@', end: 4.59}
   - {lab: t, end: 4.75}
   - {lab: _, end: 6.735}
+  start: 2329.52
+  end: 2336.26
 - prompt: m0382
   file: ./pavoque/StefanPoppy/wav/m0382.wav
   date: 2007-11-05T11:46:18+0100
@@ -20538,6 +21542,8 @@
   - {lab: '6', end: 6.31}
   - {lab: f, end: 6.496331}
   - {lab: _, end: 8.355}
+  start: 2336.26
+  end: 2344.62
 - prompt: m0383
   file: ./pavoque/StefanPoppy/wav/m0383.wav
   date: 2007-11-05T11:46:26+0100
@@ -20578,6 +21584,8 @@
   - {lab: I, end: 3.52}
   - {lab: n, end: 3.602884}
   - {lab: _, end: 5.715}
+  start: 2344.62
+  end: 2350.34
 - prompt: m0384
   file: ./pavoque/StefanPoppy/wav/m0384.wav
   date: 2007-11-05T11:46:36+0100
@@ -20630,6 +21638,8 @@
   - {lab: 'o:', end: 4.805}
   - {lab: n, end: 4.917271}
   - {lab: _, end: 6.555}
+  start: 2350.34
+  end: 2356.9
 - prompt: m0385
   file: ./pavoque/StefanPoppy/wav/m0385.wav
   date: 2007-11-05T11:46:46+0100
@@ -20659,6 +21669,8 @@
   - {lab: a, end: 2.176618}
   - {lab: x, end: 2.42543}
   - {lab: _, end: 5.055}
+  start: 2356.9
+  end: 2361.96
 - prompt: m0387
   file: ./pavoque/StefanPoppy/wav/m0387.wav
   date: 2007-11-05T11:47:06+0100
@@ -20706,6 +21718,8 @@
   - {lab: N, end: 4.06}
   - {lab: t, end: 4.225}
   - {lab: _, end: 6.315}
+  start: 2361.96
+  end: 2368.28
 - prompt: m0386
   file: ./pavoque/StefanPoppy/wav/m0386.wav
   date: 2007-11-05T11:47:50+0100
@@ -20759,6 +21773,8 @@
   - {lab: '6', end: 4.51}
   - {lab: t, end: 4.679557}
   - {lab: _, end: 6.675}
+  start: 2368.28
+  end: 2374.96
 - prompt: m0389
   file: ./pavoque/StefanPoppy/wav/m0389.wav
   date: 2007-11-05T11:48:12+0100
@@ -20798,6 +21814,8 @@
   - {lab: 'e:', end: 2.825}
   - {lab: '6', end: 2.934178}
   - {lab: _, end: 5.595}
+  start: 2374.96
+  end: 2380.56
 - prompt: m0390
   file: ./pavoque/StefanPoppy/wav/m0390.wav
   date: 2007-11-05T11:48:24+0100
@@ -20872,6 +21890,8 @@
   - {lab: 'o:', end: 7.01}
   - {lab: n, end: 7.146219}
   - {lab: _, end: 8.415}
+  start: 2380.56
+  end: 2388.98
 - prompt: m0388
   file: ./pavoque/StefanPoppy/wav/m0388.wav
   date: 2007-11-05T11:49:22+0100
@@ -20937,6 +21957,8 @@
   - {lab: 'o:', end: 6.66}
   - {lab: m, end: 6.811374}
   - {lab: _, end: 8.275}
+  start: 2388.98
+  end: 2397.26
 - prompt: m0391
   file: ./pavoque/StefanPoppy/wav/m0391.wav
   date: 2007-11-05T11:49:46+0100
@@ -20986,6 +22008,8 @@
   - {lab: b, end: 4.315}
   - {lab: EI, end: 4.608026}
   - {lab: _, end: 6.375}
+  start: 2397.26
+  end: 2403.64
 - prompt: m0392
   file: ./pavoque/StefanPoppy/wav/m0392.wav
   date: 2007-11-05T11:49:54+0100
@@ -21018,6 +22042,8 @@
   - {lab: '@', end: 2.41}
   - {lab: t, end: 2.59657}
   - {lab: _, end: 4.995}
+  start: 2403.64
+  end: 2408.64
 - prompt: m0393
   file: ./pavoque/StefanPoppy/wav/m0393.wav
   date: 2007-11-05T11:50:02+0100
@@ -21055,6 +22081,8 @@
   - {lab: l, end: 3.180043}
   - {lab: 'a:', end: 3.435}
   - {lab: _, end: 5.475}
+  start: 2408.64
+  end: 2414.12
 - prompt: m0394
   file: ./pavoque/StefanPoppy/wav/m0394.wav
   date: 2007-11-05T11:50:14+0100
@@ -21115,6 +22143,8 @@
   - {lab: '6', end: 5.04}
   - {lab: ts, end: 5.282854}
   - {lab: _, end: 7.395}
+  start: 2414.12
+  end: 2421.52
 - prompt: m0395
   file: ./pavoque/StefanPoppy/wav/m0395.wav
   date: 2007-11-05T11:50:24+0100
@@ -21158,6 +22188,8 @@
   - {lab: aI, end: 4.03}
   - {lab: n, end: 4.130429}
   - {lab: _, end: 6.135}
+  start: 2421.52
+  end: 2427.66
 - prompt: m0396
   file: ./pavoque/StefanPoppy/wav/m0396.wav
   date: 2007-11-05T11:50:34+0100
@@ -21226,6 +22258,8 @@
   - {lab: n, end: 6.095}
   - {lab: '@', end: 6.29}
   - {lab: _, end: 7.875}
+  start: 2427.66
+  end: 2435.54
 - prompt: m0397
   file: ./pavoque/StefanPoppy/wav/m0397.wav
   date: 2007-11-05T11:50:46+0100
@@ -21290,6 +22324,8 @@
   - {lab: aI, end: 5.195}
   - {lab: t, end: 5.441934}
   - {lab: _, end: 7.455}
+  start: 2435.54
+  end: 2443.0
 - prompt: m0398
   file: ./pavoque/StefanPoppy/wav/m0398.wav
   date: 2007-11-05T11:50:56+0100
@@ -21349,6 +22385,8 @@
   - {lab: '?', end: 4.975}
   - {lab: '2:', end: 5.27}
   - {lab: _, end: 7.155}
+  start: 2443.0
+  end: 2450.16
 - prompt: m0399
   file: ./pavoque/StefanPoppy/wav/m0399.wav
   date: 2007-11-05T11:51:06+0100
@@ -21396,6 +22434,8 @@
   - {lab: N, end: 4.81}
   - {lab: 'a:', end: 5.085852}
   - {lab: _, end: 6.855}
+  start: 2450.16
+  end: 2457.02
 - prompt: m0400
   file: ./pavoque/StefanPoppy/wav/m0400.wav
   date: 2007-11-05T11:51:18+0100
@@ -21462,6 +22502,8 @@
   - {lab: '@', end: 5.48}
   - {lab: n, end: 5.618414}
   - {lab: _, end: 8.055}
+  start: 2457.02
+  end: 2465.08
 - prompt: poker_f0001
   file: ./pavoque/StefanPoppy/wav/poker_f0001.wav
   date: 2007-11-05T11:51:28+0100
@@ -21504,6 +22546,8 @@
   - {lab: '@', end: 3.073055}
   - {lab: n, end: 3.1855}
   - {lab: _, end: 6.375}
+  start: 2465.08
+  end: 2471.46
 - prompt: poker_f0003
   file: ./pavoque/StefanPoppy/wav/poker_f0003.wav
   date: 2007-11-05T11:51:44+0100
@@ -21525,6 +22569,8 @@
   - {lab: 'a:', end: 1.788952}
   - {lab: '6', end: 1.957939}
   - {lab: _, end: 4.275}
+  start: 2471.46
+  end: 2475.74
 - prompt: poker_f0002
   file: ./pavoque/StefanPoppy/wav/poker_f0002.wav
   date: 2007-11-05T11:53:00+0100
@@ -21539,6 +22585,8 @@
   - {lab: aU, end: 1.120754}
   - {lab: n, end: 1.314069}
   - {lab: _, end: 2.035}
+  start: 2475.74
+  end: 2477.78
 - prompt: poker_f0004
   file: ./pavoque/StefanPoppy/wav/poker_f0004.wav
   date: 2007-11-05T11:53:14+0100
@@ -21562,6 +22610,8 @@
   - {lab: '@', end: 1.630662}
   - {lab: n, end: 1.753181}
   - {lab: _, end: 2.695}
+  start: 2477.78
+  end: 2480.48
 - prompt: poker_f0005
   file: ./pavoque/StefanPoppy/wav/poker_f0005.wav
   date: 2007-11-05T11:53:18+0100
@@ -21583,6 +22633,8 @@
   - {lab: R, end: 1.598205}
   - {lab: '@', end: 1.779336}
   - {lab: _, end: 2.635}
+  start: 2480.48
+  end: 2483.12
 - prompt: poker_f0006
   file: ./pavoque/StefanPoppy/wav/poker_f0006.wav
   date: 2007-11-05T11:53:24+0100
@@ -21607,6 +22659,8 @@
   - {lab: '@', end: 1.622793}
   - {lab: n, end: 1.709445}
   - {lab: _, end: 2.815}
+  start: 2483.12
+  end: 2485.94
 - prompt: poker_f0007
   file: ./pavoque/StefanPoppy/wav/poker_f0007.wav
   date: 2007-11-05T11:53:28+0100
@@ -21630,6 +22684,8 @@
   - {lab: I, end: 1.389492}
   - {lab: N, end: 1.571301}
   - {lab: _, end: 2.755}
+  start: 2485.94
+  end: 2488.7
 - prompt: poker_f0008
   file: ./pavoque/StefanPoppy/wav/poker_f0008.wav
   date: 2007-11-05T11:53:34+0100
@@ -21653,6 +22709,8 @@
   - {lab: C, end: 1.78}
   - {lab: '@', end: 1.99}
   - {lab: _, end: 2.815}
+  start: 2488.7
+  end: 2491.52
 - prompt: poker_f0009
   file: ./pavoque/StefanPoppy/wav/poker_f0009.wav
   date: 2007-11-05T11:53:38+0100
@@ -21678,6 +22736,8 @@
   - {lab: EI, end: 1.667428}
   - {lab: t, end: 1.838}
   - {lab: _, end: 2.935}
+  start: 2491.52
+  end: 2494.46
 - prompt: poker_f0010
   file: ./pavoque/StefanPoppy/wav/poker_f0010.wav
   date: 2007-11-05T11:53:44+0100
@@ -21702,6 +22762,8 @@
   - {lab: s, end: 1.528886}
   - {lab: '@', end: 1.732468}
   - {lab: _, end: 2.695}
+  start: 2494.46
+  end: 2497.16
 - prompt: poker_f0011
   file: ./pavoque/StefanPoppy/wav/poker_f0011.wav
   date: 2007-11-05T11:54:12+0100
@@ -21724,6 +22786,8 @@
   - {lab: a, end: 1.354157}
   - {lab: S, end: 1.645}
   - {lab: _, end: 2.635}
+  start: 2497.16
+  end: 2499.8
 - prompt: poker_f0012
   file: ./pavoque/StefanPoppy/wav/poker_f0012.wav
   date: 2007-11-05T11:54:18+0100
@@ -21747,6 +22811,8 @@
   - {lab: aU, end: 1.584994}
   - {lab: s, end: 1.871368}
   - {lab: _, end: 2.875}
+  start: 2499.8
+  end: 2502.68
 - prompt: poker_f0013
   file: ./pavoque/StefanPoppy/wav/poker_f0013.wav
   date: 2007-11-05T11:54:24+0100
@@ -21773,6 +22839,8 @@
   - {lab: I, end: 1.730861}
   - {lab: N, end: 1.940875}
   - {lab: _, end: 2.935}
+  start: 2502.68
+  end: 2505.62
 - prompt: poker_f0014
   file: ./pavoque/StefanPoppy/wav/poker_f0014.wav
   date: 2007-11-05T11:54:28+0100
@@ -21795,6 +22863,8 @@
   - {lab: C, end: 1.453746}
   - {lab: '@', end: 1.633319}
   - {lab: _, end: 2.755}
+  start: 2505.62
+  end: 2508.38
 - prompt: poker_f0015
   file: ./pavoque/StefanPoppy/wav/poker_f0015.wav
   date: 2007-11-05T11:54:56+0100
@@ -21822,6 +22892,8 @@
   - {lab: a, end: 1.824575}
   - {lab: S, end: 2.063745}
   - {lab: _, end: 3.175}
+  start: 2508.38
+  end: 2511.56
 - prompt: poker_f0016
   file: ./pavoque/StefanPoppy/wav/poker_f0016.wav
   date: 2007-11-05T11:55:02+0100
@@ -21848,6 +22920,8 @@
   - {lab: a, end: 1.67857}
   - {lab: S, end: 1.935}
   - {lab: _, end: 2.995}
+  start: 2511.56
+  end: 2514.56
 - prompt: poker_f0017
   file: ./pavoque/StefanPoppy/wav/poker_f0017.wav
   date: 2007-11-05T11:55:06+0100
@@ -21876,6 +22950,8 @@
   - {lab: '@', end: 1.674061}
   - {lab: n, end: 1.802539}
   - {lab: _, end: 3.055}
+  start: 2514.56
+  end: 2517.62
 - prompt: poker_f0018
   file: ./pavoque/StefanPoppy/wav/poker_f0018.wav
   date: 2007-11-05T11:55:12+0100
@@ -21902,6 +22978,8 @@
   - {lab: '@', end: 1.503879}
   - {lab: n, end: 1.597576}
   - {lab: _, end: 2.995}
+  start: 2517.62
+  end: 2520.62
 - prompt: poker_f0019
   file: ./pavoque/StefanPoppy/wav/poker_f0019.wav
   date: 2007-11-05T11:55:20+0100
@@ -21951,6 +23029,8 @@
   - {lab: d, end: 2.976193}
   - {lab: '@', end: 3.117825}
   - {lab: _, end: 4.915}
+  start: 2520.62
+  end: 2525.54
 - prompt: poker_f0020
   file: ./pavoque/StefanPoppy/wav/poker_f0020.wav
   date: 2007-11-05T11:55:24+0100
@@ -21970,6 +23050,8 @@
   - {lab: O, end: 1.135}
   - {lab: x, end: 1.299818}
   - {lab: _, end: 2.515}
+  start: 2525.54
+  end: 2528.06
 - prompt: poker_f0021
   file: ./pavoque/StefanPoppy/wav/poker_f0021.wav
   date: 2007-11-05T11:55:30+0100
@@ -22000,6 +23082,8 @@
   - {lab: '@', end: 1.777343}
   - {lab: n, end: 1.900943}
   - {lab: _, end: 3.295}
+  start: 2528.06
+  end: 2531.36
 - prompt: poker_f0022
   file: ./pavoque/StefanPoppy/wav/poker_f0022.wav
   date: 2007-11-05T11:55:36+0100
@@ -22035,6 +23119,8 @@
   - {lab: d, end: 2.095}
   - {lab: '6', end: 2.255461}
   - {lab: _, end: 3.835}
+  start: 2531.36
+  end: 2535.2
 - prompt: poker_f0023
   file: ./pavoque/StefanPoppy/wav/poker_f0023.wav
   date: 2007-11-05T11:55:40+0100
@@ -22049,6 +23135,8 @@
   - {lab: I, end: 1.185435}
   - {lab: n, end: 1.372132}
   - {lab: _, end: 2.035}
+  start: 2535.2
+  end: 2537.24
 - prompt: poker_f0024
   file: ./pavoque/StefanPoppy/wav/poker_f0024.wav
   date: 2007-11-05T11:55:46+0100
@@ -22071,6 +23159,8 @@
   - {lab: l, end: 1.775458}
   - {lab: ts, end: 2.0}
   - {lab: _, end: 2.515}
+  start: 2537.24
+  end: 2539.76
 - prompt: poker_f0025
   file: ./pavoque/StefanPoppy/wav/poker_f0025.wav
   date: 2007-11-05T11:55:50+0100
@@ -22093,6 +23183,8 @@
   - {lab: Y, end: 1.574713}
   - {lab: k, end: 1.735}
   - {lab: _, end: 2.695}
+  start: 2539.76
+  end: 2542.46
 - prompt: m0002
   file: ./pavoque/StefanPoppy/wav/m0002.wav
   date: 2007-12-21T17:38:34+0100
@@ -22130,6 +23222,8 @@
   - {lab: a, end: 3.876749}
   - {lab: 'o:', end: 4.104152}
   - {lab: _, end: 4.775}
+  start: 2542.46
+  end: 2547.24
 - prompt: m0003
   file: ./pavoque/StefanPoppy/wav/m0003.wav
   date: 2007-12-21T17:38:34+0100
@@ -22159,6 +23253,8 @@
   - {lab: '@', end: 2.44376}
   - {lab: l, end: 2.628356}
   - {lab: _, end: 4.115}
+  start: 2547.24
+  end: 2551.36
 - prompt: m0017
   file: ./pavoque/StefanPoppy/wav/m0017.wav
   date: 2007-12-21T17:38:34+0100
@@ -22189,6 +23285,8 @@
   - {lab: aI, end: 3.180813}
   - {lab: C, end: 3.368652}
   - {lab: _, end: 4.595}
+  start: 2551.36
+  end: 2555.96
 - prompt: m0026
   file: ./pavoque/StefanPoppy/wav/m0026.wav
   date: 2007-12-21T17:38:34+0100
@@ -22216,6 +23314,8 @@
   - {lab: I, end: 2.352169}
   - {lab: C, end: 2.575177}
   - {lab: _, end: 4.115}
+  start: 2555.96
+  end: 2560.08
 - prompt: m0029
   file: ./pavoque/StefanPoppy/wav/m0029.wav
   date: 2007-12-21T17:38:34+0100
@@ -22251,6 +23351,8 @@
   - {lab: ts, end: 2.82}
   - {lab: t, end: 2.935301}
   - {lab: _, end: 4.535}
+  start: 2560.08
+  end: 2564.62
 - prompt: poppy0005
   file: ./pavoque/StefanPoppy/wav/poppy0005.wav
   date: 2007-12-21T17:38:34+0100
@@ -22283,6 +23385,8 @@
   - {lab: s, end: 2.284554}
   - {lab: t, end: 2.422954}
   - {lab: _, end: 4.115}
+  start: 2564.62
+  end: 2568.74
 - prompt: m0033
   file: ./pavoque/StefanPoppy/wav/m0033.wav
   date: 2007-12-21T17:38:35+0100
@@ -22319,6 +23423,8 @@
   - {lab: n, end: 3.105}
   - {lab: s, end: 3.325}
   - {lab: _, end: 5.015}
+  start: 2568.74
+  end: 2573.76
 - prompt: m0036
   file: ./pavoque/StefanPoppy/wav/m0036.wav
   date: 2007-12-21T17:38:35+0100
@@ -22356,6 +23462,8 @@
   - {lab: j, end: 3.503011}
   - {lab: 'e:', end: 3.724837}
   - {lab: _, end: 4.655}
+  start: 2573.76
+  end: 2578.42
 - prompt: m0047
   file: ./pavoque/StefanPoppy/wav/m0047.wav
   date: 2007-12-21T17:38:35+0100
@@ -22389,6 +23497,8 @@
   - {lab: n, end: 2.375}
   - {lab: '@', end: 2.595}
   - {lab: _, end: 4.355}
+  start: 2578.42
+  end: 2582.78
 - prompt: m0067
   file: ./pavoque/StefanPoppy/wav/m0067.wav
   date: 2007-12-21T17:38:35+0100
@@ -22454,6 +23564,8 @@
   - {lab: l, end: 5.505}
   - {lab: 'E:', end: 5.81}
   - {lab: _, end: 7.295}
+  start: 2582.78
+  end: 2590.08
 - prompt: m0077
   file: ./pavoque/StefanPoppy/wav/m0077.wav
   date: 2007-12-21T17:38:35+0100
@@ -22486,6 +23598,8 @@
   - {lab: C, end: 3.085}
   - {lab: t, end: 3.215679}
   - {lab: _, end: 4.715}
+  start: 2590.08
+  end: 2594.8
 - prompt: m0107
   file: ./pavoque/StefanPoppy/wav/m0107.wav
   date: 2007-12-21T17:38:35+0100
@@ -22570,6 +23684,8 @@
   - {lab: '@', end: 6.995623}
   - {lab: n, end: 7.091517}
   - {lab: _, end: 8.915}
+  start: 2594.8
+  end: 2603.72
 - prompt: m0115
   file: ./pavoque/StefanPoppy/wav/m0115.wav
   date: 2007-12-21T17:38:35+0100
@@ -22615,6 +23731,8 @@
   - {lab: l, end: 3.24}
   - {lab: k, end: 3.41}
   - {lab: _, end: 5.255}
+  start: 2603.72
+  end: 2608.98
 - prompt: m0120
   file: ./pavoque/StefanPoppy/wav/m0120.wav
   date: 2007-12-21T17:38:35+0100
@@ -22645,6 +23763,8 @@
   - {lab: O, end: 2.645}
   - {lab: n, end: 2.711751}
   - {lab: _, end: 4.295}
+  start: 2608.98
+  end: 2613.28
 - prompt: m0130
   file: ./pavoque/StefanPoppy/wav/m0130.wav
   date: 2007-12-21T17:38:36+0100
@@ -22692,6 +23812,8 @@
   - {lab: n, end: 3.69}
   - {lab: ts, end: 3.935}
   - {lab: _, end: 5.495}
+  start: 2613.28
+  end: 2618.78
 - prompt: m0137
   file: ./pavoque/StefanPoppy/wav/m0137.wav
   date: 2007-12-21T17:38:36+0100
@@ -22719,6 +23841,8 @@
   - {lab: 'a:', end: 2.27}
   - {lab: k, end: 2.4}
   - {lab: _, end: 4.055}
+  start: 2618.78
+  end: 2622.84
 - prompt: m0148
   file: ./pavoque/StefanPoppy/wav/m0148.wav
   date: 2007-12-21T17:38:36+0100
@@ -22753,6 +23877,8 @@
   - {lab: 'a:', end: 3.27}
   - {lab: f, end: 3.458226}
   - {lab: _, end: 4.775}
+  start: 2622.84
+  end: 2627.62
 - prompt: m0149
   file: ./pavoque/StefanPoppy/wav/m0149.wav
   date: 2007-12-21T17:38:36+0100
@@ -22781,6 +23907,8 @@
   - {lab: n, end: 2.03}
   - {lab: t, end: 2.19}
   - {lab: _, end: 4.115}
+  start: 2627.62
+  end: 2631.74
 - prompt: m0186
   file: ./pavoque/StefanPoppy/wav/m0186.wav
   date: 2007-12-21T17:38:36+0100
@@ -22818,6 +23946,8 @@
   - {lab: h, end: 4.189171}
   - {lab: EI, end: 4.502347}
   - {lab: _, end: 5.135}
+  start: 2631.74
+  end: 2636.88
 - prompt: m0207
   file: ./pavoque/StefanPoppy/wav/m0207.wav
   date: 2007-12-21T17:38:36+0100
@@ -22848,6 +23978,8 @@
   - {lab: '@', end: 3.625}
   - {lab: n, end: 3.772425}
   - {lab: _, end: 4.355}
+  start: 2636.88
+  end: 2641.24
 - prompt: m0214
   file: ./pavoque/StefanPoppy/wav/m0214.wav
   date: 2007-12-21T17:38:36+0100
@@ -22877,6 +24009,8 @@
   - {lab: 'u:', end: 2.595}
   - {lab: t, end: 2.815453}
   - {lab: _, end: 4.295}
+  start: 2641.24
+  end: 2645.54
 - prompt: m0247
   file: ./pavoque/StefanPoppy/wav/m0247.wav
   date: 2007-12-21T17:38:36+0100
@@ -22908,6 +24042,8 @@
   - {lab: m, end: 2.496572}
   - {lab: '@', end: 2.654974}
   - {lab: _, end: 4.055}
+  start: 2645.54
+  end: 2649.6
 - prompt: m0260
   file: ./pavoque/StefanPoppy/wav/m0260.wav
   date: 2007-12-21T17:38:37+0100
@@ -22959,6 +24095,8 @@
   - {lab: 'E:', end: 5.616512}
   - {lab: l, end: 5.7}
   - {lab: t, end: 5.867242}
+  start: 2649.6
+  end: 2655.46
 - prompt: m0268
   file: ./pavoque/StefanPoppy/wav/m0268.wav
   date: 2007-12-21T17:38:37+0100
@@ -22996,6 +24134,8 @@
   - {lab: s, end: 3.245}
   - {lab: t, end: 3.342795}
   - {lab: _, end: 4.955}
+  start: 2655.46
+  end: 2660.42
 - prompt: m0274
   file: ./pavoque/StefanPoppy/wav/m0274.wav
   date: 2007-12-21T17:38:37+0100
@@ -23057,6 +24197,8 @@
   - {lab: 'E:', end: 5.950559}
   - {lab: n, end: 6.072031}
   - {lab: _, end: 6.695}
+  start: 2660.42
+  end: 2667.12
 - prompt: m0307
   file: ./pavoque/StefanPoppy/wav/m0307.wav
   date: 2007-12-21T17:38:37+0100
@@ -23117,6 +24259,8 @@
   - {lab: 'u:', end: 5.615}
   - {lab: n, end: 5.743138}
   - {lab: _, end: 6.275}
+  start: 2667.12
+  end: 2673.4
 - prompt: m0342
   file: ./pavoque/StefanPoppy/wav/m0342.wav
   date: 2007-12-21T17:38:37+0100
@@ -23182,6 +24326,8 @@
   - {lab: t, end: 6.045}
   - {lab: 'a:', end: 6.29779}
   - {lab: _, end: 6.815}
+  start: 2673.4
+  end: 2680.22
 - prompt: m0370
   file: ./pavoque/StefanPoppy/wav/m0370.wav
   date: 2007-12-21T17:38:37+0100
@@ -23239,6 +24385,8 @@
   - {lab: ts, end: 4.68}
   - {lab: t, end: 4.799232}
   - {lab: _, end: 6.095}
+  start: 2680.22
+  end: 2686.32
 - prompt: poppy0018
   file: ./pavoque/StefanPoppy/wav/poppy0018.wav
   date: 2007-12-21T17:38:38+0100
@@ -23319,6 +24467,8 @@
   - {lab: '@', end: 5.61}
   - {lab: n, end: 5.670654}
   - {lab: _, end: 7.595}
+  start: 2686.32
+  end: 2693.92
 - prompt: poppy0020
   file: ./pavoque/StefanPoppy/wav/poppy0020.wav
   date: 2007-12-21T17:38:38+0100
@@ -23342,6 +24492,8 @@
   - {lab: 'a:', end: 1.742853}
   - {lab: '6', end: 1.899723}
   - {lab: _, end: 3.575}
+  start: 2693.92
+  end: 2697.5
 - prompt: poppy0021
   file: ./pavoque/StefanPoppy/wav/poppy0021.wav
   date: 2007-12-21T17:38:38+0100
@@ -23362,6 +24514,8 @@
   - {lab: s, end: 1.325}
   - {lab: '@', end: 1.562878}
   - {lab: _, end: 3.395}
+  start: 2697.5
+  end: 2700.9
 - prompt: poppy0022
   file: ./pavoque/StefanPoppy/wav/poppy0022.wav
   date: 2007-12-21T17:38:38+0100
@@ -23380,6 +24534,8 @@
   - {lab: O, end: 1.605}
   - {lab: l, end: 1.873816}
   - {lab: _, end: 3.275}
+  start: 2700.9
+  end: 2704.18
 - prompt: poppy0025
   file: ./pavoque/StefanPoppy/wav/poppy0025.wav
   date: 2007-12-21T17:38:38+0100
@@ -23402,6 +24558,8 @@
   - {lab: '2:', end: 1.555}
   - {lab: n, end: 1.667215}
   - {lab: _, end: 3.695}
+  start: 2704.18
+  end: 2707.88
 - prompt: poppy0027
   file: ./pavoque/StefanPoppy/wav/poppy0027.wav
   date: 2007-12-21T17:38:38+0100
@@ -23443,6 +24601,8 @@
   - {lab: a, end: 2.9}
   - {lab: n, end: 3.00299}
   - {lab: _, end: 4.895}
+  start: 2707.88
+  end: 2712.78
 - prompt: poppy0040
   file: ./pavoque/StefanPoppy/wav/poppy0040.wav
   date: 2007-12-21T17:38:38+0100
@@ -23468,6 +24628,8 @@
   - {lab: x, end: 1.945}
   - {lab: t, end: 2.059437}
   - {lab: _, end: 3.875}
+  start: 2712.78
+  end: 2716.66
 - prompt: poppy0052
   file: ./pavoque/StefanPoppy/wav/poppy0052.wav
   date: 2007-12-21T17:38:38+0100
@@ -23482,6 +24644,8 @@
   - {lab: 'o:', end: 1.155}
   - {lab: x, end: 1.336155}
   - {lab: _, end: 3.095}
+  start: 2716.66
+  end: 2719.76
 - prompt: poppy0055
   file: ./pavoque/StefanPoppy/wav/poppy0055.wav
   date: 2007-12-21T17:38:38+0100
@@ -23513,6 +24677,8 @@
   - {lab: a, end: 2.23}
   - {lab: n, end: 2.346632}
   - {lab: _, end: 4.295}
+  start: 2719.76
+  end: 2724.06
 - prompt: poppy0091
   file: ./pavoque/StefanPoppy/wav/poppy0091.wav
   date: 2007-12-21T17:38:39+0100
@@ -23539,3 +24705,5 @@
   - {lab: aI, end: 1.61}
   - {lab: k, end: 1.8}
   - {lab: _, end: 4.055}
+  start: 2724.06
+  end: 2728.12

@@ -37,6 +37,8 @@
   - {lab: S, end: 2.389521}
   - {lab: t, end: 2.54}
   - {lab: _, end: 4.455}
+  start: 0.0
+  end: 4.46
 - prompt: poker_n0011
   file: ./pavoque/StefanPoker/wav/poker_n0011.wav
   date: 2007-10-29T09:54:22+0100
@@ -82,6 +84,8 @@
   - {lab: t, end: 3.407711}
   - {lab: '@', end: 3.59}
   - {lab: _, end: 5.115}
+  start: 4.46
+  end: 9.58
 - prompt: poker_n0012
   file: ./pavoque/StefanPoker/wav/poker_n0012.wav
   date: 2007-10-29T09:54:46+0100
@@ -126,6 +130,8 @@
   - {lab: t, end: 3.045}
   - {lab: '@', end: 3.23}
   - {lab: _, end: 5.115}
+  start: 9.58
+  end: 14.7
 - prompt: poker_n0013
   file: ./pavoque/StefanPoker/wav/poker_n0013.wav
   date: 2007-10-29T09:54:54+0100
@@ -173,6 +179,8 @@
   - {lab: a, end: 3.175}
   - {lab: t, end: 3.39298}
   - {lab: _, end: 5.175}
+  start: 14.7
+  end: 19.88
 - prompt: poker_n0014
   file: ./pavoque/StefanPoker/wav/poker_n0014.wav
   date: 2007-10-29T09:55:02+0100
@@ -209,6 +217,8 @@
   - {lab: d, end: 3.107858}
   - {lab: '@', end: 3.332845}
   - {lab: _, end: 4.395}
+  start: 19.88
+  end: 24.28
 - prompt: poker_n0015
   file: ./pavoque/StefanPoker/wav/poker_n0015.wav
   date: 2007-10-29T09:55:08+0100
@@ -247,6 +257,8 @@
   - {lab: d, end: 2.770959}
   - {lab: '@', end: 2.985}
   - {lab: _, end: 4.395}
+  start: 24.28
+  end: 28.68
 - prompt: poker_n0001
   file: ./pavoque/StefanPoker/wav/poker_n0001.wav
   date: 2007-10-29T09:57:26+0100
@@ -289,6 +301,8 @@
   - {lab: '@', end: 3.135726}
   - {lab: n, end: 3.279094}
   - {lab: _, end: 5.175}
+  start: 28.68
+  end: 33.86
 - prompt: poker_n0002
   file: ./pavoque/StefanPoker/wav/poker_n0002.wav
   date: 2007-10-29T09:57:34+0100
@@ -342,6 +356,8 @@
   - {lab: l, end: 3.185}
   - {lab: t, end: 3.4}
   - {lab: _, end: 5.475}
+  start: 33.86
+  end: 39.34
 - prompt: poker_n0003
   file: ./pavoque/StefanPoker/wav/poker_n0003.wav
   date: 2007-10-29T09:57:52+0100
@@ -379,6 +395,8 @@
   - {lab: 'a:', end: 2.885}
   - {lab: s, end: 3.09}
   - {lab: _, end: 4.455}
+  start: 39.34
+  end: 43.8
 - prompt: poker_n0005
   file: ./pavoque/StefanPoker/wav/poker_n0005.wav
   date: 2007-10-29T09:58:18+0100
@@ -438,6 +456,8 @@
   - {lab: I, end: 4.515}
   - {lab: C, end: 4.698807}
   - {lab: _, end: 5.835}
+  start: 43.8
+  end: 49.64
 - prompt: poker_n0006
   file: ./pavoque/StefanPoker/wav/poker_n0006.wav
   date: 2007-10-29T09:58:26+0100
@@ -505,6 +525,8 @@
   - {lab: '@', end: 4.609388}
   - {lab: n, end: 4.799671}
   - {lab: _, end: 6.375}
+  start: 49.64
+  end: 56.02
 - prompt: poker_n0007
   file: ./pavoque/StefanPoker/wav/poker_n0007.wav
   date: 2007-10-29T09:58:32+0100
@@ -538,6 +560,8 @@
   - {lab: '6', end: 2.46}
   - {lab: s, end: 2.679426}
   - {lab: _, end: 4.155}
+  start: 56.02
+  end: 60.18
 - prompt: poker_n0008
   file: ./pavoque/StefanPoker/wav/poker_n0008.wav
   date: 2007-10-29T09:58:40+0100
@@ -587,6 +611,8 @@
   - {lab: '@', end: 3.834141}
   - {lab: n, end: 4.016589}
   - {lab: _, end: 5.055}
+  start: 60.18
+  end: 65.24
 - prompt: poker_n0016
   file: ./pavoque/StefanPoker/wav/poker_n0016.wav
   date: 2007-10-29T09:59:16+0100
@@ -638,6 +664,8 @@
   - {lab: aI, end: 3.535451}
   - {lab: t, end: 3.719973}
   - {lab: _, end: 5.715}
+  start: 65.24
+  end: 70.96
 - prompt: poker_n0017
   file: ./pavoque/StefanPoker/wav/poker_n0017.wav
   date: 2007-10-29T09:59:24+0100
@@ -687,6 +715,8 @@
   - {lab: aI, end: 3.6}
   - {lab: t, end: 3.815}
   - {lab: _, end: 5.715}
+  start: 70.96
+  end: 76.68
 - prompt: poker_n0018
   file: ./pavoque/StefanPoker/wav/poker_n0018.wav
   date: 2007-10-29T09:59:32+0100
@@ -752,6 +782,8 @@
   - {lab: x, end: 4.755}
   - {lab: t, end: 4.888328}
   - {lab: _, end: 6.675}
+  start: 76.68
+  end: 83.36
 - prompt: poker_n0019
   file: ./pavoque/StefanPoker/wav/poker_n0019.wav
   date: 2007-10-29T09:59:40+0100
@@ -793,6 +825,8 @@
   - {lab: n, end: 2.705}
   - {lab: t, end: 2.877878}
   - {lab: _, end: 4.515}
+  start: 83.36
+  end: 87.88
 - prompt: poker_n0020
   file: ./pavoque/StefanPoker/wav/poker_n0020.wav
   date: 2007-10-29T09:59:48+0100
@@ -846,6 +880,8 @@
   - {lab: p, end: 3.55}
   - {lab: t, end: 3.75428}
   - {lab: _, end: 5.415}
+  start: 87.88
+  end: 93.3
 - prompt: poker_n0021
   file: ./pavoque/StefanPoker/wav/poker_n0021.wav
   date: 2007-10-29T09:59:54+0100
@@ -885,6 +921,8 @@
   - {lab: '@', end: 3.142441}
   - {lab: n, end: 3.293987}
   - {lab: _, end: 4.395}
+  start: 93.3
+  end: 97.7
 - prompt: poker_n0022
   file: ./pavoque/StefanPoker/wav/poker_n0022.wav
   date: 2007-10-29T10:00:02+0100
@@ -929,6 +967,8 @@
   - {lab: '@', end: 3.011057}
   - {lab: n, end: 3.150573}
   - {lab: _, end: 4.575}
+  start: 97.7
+  end: 102.28
 - prompt: poker_n0023
   file: ./pavoque/StefanPoker/wav/poker_n0023.wav
   date: 2007-10-29T10:00:42+0100
@@ -972,6 +1012,8 @@
   - {lab: '@', end: 2.72}
   - {lab: n, end: 2.832128}
   - {lab: _, end: 4.695}
+  start: 102.28
+  end: 106.98
 - prompt: poker_n0024
   file: ./pavoque/StefanPoker/wav/poker_n0024.wav
   date: 2007-10-29T10:00:50+0100
@@ -1015,6 +1057,8 @@
   - {lab: '@', end: 3.235}
   - {lab: n, end: 3.369953}
   - {lab: _, end: 4.695}
+  start: 106.98
+  end: 111.68
 - prompt: poker_n0026
   file: ./pavoque/StefanPoker/wav/poker_n0026.wav
   date: 2007-10-29T10:01:04+0100
@@ -1058,6 +1102,8 @@
   - {lab: '@', end: 2.81}
   - {lab: n, end: 3.000781}
   - {lab: _, end: 4.695}
+  start: 111.68
+  end: 116.38
 - prompt: poker_n0027
   file: ./pavoque/StefanPoker/wav/poker_n0027.wav
   date: 2007-10-29T10:01:12+0100
@@ -1097,6 +1143,8 @@
   - {lab: t, end: 2.927886}
   - {lab: '@', end: 3.113186}
   - {lab: _, end: 4.455}
+  start: 116.38
+  end: 120.84
 - prompt: poker_n0028
   file: ./pavoque/StefanPoker/wav/poker_n0028.wav
   date: 2007-10-29T10:01:20+0100
@@ -1150,6 +1198,8 @@
   - {lab: '@', end: 4.22032}
   - {lab: n, end: 4.324818}
   - {lab: _, end: 5.295}
+  start: 120.84
+  end: 126.14
 - prompt: poker_n0029
   file: ./pavoque/StefanPoker/wav/poker_n0029.wav
   date: 2007-10-29T10:01:28+0100
@@ -1205,6 +1255,8 @@
   - {lab: aU, end: 4.03}
   - {lab: s, end: 4.28}
   - {lab: _, end: 5.955}
+  start: 126.14
+  end: 132.1
 - prompt: poker_n0031
   file: ./pavoque/StefanPoker/wav/poker_n0031.wav
   date: 2007-10-29T10:01:38+0100
@@ -1224,6 +1276,8 @@
   - {lab: n, end: 1.335}
   - {lab: f, end: 1.5}
   - {lab: _, end: 2.895}
+  start: 132.1
+  end: 135.0
 - prompt: poker_n0032
   file: ./pavoque/StefanPoker/wav/poker_n0032.wav
   date: 2007-10-29T10:01:52+0100
@@ -1244,6 +1298,8 @@
   - {lab: '@', end: 1.41}
   - {lab: s, end: 1.675}
   - {lab: _, end: 2.955}
+  start: 135.0
+  end: 137.96
 - prompt: poker_n0033
   file: ./pavoque/StefanPoker/wav/poker_n0033.wav
   date: 2007-10-29T10:01:58+0100
@@ -1267,6 +1323,8 @@
   - {lab: I, end: 1.73}
   - {lab: C, end: 1.895}
   - {lab: _, end: 3.135}
+  start: 137.96
+  end: 141.1
 - prompt: poker_n0035
   file: ./pavoque/StefanPoker/wav/poker_n0035.wav
   date: 2007-10-29T10:02:10+0100
@@ -1305,6 +1363,8 @@
   - {lab: I, end: 2.545}
   - {lab: C, end: 2.725}
   - {lab: _, end: 4.335}
+  start: 141.1
+  end: 145.44
 - prompt: poker_n0036
   file: ./pavoque/StefanPoker/wav/poker_n0036.wav
   date: 2007-10-29T10:02:14+0100
@@ -1322,6 +1382,8 @@
   - {lab: I, end: 1.11}
   - {lab: t, end: 1.3}
   - {lab: _, end: 2.775}
+  start: 145.44
+  end: 148.22
 - prompt: poker_n0037
   file: ./pavoque/StefanPoker/wav/poker_n0037.wav
   date: 2007-10-29T10:02:20+0100
@@ -1336,6 +1398,8 @@
   - {lab: I, end: 0.995}
   - {lab: t, end: 1.209097}
   - {lab: _, end: 2.535}
+  start: 148.22
+  end: 150.76
 - prompt: poker_n0038
   file: ./pavoque/StefanPoker/wav/poker_n0038.wav
   date: 2007-10-29T10:02:24+0100
@@ -1352,6 +1416,8 @@
   - {lab: t, end: 1.08}
   - {lab: '@', end: 1.279182}
   - {lab: _, end: 2.595}
+  start: 150.76
+  end: 153.36
 - prompt: poker_n0039
   file: ./pavoque/StefanPoker/wav/poker_n0039.wav
   date: 2007-10-29T10:02:30+0100
@@ -1377,6 +1443,8 @@
   - {lab: I, end: 1.62}
   - {lab: C, end: 1.823346}
   - {lab: _, end: 3.315}
+  start: 153.36
+  end: 156.68
 - prompt: poker_n0040
   file: ./pavoque/StefanPoker/wav/poker_n0040.wav
   date: 2007-10-29T10:02:36+0100
@@ -1395,6 +1463,8 @@
   - {lab: b, end: 1.327036}
   - {lab: aI, end: 1.645}
   - {lab: _, end: 2.835}
+  start: 156.68
+  end: 159.52
 - prompt: poker_n0041
   file: ./pavoque/StefanPoker/wav/poker_n0041.wav
   date: 2007-10-29T10:02:40+0100
@@ -1410,6 +1480,8 @@
   - {lab: b, end: 1.162992}
   - {lab: aI, end: 1.48}
   - {lab: _, end: 2.595}
+  start: 159.52
+  end: 162.12
 - prompt: poker_n0042
   file: ./pavoque/StefanPoker/wav/poker_n0042.wav
   date: 2007-10-29T10:02:48+0100
@@ -1449,6 +1521,8 @@
   - {lab: n, end: 2.362935}
   - {lab: f, end: 2.554471}
   - {lab: _, end: 4.215}
+  start: 162.12
+  end: 166.34
 - prompt: poker_n0043
   file: ./pavoque/StefanPoker/wav/poker_n0043.wav
   date: 2007-10-29T10:02:54+0100
@@ -1488,6 +1562,8 @@
   - {lab: 'e:', end: 3.235}
   - {lab: n, end: 3.400847}
   - {lab: _, end: 4.395}
+  start: 166.34
+  end: 170.74
 - prompt: poker_n0044
   file: ./pavoque/StefanPoker/wav/poker_n0044.wav
   date: 2007-10-29T10:03:00+0100
@@ -1517,6 +1593,8 @@
   - {lab: I, end: 2.240686}
   - {lab: C, end: 2.439193}
   - {lab: _, end: 3.615}
+  start: 170.74
+  end: 174.36
 - prompt: poker_n0046
   file: ./pavoque/StefanPoker/wav/poker_n0046.wav
   date: 2007-10-29T10:03:12+0100
@@ -1536,6 +1614,8 @@
   - {lab: aU, end: 1.15642}
   - {lab: s, end: 1.345}
   - {lab: _, end: 2.895}
+  start: 174.36
+  end: 177.26
 - prompt: poker_n0047
   file: ./pavoque/StefanPoker/wav/poker_n0047.wav
   date: 2007-10-29T10:03:18+0100
@@ -1551,6 +1631,8 @@
   - {lab: s, end: 1.195}
   - {lab: '@', end: 1.39}
   - {lab: _, end: 2.595}
+  start: 177.26
+  end: 179.86
 - prompt: poker_n0049
   file: ./pavoque/StefanPoker/wav/poker_n0049.wav
   date: 2007-10-29T10:03:28+0100
@@ -1568,6 +1650,8 @@
   - {lab: aU, end: 1.045}
   - {lab: s, end: 1.235}
   - {lab: _, end: 2.775}
+  start: 179.86
+  end: 182.64
 - prompt: poker_n0050
   file: ./pavoque/StefanPoker/wav/poker_n0050.wav
   date: 2007-10-29T10:03:32+0100
@@ -1589,6 +1673,8 @@
   - {lab: I, end: 1.185}
   - {lab: C, end: 1.34}
   - {lab: _, end: 3.135}
+  start: 182.64
+  end: 185.78
 - prompt: poker_n0051
   file: ./pavoque/StefanPoker/wav/poker_n0051.wav
   date: 2007-10-29T10:03:38+0100
@@ -1612,6 +1698,8 @@
   - {lab: t, end: 1.365}
   - {lab: '6', end: 1.605}
   - {lab: _, end: 3.375}
+  start: 185.78
+  end: 189.16
 - prompt: poker_n0052
   file: ./pavoque/StefanPoker/wav/poker_n0052.wav
   date: 2007-10-29T10:03:44+0100
@@ -1637,6 +1725,8 @@
   - {lab: '@', end: 1.522929}
   - {lab: n, end: 1.665}
   - {lab: _, end: 3.555}
+  start: 189.16
+  end: 192.72
 - prompt: poker_n0053
   file: ./pavoque/StefanPoker/wav/poker_n0053.wav
   date: 2007-10-29T10:03:52+0100
@@ -1667,6 +1757,8 @@
   - {lab: '@', end: 1.729948}
   - {lab: n, end: 1.865}
   - {lab: _, end: 3.915}
+  start: 192.72
+  end: 196.64
 - prompt: poker_n0054
   file: ./pavoque/StefanPoker/wav/poker_n0054.wav
   date: 2007-10-29T10:03:58+0100
@@ -1696,6 +1788,8 @@
   - {lab: '@', end: 1.528239}
   - {lab: n, end: 1.674341}
   - {lab: _, end: 3.675}
+  start: 196.64
+  end: 200.32
 - prompt: poker_n0055
   file: ./pavoque/StefanPoker/wav/poker_n0055.wav
   date: 2007-10-29T10:04:04+0100
@@ -1734,6 +1828,8 @@
   - {lab: '@', end: 2.212327}
   - {lab: n, end: 2.38}
   - {lab: _, end: 4.455}
+  start: 200.32
+  end: 204.78
 - prompt: poker_n0056
   file: ./pavoque/StefanPoker/wav/poker_n0056.wav
   date: 2007-10-29T10:04:10+0100
@@ -1766,6 +1862,8 @@
   - {lab: aU, end: 2.335}
   - {lab: s, end: 2.515}
   - {lab: _, end: 4.155}
+  start: 204.78
+  end: 208.94
 - prompt: poker_n0057
   file: ./pavoque/StefanPoker/wav/poker_n0057.wav
   date: 2007-10-29T10:04:16+0100
@@ -1792,6 +1890,8 @@
   - {lab: t, end: 2.225}
   - {lab: '@', end: 2.39}
   - {lab: _, end: 3.495}
+  start: 208.94
+  end: 212.44
 - prompt: poker_n0058
   file: ./pavoque/StefanPoker/wav/poker_n0058.wav
   date: 2007-10-29T10:04:22+0100
@@ -1818,6 +1918,8 @@
   - {lab: '@', end: 1.66}
   - {lab: n, end: 1.841753}
   - {lab: _, end: 3.555}
+  start: 212.44
+  end: 216.0
 - prompt: poker_n0059
   file: ./pavoque/StefanPoker/wav/poker_n0059.wav
   date: 2007-10-29T10:04:28+0100
@@ -1844,6 +1946,8 @@
   - {lab: '@', end: 1.910853}
   - {lab: n, end: 2.097692}
   - {lab: _, end: 3.555}
+  start: 216.0
+  end: 219.56
 - prompt: poker_n0060
   file: ./pavoque/StefanPoker/wav/poker_n0060.wav
   date: 2007-10-29T10:04:34+0100
@@ -1874,6 +1978,8 @@
   - {lab: t, end: 2.343578}
   - {lab: '@', end: 2.535}
   - {lab: _, end: 3.795}
+  start: 219.56
+  end: 223.36
 - prompt: poker_n0061
   file: ./pavoque/StefanPoker/wav/poker_n0061.wav
   date: 2007-10-29T10:04:42+0100
@@ -1904,6 +2010,8 @@
   - {lab: '@', end: 2.14}
   - {lab: n, end: 2.315159}
   - {lab: _, end: 3.855}
+  start: 223.36
+  end: 227.22
 - prompt: poker_n0062
   file: ./pavoque/StefanPoker/wav/poker_n0062.wav
   date: 2007-10-29T10:04:48+0100
@@ -1934,6 +2042,8 @@
   - {lab: '@', end: 2.050713}
   - {lab: n, end: 2.237563}
   - {lab: _, end: 3.855}
+  start: 227.22
+  end: 231.08
 - prompt: poker_n0063
   file: ./pavoque/StefanPoker/wav/poker_n0063.wav
   date: 2007-10-29T10:04:54+0100
@@ -1962,6 +2072,8 @@
   - {lab: '@', end: 1.925}
   - {lab: n, end: 2.105}
   - {lab: _, end: 3.495}
+  start: 231.08
+  end: 234.58
 - prompt: poker_n0065
   file: ./pavoque/StefanPoker/wav/poker_n0065.wav
   date: 2007-10-29T10:05:06+0100
@@ -1992,6 +2104,8 @@
   - {lab: '@', end: 2.222893}
   - {lab: n, end: 2.37577}
   - {lab: _, end: 3.855}
+  start: 234.58
+  end: 238.44
 - prompt: poker_n0066
   file: ./pavoque/StefanPoker/wav/poker_n0066.wav
   date: 2007-10-29T10:05:14+0100
@@ -2046,6 +2160,8 @@
   - {lab: b, end: 3.280595}
   - {lab: '@', end: 3.43}
   - {lab: _, end: 5.535}
+  start: 238.44
+  end: 243.98
 - prompt: poker_n0067
   file: ./pavoque/StefanPoker/wav/poker_n0067.wav
   date: 2007-10-29T10:05:18+0100
@@ -2060,6 +2176,8 @@
   - {lab: aU, end: 1.16}
   - {lab: n, end: 1.464223}
   - {lab: _, end: 2.535}
+  start: 243.98
+  end: 246.52
 - prompt: poker_n0068
   file: ./pavoque/StefanPoker/wav/poker_n0068.wav
   date: 2007-10-29T10:05:24+0100
@@ -2078,6 +2196,8 @@
   - {lab: '@', end: 1.365}
   - {lab: n, end: 1.560782}
   - {lab: _, end: 2.895}
+  start: 246.52
+  end: 249.42
 - prompt: poker_n0069
   file: ./pavoque/StefanPoker/wav/poker_n0069.wav
   date: 2007-10-29T10:05:30+0100
@@ -2109,6 +2229,8 @@
   - {lab: aU, end: 2.29}
   - {lab: f, end: 2.52}
   - {lab: _, end: 3.855}
+  start: 249.42
+  end: 253.28
 - prompt: poker_n0070
   file: ./pavoque/StefanPoker/wav/poker_n0070.wav
   date: 2007-10-29T10:05:36+0100
@@ -2131,6 +2253,8 @@
   - {lab: '@', end: 1.55}
   - {lab: n, end: 1.757884}
   - {lab: _, end: 3.255}
+  start: 253.28
+  end: 256.54
 - prompt: poker_n0071
   file: ./pavoque/StefanPoker/wav/poker_n0071.wav
   date: 2007-10-29T10:09:04+0100
@@ -2168,6 +2292,8 @@
   - {lab: I, end: 2.275}
   - {lab: S, end: 2.509057}
   - {lab: _, end: 4.395}
+  start: 256.54
+  end: 260.94
 - prompt: poker_n0072
   file: ./pavoque/StefanPoker/wav/poker_n0072.wav
   date: 2007-10-29T10:09:10+0100
@@ -2203,6 +2329,8 @@
   - {lab: p, end: 2.175}
   - {lab: t, end: 2.355}
   - {lab: _, end: 4.215}
+  start: 260.94
+  end: 265.16
 - prompt: poker_n0073
   file: ./pavoque/StefanPoker/wav/poker_n0073.wav
   date: 2007-10-29T10:09:18+0100
@@ -2238,6 +2366,8 @@
   - {lab: OY, end: 2.617202}
   - {lab: C, end: 2.775}
   - {lab: _, end: 4.155}
+  start: 265.16
+  end: 269.32
 - prompt: poker_n0074
   file: ./pavoque/StefanPoker/wav/poker_n0074.wav
   date: 2007-10-29T10:09:40+0100
@@ -2275,6 +2405,8 @@
   - {lab: OY, end: 2.619929}
   - {lab: C, end: 2.8}
   - {lab: _, end: 4.515}
+  start: 269.32
+  end: 273.84
 - prompt: poker_n0075
   file: ./pavoque/StefanPoker/wav/poker_n0075.wav
   date: 2007-10-29T10:10:02+0100
@@ -2314,6 +2446,8 @@
   - {lab: aU, end: 3.11}
   - {lab: s, end: 3.236716}
   - {lab: _, end: 4.755}
+  start: 273.84
+  end: 278.6
 - prompt: poker_n0076
   file: ./pavoque/StefanPoker/wav/poker_n0076.wav
   date: 2007-10-29T10:10:08+0100
@@ -2352,6 +2486,8 @@
   - {lab: OY, end: 3.090001}
   - {lab: C, end: 3.230894}
   - {lab: _, end: 4.395}
+  start: 278.6
+  end: 283.0
 - prompt: poker_n0077
   file: ./pavoque/StefanPoker/wav/poker_n0077.wav
   date: 2007-10-29T10:10:16+0100
@@ -2389,6 +2525,8 @@
   - {lab: OY, end: 3.185}
   - {lab: C, end: 3.37}
   - {lab: _, end: 4.575}
+  start: 283.0
+  end: 287.58
 - prompt: poker_n0078
   file: ./pavoque/StefanPoker/wav/poker_n0078.wav
   date: 2007-10-29T10:10:24+0100
@@ -2430,6 +2568,8 @@
   - {lab: aU, end: 3.39}
   - {lab: s, end: 3.547788}
   - {lab: _, end: 4.935}
+  start: 287.58
+  end: 292.52
 - prompt: poker_n0079
   file: ./pavoque/StefanPoker/wav/poker_n0079.wav
   date: 2007-10-29T10:11:36+0100
@@ -2469,6 +2609,8 @@
   - {lab: OY, end: 2.622544}
   - {lab: C, end: 2.8}
   - {lab: _, end: 4.395}
+  start: 292.52
+  end: 296.92
 - prompt: poker_n0080
   file: ./pavoque/StefanPoker/wav/poker_n0080.wav
   date: 2007-10-29T10:11:44+0100
@@ -2506,6 +2648,8 @@
   - {lab: OY, end: 2.819239}
   - {lab: C, end: 2.978122}
   - {lab: _, end: 4.455}
+  start: 296.92
+  end: 301.38
 - prompt: poker_n0081
   file: ./pavoque/StefanPoker/wav/poker_n0081.wav
   date: 2007-10-29T10:12:04+0100
@@ -2546,6 +2690,8 @@
   - {lab: aU, end: 3.015}
   - {lab: s, end: 3.169917}
   - {lab: _, end: 4.755}
+  start: 301.38
+  end: 306.14
 - prompt: poker_n0082
   file: ./pavoque/StefanPoker/wav/poker_n0082.wav
   date: 2007-10-29T10:12:10+0100
@@ -2583,6 +2729,8 @@
   - {lab: OY, end: 2.521034}
   - {lab: C, end: 2.69}
   - {lab: _, end: 4.455}
+  start: 306.14
+  end: 310.6
 - prompt: poker_n0083
   file: ./pavoque/StefanPoker/wav/poker_n0083.wav
   date: 2007-10-29T10:12:18+0100
@@ -2623,6 +2771,8 @@
   - {lab: OY, end: 3.077698}
   - {lab: C, end: 3.24}
   - {lab: _, end: 4.755}
+  start: 310.6
+  end: 315.36
 - prompt: poker_n0084
   file: ./pavoque/StefanPoker/wav/poker_n0084.wav
   date: 2007-10-29T10:12:24+0100
@@ -2663,6 +2813,8 @@
   - {lab: aU, end: 3.35}
   - {lab: s, end: 3.515}
   - {lab: _, end: 4.875}
+  start: 315.36
+  end: 320.24
 - prompt: poker_n0085
   file: ./pavoque/StefanPoker/wav/poker_n0085.wav
   date: 2007-10-29T10:12:32+0100
@@ -2704,6 +2856,8 @@
   - {lab: OY, end: 3.755}
   - {lab: C, end: 3.93}
   - {lab: _, end: 4.755}
+  start: 320.24
+  end: 325.0
 - prompt: poker_n0086
   file: ./pavoque/StefanPoker/wav/poker_n0086.wav
   date: 2007-10-29T10:12:40+0100
@@ -2744,6 +2898,8 @@
   - {lab: OY, end: 3.05}
   - {lab: C, end: 3.24}
   - {lab: _, end: 4.815}
+  start: 325.0
+  end: 329.82
 - prompt: poker_n0087
   file: ./pavoque/StefanPoker/wav/poker_n0087.wav
   date: 2007-10-29T10:12:46+0100
@@ -2781,6 +2937,8 @@
   - {lab: a, end: 2.9}
   - {lab: s, end: 3.093417}
   - {lab: _, end: 4.275}
+  start: 329.82
+  end: 334.1
 - prompt: m0001
   file: ./pavoque/StefanPoker/wav/m0001.wav
   date: 2007-10-29T10:13:32+0100
@@ -2815,6 +2973,8 @@
   - {lab: '@', end: 2.725}
   - {lab: t, end: 2.950116}
   - {lab: _, end: 4.215}
+  start: 334.1
+  end: 338.32
 - prompt: m0002
   file: ./pavoque/StefanPoker/wav/m0002.wav
   date: 2007-10-29T10:13:40+0100
@@ -2852,6 +3012,8 @@
   - {lab: a, end: 3.385}
   - {lab: 'o:', end: 3.627074}
   - {lab: _, end: 4.215}
+  start: 338.32
+  end: 342.54
 - prompt: m0003
   file: ./pavoque/StefanPoker/wav/m0003.wav
   date: 2007-10-29T10:13:56+0100
@@ -2882,6 +3044,8 @@
   - {lab: '@', end: 2.15}
   - {lab: l, end: 2.419418}
   - {lab: _, end: 3.615}
+  start: 342.54
+  end: 346.16
 - prompt: m0004
   file: ./pavoque/StefanPoker/wav/m0004.wav
   date: 2007-10-29T10:14:02+0100
@@ -2909,6 +3073,8 @@
   - {lab: U, end: 2.170209}
   - {lab: l, end: 2.369934}
   - {lab: _, end: 3.555}
+  start: 346.16
+  end: 349.72
 - prompt: m0005
   file: ./pavoque/StefanPoker/wav/m0005.wav
   date: 2007-10-29T10:14:08+0100
@@ -2941,6 +3107,8 @@
   - {lab: a, end: 2.305}
   - {lab: n, end: 2.438985}
   - {lab: _, end: 3.735}
+  start: 349.72
+  end: 353.46
 - prompt: m0006
   file: ./pavoque/StefanPoker/wav/m0006.wav
   date: 2007-10-29T10:14:36+0100
@@ -2978,6 +3146,8 @@
   - {lab: n, end: 2.785}
   - {lab: s, end: 3.009922}
   - {lab: _, end: 4.275}
+  start: 353.46
+  end: 357.74
 - prompt: m0007
   file: ./pavoque/StefanPoker/wav/m0007.wav
   date: 2007-10-29T10:14:42+0100
@@ -3002,6 +3172,8 @@
   - {lab: z, end: 2.142577}
   - {lab: '@', end: 2.45}
   - {lab: _, end: 3.435}
+  start: 357.74
+  end: 361.18
 - prompt: m0008
   file: ./pavoque/StefanPoker/wav/m0008.wav
   date: 2007-10-29T10:14:50+0100
@@ -3046,6 +3218,8 @@
   - {lab: t, end: 2.918738}
   - {lab: '@', end: 3.080458}
   - {lab: _, end: 4.635}
+  start: 361.18
+  end: 365.82
 - prompt: m0009
   file: ./pavoque/StefanPoker/wav/m0009.wav
   date: 2007-10-29T10:14:58+0100
@@ -3104,6 +3278,8 @@
   - {lab: m, end: 3.865}
   - {lab: a, end: 4.105}
   - {lab: _, end: 5.655}
+  start: 365.82
+  end: 371.48
 - prompt: m0010
   file: ./pavoque/StefanPoker/wav/m0010.wav
   date: 2007-10-29T10:15:04+0100
@@ -3149,6 +3325,8 @@
   - {lab: R, end: 3.67}
   - {lab: aI, end: 3.95743}
   - {lab: _, end: 4.635}
+  start: 371.48
+  end: 376.12
 - prompt: m0011
   file: ./pavoque/StefanPoker/wav/m0011.wav
   date: 2007-10-29T10:15:12+0100
@@ -3180,6 +3358,8 @@
   - {lab: Y, end: 2.68}
   - {lab: k, end: 2.92335}
   - {lab: _, end: 3.795}
+  start: 376.12
+  end: 379.92
 - prompt: m0012
   file: ./pavoque/StefanPoker/wav/m0012.wav
   date: 2007-10-29T10:15:18+0100
@@ -3211,6 +3391,8 @@
   - {lab: I, end: 3.575}
   - {lab: S, end: 3.861419}
   - {lab: _, end: 3.915}
+  start: 379.92
+  end: 383.84
 - prompt: m0013
   file: ./pavoque/StefanPoker/wav/m0013.wav
   date: 2007-10-29T10:15:26+0100
@@ -3263,6 +3445,8 @@
   - {lab: '6', end: 4.16}
   - {lab: n, end: 4.249426}
   - {lab: _, end: 5.595}
+  start: 383.84
+  end: 389.44
 - prompt: m0014
   file: ./pavoque/StefanPoker/wav/m0014.wav
   date: 2007-10-29T10:15:32+0100
@@ -3296,6 +3480,8 @@
   - {lab: aU, end: 3.175}
   - {lab: s, end: 3.501561}
   - {lab: _, end: 3.915}
+  start: 389.44
+  end: 393.36
 - prompt: m0015
   file: ./pavoque/StefanPoker/wav/m0015.wav
   date: 2007-10-29T10:15:38+0100
@@ -3329,6 +3515,8 @@
   - {lab: 'i:', end: 2.93}
   - {lab: f, end: 3.174818}
   - {lab: _, end: 4.155}
+  start: 393.36
+  end: 397.52
 - prompt: m0017
   file: ./pavoque/StefanPoker/wav/m0017.wav
   date: 2007-10-29T10:16:24+0100
@@ -3359,6 +3547,8 @@
   - {lab: aI, end: 2.566683}
   - {lab: C, end: 2.765057}
   - {lab: _, end: 4.095}
+  start: 397.52
+  end: 401.62
 - prompt: m0018
   file: ./pavoque/StefanPoker/wav/m0018.wav
   date: 2007-10-29T10:16:30+0100
@@ -3387,6 +3577,8 @@
   - {lab: t, end: 2.21}
   - {lab: '@', end: 2.41921}
   - {lab: _, end: 3.435}
+  start: 401.62
+  end: 405.06
 - prompt: m0019
   file: ./pavoque/StefanPoker/wav/m0019.wav
   date: 2007-10-29T10:16:36+0100
@@ -3424,6 +3616,8 @@
   - {lab: '@', end: 2.33}
   - {lab: n, end: 2.474959}
   - {lab: _, end: 4.215}
+  start: 405.06
+  end: 409.28
 - prompt: m0020
   file: ./pavoque/StefanPoker/wav/m0020.wav
   date: 2007-10-29T10:16:42+0100
@@ -3456,6 +3650,8 @@
   - {lab: '@', end: 2.58}
   - {lab: t, end: 2.79257}
   - {lab: _, end: 3.855}
+  start: 409.28
+  end: 413.14
 - prompt: m0021
   file: ./pavoque/StefanPoker/wav/m0021.wav
   date: 2007-10-29T10:16:48+0100
@@ -3483,6 +3679,8 @@
   - {lab: 'y:', end: 2.11}
   - {lab: t, end: 2.362217}
   - {lab: _, end: 3.615}
+  start: 413.14
+  end: 416.76
 - prompt: m0023
   file: ./pavoque/StefanPoker/wav/m0023.wav
   date: 2007-10-29T10:17:02+0100
@@ -3519,6 +3717,8 @@
   - {lab: n, end: 2.887033}
   - {lab: '@', end: 3.030739}
   - {lab: _, end: 4.215}
+  start: 416.76
+  end: 420.98
 - prompt: m0025
   file: ./pavoque/StefanPoker/wav/m0025.wav
   date: 2007-10-29T10:17:14+0100
@@ -3549,6 +3749,8 @@
   - {lab: n, end: 2.175}
   - {lab: d, end: 2.3}
   - {lab: _, end: 3.675}
+  start: 420.98
+  end: 424.66
 - prompt: m0026
   file: ./pavoque/StefanPoker/wav/m0026.wav
   date: 2007-10-29T10:17:20+0100
@@ -3576,6 +3778,8 @@
   - {lab: I, end: 2.01}
   - {lab: C, end: 2.19}
   - {lab: _, end: 3.615}
+  start: 424.66
+  end: 428.28
 - prompt: m0027
   file: ./pavoque/StefanPoker/wav/m0027.wav
   date: 2007-10-29T10:17:28+0100
@@ -3612,6 +3816,8 @@
   - {lab: n, end: 2.73}
   - {lab: t, end: 2.885}
   - {lab: _, end: 4.215}
+  start: 428.28
+  end: 432.5
 - prompt: m0028
   file: ./pavoque/StefanPoker/wav/m0028.wav
   date: 2007-10-29T10:17:34+0100
@@ -3643,6 +3849,8 @@
   - {lab: '@', end: 2.27}
   - {lab: l, end: 2.492381}
   - {lab: _, end: 3.975}
+  start: 432.5
+  end: 436.48
 - prompt: m0029
   file: ./pavoque/StefanPoker/wav/m0029.wav
   date: 2007-10-29T10:17:40+0100
@@ -3678,6 +3886,8 @@
   - {lab: ts, end: 2.59}
   - {lab: t, end: 2.715302}
   - {lab: _, end: 4.035}
+  start: 436.48
+  end: 440.52
 - prompt: m0022
   file: ./pavoque/StefanPoker/wav/m0022.wav
   date: 2007-10-29T10:19:34+0100
@@ -3724,6 +3934,8 @@
   - {lab: R, end: 3.689779}
   - {lab: 'i:', end: 3.935}
   - {lab: _, end: 4.875}
+  start: 440.52
+  end: 445.4
 - prompt: m0030
   file: ./pavoque/StefanPoker/wav/m0030.wav
   date: 2007-10-29T10:20:06+0100
@@ -3787,6 +3999,8 @@
   - {lab: '@', end: 5.12}
   - {lab: s, end: 5.355893}
   - {lab: _, end: 6.855}
+  start: 445.4
+  end: 452.26
 - prompt: m0031
   file: ./pavoque/StefanPoker/wav/m0031.wav
   date: 2007-10-29T10:20:12+0100
@@ -3830,6 +4044,8 @@
   - {lab: '6', end: 3.445}
   - {lab: k, end: 3.644226}
   - {lab: _, end: 4.635}
+  start: 452.26
+  end: 456.9
 - prompt: m0032
   file: ./pavoque/StefanPoker/wav/m0032.wav
   date: 2007-10-29T10:20:22+0100
@@ -3894,6 +4110,8 @@
   - {lab: k, end: 5.422368}
   - {lab: t, end: 5.728865}
   - {lab: _, end: 6.495}
+  start: 456.9
+  end: 463.4
 - prompt: m0033
   file: ./pavoque/StefanPoker/wav/m0033.wav
   date: 2007-10-29T10:20:42+0100
@@ -3930,6 +4148,8 @@
   - {lab: n, end: 2.615}
   - {lab: s, end: 2.833775}
   - {lab: _, end: 4.515}
+  start: 463.4
+  end: 467.92
 - prompt: m0034
   file: ./pavoque/StefanPoker/wav/m0034.wav
   date: 2007-10-29T10:20:50+0100
@@ -3975,6 +4195,8 @@
   - {lab: '@', end: 3.435546}
   - {lab: n, end: 3.598276}
   - {lab: _, end: 5.295}
+  start: 467.92
+  end: 473.22
 - prompt: m0035
   file: ./pavoque/StefanPoker/wav/m0035.wav
   date: 2007-10-29T10:20:56+0100
@@ -4009,6 +4231,8 @@
   - {lab: aI, end: 2.86}
   - {lab: t, end: 3.201853}
   - {lab: _, end: 4.335}
+  start: 473.22
+  end: 477.56
 - prompt: m0036
   file: ./pavoque/StefanPoker/wav/m0036.wav
   date: 2007-10-29T10:21:04+0100
@@ -4046,6 +4270,8 @@
   - {lab: 'i:', end: 3.7921}
   - {lab: '6', end: 3.92}
   - {lab: _, end: 4.335}
+  start: 477.56
+  end: 481.9
 - prompt: m0037
   file: ./pavoque/StefanPoker/wav/m0037.wav
   date: 2007-10-29T10:21:36+0100
@@ -4075,6 +4301,8 @@
   - {lab: '@', end: 1.988369}
   - {lab: n, end: 2.177959}
   - {lab: _, end: 3.675}
+  start: 481.9
+  end: 485.58
 - prompt: m0038
   file: ./pavoque/StefanPoker/wav/m0038.wav
   date: 2007-10-29T10:21:42+0100
@@ -4106,6 +4334,8 @@
   - {lab: b, end: 2.874008}
   - {lab: '@', end: 3.077755}
   - {lab: _, end: 4.155}
+  start: 485.58
+  end: 489.74
 - prompt: m0039
   file: ./pavoque/StefanPoker/wav/m0039.wav
   date: 2007-10-29T10:21:50+0100
@@ -4142,6 +4372,8 @@
   - {lab: n, end: 3.03}
   - {lab: OY, end: 3.375}
   - {lab: _, end: 4.335}
+  start: 489.74
+  end: 494.08
 - prompt: m0040
   file: ./pavoque/StefanPoker/wav/m0040.wav
   date: 2007-10-29T10:21:56+0100
@@ -4176,6 +4408,8 @@
   - {lab: '@', end: 3.528731}
   - {lab: n, end: 3.772643}
   - {lab: _, end: 3.975}
+  start: 494.08
+  end: 498.06
 - prompt: m0041
   file: ./pavoque/StefanPoker/wav/m0041.wav
   date: 2007-10-29T10:22:02+0100
@@ -4213,6 +4447,8 @@
   - {lab: n, end: 3.075}
   - {lab: t, end: 3.291757}
   - {lab: _, end: 4.215}
+  start: 498.06
+  end: 502.28
 - prompt: m0042
   file: ./pavoque/StefanPoker/wav/m0042.wav
   date: 2007-10-29T10:22:08+0100
@@ -4248,6 +4484,8 @@
   - {lab: O, end: 3.385}
   - {lab: n, end: 3.523263}
   - {lab: _, end: 3.975}
+  start: 502.28
+  end: 506.26
 - prompt: m0043
   file: ./pavoque/StefanPoker/wav/m0043.wav
   date: 2007-10-29T10:22:16+0100
@@ -4280,6 +4518,8 @@
   - {lab: '@', end: 2.635}
   - {lab: n, end: 2.822197}
   - {lab: _, end: 4.155}
+  start: 506.26
+  end: 510.42
 - prompt: m0044
   file: ./pavoque/StefanPoker/wav/m0044.wav
   date: 2007-10-29T10:22:22+0100
@@ -4310,6 +4550,8 @@
   - {lab: z, end: 2.585}
   - {lab: '@', end: 2.855}
   - {lab: _, end: 3.495}
+  start: 510.42
+  end: 513.92
 - prompt: m0045
   file: ./pavoque/StefanPoker/wav/m0045.wav
   date: 2007-10-29T10:22:28+0100
@@ -4341,6 +4583,8 @@
   - {lab: I, end: 2.765}
   - {lab: t, end: 3.023567}
   - {lab: _, end: 3.615}
+  start: 513.92
+  end: 517.54
 - prompt: m0046
   file: ./pavoque/StefanPoker/wav/m0046.wav
   date: 2007-10-29T10:23:14+0100
@@ -4368,6 +4612,8 @@
   - {lab: a, end: 2.11}
   - {lab: n, end: 2.2644}
   - {lab: _, end: 3.435}
+  start: 517.54
+  end: 520.98
 - prompt: m0049
   file: ./pavoque/StefanPoker/wav/m0049.wav
   date: 2007-10-29T10:23:34+0100
@@ -4395,6 +4641,8 @@
   - {lab: x, end: 2.63}
   - {lab: ts, end: 2.945}
   - {lab: _, end: 3.555}
+  start: 520.98
+  end: 524.54
 - prompt: m0050
   file: ./pavoque/StefanPoker/wav/m0050.wav
   date: 2007-10-29T10:23:56+0100
@@ -4429,6 +4677,8 @@
   - {lab: 'o:', end: 3.04}
   - {lab: '6', end: 3.180412}
   - {lab: _, end: 4.395}
+  start: 524.54
+  end: 528.94
 - prompt: m0051
   file: ./pavoque/StefanPoker/wav/m0051.wav
   date: 2007-10-29T10:24:02+0100
@@ -4459,6 +4709,8 @@
   - {lab: 'a:', end: 2.97}
   - {lab: l, end: 3.157429}
   - {lab: _, end: 3.615}
+  start: 528.94
+  end: 532.56
 - prompt: m0053
   file: ./pavoque/StefanPoker/wav/m0053.wav
   date: 2007-10-29T10:24:14+0100
@@ -4490,6 +4742,8 @@
   - {lab: l, end: 2.29}
   - {lab: 'o:', end: 2.435299}
   - {lab: _, end: 3.735}
+  start: 532.56
+  end: 536.3
 - prompt: m0054
   file: ./pavoque/StefanPoker/wav/m0054.wav
   date: 2007-10-29T10:24:20+0100
@@ -4526,6 +4780,8 @@
   - {lab: EI, end: 2.9}
   - {lab: s, end: 3.16}
   - {lab: _, end: 4.275}
+  start: 536.3
+  end: 540.58
 - prompt: m0055
   file: ./pavoque/StefanPoker/wav/m0055.wav
   date: 2007-10-29T10:24:28+0100
@@ -4584,6 +4840,8 @@
   - {lab: U, end: 3.945}
   - {lab: N, end: 4.03876}
   - {lab: _, end: 6.075}
+  start: 540.58
+  end: 546.66
 - prompt: m0052
   file: ./pavoque/StefanPoker/wav/m0052.wav
   date: 2007-10-29T10:25:14+0100
@@ -4619,6 +4877,8 @@
   - {lab: 'e:', end: 2.91}
   - {lab: '6', end: 3.113202}
   - {lab: _, end: 4.035}
+  start: 546.66
+  end: 550.7
 - prompt: m0056
   file: ./pavoque/StefanPoker/wav/m0056.wav
   date: 2007-10-29T10:25:32+0100
@@ -4663,6 +4923,8 @@
   - {lab: m, end: 3.225}
   - {lab: 'a:', end: 3.433929}
   - {lab: _, end: 5.175}
+  start: 550.7
+  end: 555.88
 - prompt: m0057
   file: ./pavoque/StefanPoker/wav/m0057.wav
   date: 2007-10-29T10:25:40+0100
@@ -4701,6 +4963,8 @@
   - {lab: aU, end: 3.53}
   - {lab: s, end: 3.803694}
   - {lab: _, end: 4.575}
+  start: 555.88
+  end: 560.46
 - prompt: m0058
   file: ./pavoque/StefanPoker/wav/m0058.wav
   date: 2007-10-29T10:25:46+0100
@@ -4740,6 +5004,8 @@
   - {lab: k, end: 3.599861}
   - {lab: t, end: 3.936302}
   - {lab: _, end: 4.335}
+  start: 560.46
+  end: 564.8
 - prompt: m0059
   file: ./pavoque/StefanPoker/wav/m0059.wav
   date: 2007-10-29T10:25:54+0100
@@ -4772,6 +5038,8 @@
   - {lab: l, end: 3.366528}
   - {lab: ts, end: 3.593641}
   - {lab: _, end: 4.335}
+  start: 564.8
+  end: 569.14
 - prompt: m0060
   file: ./pavoque/StefanPoker/wav/m0060.wav
   date: 2007-10-29T10:26:00+0100
@@ -4804,6 +5072,8 @@
   - {lab: a, end: 2.83}
   - {lab: n, end: 2.948337}
   - {lab: _, end: 3.975}
+  start: 569.14
+  end: 573.12
 - prompt: m0061
   file: ./pavoque/StefanPoker/wav/m0061.wav
   date: 2007-10-29T10:26:06+0100
@@ -4835,6 +5105,8 @@
   - {lab: '@', end: 2.385}
   - {lab: t, end: 2.577829}
   - {lab: _, end: 3.735}
+  start: 573.12
+  end: 576.86
 - prompt: m0062
   file: ./pavoque/StefanPoker/wav/m0062.wav
   date: 2007-10-29T10:26:12+0100
@@ -4868,6 +5140,8 @@
   - {lab: I, end: 2.98}
   - {lab: S, end: 3.196934}
   - {lab: _, end: 4.155}
+  start: 576.86
+  end: 581.02
 - prompt: m0063
   file: ./pavoque/StefanPoker/wav/m0063.wav
   date: 2007-10-29T10:26:20+0100
@@ -4908,6 +5182,8 @@
   - {lab: I, end: 3.324908}
   - {lab: l, end: 3.46003}
   - {lab: _, end: 4.215}
+  start: 581.02
+  end: 585.24
 - prompt: m0064
   file: ./pavoque/StefanPoker/wav/m0064.wav
   date: 2007-10-29T10:26:26+0100
@@ -4954,6 +5230,8 @@
   - {lab: '@', end: 3.575}
   - {lab: n, end: 3.703922}
   - {lab: _, end: 4.695}
+  start: 585.24
+  end: 589.94
 - prompt: m0065
   file: ./pavoque/StefanPoker/wav/m0065.wav
   date: 2007-10-29T10:26:32+0100
@@ -4981,6 +5259,8 @@
   - {lab: 'e:', end: 1.85}
   - {lab: t, end: 2.098196}
   - {lab: _, end: 3.255}
+  start: 589.94
+  end: 593.2
 - prompt: m0066
   file: ./pavoque/StefanPoker/wav/m0066.wav
   date: 2007-10-29T10:27:10+0100
@@ -5055,6 +5335,8 @@
   - {lab: '@', end: 5.555}
   - {lab: n, end: 5.702235}
   - {lab: _, end: 7.275}
+  start: 593.2
+  end: 600.48
 - prompt: m0067
   file: ./pavoque/StefanPoker/wav/m0067.wav
   date: 2007-10-29T10:27:20+0100
@@ -5119,6 +5401,8 @@
   - {lab: l, end: 5.585}
   - {lab: 'E:', end: 5.840892}
   - {lab: _, end: 6.795}
+  start: 600.48
+  end: 607.28
 - prompt: m0068
   file: ./pavoque/StefanPoker/wav/m0068.wav
   date: 2007-10-29T10:27:36+0100
@@ -5168,6 +5452,8 @@
   - {lab: '2:', end: 4.36}
   - {lab: n, end: 4.507388}
   - {lab: _, end: 4.755}
+  start: 607.28
+  end: 612.04
 - prompt: m0069
   file: ./pavoque/StefanPoker/wav/m0069.wav
   date: 2007-10-29T10:27:46+0100
@@ -5225,6 +5511,8 @@
   - {lab: t, end: 5.203891}
   - {lab: '6', end: 5.425924}
   - {lab: _, end: 6.435}
+  start: 612.04
+  end: 618.48
 - prompt: m0070
   file: ./pavoque/StefanPoker/wav/m0070.wav
   date: 2007-10-29T10:28:12+0100
@@ -5278,6 +5566,8 @@
   - {lab: 'u:', end: 4.44}
   - {lab: x, end: 4.659624}
   - {lab: _, end: 5.835}
+  start: 618.48
+  end: 624.32
 - prompt: m0071
   file: ./pavoque/StefanPoker/wav/m0071.wav
   date: 2007-10-29T10:28:30+0100
@@ -5316,6 +5606,8 @@
   - {lab: a, end: 3.13}
   - {lab: n, end: 3.26026}
   - {lab: _, end: 4.395}
+  start: 624.32
+  end: 628.72
 - prompt: m0072
   file: ./pavoque/StefanPoker/wav/m0072.wav
   date: 2007-10-29T10:28:36+0100
@@ -5351,6 +5643,8 @@
   - {lab: aU, end: 3.17}
   - {lab: s, end: 3.405}
   - {lab: _, end: 4.155}
+  start: 628.72
+  end: 632.88
 - prompt: m0073
   file: ./pavoque/StefanPoker/wav/m0073.wav
   date: 2007-10-29T10:28:44+0100
@@ -5394,6 +5688,8 @@
   - {lab: 'o:', end: 4.288357}
   - {lab: l, end: 4.386629}
   - {lab: _, end: 4.815}
+  start: 632.88
+  end: 637.7
 - prompt: m0074
   file: ./pavoque/StefanPoker/wav/m0074.wav
   date: 2007-10-29T10:29:28+0100
@@ -5430,6 +5726,8 @@
   - {lab: '@', end: 2.945}
   - {lab: n, end: 3.113119}
   - {lab: _, end: 4.068923}
+  start: 637.7
+  end: 641.98
 - prompt: m0075
   file: ./pavoque/StefanPoker/wav/m0075.wav
   date: 2007-10-29T10:29:34+0100
@@ -5466,6 +5764,8 @@
   - {lab: n, end: 2.875407}
   - {lab: t, end: 3.030203}
   - {lab: _, end: 4.275}
+  start: 641.98
+  end: 646.26
 - prompt: m0076
   file: ./pavoque/StefanPoker/wav/m0076.wav
   date: 2007-10-29T10:29:42+0100
@@ -5510,6 +5810,8 @@
   - {lab: l, end: 3.31}
   - {lab: t, end: 3.525}
   - {lab: _, end: 4.995}
+  start: 646.26
+  end: 651.26
 - prompt: m0077
   file: ./pavoque/StefanPoker/wav/m0077.wav
   date: 2007-10-29T10:29:48+0100
@@ -5542,6 +5844,8 @@
   - {lab: C, end: 3.170321}
   - {lab: t, end: 3.355}
   - {lab: _, end: 4.215}
+  start: 651.26
+  end: 655.48
 - prompt: m0078
   file: ./pavoque/StefanPoker/wav/m0078.wav
   date: 2007-10-29T10:29:56+0100
@@ -5597,6 +5901,8 @@
   - {lab: '@', end: 4.115}
   - {lab: n, end: 4.21}
   - {lab: _, end: 5.655}
+  start: 655.48
+  end: 661.14
 - prompt: m0079
   file: ./pavoque/StefanPoker/wav/m0079.wav
   date: 2007-10-29T10:30:02+0100
@@ -5631,6 +5937,8 @@
   - {lab: n, end: 2.665}
   - {lab: t, end: 2.835}
   - {lab: _, end: 3.735}
+  start: 661.14
+  end: 664.88
 - prompt: m0080
   file: ./pavoque/StefanPoker/wav/m0080.wav
   date: 2007-10-29T10:30:08+0100
@@ -5664,6 +5972,8 @@
   - {lab: I, end: 2.53}
   - {lab: C, end: 2.688501}
   - {lab: _, end: 3.915}
+  start: 664.88
+  end: 668.8
 - prompt: m0081
   file: ./pavoque/StefanPoker/wav/m0081.wav
   date: 2007-10-29T10:30:14+0100
@@ -5691,6 +6001,8 @@
   - {lab: '@', end: 2.37}
   - {lab: l, end: 2.630012}
   - {lab: _, end: 3.675}
+  start: 668.8
+  end: 672.48
 - prompt: m0082
   file: ./pavoque/StefanPoker/wav/m0082.wav
   date: 2007-10-29T10:30:20+0100
@@ -5717,6 +6029,8 @@
   - {lab: '6', end: 1.930747}
   - {lab: C, end: 2.12}
   - {lab: _, end: 3.495}
+  start: 672.48
+  end: 675.98
 - prompt: m0083
   file: ./pavoque/StefanPoker/wav/m0083.wav
   date: 2007-10-29T10:30:26+0100
@@ -5747,6 +6061,8 @@
   - {lab: m, end: 2.535}
   - {lab: 'i:', end: 2.837087}
   - {lab: _, end: 3.735}
+  start: 675.98
+  end: 679.72
 - prompt: m0084
   file: ./pavoque/StefanPoker/wav/m0084.wav
   date: 2007-10-29T10:30:36+0100
@@ -5805,6 +6121,8 @@
   - {lab: I, end: 4.43}
   - {lab: s, end: 4.619564}
   - {lab: _, end: 5.775}
+  start: 679.72
+  end: 685.5
 - prompt: m0085
   file: ./pavoque/StefanPoker/wav/m0085.wav
   date: 2007-10-29T10:30:42+0100
@@ -5846,6 +6164,8 @@
   - {lab: '@', end: 2.873522}
   - {lab: n, end: 3.037469}
   - {lab: _, end: 4.635}
+  start: 685.5
+  end: 690.14
 - prompt: m0086
   file: ./pavoque/StefanPoker/wav/m0086.wav
   date: 2007-10-29T10:30:48+0100
@@ -5877,6 +6197,8 @@
   - {lab: g, end: 2.496855}
   - {lab: 'i:', end: 2.82}
   - {lab: _, end: 3.555}
+  start: 690.14
+  end: 693.7
 - prompt: m0087
   file: ./pavoque/StefanPoker/wav/m0087.wav
   date: 2007-10-29T10:30:54+0100
@@ -5909,6 +6231,8 @@
   - {lab: '@', end: 2.655}
   - {lab: n, end: 2.787795}
   - {lab: _, end: 4.155}
+  start: 693.7
+  end: 697.86
 - prompt: m0088
   file: ./pavoque/StefanPoker/wav/m0088.wav
   date: 2007-10-29T10:31:02+0100
@@ -5937,6 +6261,8 @@
   - {lab: I, end: 2.169918}
   - {lab: C, end: 2.376321}
   - {lab: _, end: 3.735}
+  start: 697.86
+  end: 701.6
 - prompt: m0089
   file: ./pavoque/StefanPoker/wav/m0089.wav
   date: 2007-10-29T10:31:08+0100
@@ -5971,6 +6297,8 @@
   - {lab: aI, end: 2.675}
   - {lab: n, end: 2.813549}
   - {lab: _, end: 4.035}
+  start: 701.6
+  end: 705.64
 - prompt: m0090
   file: ./pavoque/StefanPoker/wav/m0090.wav
   date: 2007-10-29T10:31:14+0100
@@ -6009,6 +6337,8 @@
   - {lab: x, end: 2.635}
   - {lab: t, end: 2.794684}
   - {lab: _, end: 4.395}
+  start: 705.64
+  end: 710.04
 - prompt: m0091
   file: ./pavoque/StefanPoker/wav/m0091.wav
   date: 2007-10-29T10:31:22+0100
@@ -6046,6 +6376,8 @@
   - {lab: '6', end: 3.19}
   - {lab: t, end: 3.386788}
   - {lab: _, end: 4.395}
+  start: 710.04
+  end: 714.44
 - prompt: m0092
   file: ./pavoque/StefanPoker/wav/m0092.wav
   date: 2007-10-29T10:31:28+0100
@@ -6076,6 +6408,8 @@
   - {lab: 'e:', end: 2.565}
   - {lab: l, end: 2.785}
   - {lab: _, end: 3.915}
+  start: 714.44
+  end: 718.36
 - prompt: m0093
   file: ./pavoque/StefanPoker/wav/m0093.wav
   date: 2007-10-29T10:31:36+0100
@@ -6145,6 +6479,8 @@
   - {lab: '@', end: 5.25}
   - {lab: n, end: 5.367491}
   - {lab: _, end: 6.615}
+  start: 718.36
+  end: 724.98
 - prompt: m0094
   file: ./pavoque/StefanPoker/wav/m0094.wav
   date: 2007-10-29T10:31:42+0100
@@ -6174,6 +6510,8 @@
   - {lab: '@', end: 2.525}
   - {lab: n, end: 2.769605}
   - {lab: _, end: 3.495}
+  start: 724.98
+  end: 728.48
 - prompt: m0095
   file: ./pavoque/StefanPoker/wav/m0095.wav
   date: 2007-10-29T10:32:04+0100
@@ -6223,6 +6561,8 @@
   - {lab: '@', end: 3.962042}
   - {lab: n, end: 4.05021}
   - {lab: _, end: 5.295}
+  start: 728.48
+  end: 733.78
 - prompt: m0096
   file: ./pavoque/StefanPoker/wav/m0096.wav
   date: 2007-10-29T10:32:10+0100
@@ -6272,6 +6612,8 @@
   - {lab: E, end: 3.975}
   - {lab: f, end: 4.22}
   - {lab: _, end: 5.355}
+  start: 733.78
+  end: 739.14
 - prompt: m0097
   file: ./pavoque/StefanPoker/wav/m0097.wav
   date: 2007-10-29T10:32:18+0100
@@ -6303,6 +6645,8 @@
   - {lab: U, end: 2.935}
   - {lab: N, end: 3.065042}
   - {lab: _, end: 3.975}
+  start: 739.14
+  end: 743.12
 - prompt: m0098
   file: ./pavoque/StefanPoker/wav/m0098.wav
   date: 2007-10-29T10:32:24+0100
@@ -6329,6 +6673,8 @@
   - {lab: OY, end: 2.355}
   - {lab: tS, end: 2.7}
   - {lab: _, end: 3.675}
+  start: 743.12
+  end: 746.8
 - prompt: m0099
   file: ./pavoque/StefanPoker/wav/m0099.wav
   date: 2007-10-29T10:32:30+0100
@@ -6366,6 +6712,8 @@
   - {lab: C, end: 2.85}
   - {lab: t, end: 2.993064}
   - {lab: _, end: 4.335}
+  start: 746.8
+  end: 751.14
 - prompt: m0100
   file: ./pavoque/StefanPoker/wav/m0100.wav
   date: 2007-10-29T10:33:04+0100
@@ -6394,6 +6742,8 @@
   - {lab: p, end: 2.557044}
   - {lab: OY, end: 2.9}
   - {lab: _, end: 3.495}
+  start: 751.14
+  end: 754.64
 - prompt: m0101
   file: ./pavoque/StefanPoker/wav/m0101.wav
   date: 2007-10-29T10:33:10+0100
@@ -6422,6 +6772,8 @@
   - {lab: 'y:', end: 2.125}
   - {lab: '6', end: 2.365}
   - {lab: _, end: 3.675}
+  start: 754.64
+  end: 758.32
 - prompt: m0250
   file: ./pavoque/StefanPoker/wav/m0250.wav
   date: 2007-10-29T10:34:44+0100
@@ -6482,6 +6834,8 @@
   - {lab: '?', end: 6.377324}
   - {lab: 'y:', end: 6.724319}
   - {lab: _, end: 7.335}
+  start: 758.32
+  end: 765.66
 - prompt: m0251
   file: ./pavoque/StefanPoker/wav/m0251.wav
   date: 2007-10-29T10:35:56+0100
@@ -6509,6 +6863,8 @@
   - {lab: n, end: 2.317136}
   - {lab: s, end: 2.641994}
   - {lab: _, end: 3.615}
+  start: 765.66
+  end: 769.48
 - prompt: m0252
   file: ./pavoque/StefanPoker/wav/m0252.wav
   date: 2007-10-29T10:36:04+0100
@@ -6555,6 +6911,8 @@
   - {lab: r, end: 3.46}
   - {lab: 'o:', end: 3.656715}
   - {lab: _, end: 5.195}
+  start: 769.48
+  end: 774.68
 - prompt: m0253
   file: ./pavoque/StefanPoker/wav/m0253.wav
   date: 2007-10-29T10:36:56+0100
@@ -6677,6 +7035,8 @@
   - {lab: '6', end: 9.58}
   - {lab: t, end: 9.790121}
   - {lab: _, end: 10.655}
+  start: 774.68
+  end: 785.34
 - prompt: m0254
   file: ./pavoque/StefanPoker/wav/m0254.wav
   date: 2007-10-29T10:37:20+0100
@@ -6711,6 +7071,8 @@
   - {lab: k, end: 2.791786}
   - {lab: ts, end: 3.071272}
   - {lab: _, end: 4.415}
+  start: 785.34
+  end: 789.76
 - prompt: m0255
   file: ./pavoque/StefanPoker/wav/m0255.wav
   date: 2007-10-29T10:37:30+0100
@@ -6749,6 +7111,8 @@
   - {lab: '@', end: 3.487354}
   - {lab: n, end: 3.602801}
   - {lab: _, end: 4.895}
+  start: 789.76
+  end: 794.66
 - prompt: m0256
   file: ./pavoque/StefanPoker/wav/m0256.wav
   date: 2007-10-29T10:37:38+0100
@@ -6777,6 +7141,8 @@
   - {lab: 'a:', end: 2.585739}
   - {lab: n, end: 2.723285}
   - {lab: _, end: 3.755}
+  start: 794.66
+  end: 798.42
 - prompt: m0257
   file: ./pavoque/StefanPoker/wav/m0257.wav
   date: 2007-10-29T10:37:46+0100
@@ -6816,6 +7182,8 @@
   - {lab: 'e:', end: 2.819438}
   - {lab: 'o:', end: 3.096407}
   - {lab: _, end: 4.775}
+  start: 798.42
+  end: 803.2
 - prompt: m0258
   file: ./pavoque/StefanPoker/wav/m0258.wav
   date: 2007-10-29T10:37:54+0100
@@ -6844,6 +7212,8 @@
   - {lab: t, end: 2.68892}
   - {lab: '6', end: 2.951709}
   - {lab: _, end: 3.755}
+  start: 803.2
+  end: 806.96
 - prompt: m0259
   file: ./pavoque/StefanPoker/wav/m0259.wav
   date: 2007-10-29T10:38:48+0100
@@ -6882,6 +7252,8 @@
   - {lab: O, end: 3.97}
   - {lab: f, end: 4.198832}
   - {lab: _, end: 4.595}
+  start: 806.96
+  end: 811.56
 - prompt: m0260
   file: ./pavoque/StefanPoker/wav/m0260.wav
   date: 2007-10-29T10:39:24+0100
@@ -6934,6 +7306,8 @@
   - {lab: l, end: 5.9}
   - {lab: t, end: 6.138158}
   - {lab: _, end: 6.855}
+  start: 811.56
+  end: 818.42
 - prompt: m0261
   file: ./pavoque/StefanPoker/wav/m0261.wav
   date: 2007-10-29T10:39:48+0100
@@ -6970,6 +7344,8 @@
   - {lab: I, end: 3.045}
   - {lab: n, end: 3.235}
   - {lab: _, end: 4.715}
+  start: 818.42
+  end: 823.14
 - prompt: m0262
   file: ./pavoque/StefanPoker/wav/m0262.wav
   date: 2007-10-29T10:39:56+0100
@@ -7001,6 +7377,8 @@
   - {lab: aI, end: 2.82}
   - {lab: v, end: 3.045}
   - {lab: _, end: 4.055}
+  start: 823.14
+  end: 827.2
 - prompt: m0264
   file: ./pavoque/StefanPoker/wav/m0264.wav
   date: 2007-10-29T10:40:32+0100
@@ -7039,6 +7417,8 @@
   - {lab: n, end: 3.43}
   - {lab: s, end: 3.687983}
   - {lab: _, end: 4.415}
+  start: 827.2
+  end: 831.62
 - prompt: m0265
   file: ./pavoque/StefanPoker/wav/m0265.wav
   date: 2007-10-29T10:40:40+0100
@@ -7079,6 +7459,8 @@
   - {lab: z, end: 4.425}
   - {lab: d, end: 4.570498}
   - {lab: _, end: 5.075}
+  start: 831.62
+  end: 836.7
 - prompt: m0266
   file: ./pavoque/StefanPoker/wav/m0266.wav
   date: 2007-10-29T10:40:48+0100
@@ -7111,6 +7493,8 @@
   - {lab: '@', end: 2.455}
   - {lab: n, end: 2.592938}
   - {lab: _, end: 3.935}
+  start: 836.7
+  end: 840.64
 - prompt: m0267
   file: ./pavoque/StefanPoker/wav/m0267.wav
   date: 2007-10-29T10:40:58+0100
@@ -7150,6 +7534,8 @@
   - {lab: m, end: 3.835}
   - {lab: 'i:', end: 4.085}
   - {lab: _, end: 4.715}
+  start: 840.64
+  end: 845.36
 - prompt: m0268
   file: ./pavoque/StefanPoker/wav/m0268.wav
   date: 2007-10-29T10:41:06+0100
@@ -7187,6 +7573,8 @@
   - {lab: s, end: 3.116896}
   - {lab: t, end: 3.25754}
   - {lab: _, end: 4.655}
+  start: 845.36
+  end: 850.02
 - prompt: m0269
   file: ./pavoque/StefanPoker/wav/m0269.wav
   date: 2007-10-29T10:41:16+0100
@@ -7247,6 +7635,8 @@
   - {lab: 'i:', end: 5.128613}
   - {lab: '6', end: 5.314081}
   - {lab: _, end: 6.335}
+  start: 850.02
+  end: 856.36
 - prompt: m0270
   file: ./pavoque/StefanPoker/wav/m0270.wav
   date: 2007-10-29T10:41:24+0100
@@ -7272,6 +7662,8 @@
   - {lab: OY, end: 2.27}
   - {lab: s, end: 2.505}
   - {lab: _, end: 3.695}
+  start: 856.36
+  end: 860.06
 - prompt: m0272
   file: ./pavoque/StefanPoker/wav/m0272.wav
   date: 2007-10-29T10:41:52+0100
@@ -7306,6 +7698,8 @@
   - {lab: v, end: 3.325}
   - {lab: 'i:', end: 3.585607}
   - {lab: _, end: 4.235}
+  start: 860.06
+  end: 864.3
 - prompt: m0275
   file: ./pavoque/StefanPoker/wav/m0275.wav
   date: 2007-10-29T10:43:38+0100
@@ -7338,6 +7732,8 @@
   - {lab: a, end: 2.475}
   - {lab: t, end: 2.675}
   - {lab: _, end: 3.995}
+  start: 864.3
+  end: 868.3
 - prompt: m0276
   file: ./pavoque/StefanPoker/wav/m0276.wav
   date: 2007-10-29T10:44:40+0100
@@ -7395,6 +7791,8 @@
   - {lab: r, end: 5.73}
   - {lab: '@', end: 5.919783}
   - {lab: _, end: 6.915}
+  start: 868.3
+  end: 875.22
 - prompt: m0277
   file: ./pavoque/StefanPoker/wav/m0277.wav
   date: 2007-10-29T10:44:58+0100
@@ -7435,6 +7833,8 @@
   - {lab: k, end: 2.81}
   - {lab: 'a:', end: 3.042761}
   - {lab: _, end: 4.475}
+  start: 875.22
+  end: 879.7
 - prompt: m0278
   file: ./pavoque/StefanPoker/wav/m0278.wav
   date: 2007-10-29T10:47:34+0100
@@ -7495,6 +7895,8 @@
   - {lab: '6', end: 6.1}
   - {lab: ts, end: 6.435}
   - {lab: _, end: 7.095}
+  start: 879.7
+  end: 886.8
 - prompt: m0279
   file: ./pavoque/StefanPoker/wav/m0279.wav
   date: 2007-10-29T10:48:32+0100
@@ -7578,6 +7980,8 @@
   - {lab: l, end: 7.545}
   - {lab: n, end: 7.700825}
   - {lab: _, end: 7.775}
+  start: 886.8
+  end: 894.58
 - prompt: m0280
   file: ./pavoque/StefanPoker/wav/m0280.wav
   date: 2007-10-29T10:48:40+0100
@@ -7615,6 +8019,8 @@
   - {lab: n, end: 3.515}
   - {lab: t, end: 3.671368}
   - {lab: _, end: 4.595}
+  start: 894.58
+  end: 899.18
 - prompt: m0281
   file: ./pavoque/StefanPoker/wav/m0281.wav
   date: 2007-10-29T10:48:52+0100
@@ -7695,6 +8101,8 @@
   - {lab: d, end: 6.49045}
   - {lab: Z, end: 6.715798}
   - {lab: _, end: 7.955}
+  start: 899.18
+  end: 907.14
 - prompt: m0282
   file: ./pavoque/StefanPoker/wav/m0282.wav
   date: 2007-10-29T10:49:00+0100
@@ -7734,6 +8142,8 @@
   - {lab: l, end: 3.625}
   - {lab: s, end: 3.955}
   - {lab: _, end: 4.655}
+  start: 907.14
+  end: 911.8
 - prompt: m0283
   file: ./pavoque/StefanPoker/wav/m0283.wav
   date: 2007-10-29T10:49:12+0100
@@ -7800,6 +8210,8 @@
   - {lab: b, end: 6.612922}
   - {lab: '6', end: 6.825}
   - {lab: _, end: 7.415}
+  start: 911.8
+  end: 919.22
 - prompt: m0285
   file: ./pavoque/StefanPoker/wav/m0285.wav
   date: 2007-10-29T10:49:30+0100
@@ -7827,6 +8239,8 @@
   - {lab: aU, end: 3.078292}
   - {lab: x, end: 3.362717}
   - {lab: _, end: 4.295}
+  start: 919.22
+  end: 923.52
 - prompt: m0284
   file: ./pavoque/StefanPoker/wav/m0284.wav
   date: 2007-10-29T10:49:54+0100
@@ -7884,6 +8298,8 @@
   - {lab: I, end: 5.055}
   - {lab: k, end: 5.275}
   - {lab: _, end: 7.155}
+  start: 923.52
+  end: 930.68
 - prompt: m0286
   file: ./pavoque/StefanPoker/wav/m0286.wav
   date: 2007-10-29T10:50:10+0100
@@ -7915,6 +8331,8 @@
   - {lab: U, end: 3.655}
   - {lab: t, end: 3.91}
   - {lab: _, end: 4.475}
+  start: 930.68
+  end: 935.16
 - prompt: m0287
   file: ./pavoque/StefanPoker/wav/m0287.wav
   date: 2007-10-29T10:50:20+0100
@@ -7964,6 +8382,8 @@
   - {lab: n, end: 4.315}
   - {lab: t, end: 4.5}
   - {lab: _, end: 5.015}
+  start: 935.16
+  end: 940.18
 - prompt: m0288
   file: ./pavoque/StefanPoker/wav/m0288.wav
   date: 2007-10-29T10:50:26+0100
@@ -7991,6 +8411,8 @@
   - {lab: '@', end: 2.168318}
   - {lab: n, end: 2.323724}
   - {lab: _, end: 3.695}
+  start: 940.18
+  end: 943.88
 - prompt: m0289
   file: ./pavoque/StefanPoker/wav/m0289.wav
   date: 2007-10-29T10:50:36+0100
@@ -8049,6 +8471,8 @@
   - {lab: U, end: 4.255}
   - {lab: b, end: 4.485}
   - {lab: _, end: 5.855}
+  start: 943.88
+  end: 949.74
 - prompt: m0290
   file: ./pavoque/StefanPoker/wav/m0290.wav
   date: 2007-10-29T10:50:46+0100
@@ -8108,6 +8532,8 @@
   - {lab: '@', end: 4.71}
   - {lab: n, end: 4.872438}
   - {lab: _, end: 5.855}
+  start: 949.74
+  end: 955.6
 - prompt: m0291
   file: ./pavoque/StefanPoker/wav/m0291.wav
   date: 2007-10-29T10:50:56+0100
@@ -8154,6 +8580,8 @@
   - {lab: R, end: 4.23}
   - {lab: '@', end: 4.386077}
   - {lab: _, end: 5.675}
+  start: 955.6
+  end: 961.28
 - prompt: m0292
   file: ./pavoque/StefanPoker/wav/m0292.wav
   date: 2007-10-29T10:51:06+0100
@@ -8197,6 +8625,8 @@
   - {lab: 'a:', end: 3.2}
   - {lab: n, end: 3.390944}
   - {lab: _, end: 4.895}
+  start: 961.28
+  end: 966.18
 - prompt: m0293
   file: ./pavoque/StefanPoker/wav/m0293.wav
   date: 2007-10-29T10:51:30+0100
@@ -8236,6 +8666,8 @@
   - {lab: 'a:', end: 3.934524}
   - {lab: l, end: 4.168568}
   - {lab: _, end: 4.715}
+  start: 966.18
+  end: 970.9
 - prompt: m0294
   file: ./pavoque/StefanPoker/wav/m0294.wav
   date: 2007-10-29T10:51:36+0100
@@ -8263,6 +8695,8 @@
   - {lab: O, end: 2.725}
   - {lab: n, end: 2.918801}
   - {lab: _, end: 3.635}
+  start: 970.9
+  end: 974.54
 - prompt: m0295
   file: ./pavoque/StefanPoker/wav/m0295.wav
   date: 2007-10-29T10:51:46+0100
@@ -8304,6 +8738,8 @@
   - {lab: '@', end: 4.445}
   - {lab: n, end: 4.6}
   - {lab: _, end: 5.135}
+  start: 974.54
+  end: 979.68
 - prompt: m0296
   file: ./pavoque/StefanPoker/wav/m0296.wav
   date: 2007-10-29T10:51:58+0100
@@ -8375,6 +8811,8 @@
   - {lab: l, end: 5.740785}
   - {lab: t, end: 5.953858}
   - {lab: _, end: 7.595}
+  start: 979.68
+  end: 987.28
 - prompt: m0297
   file: ./pavoque/StefanPoker/wav/m0297.wav
   date: 2007-10-29T10:52:16+0100
@@ -8418,6 +8856,8 @@
   - {lab: '6', end: 3.21}
   - {lab: n, end: 3.318831}
   - {lab: _, end: 5.015}
+  start: 987.28
+  end: 992.3
 - prompt: m0298
   file: ./pavoque/StefanPoker/wav/m0298.wav
   date: 2007-10-29T10:52:38+0100
@@ -8441,6 +8881,8 @@
   - {lab: 'i:', end: 2.43}
   - {lab: l, end: 2.634537}
   - {lab: _, end: 3.695}
+  start: 992.3
+  end: 996.0
 - prompt: m0299
   file: ./pavoque/StefanPoker/wav/m0299.wav
   date: 2007-10-29T10:52:46+0100
@@ -8485,6 +8927,8 @@
   - {lab: a, end: 3.398087}
   - {lab: t, end: 3.591544}
   - {lab: _, end: 5.075}
+  start: 996.0
+  end: 1001.08
 - prompt: m0300
   file: ./pavoque/StefanPoker/wav/m0300.wav
   date: 2007-10-29T10:52:54+0100
@@ -8513,6 +8957,8 @@
   - {lab: '@', end: 2.15}
   - {lab: k, end: 2.365}
   - {lab: _, end: 3.875}
+  start: 1001.08
+  end: 1004.96
 - prompt: poker_n0090
   file: ./pavoque/StefanPoker/wav/poker_n0090.wav
   date: 2007-10-29T10:54:32+0100
@@ -8556,6 +9002,8 @@
   - {lab: 'i:', end: 3.095}
   - {lab: '6', end: 3.2894}
   - {lab: _, end: 4.755}
+  start: 1004.96
+  end: 1009.72
 - prompt: poker_n0091
   file: ./pavoque/StefanPoker/wav/poker_n0091.wav
   date: 2007-10-29T10:54:38+0100
@@ -8594,6 +9042,8 @@
   - {lab: n, end: 3.165}
   - {lab: f, end: 3.4}
   - {lab: _, end: 4.395}
+  start: 1009.72
+  end: 1014.12
 - prompt: poker_n0092
   file: ./pavoque/StefanPoker/wav/poker_n0092.wav
   date: 2007-10-29T10:54:46+0100
@@ -8631,6 +9081,8 @@
   - {lab: k, end: 3.165}
   - {lab: s, end: 3.345}
   - {lab: _, end: 4.335}
+  start: 1014.12
+  end: 1018.46
 - prompt: poker_n0096
   file: ./pavoque/StefanPoker/wav/poker_n0096.wav
   date: 2007-10-29T10:55:14+0100
@@ -8667,6 +9119,8 @@
   - {lab: 'e:', end: 3.318057}
   - {lab: n, end: 3.590719}
   - {lab: _, end: 4.215}
+  start: 1018.46
+  end: 1022.68
 - prompt: poker_n0095
   file: ./pavoque/StefanPoker/wav/poker_n0095.wav
   date: 2007-10-29T10:55:34+0100
@@ -8705,6 +9159,8 @@
   - {lab: OY, end: 3.078802}
   - {lab: n, end: 3.272506}
   - {lab: _, end: 4.395}
+  start: 1022.68
+  end: 1027.08
 - prompt: poker_n0097
   file: ./pavoque/StefanPoker/wav/poker_n0097.wav
   date: 2007-10-29T10:55:46+0100
@@ -8746,6 +9202,8 @@
   - {lab: b, end: 3.161778}
   - {lab: '@', end: 3.383981}
   - {lab: _, end: 4.575}
+  start: 1027.08
+  end: 1031.66
 - prompt: poker_n0098
   file: ./pavoque/StefanPoker/wav/poker_n0098.wav
   date: 2007-10-29T10:55:52+0100
@@ -8785,6 +9243,8 @@
   - {lab: m, end: 3.24}
   - {lab: '@', end: 3.455}
   - {lab: _, end: 4.395}
+  start: 1031.66
+  end: 1036.06
 - prompt: poker_n0099
   file: ./pavoque/StefanPoker/wav/poker_n0099.wav
   date: 2007-10-29T10:56:00+0100
@@ -8829,6 +9289,8 @@
   - {lab: I, end: 3.585}
   - {lab: C, end: 3.799409}
   - {lab: _, end: 4.755}
+  start: 1036.06
+  end: 1040.82
 - prompt: poker_n0100
   file: ./pavoque/StefanPoker/wav/poker_n0100.wav
   date: 2007-10-29T10:56:06+0100
@@ -8867,6 +9329,8 @@
   - {lab: a, end: 2.945}
   - {lab: s, end: 3.20921}
   - {lab: _, end: 4.335}
+  start: 1040.82
+  end: 1045.16
 - prompt: poker_n0101
   file: ./pavoque/StefanPoker/wav/poker_n0101.wav
   date: 2007-10-29T10:56:12+0100
@@ -8905,6 +9369,8 @@
   - {lab: v, end: 2.995}
   - {lab: aI, end: 3.34}
   - {lab: _, end: 4.335}
+  start: 1045.16
+  end: 1049.5
 - prompt: poker_n0102
   file: ./pavoque/StefanPoker/wav/poker_n0102.wav
   date: 2007-10-29T10:56:20+0100
@@ -8948,6 +9414,8 @@
   - {lab: R, end: 3.295}
   - {lab: aI, end: 3.618812}
   - {lab: _, end: 4.695}
+  start: 1049.5
+  end: 1054.2
 - prompt: poker_n0103
   file: ./pavoque/StefanPoker/wav/poker_n0103.wav
   date: 2007-10-29T10:56:28+0100
@@ -8992,6 +9460,8 @@
   - {lab: 'i:', end: 3.310911}
   - {lab: '6', end: 3.53}
   - {lab: _, end: 4.815}
+  start: 1054.2
+  end: 1059.02
 - prompt: poker_n0104
   file: ./pavoque/StefanPoker/wav/poker_n0104.wav
   date: 2007-10-29T10:56:34+0100
@@ -9031,6 +9501,8 @@
   - {lab: n, end: 3.045849}
   - {lab: f, end: 3.215}
   - {lab: _, end: 4.455}
+  start: 1059.02
+  end: 1063.48
 - prompt: poker_n0106
   file: ./pavoque/StefanPoker/wav/poker_n0106.wav
   date: 2007-10-29T10:56:48+0100
@@ -9075,6 +9547,8 @@
   - {lab: '@', end: 3.265}
   - {lab: n, end: 3.510725}
   - {lab: _, end: 4.755}
+  start: 1063.48
+  end: 1068.24
 - prompt: poker_n0107
   file: ./pavoque/StefanPoker/wav/poker_n0107.wav
   date: 2007-10-29T10:56:56+0100
@@ -9120,6 +9594,8 @@
   - {lab: x, end: 3.265}
   - {lab: t, end: 3.429136}
   - {lab: _, end: 4.875}
+  start: 1068.24
+  end: 1073.12
 - prompt: poker_n0108
   file: ./pavoque/StefanPoker/wav/poker_n0108.wav
   date: 2007-10-29T10:57:02+0100
@@ -9158,6 +9634,8 @@
   - {lab: OY, end: 2.75237}
   - {lab: n, end: 2.937598}
   - {lab: _, end: 4.455}
+  start: 1073.12
+  end: 1077.58
 - prompt: poker_n0109
   file: ./pavoque/StefanPoker/wav/poker_n0109.wav
   date: 2007-10-29T10:57:10+0100
@@ -9195,6 +9673,8 @@
   - {lab: 'e:', end: 3.10585}
   - {lab: n, end: 3.292345}
   - {lab: _, end: 4.275}
+  start: 1077.58
+  end: 1081.86
 - prompt: poker_n0110
   file: ./pavoque/StefanPoker/wav/poker_n0110.wav
   date: 2007-10-29T10:57:16+0100
@@ -9237,6 +9717,8 @@
   - {lab: b, end: 3.194958}
   - {lab: '@', end: 3.46}
   - {lab: _, end: 4.635}
+  start: 1081.86
+  end: 1086.5
 - prompt: poker_n0111
   file: ./pavoque/StefanPoker/wav/poker_n0111.wav
   date: 2007-10-29T10:57:24+0100
@@ -9277,6 +9759,8 @@
   - {lab: m, end: 2.9384}
   - {lab: '@', end: 3.140869}
   - {lab: _, end: 4.455}
+  start: 1086.5
+  end: 1090.96
 - prompt: poker_n0112
   file: ./pavoque/StefanPoker/wav/poker_n0112.wav
   date: 2007-10-29T10:57:58+0100
@@ -9322,6 +9806,8 @@
   - {lab: I, end: 3.145}
   - {lab: C, end: 3.331364}
   - {lab: _, end: 4.815}
+  start: 1090.96
+  end: 1095.78
 - prompt: poker_n0113
   file: ./pavoque/StefanPoker/wav/poker_n0113.wav
   date: 2007-10-29T10:58:04+0100
@@ -9359,6 +9845,8 @@
   - {lab: a, end: 2.93448}
   - {lab: s, end: 3.15}
   - {lab: _, end: 4.395}
+  start: 1095.78
+  end: 1100.18
 - prompt: poker_n0114
   file: ./pavoque/StefanPoker/wav/poker_n0114.wav
   date: 2007-10-29T10:58:12+0100
@@ -9396,6 +9884,8 @@
   - {lab: v, end: 3.053136}
   - {lab: aI, end: 3.425}
   - {lab: _, end: 4.395}
+  start: 1100.18
+  end: 1104.58
 - prompt: poker_n0115
   file: ./pavoque/StefanPoker/wav/poker_n0115.wav
   date: 2007-10-29T10:58:32+0100
@@ -9439,6 +9929,8 @@
   - {lab: R, end: 3.08}
   - {lab: aI, end: 3.395}
   - {lab: _, end: 4.755}
+  start: 1104.58
+  end: 1109.34
 - prompt: poker_n0116
   file: ./pavoque/StefanPoker/wav/poker_n0116.wav
   date: 2007-10-29T10:58:40+0100
@@ -9483,6 +9975,8 @@
   - {lab: 'i:', end: 2.923967}
   - {lab: '6', end: 3.145}
   - {lab: _, end: 4.875}
+  start: 1109.34
+  end: 1114.22
 - prompt: poker_n0117
   file: ./pavoque/StefanPoker/wav/poker_n0117.wav
   date: 2007-10-29T11:00:46+0100
@@ -9522,6 +10016,8 @@
   - {lab: n, end: 3.155}
   - {lab: f, end: 3.335}
   - {lab: _, end: 4.515}
+  start: 1114.22
+  end: 1118.74
 - prompt: poker_n0119
   file: ./pavoque/StefanPoker/wav/poker_n0119.wav
   date: 2007-10-29T11:01:00+0100
@@ -9566,6 +10062,8 @@
   - {lab: '@', end: 3.448866}
   - {lab: n, end: 3.786935}
   - {lab: _, end: 4.815}
+  start: 1118.74
+  end: 1123.56
 - prompt: poker_n0120
   file: ./pavoque/StefanPoker/wav/poker_n0120.wav
   date: 2007-10-29T11:01:06+0100
@@ -9611,6 +10109,8 @@
   - {lab: x, end: 3.56}
   - {lab: t, end: 3.743303}
   - {lab: _, end: 4.935}
+  start: 1123.56
+  end: 1128.5
 - prompt: poker_n0121
   file: ./pavoque/StefanPoker/wav/poker_n0121.wav
   date: 2007-10-29T11:01:14+0100
@@ -9649,6 +10149,8 @@
   - {lab: OY, end: 3.06}
   - {lab: n, end: 3.298999}
   - {lab: _, end: 4.515}
+  start: 1128.5
+  end: 1133.02
 - prompt: poker_n0122
   file: ./pavoque/StefanPoker/wav/poker_n0122.wav
   date: 2007-10-29T11:01:20+0100
@@ -9686,6 +10188,8 @@
   - {lab: 'e:', end: 2.96062}
   - {lab: n, end: 3.171119}
   - {lab: _, end: 4.335}
+  start: 1133.02
+  end: 1137.36
 - prompt: poker_n0123
   file: ./pavoque/StefanPoker/wav/poker_n0123.wav
   date: 2007-10-29T11:02:20+0100
@@ -9728,6 +10232,8 @@
   - {lab: b, end: 3.255447}
   - {lab: '@', end: 3.47}
   - {lab: _, end: 4.695}
+  start: 1137.36
+  end: 1142.06
 - prompt: m0102
   file: ./pavoque/StefanPoker/wav/m0102.wav
   date: 2007-10-29T11:02:52+0100
@@ -9756,6 +10262,8 @@
   - {lab: O, end: 2.06}
   - {lab: n, end: 2.283235}
   - {lab: _, end: 3.495}
+  start: 1142.06
+  end: 1145.56
 - prompt: m0103
   file: ./pavoque/StefanPoker/wav/m0103.wav
   date: 2007-10-29T11:03:00+0100
@@ -9790,6 +10298,8 @@
   - {lab: 'E:', end: 2.448807}
   - {lab: '6', end: 2.671091}
   - {lab: _, end: 4.035}
+  start: 1145.56
+  end: 1149.6
 - prompt: m0104
   file: ./pavoque/StefanPoker/wav/m0104.wav
   date: 2007-10-29T11:03:24+0100
@@ -9836,6 +10346,8 @@
   - {lab: a, end: 3.595}
   - {lab: N, end: 3.739995}
   - {lab: _, end: 5.055}
+  start: 1149.6
+  end: 1154.66
 - prompt: m0105
   file: ./pavoque/StefanPoker/wav/m0105.wav
   date: 2007-10-29T11:03:56+0100
@@ -9876,6 +10388,8 @@
   - {lab: n, end: 3.56}
   - {lab: t, end: 3.720377}
   - {lab: _, end: 4.635}
+  start: 1154.66
+  end: 1159.3
 - prompt: m0106
   file: ./pavoque/StefanPoker/wav/m0106.wav
   date: 2007-10-29T11:04:02+0100
@@ -9904,6 +10418,8 @@
   - {lab: '@', end: 2.345}
   - {lab: n, end: 2.518227}
   - {lab: _, end: 3.675}
+  start: 1159.3
+  end: 1162.98
 - prompt: m0107
   file: ./pavoque/StefanPoker/wav/m0107.wav
   date: 2007-10-29T11:05:16+0100
@@ -9987,6 +10503,8 @@
   - {lab: '@', end: 6.335}
   - {lab: n, end: 6.448873}
   - {lab: _, end: 8.535}
+  start: 1162.98
+  end: 1171.52
 - prompt: m0108
   file: ./pavoque/StefanPoker/wav/m0108.wav
   date: 2007-10-29T11:05:22+0100
@@ -10028,6 +10546,8 @@
   - {lab: '9', end: 3.63}
   - {lab: l, end: 3.85}
   - {lab: _, end: 4.515}
+  start: 1171.52
+  end: 1176.04
 - prompt: m0109
   file: ./pavoque/StefanPoker/wav/m0109.wav
   date: 2007-10-29T11:05:42+0100
@@ -10079,6 +10599,8 @@
   - {lab: '6', end: 3.545}
   - {lab: s, end: 3.72}
   - {lab: _, end: 5.535}
+  start: 1176.04
+  end: 1181.58
 - prompt: m0111
   file: ./pavoque/StefanPoker/wav/m0111.wav
   date: 2007-10-29T11:05:56+0100
@@ -10129,6 +10651,8 @@
   - {lab: '@', end: 3.97}
   - {lab: n, end: 4.294193}
   - {lab: _, end: 5.175}
+  start: 1181.58
+  end: 1186.76
 - prompt: m0110
   file: ./pavoque/StefanPoker/wav/m0110.wav
   date: 2007-10-29T11:06:40+0100
@@ -10168,6 +10692,8 @@
   - {lab: O, end: 2.84}
   - {lab: l, end: 2.930171}
   - {lab: _, end: 4.575}
+  start: 1186.76
+  end: 1191.34
 - prompt: m0112
   file: ./pavoque/StefanPoker/wav/m0112.wav
   date: 2007-10-29T11:06:58+0100
@@ -10209,6 +10735,8 @@
   - {lab: f, end: 3.82}
   - {lab: t, end: 3.987133}
   - {lab: _, end: 4.935}
+  start: 1191.34
+  end: 1196.28
 - prompt: m0113
   file: ./pavoque/StefanPoker/wav/m0113.wav
   date: 2007-10-29T11:07:16+0100
@@ -10250,6 +10778,8 @@
   - {lab: I, end: 2.81}
   - {lab: C, end: 2.98217}
   - {lab: _, end: 5.055}
+  start: 1196.28
+  end: 1201.34
 - prompt: m0114
   file: ./pavoque/StefanPoker/wav/m0114.wav
   date: 2007-10-29T11:07:24+0100
@@ -10296,6 +10826,8 @@
   - {lab: '@', end: 3.845}
   - {lab: t, end: 4.088683}
   - {lab: _, end: 5.235}
+  start: 1201.34
+  end: 1206.58
 - prompt: m0116
   file: ./pavoque/StefanPoker/wav/m0116.wav
   date: 2007-10-29T11:07:48+0100
@@ -10330,6 +10862,8 @@
   - {lab: '@', end: 3.335084}
   - {lab: n, end: 3.506992}
   - {lab: _, end: 4.095}
+  start: 1206.58
+  end: 1210.68
 - prompt: m0117
   file: ./pavoque/StefanPoker/wav/m0117.wav
   date: 2007-10-29T11:07:54+0100
@@ -10363,6 +10897,8 @@
   - {lab: z, end: 3.125}
   - {lab: 'e:', end: 3.370145}
   - {lab: _, end: 3.915}
+  start: 1210.68
+  end: 1214.6
 - prompt: m0118
   file: ./pavoque/StefanPoker/wav/m0118.wav
   date: 2007-10-29T11:08:00+0100
@@ -10397,6 +10933,8 @@
   - {lab: d, end: 2.98525}
   - {lab: '@', end: 3.192974}
   - {lab: _, end: 4.275}
+  start: 1214.6
+  end: 1218.88
 - prompt: m0119
   file: ./pavoque/StefanPoker/wav/m0119.wav
   date: 2007-10-29T11:08:06+0100
@@ -10423,6 +10961,8 @@
   - {lab: p, end: 2.63}
   - {lab: t, end: 2.851395}
   - {lab: _, end: 3.555}
+  start: 1218.88
+  end: 1222.44
 - prompt: m0120
   file: ./pavoque/StefanPoker/wav/m0120.wav
   date: 2007-10-29T11:08:14+0100
@@ -10453,6 +10993,8 @@
   - {lab: O, end: 2.51}
   - {lab: n, end: 2.708382}
   - {lab: _, end: 3.795}
+  start: 1222.44
+  end: 1226.24
 - prompt: m0121
   file: ./pavoque/StefanPoker/wav/m0121.wav
   date: 2007-10-29T11:08:32+0100
@@ -10489,6 +11031,8 @@
   - {lab: '@', end: 3.015}
   - {lab: l, end: 3.237202}
   - {lab: _, end: 4.275}
+  start: 1226.24
+  end: 1230.52
 - prompt: m0123
   file: ./pavoque/StefanPoker/wav/m0123.wav
   date: 2007-10-29T11:09:06+0100
@@ -10522,6 +11066,8 @@
   - {lab: pf, end: 2.78}
   - {lab: '@', end: 3.044429}
   - {lab: _, end: 4.035}
+  start: 1230.52
+  end: 1234.56
 - prompt: m0124
   file: ./pavoque/StefanPoker/wav/m0124.wav
   date: 2007-10-29T11:09:38+0100
@@ -10576,6 +11122,8 @@
   - {lab: '@', end: 3.835}
   - {lab: n, end: 3.925582}
   - {lab: _, end: 5.295}
+  start: 1234.56
+  end: 1239.86
 - prompt: m0125
   file: ./pavoque/StefanPoker/wav/m0125.wav
   date: 2007-10-29T11:09:46+0100
@@ -10611,6 +11159,8 @@
   - {lab: '@', end: 2.825005}
   - {lab: l, end: 3.01}
   - {lab: _, end: 4.215}
+  start: 1239.86
+  end: 1244.08
 - prompt: m0126
   file: ./pavoque/StefanPoker/wav/m0126.wav
   date: 2007-10-29T11:09:52+0100
@@ -10653,6 +11203,8 @@
   - {lab: tS, end: 3.805594}
   - {lab: t, end: 3.961601}
   - {lab: _, end: 4.815}
+  start: 1244.08
+  end: 1248.9
 - prompt: m0128
   file: ./pavoque/StefanPoker/wav/m0128.wav
   date: 2007-10-29T11:10:10+0100
@@ -10726,6 +11278,8 @@
   - {lab: 'i:', end: 5.585}
   - {lab: m, end: 5.742274}
   - {lab: _, end: 7.335}
+  start: 1248.9
+  end: 1256.24
 - prompt: m0129
   file: ./pavoque/StefanPoker/wav/m0129.wav
   date: 2007-10-29T11:10:16+0100
@@ -10758,6 +11312,8 @@
   - {lab: k, end: 2.477648}
   - {lab: t, end: 2.700185}
   - {lab: _, end: 3.975}
+  start: 1256.24
+  end: 1260.22
 - prompt: m0130
   file: ./pavoque/StefanPoker/wav/m0130.wav
   date: 2007-10-29T11:10:52+0100
@@ -10805,6 +11361,8 @@
   - {lab: n, end: 3.648775}
   - {lab: ts, end: 3.960825}
   - {lab: _, end: 4.995}
+  start: 1260.22
+  end: 1265.22
 - prompt: m0131
   file: ./pavoque/StefanPoker/wav/m0131.wav
   date: 2007-10-29T11:11:00+0100
@@ -10840,6 +11398,8 @@
   - {lab: b, end: 3.121068}
   - {lab: '6', end: 3.365729}
   - {lab: _, end: 4.095}
+  start: 1265.22
+  end: 1269.32
 - prompt: m0132
   file: ./pavoque/StefanPoker/wav/m0132.wav
   date: 2007-10-29T11:11:06+0100
@@ -10885,6 +11445,8 @@
   - {lab: EI, end: 3.99}
   - {lab: k, end: 4.215}
   - {lab: _, end: 4.755}
+  start: 1269.32
+  end: 1274.08
 - prompt: m0133
   file: ./pavoque/StefanPoker/wav/m0133.wav
   date: 2007-10-29T11:11:14+0100
@@ -10929,6 +11491,8 @@
   - {lab: '@', end: 3.605}
   - {lab: n, end: 3.745109}
   - {lab: _, end: 4.695}
+  start: 1274.08
+  end: 1278.78
 - prompt: m0134
   file: ./pavoque/StefanPoker/wav/m0134.wav
   date: 2007-10-29T11:11:20+0100
@@ -10958,6 +11522,8 @@
   - {lab: I, end: 2.235}
   - {lab: C, end: 2.462949}
   - {lab: _, end: 3.675}
+  start: 1278.78
+  end: 1282.46
 - prompt: m0135
   file: ./pavoque/StefanPoker/wav/m0135.wav
   date: 2007-10-29T11:11:28+0100
@@ -10995,6 +11561,8 @@
   - {lab: aI, end: 3.395}
   - {lab: t, end: 3.625}
   - {lab: _, end: 4.695}
+  start: 1282.46
+  end: 1287.16
 - prompt: m0136
   file: ./pavoque/StefanPoker/wav/m0136.wav
   date: 2007-10-29T11:11:34+0100
@@ -11025,6 +11593,8 @@
   - {lab: '@', end: 2.308904}
   - {lab: n, end: 2.428784}
   - {lab: _, end: 3.555}
+  start: 1287.16
+  end: 1290.72
 - prompt: m0137
   file: ./pavoque/StefanPoker/wav/m0137.wav
   date: 2007-10-29T11:11:40+0100
@@ -11052,6 +11622,8 @@
   - {lab: 'a:', end: 2.15}
   - {lab: k, end: 2.305}
   - {lab: _, end: 3.615}
+  start: 1290.72
+  end: 1294.34
 - prompt: m0138
   file: ./pavoque/StefanPoker/wav/m0138.wav
   date: 2007-10-29T11:11:46+0100
@@ -11084,6 +11656,8 @@
   - {lab: '@', end: 2.769862}
   - {lab: n, end: 2.883783}
   - {lab: _, end: 3.915}
+  start: 1294.34
+  end: 1298.26
 - prompt: m0139
   file: ./pavoque/StefanPoker/wav/m0139.wav
   date: 2007-10-29T11:11:52+0100
@@ -11112,6 +11686,8 @@
   - {lab: E, end: 2.835}
   - {lab: f, end: 3.085}
   - {lab: _, end: 3.915}
+  start: 1298.26
+  end: 1302.18
 - prompt: m0140
   file: ./pavoque/StefanPoker/wav/m0140.wav
   date: 2007-10-29T11:12:00+0100
@@ -11173,6 +11749,8 @@
   - {lab: n, end: 4.825}
   - {lab: t, end: 4.984762}
   - {lab: _, end: 6.375}
+  start: 1302.18
+  end: 1308.56
 - prompt: m0141
   file: ./pavoque/StefanPoker/wav/m0141.wav
   date: 2007-10-29T11:12:38+0100
@@ -11209,6 +11787,8 @@
   - {lab: 'u:', end: 3.519477}
   - {lab: '6', end: 3.684087}
   - {lab: _, end: 5.395}
+  start: 1308.56
+  end: 1313.96
 - prompt: m0142
   file: ./pavoque/StefanPoker/wav/m0142.wav
   date: 2007-10-29T11:13:30+0100
@@ -11283,6 +11863,8 @@
   - {lab: l, end: 6.24}
   - {lab: '6', end: 6.436408}
   - {lab: _, end: 6.975}
+  start: 1313.96
+  end: 1320.94
 - prompt: m0143
   file: ./pavoque/StefanPoker/wav/m0143.wav
   date: 2007-10-29T11:13:50+0100
@@ -11323,6 +11905,8 @@
   - {lab: I, end: 3.13}
   - {lab: C, end: 3.32923}
   - {lab: _, end: 4.695}
+  start: 1320.94
+  end: 1325.64
 - prompt: m0144
   file: ./pavoque/StefanPoker/wav/m0144.wav
   date: 2007-10-29T11:13:58+0100
@@ -11376,6 +11960,8 @@
   - {lab: '2:', end: 4.023521}
   - {lab: '6', end: 4.234147}
   - {lab: _, end: 5.655}
+  start: 1325.64
+  end: 1331.3
 - prompt: m0145
   file: ./pavoque/StefanPoker/wav/m0145.wav
   date: 2007-10-29T11:14:52+0100
@@ -11435,6 +12021,8 @@
   - {lab: '@', end: 4.69}
   - {lab: n, end: 4.793408}
   - {lab: _, end: 6.255}
+  start: 1331.3
+  end: 1337.56
 - prompt: m0146
   file: ./pavoque/StefanPoker/wav/m0146.wav
   date: 2007-10-29T11:15:00+0100
@@ -11477,6 +12065,8 @@
   - {lab: m, end: 4.245}
   - {lab: a~, end: 4.466179}
   - {lab: _, end: 4.935}
+  start: 1337.56
+  end: 1342.5
 - prompt: m0147
   file: ./pavoque/StefanPoker/wav/m0147.wav
   date: 2007-10-29T11:15:06+0100
@@ -11508,6 +12098,8 @@
   - {lab: aI, end: 3.48}
   - {lab: n, end: 3.627683}
   - {lab: _, end: 3.975}
+  start: 1342.5
+  end: 1346.48
 - prompt: m0148
   file: ./pavoque/StefanPoker/wav/m0148.wav
   date: 2007-10-29T11:15:12+0100
@@ -11542,6 +12134,8 @@
   - {lab: 'a:', end: 3.265}
   - {lab: f, end: 3.56}
   - {lab: _, end: 4.275}
+  start: 1346.48
+  end: 1350.76
 - prompt: m0150
   file: ./pavoque/StefanPoker/wav/m0150.wav
   date: 2007-10-29T11:15:28+0100
@@ -11596,6 +12190,8 @@
   - {lab: k, end: 4.72}
   - {lab: '6', end: 4.931501}
   - {lab: _, end: 6.195}
+  start: 1350.76
+  end: 1356.96
 - prompt: m0149
   file: ./pavoque/StefanPoker/wav/m0149.wav
   date: 2007-10-29T11:15:44+0100
@@ -11624,6 +12220,8 @@
   - {lab: n, end: 2.52}
   - {lab: t, end: 2.754615}
   - {lab: _, end: 3.615}
+  start: 1356.96
+  end: 1360.58
 - prompt: poker_n0124
   file: ./pavoque/StefanPoker/wav/poker_n0124.wav
   date: 2007-10-29T11:48:18+0100
@@ -11664,6 +12262,8 @@
   - {lab: m, end: 2.879155}
   - {lab: '@', end: 3.11}
   - {lab: _, end: 4.515}
+  start: 1360.58
+  end: 1365.1
 - prompt: poker_n0125
   file: ./pavoque/StefanPoker/wav/poker_n0125.wav
   date: 2007-10-29T11:48:26+0100
@@ -11709,6 +12309,8 @@
   - {lab: I, end: 3.125}
   - {lab: C, end: 3.35}
   - {lab: _, end: 4.875}
+  start: 1365.1
+  end: 1369.98
 - prompt: poker_n0126
   file: ./pavoque/StefanPoker/wav/poker_n0126.wav
   date: 2007-10-29T11:48:32+0100
@@ -11746,6 +12348,8 @@
   - {lab: a, end: 3.027867}
   - {lab: s, end: 3.28}
   - {lab: _, end: 4.335}
+  start: 1369.98
+  end: 1374.32
 - prompt: poker_n0127
   file: ./pavoque/StefanPoker/wav/poker_n0127.wav
   date: 2007-10-29T11:48:40+0100
@@ -11783,6 +12387,8 @@
   - {lab: v, end: 3.155}
   - {lab: aI, end: 3.48}
   - {lab: _, end: 4.335}
+  start: 1374.32
+  end: 1378.66
 - prompt: poker_n0128
   file: ./pavoque/StefanPoker/wav/poker_n0128.wav
   date: 2007-10-29T11:48:46+0100
@@ -11826,6 +12432,8 @@
   - {lab: R, end: 3.505}
   - {lab: aI, end: 3.845}
   - {lab: _, end: 4.695}
+  start: 1378.66
+  end: 1383.36
 - prompt: poker_n0129
   file: ./pavoque/StefanPoker/wav/poker_n0129.wav
   date: 2007-10-29T11:48:54+0100
@@ -11870,6 +12478,8 @@
   - {lab: 'i:', end: 3.19}
   - {lab: '6', end: 3.367831}
   - {lab: _, end: 4.815}
+  start: 1383.36
+  end: 1388.18
 - prompt: poker_n0130
   file: ./pavoque/StefanPoker/wav/poker_n0130.wav
   date: 2007-10-29T11:49:00+0100
@@ -11909,6 +12519,8 @@
   - {lab: n, end: 3.2}
   - {lab: f, end: 3.405}
   - {lab: _, end: 4.455}
+  start: 1388.18
+  end: 1392.64
 - prompt: poker_n0131
   file: ./pavoque/StefanPoker/wav/poker_n0131.wav
   date: 2007-10-29T11:49:08+0100
@@ -11948,6 +12560,8 @@
   - {lab: k, end: 3.03}
   - {lab: s, end: 3.23}
   - {lab: _, end: 4.395}
+  start: 1392.64
+  end: 1397.04
 - prompt: poker_n0132
   file: ./pavoque/StefanPoker/wav/poker_n0132.wav
   date: 2007-10-29T11:49:14+0100
@@ -11992,6 +12606,8 @@
   - {lab: '@', end: 3.051088}
   - {lab: n, end: 3.326636}
   - {lab: _, end: 4.755}
+  start: 1397.04
+  end: 1401.8
 - prompt: poker_n0133
   file: ./pavoque/StefanPoker/wav/poker_n0133.wav
   date: 2007-10-29T11:49:22+0100
@@ -12037,6 +12653,8 @@
   - {lab: x, end: 3.4}
   - {lab: t, end: 3.595}
   - {lab: _, end: 4.875}
+  start: 1401.8
+  end: 1406.68
 - prompt: poker_n0134
   file: ./pavoque/StefanPoker/wav/poker_n0134.wav
   date: 2007-10-29T11:49:30+0100
@@ -12076,6 +12694,8 @@
   - {lab: OY, end: 3.383945}
   - {lab: n, end: 3.637094}
   - {lab: _, end: 4.455}
+  start: 1406.68
+  end: 1411.14
 - prompt: poker_n0135
   file: ./pavoque/StefanPoker/wav/poker_n0135.wav
   date: 2007-10-29T11:49:36+0100
@@ -12113,6 +12733,8 @@
   - {lab: 'e:', end: 3.13}
   - {lab: n, end: 3.268137}
   - {lab: _, end: 4.275}
+  start: 1411.14
+  end: 1415.42
 - prompt: poker_n0136
   file: ./pavoque/StefanPoker/wav/poker_n0136.wav
   date: 2007-10-29T11:49:42+0100
@@ -12155,6 +12777,8 @@
   - {lab: b, end: 3.602775}
   - {lab: '@', end: 3.818903}
   - {lab: _, end: 4.635}
+  start: 1415.42
+  end: 1420.06
 - prompt: poker_n0137
   file: ./pavoque/StefanPoker/wav/poker_n0137.wav
   date: 2007-10-29T11:49:50+0100
@@ -12195,6 +12819,8 @@
   - {lab: m, end: 3.395}
   - {lab: '@', end: 3.64404}
   - {lab: _, end: 4.455}
+  start: 1420.06
+  end: 1424.52
 - prompt: poker_n0138
   file: ./pavoque/StefanPoker/wav/poker_n0138.wav
   date: 2007-10-29T11:50:32+0100
@@ -12240,6 +12866,8 @@
   - {lab: I, end: 2.945549}
   - {lab: C, end: 3.195}
   - {lab: _, end: 4.815}
+  start: 1424.52
+  end: 1429.34
 - prompt: m0301
   file: ./pavoque/StefanPoker/wav/m0301.wav
   date: 2007-10-29T11:51:26+0100
@@ -12325,6 +12953,8 @@
   - {lab: a, end: 6.77}
   - {lab: n, end: 6.943787}
   - {lab: _, end: 7.875}
+  start: 1429.34
+  end: 1437.22
 - prompt: m0302
   file: ./pavoque/StefanPoker/wav/m0302.wav
   date: 2007-10-29T11:51:34+0100
@@ -12370,6 +13000,8 @@
   - {lab: aI, end: 3.455}
   - {lab: n, end: 3.656278}
   - {lab: _, end: 4.755}
+  start: 1437.22
+  end: 1441.98
 - prompt: m0303
   file: ./pavoque/StefanPoker/wav/m0303.wav
   date: 2007-10-29T11:51:56+0100
@@ -12398,6 +13030,8 @@
   - {lab: a, end: 2.53}
   - {lab: n, end: 2.705791}
   - {lab: _, end: 3.555}
+  start: 1441.98
+  end: 1445.54
 - prompt: m0304
   file: ./pavoque/StefanPoker/wav/m0304.wav
   date: 2007-10-29T11:52:24+0100
@@ -12482,6 +13116,8 @@
   - {lab: I, end: 6.675}
   - {lab: C, end: 6.88}
   - {lab: _, end: 7.755}
+  start: 1445.54
+  end: 1453.3
 - prompt: m0305
   file: ./pavoque/StefanPoker/wav/m0305.wav
   date: 2007-10-29T11:52:48+0100
@@ -12560,6 +13196,8 @@
   - {lab: k, end: 5.700237}
   - {lab: 'a:', end: 5.882934}
   - {lab: _, end: 7.335}
+  start: 1453.3
+  end: 1460.64
 - prompt: m0306
   file: ./pavoque/StefanPoker/wav/m0306.wav
   date: 2007-10-29T11:53:28+0100
@@ -12601,6 +13239,8 @@
   - {lab: 'i:', end: 3.30119}
   - {lab: n, end: 3.49235}
   - {lab: _, end: 4.515}
+  start: 1460.64
+  end: 1465.16
 - prompt: m0307
   file: ./pavoque/StefanPoker/wav/m0307.wav
   date: 2007-10-29T11:53:36+0100
@@ -12660,6 +13300,8 @@
   - {lab: 'u:', end: 5.327}
   - {lab: n, end: 5.478439}
   - {lab: _, end: 5.775}
+  start: 1465.16
+  end: 1470.94
 - prompt: m0308
   file: ./pavoque/StefanPoker/wav/m0308.wav
   date: 2007-10-29T11:54:34+0100
@@ -12737,6 +13379,8 @@
   - {lab: j, end: 6.565}
   - {lab: 'o:', end: 6.747926}
   - {lab: _, end: 8.275}
+  start: 1470.94
+  end: 1479.22
 - prompt: m0309
   file: ./pavoque/StefanPoker/wav/m0309.wav
   date: 2007-10-29T11:55:20+0100
@@ -12827,6 +13471,8 @@
   - {lab: 'i:', end: 9.344972}
   - {lab: 'o:', end: 9.501736}
   - {lab: _, end: 10.295}
+  start: 1479.22
+  end: 1489.52
 - prompt: m0310
   file: ./pavoque/StefanPoker/wav/m0310.wav
   date: 2007-10-29T11:55:48+0100
@@ -12862,6 +13508,8 @@
   - {lab: v, end: 3.495}
   - {lab: aU, end: 3.861597}
   - {lab: _, end: 5.395}
+  start: 1489.52
+  end: 1494.92
 - prompt: m0311
   file: ./pavoque/StefanPoker/wav/m0311.wav
   date: 2007-10-29T11:55:58+0100
@@ -12898,6 +13546,8 @@
   - {lab: aI, end: 3.75525}
   - {lab: n, end: 3.810049}
   - {lab: _, end: 5.395}
+  start: 1494.92
+  end: 1500.32
 - prompt: m0312
   file: ./pavoque/StefanPoker/wav/m0312.wav
   date: 2007-10-29T11:56:08+0100
@@ -12940,6 +13590,8 @@
   - {lab: U, end: 3.285}
   - {lab: m, end: 3.435}
   - {lab: _, end: 5.575}
+  start: 1500.32
+  end: 1505.9
 - prompt: m0313
   file: ./pavoque/StefanPoker/wav/m0313.wav
   date: 2007-10-29T11:56:20+0100
@@ -13009,6 +13661,8 @@
   - {lab: '@', end: 5.78}
   - {lab: s, end: 6.043237}
   - {lab: _, end: 7.855}
+  start: 1505.9
+  end: 1513.76
 - prompt: m0314
   file: ./pavoque/StefanPoker/wav/m0314.wav
   date: 2007-10-29T11:57:16+0100
@@ -13052,6 +13706,8 @@
   - {lab: '@', end: 3.869139}
   - {lab: n, end: 4.015921}
   - {lab: _, end: 5.635}
+  start: 1513.76
+  end: 1519.4
 - prompt: m0315
   file: ./pavoque/StefanPoker/wav/m0315.wav
   date: 2007-10-29T11:57:24+0100
@@ -13096,6 +13752,8 @@
   - {lab: '@', end: 4.11}
   - {lab: t, end: 4.355911}
   - {lab: _, end: 5.755}
+  start: 1519.4
+  end: 1525.16
 - prompt: m0317
   file: ./pavoque/StefanPoker/wav/m0317.wav
   date: 2007-10-29T11:58:08+0100
@@ -13140,6 +13798,8 @@
   - {lab: '@', end: 3.545274}
   - {lab: n, end: 3.717249}
   - {lab: _, end: 5.755}
+  start: 1525.16
+  end: 1530.92
 - prompt: m0318
   file: ./pavoque/StefanPoker/wav/m0318.wav
   date: 2007-10-29T11:59:32+0100
@@ -13268,6 +13928,8 @@
   - {lab: t, end: 9.617006}
   - {lab: '@', end: 9.695}
   - {lab: t, end: 9.844239}
+  start: 1530.92
+  end: 1542.8
 - prompt: m0319
   file: ./pavoque/StefanPoker/wav/m0319.wav
   date: 2007-10-29T11:59:42+0100
@@ -13334,6 +13996,8 @@
   - {lab: I, end: 5.805}
   - {lab: z, end: 6.08}
   - {lab: _, end: 7.255}
+  start: 1542.8
+  end: 1550.06
 - prompt: m0320
   file: ./pavoque/StefanPoker/wav/m0320.wav
   date: 2007-10-29T11:59:52+0100
@@ -13366,6 +14030,8 @@
   - {lab: EI, end: 3.35}
   - {lab: m, end: 3.488997}
   - {lab: _, end: 5.275}
+  start: 1550.06
+  end: 1555.34
 - prompt: m0321
   file: ./pavoque/StefanPoker/wav/m0321.wav
   date: 2007-10-29T12:00:04+0100
@@ -13422,6 +14088,8 @@
   - {lab: 'o:', end: 4.565}
   - {lab: '6', end: 4.673888}
   - {lab: _, end: 7.015}
+  start: 1555.34
+  end: 1562.36
 - prompt: m0322
   file: ./pavoque/StefanPoker/wav/m0322.wav
   date: 2007-10-29T12:00:34+0100
@@ -13488,6 +14156,8 @@
   - {lab: '@', end: 5.818315}
   - {lab: n, end: 5.887091}
   - {lab: _, end: 7.555}
+  start: 1562.36
+  end: 1569.92
 - prompt: m0323
   file: ./pavoque/StefanPoker/wav/m0323.wav
   date: 2007-10-29T12:00:44+0100
@@ -13524,6 +14194,8 @@
   - {lab: n, end: 3.29}
   - {lab: t, end: 3.485}
   - {lab: _, end: 5.155}
+  start: 1569.92
+  end: 1575.08
 - prompt: m0324
   file: ./pavoque/StefanPoker/wav/m0324.wav
   date: 2007-10-29T12:00:52+0100
@@ -13554,6 +14226,8 @@
   - {lab: a, end: 3.03}
   - {lab: R, end: 3.22}
   - {lab: _, end: 4.855}
+  start: 1575.08
+  end: 1579.94
 - prompt: m0326
   file: ./pavoque/StefanPoker/wav/m0326.wav
   date: 2007-10-29T12:01:10+0100
@@ -13580,6 +14254,8 @@
   - {lab: a, end: 2.405}
   - {lab: x, end: 2.591428}
   - {lab: _, end: 4.255}
+  start: 1579.94
+  end: 1584.2
 - prompt: m0327
   file: ./pavoque/StefanPoker/wav/m0327.wav
   date: 2007-10-29T12:01:58+0100
@@ -13657,6 +14333,8 @@
   - {lab: aI, end: 5.494007}
   - {lab: n, end: 5.587345}
   - {lab: _, end: 7.975}
+  start: 1584.2
+  end: 1592.18
 - prompt: m0328
   file: ./pavoque/StefanPoker/wav/m0328.wav
   date: 2007-10-29T12:02:08+0100
@@ -13704,6 +14382,8 @@
   - {lab: I, end: 3.775}
   - {lab: S, end: 4.110473}
   - {lab: _, end: 6.115}
+  start: 1592.18
+  end: 1598.3
 - prompt: m0329
   file: ./pavoque/StefanPoker/wav/m0329.wav
   date: 2007-10-29T12:02:18+0100
@@ -13752,6 +14432,8 @@
   - {lab: '@', end: 4.05}
   - {lab: n, end: 4.255324}
   - {lab: _, end: 5.995}
+  start: 1598.3
+  end: 1604.3
 - prompt: m0330
   file: ./pavoque/StefanPoker/wav/m0330.wav
   date: 2007-10-29T12:02:46+0100
@@ -13786,6 +14468,8 @@
   - {lab: 'E:', end: 3.325}
   - {lab: '6', end: 3.498179}
   - {lab: _, end: 5.275}
+  start: 1604.3
+  end: 1609.58
 - prompt: m0331
   file: ./pavoque/StefanPoker/wav/m0331.wav
   date: 2007-10-29T12:02:58+0100
@@ -13842,6 +14526,8 @@
   - {lab: '@', end: 4.815}
   - {lab: n, end: 4.929755}
   - {lab: _, end: 6.715}
+  start: 1609.58
+  end: 1616.3
 - prompt: m0332
   file: ./pavoque/StefanPoker/wav/m0332.wav
   date: 2007-10-29T12:03:06+0100
@@ -13874,6 +14560,8 @@
   - {lab: a, end: 2.895}
   - {lab: n, end: 3.132852}
   - {lab: _, end: 5.155}
+  start: 1616.3
+  end: 1621.46
 - prompt: m0333
   file: ./pavoque/StefanPoker/wav/m0333.wav
   date: 2007-10-29T12:03:28+0100
@@ -13921,6 +14609,8 @@
   - {lab: aI, end: 4.245}
   - {lab: k, end: 4.375}
   - {lab: _, end: 6.295}
+  start: 1621.46
+  end: 1627.76
 - prompt: m0334
   file: ./pavoque/StefanPoker/wav/m0334.wav
   date: 2007-10-29T12:03:56+0100
@@ -13996,6 +14686,8 @@
   - {lab: a, end: 6.17}
   - {lab: l, end: 6.345}
   - {lab: _, end: 8.335}
+  start: 1627.76
+  end: 1636.1
 - prompt: m0335
   file: ./pavoque/StefanPoker/wav/m0335.wav
   date: 2007-10-29T12:04:08+0100
@@ -14052,6 +14744,8 @@
   - {lab: I, end: 4.485}
   - {lab: t, end: 4.73434}
   - {lab: _, end: 6.895}
+  start: 1636.1
+  end: 1643.0
 - prompt: m0336
   file: ./pavoque/StefanPoker/wav/m0336.wav
   date: 2007-10-29T12:04:18+0100
@@ -14108,6 +14802,8 @@
   - {lab: '6', end: 4.707924}
   - {lab: t, end: 4.929654}
   - {lab: _, end: 6.955}
+  start: 1643.0
+  end: 1649.96
 - prompt: m0337
   file: ./pavoque/StefanPoker/wav/m0337.wav
   date: 2007-10-29T12:04:30+0100
@@ -14187,6 +14883,8 @@
   - {lab: I, end: 7.345}
   - {lab: S, end: 7.66}
   - {lab: _, end: 8.575}
+  start: 1649.96
+  end: 1658.54
 - prompt: m0338
   file: ./pavoque/StefanPoker/wav/m0338.wav
   date: 2007-10-29T12:04:40+0100
@@ -14225,6 +14923,8 @@
   - {lab: '@', end: 3.465}
   - {lab: n, end: 3.58745}
   - {lab: _, end: 5.515}
+  start: 1658.54
+  end: 1664.06
 - prompt: m0339
   file: ./pavoque/StefanPoker/wav/m0339.wav
   date: 2007-10-29T12:04:50+0100
@@ -14264,6 +14964,8 @@
   - {lab: j, end: 2.73968}
   - {lab: 'u:', end: 2.889535}
   - {lab: _, end: 4.855}
+  start: 1664.06
+  end: 1668.92
 - prompt: m0341
   file: ./pavoque/StefanPoker/wav/m0341.wav
   date: 2007-10-29T12:06:14+0100
@@ -14312,6 +15014,8 @@
   - {lab: 'o:', end: 4.12}
   - {lab: n, end: 4.258394}
   - {lab: _, end: 5.995}
+  start: 1668.92
+  end: 1674.92
 - prompt: m0342
   file: ./pavoque/StefanPoker/wav/m0342.wav
   date: 2007-10-29T12:06:24+0100
@@ -14377,6 +15081,8 @@
   - {lab: t, end: 6.04}
   - {lab: 'a:', end: 6.294759}
   - {lab: _, end: 7.315}
+  start: 1674.92
+  end: 1682.24
 - prompt: m0343
   file: ./pavoque/StefanPoker/wav/m0343.wav
   date: 2007-10-29T12:06:36+0100
@@ -14436,6 +15142,8 @@
   - {lab: aI, end: 5.05}
   - {lab: C, end: 5.235}
   - {lab: _, end: 6.835}
+  start: 1682.24
+  end: 1689.08
 - prompt: m0344
   file: ./pavoque/StefanPoker/wav/m0344.wav
   date: 2007-10-29T12:06:46+0100
@@ -14493,6 +15201,8 @@
   - {lab: 'o:', end: 4.745}
   - {lab: n, end: 4.946852}
   - {lab: _, end: 6.955}
+  start: 1689.08
+  end: 1696.04
 - prompt: m0345
   file: ./pavoque/StefanPoker/wav/m0345.wav
   date: 2007-10-29T12:06:56+0100
@@ -14525,6 +15235,8 @@
   - {lab: O, end: 2.82}
   - {lab: l, end: 3.031432}
   - {lab: _, end: 4.855}
+  start: 1696.04
+  end: 1700.9
 - prompt: m0346
   file: ./pavoque/StefanPoker/wav/m0346.wav
   date: 2007-10-29T12:07:36+0100
@@ -14604,6 +15316,8 @@
   - {lab: '@', end: 6.41}
   - {lab: t, end: 6.623077}
   - {lab: _, end: 8.515}
+  start: 1700.9
+  end: 1709.42
 - prompt: m0347
   file: ./pavoque/StefanPoker/wav/m0347.wav
   date: 2007-10-29T12:07:48+0100
@@ -14676,6 +15390,8 @@
   - {lab: l, end: 6.045}
   - {lab: t, end: 6.261775}
   - {lab: _, end: 7.615}
+  start: 1709.42
+  end: 1717.04
 - prompt: m0348
   file: ./pavoque/StefanPoker/wav/m0348.wav
   date: 2007-10-29T12:08:16+0100
@@ -14707,6 +15423,8 @@
   - {lab: '@', end: 2.3}
   - {lab: n, end: 2.48043}
   - {lab: _, end: 4.855}
+  start: 1717.04
+  end: 1721.9
 - prompt: m0349
   file: ./pavoque/StefanPoker/wav/m0349.wav
   date: 2007-10-29T12:08:28+0100
@@ -14773,6 +15491,8 @@
   - {lab: C, end: 6.235}
   - {lab: t, end: 6.348781}
   - {lab: _, end: 7.975}
+  start: 1721.9
+  end: 1729.88
 - prompt: m0350
   file: ./pavoque/StefanPoker/wav/m0350.wav
   date: 2007-10-29T12:08:50+0100
@@ -14817,6 +15537,8 @@
   - {lab: R, end: 4.34}
   - {lab: '6', end: 4.507722}
   - {lab: _, end: 5.995}
+  start: 1729.88
+  end: 1735.88
 - prompt: m0351
   file: ./pavoque/StefanPoker/wav/m0351.wav
   date: 2007-10-29T12:09:02+0100
@@ -14890,6 +15612,8 @@
   - {lab: U, end: 6.14}
   - {lab: N, end: 6.252809}
   - {lab: _, end: 8.095}
+  start: 1735.88
+  end: 1743.98
 - prompt: m0353
   file: ./pavoque/StefanPoker/wav/m0353.wav
   date: 2007-10-29T12:09:20+0100
@@ -14930,6 +15654,8 @@
   - {lab: s, end: 3.215}
   - {lab: EI, end: 3.49}
   - {lab: _, end: 5.695}
+  start: 1743.98
+  end: 1749.68
 - prompt: m0354
   file: ./pavoque/StefanPoker/wav/m0354.wav
   date: 2007-10-29T12:09:30+0100
@@ -14984,6 +15710,8 @@
   - {lab: '@', end: 4.595}
   - {lab: n, end: 4.729218}
   - {lab: _, end: 6.655}
+  start: 1749.68
+  end: 1756.34
 - prompt: m0355
   file: ./pavoque/StefanPoker/wav/m0355.wav
   date: 2007-10-29T12:09:40+0100
@@ -15020,6 +15748,8 @@
   - {lab: a, end: 3.69}
   - {lab: p, end: 3.919513}
   - {lab: '', end: 4.915}
+  start: 1756.34
+  end: 1761.26
 - prompt: m0356
   file: ./pavoque/StefanPoker/wav/m0356.wav
   date: 2007-10-29T12:09:50+0100
@@ -15073,6 +15803,8 @@
   - {lab: C, end: 3.885}
   - {lab: t, end: 4.045}
   - {lab: _, end: 6.535}
+  start: 1761.26
+  end: 1767.8
 - prompt: m0357
   file: ./pavoque/StefanPoker/wav/m0357.wav
   date: 2007-10-29T12:10:00+0100
@@ -15104,6 +15836,8 @@
   - {lab: f, end: 2.495}
   - {lab: '6', end: 2.752916}
   - {lab: _, end: 5.035}
+  start: 1767.8
+  end: 1772.84
 - prompt: m0358
   file: ./pavoque/StefanPoker/wav/m0358.wav
   date: 2007-10-29T12:10:10+0100
@@ -15145,6 +15879,8 @@
   - {lab: a, end: 3.515}
   - {lab: n, end: 3.685}
   - {lab: _, end: 5.815}
+  start: 1772.84
+  end: 1778.66
 - prompt: m0359
   file: ./pavoque/StefanPoker/wav/m0359.wav
   date: 2007-10-29T12:10:20+0100
@@ -15187,6 +15923,8 @@
   - {lab: 'e:', end: 4.057567}
   - {lab: '6', end: 4.2676}
   - {lab: _, end: 6.055}
+  start: 1778.66
+  end: 1784.72
 - prompt: m0360
   file: ./pavoque/StefanPoker/wav/m0360.wav
   date: 2007-10-29T12:10:50+0100
@@ -15238,6 +15976,8 @@
   - {lab: '@', end: 4.692791}
   - {lab: l, end: 4.851224}
   - {lab: _, end: 6.295}
+  start: 1784.72
+  end: 1791.02
 - prompt: m0361
   file: ./pavoque/StefanPoker/wav/m0361.wav
   date: 2007-10-29T12:10:58+0100
@@ -15270,6 +16010,8 @@
   - {lab: E, end: 2.315}
   - {lab: n, end: 2.466419}
   - {lab: _, end: 5.215}
+  start: 1791.02
+  end: 1796.24
 - prompt: m0362
   file: ./pavoque/StefanPoker/wav/m0362.wav
   date: 2007-10-29T12:11:22+0100
@@ -15319,6 +16061,8 @@
   - {lab: n, end: 4.157057}
   - {lab: t, end: 4.495}
   - {lab: _, end: 6.055}
+  start: 1796.24
+  end: 1802.3
 - prompt: m0363
   file: ./pavoque/StefanPoker/wav/m0363.wav
   date: 2007-10-29T12:11:34+0100
@@ -15386,6 +16130,8 @@
   - {lab: '@', end: 6.455}
   - {lab: n, end: 6.672497}
   - {lab: _, end: 7.795}
+  start: 1802.3
+  end: 1810.1
 - prompt: m0364
   file: ./pavoque/StefanPoker/wav/m0364.wav
   date: 2007-10-29T12:11:44+0100
@@ -15451,6 +16197,8 @@
   - {lab: 'e:', end: 4.512608}
   - {lab: '6', end: 4.671646}
   - {lab: _, end: 7.255}
+  start: 1810.1
+  end: 1817.36
 - prompt: m0365
   file: ./pavoque/StefanPoker/wav/m0365.wav
   date: 2007-10-29T12:12:36+0100
@@ -15520,6 +16268,8 @@
   - {lab: 'a:', end: 5.47275}
   - {lab: l, end: 5.655}
   - {lab: _, end: 7.435}
+  start: 1817.36
+  end: 1824.8
 - prompt: m0366
   file: ./pavoque/StefanPoker/wav/m0366.wav
   date: 2007-10-29T12:12:44+0100
@@ -15546,6 +16296,8 @@
   - {lab: k, end: 2.503714}
   - {lab: 'a:', end: 2.757648}
   - {lab: _, end: 4.375}
+  start: 1824.8
+  end: 1829.18
 - prompt: poker_n0139
   file: ./pavoque/StefanPoker/wav/poker_n0139.wav
   date: 2007-10-29T12:14:24+0100
@@ -15585,6 +16337,8 @@
   - {lab: d, end: 2.308455}
   - {lab: '@', end: 2.543893}
   - {lab: _, end: 5.635}
+  start: 1829.18
+  end: 1834.82
 - prompt: poker_n0140
   file: ./pavoque/StefanPoker/wav/poker_n0140.wav
   date: 2007-10-29T12:14:34+0100
@@ -15632,6 +16386,8 @@
   - {lab: l, end: 3.293249}
   - {lab: t, end: 3.47194}
   - {lab: _, end: 6.055}
+  start: 1834.82
+  end: 1840.88
 - prompt: poker_n0141
   file: ./pavoque/StefanPoker/wav/poker_n0141.wav
   date: 2007-10-29T12:14:58+0100
@@ -15666,6 +16422,8 @@
   - {lab: '@', end: 2.02}
   - {lab: n, end: 2.189703}
   - {lab: _, end: 4.095}
+  start: 1840.88
+  end: 1844.98
 - prompt: poker_n0144
   file: ./pavoque/StefanPoker/wav/poker_n0144.wav
   date: 2007-10-29T12:15:20+0100
@@ -15709,6 +16467,8 @@
   - {lab: 'e:', end: 3.03}
   - {lab: ts, end: 3.29}
   - {lab: _, end: 4.755}
+  start: 1844.98
+  end: 1849.74
 - prompt: poker_n0145
   file: ./pavoque/StefanPoker/wav/poker_n0145.wav
   date: 2007-10-29T12:15:24+0100
@@ -15733,6 +16493,8 @@
   - {lab: Y, end: 1.835786}
   - {lab: k, end: 2.06}
   - {lab: _, end: 3.435}
+  start: 1849.74
+  end: 1853.18
 - prompt: poker_n0146
   file: ./pavoque/StefanPoker/wav/poker_n0146.wav
   date: 2007-10-29T12:15:40+0100
@@ -15769,6 +16531,8 @@
   - {lab: d, end: 2.38449}
   - {lab: '6', end: 2.612981}
   - {lab: _, end: 4.515}
+  start: 1853.18
+  end: 1857.7
 - prompt: poker_n0147
   file: ./pavoque/StefanPoker/wav/poker_n0147.wav
   date: 2007-10-29T12:15:48+0100
@@ -15810,6 +16574,8 @@
   - {lab: d, end: 2.71}
   - {lab: '6', end: 2.93}
   - {lab: _, end: 4.875}
+  start: 1857.7
+  end: 1862.58
 - prompt: poker_n0148
   file: ./pavoque/StefanPoker/wav/poker_n0148.wav
   date: 2007-10-29T12:15:56+0100
@@ -15861,6 +16627,8 @@
   - {lab: d, end: 3.39}
   - {lab: '6', end: 3.588467}
   - {lab: _, end: 5.715}
+  start: 1862.58
+  end: 1868.3
 - prompt: poker_n0150
   file: ./pavoque/StefanPoker/wav/poker_n0150.wav
   date: 2007-10-29T12:16:10+0100
@@ -15894,6 +16662,8 @@
   - {lab: '@', end: 2.841352}
   - {lab: n, end: 2.997732}
   - {lab: _, end: 4.335}
+  start: 1868.3
+  end: 1872.64
 - prompt: poker_n0151
   file: ./pavoque/StefanPoker/wav/poker_n0151.wav
   date: 2007-10-29T12:16:16+0100
@@ -15935,6 +16705,8 @@
   - {lab: t, end: 3.535}
   - {lab: '@', end: 3.733183}
   - {lab: _, end: 4.935}
+  start: 1872.64
+  end: 1877.58
 - prompt: poker_n0152
   file: ./pavoque/StefanPoker/wav/poker_n0152.wav
   date: 2007-10-29T12:16:24+0100
@@ -15976,6 +16748,8 @@
   - {lab: '@', end: 2.687431}
   - {lab: n, end: 2.829987}
   - {lab: _, end: 4.635}
+  start: 1877.58
+  end: 1882.22
 - prompt: poker_n0153
   file: ./pavoque/StefanPoker/wav/poker_n0153.wav
   date: 2007-10-29T12:16:32+0100
@@ -16017,6 +16791,8 @@
   - {lab: '@', end: 3.062876}
   - {lab: n, end: 3.210794}
   - {lab: _, end: 4.875}
+  start: 1882.22
+  end: 1887.1
 - prompt: poker_n0154
   file: ./pavoque/StefanPoker/wav/poker_n0154.wav
   date: 2007-10-29T12:16:40+0100
@@ -16067,6 +16843,8 @@
   - {lab: a, end: 3.42}
   - {lab: t, end: 3.573888}
   - {lab: _, end: 5.715}
+  start: 1887.1
+  end: 1892.82
 - prompt: poker_n0155
   file: ./pavoque/StefanPoker/wav/poker_n0155.wav
   date: 2007-10-29T12:16:46+0100
@@ -16086,6 +16864,8 @@
   - {lab: O, end: 1.26}
   - {lab: x, end: 1.437866}
   - {lab: _, end: 3.015}
+  start: 1892.82
+  end: 1895.84
 - prompt: poker_n0156
   file: ./pavoque/StefanPoker/wav/poker_n0156.wav
   date: 2007-10-29T12:16:50+0100
@@ -16108,6 +16888,8 @@
   - {lab: 'a:', end: 1.865001}
   - {lab: l, end: 2.02264}
   - {lab: _, end: 3.075}
+  start: 1895.84
+  end: 1898.92
 - prompt: m0369
   file: ./pavoque/StefanPoker/wav/m0369.wav
   date: 2007-10-29T12:18:20+0100
@@ -16153,6 +16935,8 @@
   - {lab: O, end: 4.17}
   - {lab: S, end: 4.44}
   - {lab: _, end: 5.815}
+  start: 1898.92
+  end: 1904.74
 - prompt: m0370
   file: ./pavoque/StefanPoker/wav/m0370.wav
   date: 2007-10-29T12:18:30+0100
@@ -16210,6 +16994,8 @@
   - {lab: ts, end: 4.48}
   - {lab: t, end: 4.618006}
   - {lab: _, end: 6.595}
+  start: 1904.74
+  end: 1911.34
 - prompt: m0371
   file: ./pavoque/StefanPoker/wav/m0371.wav
   date: 2007-10-29T12:18:40+0100
@@ -16258,6 +17044,8 @@
   - {lab: d, end: 3.981248}
   - {lab: '@', end: 4.14848}
   - {lab: _, end: 5.995}
+  start: 1911.34
+  end: 1917.34
 - prompt: m0372
   file: ./pavoque/StefanPoker/wav/m0372.wav
   date: 2007-10-29T12:19:06+0100
@@ -16328,6 +17116,8 @@
   - {lab: n, end: 6.01}
   - {lab: t, end: 6.19}
   - {lab: _, end: 7.915}
+  start: 1917.34
+  end: 1925.26
 - prompt: m0374
   file: ./pavoque/StefanPoker/wav/m0374.wav
   date: 2007-10-29T12:19:42+0100
@@ -16360,6 +17150,8 @@
   - {lab: l, end: 2.225}
   - {lab: '@', end: 2.418692}
   - {lab: _, end: 5.095}
+  start: 1925.26
+  end: 1930.36
 - prompt: m0375
   file: ./pavoque/StefanPoker/wav/m0375.wav
   date: 2007-10-29T12:19:56+0100
@@ -16443,6 +17235,8 @@
   - {lab: '@', end: 7.705}
   - {lab: n, end: 7.856473}
   - {lab: _, end: 9.295}
+  start: 1930.36
+  end: 1939.66
 - prompt: m0376
   file: ./pavoque/StefanPoker/wav/m0376.wav
   date: 2007-10-29T12:20:06+0100
@@ -16500,6 +17294,8 @@
   - {lab: O, end: 4.925}
   - {lab: n, end: 5.047259}
   - {lab: _, end: 6.595}
+  start: 1939.66
+  end: 1946.26
 - prompt: m0378
   file: ./pavoque/StefanPoker/wav/m0378.wav
   date: 2007-10-29T12:20:28+0100
@@ -16533,6 +17329,8 @@
   - {lab: b, end: 3.752636}
   - {lab: aI, end: 4.124154}
   - {lab: _, end: 5.035}
+  start: 1946.26
+  end: 1951.3
 - prompt: m0379
   file: ./pavoque/StefanPoker/wav/m0379.wav
   date: 2007-10-29T12:21:52+0100
@@ -16597,6 +17395,8 @@
   - {lab: a, end: 5.89}
   - {lab: x, end: 6.196328}
   - {lab: _, end: 7.915}
+  start: 1951.3
+  end: 1959.22
 - prompt: m0380
   file: ./pavoque/StefanPoker/wav/m0380.wav
   date: 2007-10-29T12:22:00+0100
@@ -16629,6 +17429,8 @@
   - {lab: t, end: 2.735565}
   - {lab: '@', end: 2.88893}
   - {lab: _, end: 4.855}
+  start: 1959.22
+  end: 1964.08
 - prompt: m0381
   file: ./pavoque/StefanPoker/wav/m0381.wav
   date: 2007-10-29T12:22:10+0100
@@ -16687,6 +17489,8 @@
   - {lab: '@', end: 4.76}
   - {lab: t, end: 4.945}
   - {lab: _, end: 6.655}
+  start: 1964.08
+  end: 1970.74
 - prompt: m0382
   file: ./pavoque/StefanPoker/wav/m0382.wav
   date: 2007-10-29T12:22:22+0100
@@ -16763,6 +17567,8 @@
   - {lab: '6', end: 6.035}
   - {lab: f, end: 6.257208}
   - {lab: _, end: 8.155}
+  start: 1970.74
+  end: 1978.9
 - prompt: m0383
   file: ./pavoque/StefanPoker/wav/m0383.wav
   date: 2007-10-29T12:22:32+0100
@@ -16803,6 +17609,8 @@
   - {lab: I, end: 3.3}
   - {lab: n, end: 3.408108}
   - {lab: _, end: 5.515}
+  start: 1978.9
+  end: 1984.42
 - prompt: m0385
   file: ./pavoque/StefanPoker/wav/m0385.wav
   date: 2007-10-29T12:22:52+0100
@@ -16832,6 +17640,8 @@
   - {lab: a, end: 2.325}
   - {lab: x, end: 2.676573}
   - {lab: _, end: 4.855}
+  start: 1984.42
+  end: 1989.28
 - prompt: m0386
   file: ./pavoque/StefanPoker/wav/m0386.wav
   date: 2007-10-29T12:23:36+0100
@@ -16885,6 +17695,8 @@
   - {lab: '6', end: 4.66}
   - {lab: t, end: 4.843656}
   - {lab: _, end: 6.475}
+  start: 1989.28
+  end: 1995.76
 - prompt: m0387
   file: ./pavoque/StefanPoker/wav/m0387.wav
   date: 2007-10-29T12:23:46+0100
@@ -16931,6 +17743,8 @@
   - {lab: N, end: 4.31}
   - {lab: t, end: 4.500941}
   - {lab: _, end: 5.995}
+  start: 1995.76
+  end: 2001.76
 - prompt: m0389
   file: ./pavoque/StefanPoker/wav/m0389.wav
   date: 2007-10-29T12:24:36+0100
@@ -16970,6 +17784,8 @@
   - {lab: 'e:', end: 3.429172}
   - {lab: '6', end: 3.648447}
   - {lab: _, end: 5.395}
+  start: 2001.76
+  end: 2007.16
 - prompt: m0390
   file: ./pavoque/StefanPoker/wav/m0390.wav
   date: 2007-10-29T12:24:48+0100
@@ -17042,6 +17858,8 @@
   - {lab: 'o:', end: 7.345}
   - {lab: n, end: 7.480764}
   - {lab: _, end: 8.215}
+  start: 2007.16
+  end: 2015.38
 - prompt: m0391
   file: ./pavoque/StefanPoker/wav/m0391.wav
   date: 2007-10-29T12:25:26+0100
@@ -17090,6 +17908,8 @@
   - {lab: b, end: 4.395562}
   - {lab: EI, end: 4.726087}
   - {lab: _, end: 6.175}
+  start: 2015.38
+  end: 2021.56
 - prompt: m0393
   file: ./pavoque/StefanPoker/wav/m0393.wav
   date: 2007-10-29T12:25:44+0100
@@ -17127,6 +17947,8 @@
   - {lab: l, end: 2.86}
   - {lab: '@', end: 3.128398}
   - {lab: _, end: 5.275}
+  start: 2021.56
+  end: 2026.84
 - prompt: m0394
   file: ./pavoque/StefanPoker/wav/m0394.wav
   date: 2007-10-29T12:25:54+0100
@@ -17186,6 +18008,8 @@
   - {lab: '6', end: 5.341484}
   - {lab: ts, end: 5.635}
   - {lab: _, end: 7.075}
+  start: 2026.84
+  end: 2033.92
 - prompt: m0395
   file: ./pavoque/StefanPoker/wav/m0395.wav
   date: 2007-10-29T12:26:18+0100
@@ -17229,6 +18053,8 @@
   - {lab: aI, end: 4.01}
   - {lab: n, end: 4.131464}
   - {lab: _, end: 5.875}
+  start: 2033.92
+  end: 2039.8
 - prompt: m0396
   file: ./pavoque/StefanPoker/wav/m0396.wav
   date: 2007-10-29T12:26:58+0100
@@ -17296,6 +18122,8 @@
   - {lab: n, end: 5.46}
   - {lab: '@', end: 5.678678}
   - {lab: _, end: 7.675}
+  start: 2039.8
+  end: 2047.48
 - prompt: m0397
   file: ./pavoque/StefanPoker/wav/m0397.wav
   date: 2007-10-29T12:27:10+0100
@@ -17358,6 +18186,8 @@
   - {lab: aI, end: 4.685}
   - {lab: t, end: 4.982966}
   - {lab: _, end: 7.255}
+  start: 2047.48
+  end: 2054.74
 - prompt: m0398
   file: ./pavoque/StefanPoker/wav/m0398.wav
   date: 2007-10-29T12:27:20+0100
@@ -17418,6 +18248,8 @@
   - {lab: '?', end: 4.99}
   - {lab: '2:', end: 5.32145}
   - {lab: _, end: 6.895}
+  start: 2054.74
+  end: 2061.64
 - prompt: m0400
   file: ./pavoque/StefanPoker/wav/m0400.wav
   date: 2007-10-29T12:28:56+0100
@@ -17484,6 +18316,8 @@
   - {lab: '@', end: 5.615}
   - {lab: n, end: 5.706717}
   - {lab: _, end: 7.855}
+  start: 2061.64
+  end: 2069.5
 - prompt: m0151
   file: ./pavoque/StefanPoker/wav/m0151.wav
   date: 2007-10-29T12:30:00+0100
@@ -17519,6 +18353,8 @@
   - {lab: I, end: 2.475}
   - {lab: C, end: 2.655723}
   - {lab: _, end: 4.235}
+  start: 2069.5
+  end: 2073.74
 - prompt: m0153
   file: ./pavoque/StefanPoker/wav/m0153.wav
   date: 2007-10-29T12:30:32+0100
@@ -17562,6 +18398,8 @@
   - {lab: '@', end: 3.112508}
   - {lab: n, end: 3.247651}
   - {lab: _, end: 5.075}
+  start: 2073.74
+  end: 2078.82
 - prompt: m0154
   file: ./pavoque/StefanPoker/wav/m0154.wav
   date: 2007-10-29T12:30:40+0100
@@ -17625,6 +18463,8 @@
   - {lab: I, end: 5.435}
   - {lab: n, end: 5.561317}
   - {lab: _, end: 6.455}
+  start: 2078.82
+  end: 2085.28
 - prompt: m0155
   file: ./pavoque/StefanPoker/wav/m0155.wav
   date: 2007-10-29T12:30:48+0100
@@ -17676,6 +18516,8 @@
   - {lab: '@', end: 4.015}
   - {lab: t, end: 4.225}
   - {lab: _, end: 5.675}
+  start: 2085.28
+  end: 2090.96
 - prompt: m0156
   file: ./pavoque/StefanPoker/wav/m0156.wav
   date: 2007-10-29T12:31:12+0100
@@ -17735,6 +18577,8 @@
   - {lab: 'o:', end: 4.24}
   - {lab: x, end: 4.415401}
   - {lab: _, end: 6.455}
+  start: 2090.96
+  end: 2097.42
 - prompt: m0157
   file: ./pavoque/StefanPoker/wav/m0157.wav
   date: 2007-10-29T12:31:18+0100
@@ -17763,6 +18607,8 @@
   - {lab: n, end: 2.425}
   - {lab: '6', end: 2.629384}
   - {lab: _, end: 3.875}
+  start: 2097.42
+  end: 2101.3
 - prompt: m0158
   file: ./pavoque/StefanPoker/wav/m0158.wav
   date: 2007-10-29T12:31:24+0100
@@ -17793,6 +18639,8 @@
   - {lab: '@', end: 2.685}
   - {lab: n, end: 2.863807}
   - {lab: _, end: 3.995}
+  start: 2101.3
+  end: 2105.3
 - prompt: m0160
   file: ./pavoque/StefanPoker/wav/m0160.wav
   date: 2007-10-29T12:31:38+0100
@@ -17819,6 +18667,8 @@
   - {lab: 'o:', end: 2.214432}
   - {lab: 'a:', end: 2.498159}
   - {lab: _, end: 3.635}
+  start: 2105.3
+  end: 2108.94
 - prompt: m0159
   file: ./pavoque/StefanPoker/wav/m0159.wav
   date: 2007-10-29T12:31:54+0100
@@ -17855,6 +18705,8 @@
   - {lab: 'y:', end: 2.65}
   - {lab: t, end: 2.896245}
   - {lab: _, end: 4.355}
+  start: 2108.94
+  end: 2113.3
 - prompt: m0161
   file: ./pavoque/StefanPoker/wav/m0161.wav
   date: 2007-10-29T12:32:26+0100
@@ -17928,6 +18780,8 @@
   - {lab: '@', end: 5.265}
   - {lab: n, end: 5.465}
   - {lab: _, end: 7.295}
+  start: 2113.3
+  end: 2120.6
 - prompt: m0163
   file: ./pavoque/StefanPoker/wav/m0163.wav
   date: 2007-10-29T12:32:40+0100
@@ -17957,6 +18811,8 @@
   - {lab: '6', end: 2.595}
   - {lab: t, end: 2.835803}
   - {lab: _, end: 3.875}
+  start: 2120.6
+  end: 2124.48
 - prompt: m0164
   file: ./pavoque/StefanPoker/wav/m0164.wav
   date: 2007-10-29T12:32:46+0100
@@ -17988,6 +18844,8 @@
   - {lab: aI, end: 3.14}
   - {lab: n, end: 3.3529}
   - {lab: _, end: 4.295}
+  start: 2124.48
+  end: 2128.78
 - prompt: m0165
   file: ./pavoque/StefanPoker/wav/m0165.wav
   date: 2007-10-29T12:32:54+0100
@@ -18020,6 +18878,8 @@
   - {lab: O, end: 2.88}
   - {lab: x, end: 3.107506}
   - {lab: _, end: 4.355}
+  start: 2128.78
+  end: 2133.14
 - prompt: m0162
   file: ./pavoque/StefanPoker/wav/m0162.wav
   date: 2007-10-29T12:33:50+0100
@@ -18073,6 +18933,8 @@
   - {lab: aI, end: 3.565}
   - {lab: t, end: 3.79}
   - {lab: _, end: 5.495}
+  start: 2133.14
+  end: 2138.64
 - prompt: m0167
   file: ./pavoque/StefanPoker/wav/m0167.wav
   date: 2007-10-29T12:34:04+0100
@@ -18103,6 +18965,8 @@
   - {lab: d, end: 2.310276}
   - {lab: '@', end: 2.507786}
   - {lab: _, end: 3.815}
+  start: 2138.64
+  end: 2142.46
 - prompt: m0168
   file: ./pavoque/StefanPoker/wav/m0168.wav
   date: 2007-10-29T12:34:14+0100
@@ -18179,6 +19043,8 @@
   - {lab: U, end: 5.835}
   - {lab: N, end: 5.872694}
   - {lab: _, end: 7.535}
+  start: 2142.46
+  end: 2150.0
 - prompt: m0169
   file: ./pavoque/StefanPoker/wav/m0169.wav
   date: 2007-10-29T12:34:22+0100
@@ -18227,6 +19093,8 @@
   - {lab: 'u:', end: 4.239165}
   - {lab: l, end: 4.443115}
   - {lab: _, end: 5.195}
+  start: 2150.0
+  end: 2155.2
 - prompt: m0171
   file: ./pavoque/StefanPoker/wav/m0171.wav
   date: 2007-10-29T12:34:48+0100
@@ -18254,6 +19122,8 @@
   - {lab: O, end: 2.655}
   - {lab: n, end: 2.830468}
   - {lab: _, end: 3.695}
+  start: 2155.2
+  end: 2158.9
 - prompt: m0172
   file: ./pavoque/StefanPoker/wav/m0172.wav
   date: 2007-10-29T12:34:56+0100
@@ -18309,6 +19179,8 @@
   - {lab: '@', end: 4.255628}
   - {lab: n, end: 4.437336}
   - {lab: _, end: 5.555}
+  start: 2158.9
+  end: 2164.46
 - prompt: m0173
   file: ./pavoque/StefanPoker/wav/m0173.wav
   date: 2007-10-29T12:35:04+0100
@@ -18346,6 +19218,8 @@
   - {lab: '@', end: 2.68}
   - {lab: n, end: 2.928573}
   - {lab: _, end: 4.535}
+  start: 2164.46
+  end: 2169.0
 - prompt: m0174
   file: ./pavoque/StefanPoker/wav/m0174.wav
   date: 2007-10-29T12:35:10+0100
@@ -18381,6 +19255,8 @@
   - {lab: aI, end: 2.775}
   - {lab: s, end: 2.975}
   - {lab: _, end: 4.475}
+  start: 2169.0
+  end: 2173.48
 - prompt: m0175
   file: ./pavoque/StefanPoker/wav/m0175.wav
   date: 2007-10-29T12:35:16+0100
@@ -18407,6 +19283,8 @@
   - {lab: x, end: 2.335}
   - {lab: t, end: 2.505}
   - {lab: _, end: 3.695}
+  start: 2173.48
+  end: 2177.18
 - prompt: m0176
   file: ./pavoque/StefanPoker/wav/m0176.wav
   date: 2007-10-29T12:35:22+0100
@@ -18436,6 +19314,8 @@
   - {lab: '@', end: 2.465}
   - {lab: n, end: 2.587143}
   - {lab: _, end: 4.115}
+  start: 2177.18
+  end: 2181.3
 - prompt: m0177
   file: ./pavoque/StefanPoker/wav/m0177.wav
   date: 2007-10-29T12:35:58+0100
@@ -18464,6 +19344,8 @@
   - {lab: l, end: 2.15}
   - {lab: '@', end: 2.423029}
   - {lab: _, end: 3.755}
+  start: 2181.3
+  end: 2185.06
 - prompt: m0178
   file: ./pavoque/StefanPoker/wav/m0178.wav
   date: 2007-10-29T12:36:40+0100
@@ -18522,6 +19404,8 @@
   - {lab: l, end: 4.61}
   - {lab: k, end: 4.78}
   - {lab: _, end: 5.915}
+  start: 2185.06
+  end: 2190.98
 - prompt: m0179
   file: ./pavoque/StefanPoker/wav/m0179.wav
   date: 2007-10-29T12:36:48+0100
@@ -18581,6 +19465,8 @@
   - {lab: t, end: 4.676801}
   - {lab: '@', end: 4.857319}
   - {lab: _, end: 6.155}
+  start: 2190.98
+  end: 2197.14
 - prompt: m0181
   file: ./pavoque/StefanPoker/wav/m0181.wav
   date: 2007-10-29T12:37:02+0100
@@ -18618,6 +19504,8 @@
   - {lab: I, end: 2.82}
   - {lab: N, end: 2.908918}
   - {lab: _, end: 4.535}
+  start: 2197.14
+  end: 2201.68
 - prompt: m0182
   file: ./pavoque/StefanPoker/wav/m0182.wav
   date: 2007-10-29T12:37:10+0100
@@ -18671,6 +19559,8 @@
   - {lab: 'a:', end: 4.093}
   - {lab: s, end: 4.288899}
   - {lab: _, end: 6.035}
+  start: 2201.68
+  end: 2207.72
 - prompt: m0183
   file: ./pavoque/StefanPoker/wav/m0183.wav
   date: 2007-10-29T12:37:18+0100
@@ -18703,6 +19593,8 @@
   - {lab: a, end: 2.805}
   - {lab: N, end: 2.957285}
   - {lab: _, end: 4.295}
+  start: 2207.72
+  end: 2212.02
 - prompt: m0184
   file: ./pavoque/StefanPoker/wav/m0184.wav
   date: 2007-10-29T12:37:26+0100
@@ -18757,6 +19649,8 @@
   - {lab: '@', end: 4.236764}
   - {lab: l, end: 4.4}
   - {lab: _, end: 6.095}
+  start: 2212.02
+  end: 2218.12
 - prompt: m0185
   file: ./pavoque/StefanPoker/wav/m0185.wav
   date: 2007-10-29T12:37:34+0100
@@ -18795,6 +19689,8 @@
   - {lab: '@', end: 2.985}
   - {lab: n, end: 3.189754}
   - {lab: _, end: 4.775}
+  start: 2218.12
+  end: 2222.9
 - prompt: m0186
   file: ./pavoque/StefanPoker/wav/m0186.wav
   date: 2007-10-29T12:38:02+0100
@@ -18830,6 +19726,8 @@
   - {lab: h, end: 3.025}
   - {lab: EI, end: 3.291698}
   - {lab: _, end: 4.775}
+  start: 2222.9
+  end: 2227.68
 - prompt: m0189
   file: ./pavoque/StefanPoker/wav/m0189.wav
   date: 2007-10-29T12:38:30+0100
@@ -18856,6 +19754,8 @@
   - {lab: '@', end: 2.048977}
   - {lab: n, end: 2.206192}
   - {lab: _, end: 3.815}
+  start: 2227.68
+  end: 2231.5
 - prompt: m0190
   file: ./pavoque/StefanPoker/wav/m0190.wav
   date: 2007-10-29T12:38:38+0100
@@ -18906,6 +19806,8 @@
   - {lab: U, end: 3.55}
   - {lab: m, end: 3.685}
   - {lab: _, end: 5.375}
+  start: 2231.5
+  end: 2236.88
 - prompt: m0191
   file: ./pavoque/StefanPoker/wav/m0191.wav
   date: 2007-10-29T12:38:46+0100
@@ -18936,6 +19838,8 @@
   - {lab: aI, end: 2.495}
   - {lab: t, end: 2.757057}
   - {lab: _, end: 4.175}
+  start: 2236.88
+  end: 2241.06
 - prompt: m0192
   file: ./pavoque/StefanPoker/wav/m0192.wav
   date: 2007-10-29T12:38:52+0100
@@ -18972,6 +19876,8 @@
   - {lab: I, end: 2.615}
   - {lab: C, end: 2.770962}
   - {lab: _, end: 4.355}
+  start: 2241.06
+  end: 2245.42
 - prompt: m0193
   file: ./pavoque/StefanPoker/wav/m0193.wav
   date: 2007-10-29T12:39:00+0100
@@ -19011,6 +19917,8 @@
   - {lab: 'u:', end: 3.83}
   - {lab: x, end: 4.020048}
   - {lab: _, end: 4.775}
+  start: 2245.42
+  end: 2250.2
 - prompt: m0194
   file: ./pavoque/StefanPoker/wav/m0194.wav
   date: 2007-10-29T12:39:08+0100
@@ -19063,6 +19971,8 @@
   - {lab: O, end: 3.825576}
   - {lab: l, end: 3.97}
   - {lab: _, end: 5.555}
+  start: 2250.2
+  end: 2255.76
 - prompt: m0195
   file: ./pavoque/StefanPoker/wav/m0195.wav
   date: 2007-10-29T12:39:14+0100
@@ -19101,6 +20011,8 @@
   - {lab: R, end: 2.735}
   - {lab: 'i:', end: 2.948807}
   - {lab: _, end: 4.475}
+  start: 2255.76
+  end: 2260.24
 - prompt: m0196
   file: ./pavoque/StefanPoker/wav/m0196.wav
   date: 2007-10-29T12:39:20+0100
@@ -19134,6 +20046,8 @@
   - {lab: l, end: 2.58}
   - {lab: t, end: 2.809038}
   - {lab: _, end: 4.355}
+  start: 2260.24
+  end: 2264.6
 - prompt: m0197
   file: ./pavoque/StefanPoker/wav/m0197.wav
   date: 2007-10-29T12:39:40+0100
@@ -19188,6 +20102,8 @@
   - {lab: 'o:', end: 4.44}
   - {lab: n, end: 4.553643}
   - {lab: _, end: 6.095}
+  start: 2264.6
+  end: 2270.7
 - prompt: m0198
   file: ./pavoque/StefanPoker/wav/m0198.wav
   date: 2007-10-29T12:39:48+0100
@@ -19226,6 +20142,8 @@
   - {lab: aI, end: 3.105}
   - {lab: '6', end: 3.383253}
   - {lab: _, end: 4.835}
+  start: 2270.7
+  end: 2275.54
 - prompt: m0199
   file: ./pavoque/StefanPoker/wav/m0199.wav
   date: 2007-10-29T12:39:56+0100
@@ -19274,6 +20192,8 @@
   - {lab: a, end: 3.865}
   - {lab: t, end: 4.125}
   - {lab: _, end: 5.315}
+  start: 2275.54
+  end: 2280.86
 - prompt: m0200
   file: ./pavoque/StefanPoker/wav/m0200.wav
   date: 2007-10-29T12:40:18+0100
@@ -19323,6 +20243,8 @@
   - {lab: aI, end: 4.46}
   - {lab: n, end: 4.604801}
   - {lab: _, end: 5.915}
+  start: 2280.86
+  end: 2286.78
 - prompt: m0201
   file: ./pavoque/StefanPoker/wav/m0201.wav
   date: 2007-10-29T12:40:24+0100
@@ -19351,6 +20273,8 @@
   - {lab: a~, end: 3.020024}
   - {lab: Z, end: 3.275}
   - {lab: _, end: 4.055}
+  start: 2286.78
+  end: 2290.84
 - prompt: m0202
   file: ./pavoque/StefanPoker/wav/m0202.wav
   date: 2007-10-29T12:40:34+0100
@@ -19416,6 +20340,8 @@
   - {lab: aI, end: 5.445}
   - {lab: n, end: 5.571024}
   - {lab: _, end: 7.295}
+  start: 2290.84
+  end: 2298.14
 - prompt: m0203
   file: ./pavoque/StefanPoker/wav/m0203.wav
   date: 2007-10-29T12:40:40+0100
@@ -19444,6 +20370,8 @@
   - {lab: aI, end: 2.465}
   - {lab: n, end: 2.61}
   - {lab: _, end: 4.055}
+  start: 2298.14
+  end: 2302.2
 - prompt: m0205
   file: ./pavoque/StefanPoker/wav/m0205.wav
   date: 2007-10-29T12:41:00+0100
@@ -19497,6 +20425,8 @@
   - {lab: '6', end: 4.155}
   - {lab: p, end: 4.37}
   - {lab: _, end: 5.975}
+  start: 2302.2
+  end: 2308.18
 - prompt: m0206
   file: ./pavoque/StefanPoker/wav/m0206.wav
   date: 2007-10-29T12:41:18+0100
@@ -19557,6 +20487,8 @@
   - {lab: aI, end: 4.46}
   - {lab: t, end: 4.670097}
   - {lab: _, end: 6.215}
+  start: 2308.18
+  end: 2314.4
 - prompt: m0207
   file: ./pavoque/StefanPoker/wav/m0207.wav
   date: 2007-10-29T12:41:26+0100
@@ -19585,6 +20517,8 @@
   - {lab: '@', end: 3.17}
   - {lab: n, end: 3.370125}
   - {lab: _, end: 4.055}
+  start: 2314.4
+  end: 2318.46
 - prompt: m0209
   file: ./pavoque/StefanPoker/wav/m0209.wav
   date: 2007-10-29T12:41:40+0100
@@ -19635,6 +20569,8 @@
   - {lab: 'u:', end: 4.335}
   - {lab: 'i:', end: 4.52796}
   - {lab: _, end: 5.675}
+  start: 2318.46
+  end: 2324.14
 - prompt: m0211
   file: ./pavoque/StefanPoker/wav/m0211.wav
   date: 2007-10-29T12:42:08+0100
@@ -19665,6 +20601,8 @@
   - {lab: '@', end: 2.315}
   - {lab: t, end: 2.505287}
   - {lab: _, end: 3.875}
+  start: 2324.14
+  end: 2328.02
 - prompt: m0212
   file: ./pavoque/StefanPoker/wav/m0212.wav
   date: 2007-10-29T12:42:16+0100
@@ -19709,6 +20647,8 @@
   - {lab: l, end: 2.945}
   - {lab: '@', end: 3.155}
   - {lab: _, end: 5.015}
+  start: 2328.02
+  end: 2333.04
 - prompt: m0213
   file: ./pavoque/StefanPoker/wav/m0213.wav
   date: 2007-10-29T12:42:24+0100
@@ -19766,6 +20706,8 @@
   - {lab: w, end: 4.44}
   - {lab: aU, end: 4.834016}
   - {lab: _, end: 5.975}
+  start: 2333.04
+  end: 2339.02
 - prompt: m0214
   file: ./pavoque/StefanPoker/wav/m0214.wav
   date: 2007-10-29T12:42:30+0100
@@ -19795,6 +20737,8 @@
   - {lab: 'u:', end: 2.355}
   - {lab: t, end: 2.615}
   - {lab: _, end: 3.995}
+  start: 2339.02
+  end: 2343.02
 - prompt: m0215
   file: ./pavoque/StefanPoker/wav/m0215.wav
   date: 2007-10-29T12:42:38+0100
@@ -19845,6 +20789,8 @@
   - {lab: z, end: 3.831062}
   - {lab: '@', end: 3.99}
   - {lab: _, end: 5.495}
+  start: 2343.02
+  end: 2348.52
 - prompt: m0217
   file: ./pavoque/StefanPoker/wav/m0217.wav
   date: 2007-10-29T12:43:12+0100
@@ -19879,6 +20825,8 @@
   - {lab: h, end: 2.55}
   - {lab: '@', end: 2.744734}
   - {lab: _, end: 4.295}
+  start: 2348.52
+  end: 2352.82
 - prompt: m0218
   file: ./pavoque/StefanPoker/wav/m0218.wav
   date: 2007-10-29T12:43:30+0100
@@ -19922,6 +20870,8 @@
   - {lab: 'e:', end: 3.338568}
   - {lab: '6', end: 3.606971}
   - {lab: _, end: 5.135}
+  start: 2352.82
+  end: 2357.96
 - prompt: m0219
   file: ./pavoque/StefanPoker/wav/m0219.wav
   date: 2007-10-29T12:43:38+0100
@@ -19995,6 +20945,8 @@
   - {lab: s, end: 5.591126}
   - {lab: t, end: 5.705724}
   - {lab: _, end: 6.815}
+  start: 2357.96
+  end: 2364.78
 - prompt: m0220
   file: ./pavoque/StefanPoker/wav/m0220.wav
   date: 2007-10-29T12:43:58+0100
@@ -20051,6 +21003,8 @@
   - {lab: l, end: 4.137428}
   - {lab: t, end: 4.300739}
   - {lab: _, end: 5.855}
+  start: 2364.78
+  end: 2370.64
 - prompt: m0221
   file: ./pavoque/StefanPoker/wav/m0221.wav
   date: 2007-10-29T12:44:04+0100
@@ -20078,6 +21032,8 @@
   - {lab: '6', end: 2.476276}
   - {lab: C, end: 2.753236}
   - {lab: _, end: 3.995}
+  start: 2370.64
+  end: 2374.64
 - prompt: m0222
   file: ./pavoque/StefanPoker/wav/m0222.wav
   date: 2007-10-29T12:44:36+0100
@@ -20143,6 +21099,8 @@
   - {lab: '@', end: 5.29}
   - {lab: n, end: 5.423448}
   - {lab: _, end: 6.815}
+  start: 2374.64
+  end: 2381.46
 - prompt: m0223
   file: ./pavoque/StefanPoker/wav/m0223.wav
   date: 2007-10-29T12:45:30+0100
@@ -20202,6 +21160,8 @@
   - {lab: l, end: 4.42}
   - {lab: '@', end: 4.59}
   - {lab: _, end: 6.635}
+  start: 2381.46
+  end: 2388.1
 - prompt: m0224
   file: ./pavoque/StefanPoker/wav/m0224.wav
   date: 2007-10-29T12:45:36+0100
@@ -20246,6 +21206,8 @@
   - {lab: n, end: 3.54}
   - {lab: ts, end: 3.7}
   - {lab: _, end: 5.015}
+  start: 2388.1
+  end: 2393.12
 - prompt: m0226
   file: ./pavoque/StefanPoker/wav/m0226.wav
   date: 2007-10-29T12:45:54+0100
@@ -20286,6 +21248,8 @@
   - {lab: S, end: 3.79}
   - {lab: 'o:', end: 4.057373}
   - {lab: _, end: 4.955}
+  start: 2393.12
+  end: 2398.08
 - prompt: m0227
   file: ./pavoque/StefanPoker/wav/m0227.wav
   date: 2007-10-29T12:46:12+0100
@@ -20348,6 +21312,8 @@
   - {lab: n, end: 5.085}
   - {lab: '6', end: 5.287673}
   - {lab: _, end: 6.335}
+  start: 2398.08
+  end: 2404.42
 - prompt: m0228
   file: ./pavoque/StefanPoker/wav/m0228.wav
   date: 2007-10-29T12:46:20+0100
@@ -20398,6 +21364,8 @@
   - {lab: '@', end: 3.605}
   - {lab: t, end: 3.763484}
   - {lab: _, end: 5.495}
+  start: 2404.42
+  end: 2409.92
 - prompt: m0229
   file: ./pavoque/StefanPoker/wav/m0229.wav
   date: 2007-10-29T12:46:30+0100
@@ -20471,6 +21439,8 @@
   - {lab: aI, end: 5.52}
   - {lab: n, end: 5.589937}
   - {lab: _, end: 7.475}
+  start: 2409.92
+  end: 2417.4
 - prompt: m0230
   file: ./pavoque/StefanPoker/wav/m0230.wav
   date: 2007-10-29T12:46:40+0100
@@ -20529,6 +21499,8 @@
   - {lab: '@', end: 4.343429}
   - {lab: n, end: 4.480138}
   - {lab: _, end: 6.395}
+  start: 2417.4
+  end: 2423.8
 - prompt: m0231
   file: ./pavoque/StefanPoker/wav/m0231.wav
   date: 2007-10-29T12:47:02+0100
@@ -20595,6 +21567,8 @@
   - {lab: 'i:', end: 4.60103}
   - {lab: l, end: 4.758531}
   - {lab: _, end: 6.695}
+  start: 2423.8
+  end: 2430.5
 - prompt: m0232
   file: ./pavoque/StefanPoker/wav/m0232.wav
   date: 2007-10-29T12:47:10+0100
@@ -20657,6 +21631,8 @@
   - {lab: l, end: 4.565}
   - {lab: '@', end: 4.719534}
   - {lab: _, end: 6.335}
+  start: 2430.5
+  end: 2436.84
 - prompt: m0233
   file: ./pavoque/StefanPoker/wav/m0233.wav
   date: 2007-10-29T12:47:16+0100
@@ -20686,6 +21662,8 @@
   - {lab: I, end: 2.245}
   - {lab: C, end: 2.482792}
   - {lab: _, end: 3.635}
+  start: 2436.84
+  end: 2440.48
 - prompt: m0234
   file: ./pavoque/StefanPoker/wav/m0234.wav
   date: 2007-10-29T12:47:22+0100
@@ -20714,6 +21692,8 @@
   - {lab: n, end: 2.525}
   - {lab: ts, end: 2.70683}
   - {lab: _, end: 3.875}
+  start: 2440.48
+  end: 2444.36
 - prompt: m0235
   file: ./pavoque/StefanPoker/wav/m0235.wav
   date: 2007-10-29T12:47:30+0100
@@ -20755,6 +21735,8 @@
   - {lab: t, end: 2.905}
   - {lab: '@', end: 3.075307}
   - {lab: _, end: 4.475}
+  start: 2444.36
+  end: 2448.84
 - prompt: m0236
   file: ./pavoque/StefanPoker/wav/m0236.wav
   date: 2007-10-29T12:47:36+0100
@@ -20783,6 +21765,8 @@
   - {lab: '@', end: 2.48}
   - {lab: n, end: 2.576944}
   - {lab: _, end: 3.995}
+  start: 2448.84
+  end: 2452.84
 - prompt: m0237
   file: ./pavoque/StefanPoker/wav/m0237.wav
   date: 2007-10-29T12:48:16+0100
@@ -20856,6 +21840,8 @@
   - {lab: aU, end: 5.35}
   - {lab: m, end: 5.511532}
   - {lab: _, end: 7.355}
+  start: 2452.84
+  end: 2460.2
 - prompt: m0238
   file: ./pavoque/StefanPoker/wav/m0238.wav
   date: 2007-10-29T12:48:24+0100
@@ -20905,6 +21891,8 @@
   - {lab: l, end: 4.875}
   - {lab: '6', end: 5.1}
   - {lab: _, end: 6.155}
+  start: 2460.2
+  end: 2466.36
 - prompt: m0239
   file: ./pavoque/StefanPoker/wav/m0239.wav
   date: 2007-10-29T12:48:32+0100
@@ -20944,6 +21932,8 @@
   - {lab: I, end: 3.256079}
   - {lab: C, end: 3.447071}
   - {lab: _, end: 4.775}
+  start: 2466.36
+  end: 2471.14
 - prompt: m0240
   file: ./pavoque/StefanPoker/wav/m0240.wav
   date: 2007-10-29T12:48:38+0100
@@ -20980,6 +21970,8 @@
   - {lab: n, end: 2.59}
   - {lab: '6', end: 2.836917}
   - {lab: _, end: 4.235}
+  start: 2471.14
+  end: 2475.38
 - prompt: m0241
   file: ./pavoque/StefanPoker/wav/m0241.wav
   date: 2007-10-29T12:48:48+0100
@@ -21041,6 +22033,8 @@
   - {lab: 'u:', end: 4.76}
   - {lab: t, end: 4.977368}
   - {lab: _, end: 6.455}
+  start: 2475.38
+  end: 2481.84
 - prompt: m0242
   file: ./pavoque/StefanPoker/wav/m0242.wav
   date: 2007-10-29T12:48:56+0100
@@ -21091,6 +22085,8 @@
   - {lab: U, end: 3.995}
   - {lab: N, end: 4.063003}
   - {lab: _, end: 5.675}
+  start: 2481.84
+  end: 2487.52
 - prompt: m0243
   file: ./pavoque/StefanPoker/wav/m0243.wav
   date: 2007-10-29T12:49:08+0100
@@ -21179,6 +22175,8 @@
   - {lab: '@', end: 6.852996}
   - {lab: n, end: 6.934061}
   - {lab: _, end: 9.155}
+  start: 2487.52
+  end: 2496.68
 - prompt: m0244
   file: ./pavoque/StefanPoker/wav/m0244.wav
   date: 2007-10-29T12:49:14+0100
@@ -21222,6 +22220,8 @@
   - {lab: aU, end: 3.99}
   - {lab: f, end: 4.27}
   - {lab: _, end: 4.835}
+  start: 2496.68
+  end: 2501.52
 - prompt: m0245
   file: ./pavoque/StefanPoker/wav/m0245.wav
   date: 2007-10-29T12:49:22+0100
@@ -21254,6 +22254,8 @@
   - {lab: 'a:', end: 2.595}
   - {lab: '@', end: 2.835}
   - {lab: _, end: 4.115}
+  start: 2501.52
+  end: 2505.64
 - prompt: m0246
   file: ./pavoque/StefanPoker/wav/m0246.wav
   date: 2007-10-29T12:49:28+0100
@@ -21301,6 +22303,8 @@
   - {lab: '6', end: 3.05}
   - {lab: s, end: 3.235}
   - {lab: _, end: 5.195}
+  start: 2505.64
+  end: 2510.84
 - prompt: m0247
   file: ./pavoque/StefanPoker/wav/m0247.wav
   date: 2007-10-29T12:49:34+0100
@@ -21332,6 +22336,8 @@
   - {lab: m, end: 2.345}
   - {lab: '@', end: 2.588195}
   - {lab: _, end: 3.755}
+  start: 2510.84
+  end: 2514.6
 - prompt: m0248
   file: ./pavoque/StefanPoker/wav/m0248.wav
   date: 2007-10-29T12:49:42+0100
@@ -21368,6 +22374,8 @@
   - {lab: E, end: 3.01}
   - {lab: m, end: 3.161549}
   - {lab: _, end: 4.355}
+  start: 2514.6
+  end: 2518.96
 - prompt: m0249
   file: ./pavoque/StefanPoker/wav/m0249.wav
   date: 2007-10-29T12:49:48+0100
@@ -21397,6 +22405,8 @@
   - {lab: OY, end: 2.14}
   - {lab: tS, end: 2.41}
   - {lab: _, end: 4.055}
+  start: 2518.96
+  end: 2523.02
 - prompt: poker_n0158
   file: ./pavoque/StefanPoker/wav/poker_n0158.wav
   date: 2007-10-29T12:50:26+0100
@@ -21432,6 +22442,8 @@
   - {lab: '@', end: 1.9}
   - {lab: n, end: 2.057917}
   - {lab: _, end: 4.655}
+  start: 2523.02
+  end: 2527.68
 - prompt: poker_n0159
   file: ./pavoque/StefanPoker/wav/poker_n0159.wav
   date: 2007-10-29T12:50:32+0100
@@ -21462,6 +22474,8 @@
   - {lab: '@', end: 2.118678}
   - {lab: n, end: 2.238487}
   - {lab: _, end: 3.995}
+  start: 2527.68
+  end: 2531.68
 - prompt: poker_n0160
   file: ./pavoque/StefanPoker/wav/poker_n0160.wav
   date: 2007-10-29T12:50:40+0100
@@ -21497,6 +22511,8 @@
   - {lab: d, end: 2.35}
   - {lab: '6', end: 2.51685}
   - {lab: _, end: 4.535}
+  start: 2531.68
+  end: 2536.22
 - prompt: poker_n0161
   file: ./pavoque/StefanPoker/wav/poker_n0161.wav
   date: 2007-10-29T12:50:44+0100
@@ -21512,6 +22528,8 @@
   - {lab: Y, end: 1.041917}
   - {lab: s, end: 1.348659}
   - {lab: _, end: 2.915}
+  start: 2536.22
+  end: 2539.14
 - prompt: poker_n0162
   file: ./pavoque/StefanPoker/wav/poker_n0162.wav
   date: 2007-10-29T12:50:50+0100
@@ -21526,6 +22544,8 @@
   - {lab: I, end: 1.13}
   - {lab: n, end: 1.45}
   - {lab: _, end: 2.735}
+  start: 2539.14
+  end: 2541.88
 - prompt: poker_n0163
   file: ./pavoque/StefanPoker/wav/poker_n0163.wav
   date: 2007-10-29T12:50:54+0100
@@ -21544,6 +22564,8 @@
   - {lab: I, end: 1.24}
   - {lab: C, end: 1.466488}
   - {lab: _, end: 2.915}
+  start: 2541.88
+  end: 2544.8
 - prompt: poker_n0164
   file: ./pavoque/StefanPoker/wav/poker_n0164.wav
   date: 2007-10-29T12:51:32+0100
@@ -21566,6 +22588,8 @@
   - {lab: 'u:', end: 1.371805}
   - {lab: '6', end: 1.551492}
   - {lab: _, end: 3.395}
+  start: 2544.8
+  end: 2548.2
 - prompt: poker_n0165
   file: ./pavoque/StefanPoker/wav/poker_n0165.wav
   date: 2007-10-29T12:51:38+0100
@@ -21587,6 +22611,8 @@
   - {lab: 'u:', end: 1.456045}
   - {lab: '6', end: 1.600568}
   - {lab: _, end: 3.395}
+  start: 2548.2
+  end: 2551.6
 - prompt: poker_n0166
   file: ./pavoque/StefanPoker/wav/poker_n0166.wav
   date: 2007-10-29T12:51:44+0100
@@ -21620,6 +22646,8 @@
   - {lab: n, end: 2.055}
   - {lab: t, end: 2.221868}
   - {lab: _, end: 4.295}
+  start: 2551.6
+  end: 2555.9
 - prompt: poker_n0167
   file: ./pavoque/StefanPoker/wav/poker_n0167.wav
   date: 2007-10-29T12:51:52+0100
@@ -21655,6 +22683,8 @@
   - {lab: n, end: 2.099527}
   - {lab: t, end: 2.240938}
   - {lab: _, end: 4.355}
+  start: 2555.9
+  end: 2560.26
 - prompt: poker_n0169
   file: ./pavoque/StefanPoker/wav/poker_n0169.wav
   date: 2007-10-29T12:52:20+0100
@@ -21690,6 +22720,8 @@
   - {lab: '@', end: 2.25343}
   - {lab: n, end: 2.382121}
   - {lab: _, end: 4.415}
+  start: 2560.26
+  end: 2564.68
 - prompt: poker_n0170
   file: ./pavoque/StefanPoker/wav/poker_n0170.wav
   date: 2007-10-29T12:52:40+0100
@@ -21712,6 +22744,8 @@
   - {lab: n, end: 1.845}
   - {lab: t, end: 2.01839}
   - {lab: _, end: 3.215}
+  start: 2564.68
+  end: 2567.9
 - prompt: poker_n0171
   file: ./pavoque/StefanPoker/wav/poker_n0171.wav
   date: 2007-10-29T12:53:08+0100
@@ -21769,6 +22803,8 @@
   - {lab: l, end: 3.945}
   - {lab: n, end: 4.102931}
   - {lab: _, end: 6.095}
+  start: 2567.9
+  end: 2574.0
 - prompt: poker_n0172
   file: ./pavoque/StefanPoker/wav/poker_n0172.wav
   date: 2007-10-29T12:53:18+0100
@@ -21829,6 +22865,8 @@
   - {lab: b, end: 4.320868}
   - {lab: aI, end: 4.585}
   - {lab: _, end: 6.515}
+  start: 2574.0
+  end: 2580.52
 - prompt: poker_n0173
   file: ./pavoque/StefanPoker/wav/poker_n0173.wav
   date: 2007-10-29T12:53:26+0100
@@ -21871,6 +22909,8 @@
   - {lab: I, end: 2.595371}
   - {lab: C, end: 2.740288}
   - {lab: _, end: 4.835}
+  start: 2580.52
+  end: 2585.36
 - prompt: poker_n0174
   file: ./pavoque/StefanPoker/wav/poker_n0174.wav
   date: 2007-10-29T12:53:32+0100
@@ -21907,6 +22947,8 @@
   - {lab: '@', end: 2.139587}
   - {lab: n, end: 2.264764}
   - {lab: _, end: 4.475}
+  start: 2585.36
+  end: 2589.84
 - prompt: poker_n0175
   file: ./pavoque/StefanPoker/wav/poker_n0175.wav
   date: 2007-10-29T12:53:40+0100
@@ -21952,6 +22994,8 @@
   - {lab: d, end: 2.81154}
   - {lab: '@', end: 2.96765}
   - {lab: _, end: 5.375}
+  start: 2589.84
+  end: 2595.22
 - prompt: m0016
   file: ./pavoque/StefanPoker/wav/m0016.wav
   date: 2007-12-21T17:25:38+0100
@@ -21981,6 +23025,8 @@
   - {lab: '@', end: 3.48}
   - {lab: n, end: 3.673683}
   - {lab: _, end: 4.775}
+  start: 2595.22
+  end: 2600.0
 - prompt: m0024
   file: ./pavoque/StefanPoker/wav/m0024.wav
   date: 2007-12-21T17:25:38+0100
@@ -22009,6 +23055,8 @@
   - {lab: aI, end: 2.235}
   - {lab: m, end: 2.342499}
   - {lab: _, end: 4.235}
+  start: 2600.0
+  end: 2604.24
 - prompt: m0047
   file: ./pavoque/StefanPoker/wav/m0047.wav
   date: 2007-12-21T17:25:38+0100
@@ -22042,6 +23090,8 @@
   - {lab: n, end: 2.57}
   - {lab: '@', end: 2.774646}
   - {lab: _, end: 4.355}
+  start: 2604.24
+  end: 2608.6
 - prompt: m0048
   file: ./pavoque/StefanPoker/wav/m0048.wav
   date: 2007-12-21T17:25:38+0100
@@ -22100,6 +23150,8 @@
   - {lab: '@', end: 5.169861}
   - {lab: n, end: 5.294086}
   - {lab: _, end: 6.215}
+  start: 2608.6
+  end: 2614.82
 - prompt: poker_n0004
   file: ./pavoque/StefanPoker/wav/poker_n0004.wav
   date: 2007-12-21T17:25:38+0100
@@ -22124,6 +23176,8 @@
   - {lab: k, end: 2.195}
   - {lab: '6', end: 2.455}
   - {lab: _, end: 5.875}
+  start: 2614.82
+  end: 2620.7
 - prompt: m0115
   file: ./pavoque/StefanPoker/wav/m0115.wav
   date: 2007-12-21T17:25:39+0100
@@ -22169,6 +23223,8 @@
   - {lab: l, end: 3.52}
   - {lab: k, end: 3.78}
   - {lab: _, end: 5.255}
+  start: 2620.7
+  end: 2625.96
 - prompt: m0122
   file: ./pavoque/StefanPoker/wav/m0122.wav
   date: 2007-12-21T17:25:39+0100
@@ -22225,6 +23281,8 @@
   - {lab: '@', end: 5.065048}
   - {lab: n, end: 5.305069}
   - {lab: _, end: 6.635}
+  start: 2625.96
+  end: 2632.6
 - prompt: m0127
   file: ./pavoque/StefanPoker/wav/m0127.wav
   date: 2007-12-21T17:25:39+0100
@@ -22267,6 +23325,8 @@
   - {lab: d, end: 4.02}
   - {lab: 'a:', end: 4.329064}
   - {lab: _, end: 5.255}
+  start: 2632.6
+  end: 2637.86
 - prompt: m0152
   file: ./pavoque/StefanPoker/wav/m0152.wav
   date: 2007-12-21T17:25:39+0100
@@ -22340,6 +23400,8 @@
   - {lab: I, end: 6.435}
   - {lab: S, end: 6.68}
   - {lab: _, end: 7.655}
+  start: 2637.86
+  end: 2645.52
 - prompt: m0166
   file: ./pavoque/StefanPoker/wav/m0166.wav
   date: 2007-12-21T17:25:39+0100
@@ -22389,6 +23451,8 @@
   - {lab: '@', end: 4.555}
   - {lab: s, end: 4.835}
   - {lab: _, end: 5.735}
+  start: 2645.52
+  end: 2651.26
 - prompt: m0170
   file: ./pavoque/StefanPoker/wav/m0170.wav
   date: 2007-12-21T17:25:39+0100
@@ -22436,6 +23500,8 @@
   - {lab: f, end: 4.85}
   - {lab: '6', end: 5.07971}
   - {lab: _, end: 5.975}
+  start: 2651.26
+  end: 2657.24
 - prompt: m0180
   file: ./pavoque/StefanPoker/wav/m0180.wav
   date: 2007-12-21T17:25:39+0100
@@ -22462,6 +23528,8 @@
   - {lab: aI, end: 2.065}
   - {lab: s, end: 2.325}
   - {lab: _, end: 3.935}
+  start: 2657.24
+  end: 2661.18
 - prompt: m0187
   file: ./pavoque/StefanPoker/wav/m0187.wav
   date: 2007-12-21T17:25:39+0100
@@ -22507,6 +23575,8 @@
   - {lab: f, end: 3.79}
   - {lab: t, end: 3.915}
   - {lab: _, end: 5.315}
+  start: 2661.18
+  end: 2666.5
 - prompt: m0188
   file: ./pavoque/StefanPoker/wav/m0188.wav
   date: 2007-12-21T17:25:39+0100
@@ -22542,6 +23612,8 @@
   - {lab: '@', end: 2.81}
   - {lab: s, end: 3.12}
   - {lab: _, end: 4.475}
+  start: 2666.5
+  end: 2670.98
 - prompt: m0204
   file: ./pavoque/StefanPoker/wav/m0204.wav
   date: 2007-12-21T17:25:40+0100
@@ -22627,6 +23699,8 @@
   - {lab: O, end: 8.175}
   - {lab: l, end: 8.265}
   - {lab: _, end: 8.375}
+  start: 2670.98
+  end: 2679.36
 - prompt: m0208
   file: ./pavoque/StefanPoker/wav/m0208.wav
   date: 2007-12-21T17:25:40+0100
@@ -22659,6 +23733,8 @@
   - {lab: 'u:', end: 2.83}
   - {lab: t, end: 3.099804}
   - {lab: _, end: 4.295}
+  start: 2679.36
+  end: 2683.66
 - prompt: m0210
   file: ./pavoque/StefanPoker/wav/m0210.wav
   date: 2007-12-21T17:25:40+0100
@@ -22690,6 +23766,8 @@
   - {lab: j, end: 2.605}
   - {lab: 'u:', end: 2.775227}
   - {lab: _, end: 4.415}
+  start: 2683.66
+  end: 2688.08
 - prompt: m0216
   file: ./pavoque/StefanPoker/wav/m0216.wav
   date: 2007-12-21T17:25:40+0100
@@ -22763,6 +23841,8 @@
   - {lab: '2:', end: 6.13}
   - {lab: s, end: 6.45}
   - {lab: _, end: 7.295}
+  start: 2688.08
+  end: 2695.38
 - prompt: m0225
   file: ./pavoque/StefanPoker/wav/m0225.wav
   date: 2007-12-21T17:25:40+0100
@@ -22827,6 +23907,8 @@
   - {lab: a, end: 5.445}
   - {lab: t, end: 5.645}
   - {lab: _, end: 6.815}
+  start: 2695.38
+  end: 2702.2
 - prompt: m0263
   file: ./pavoque/StefanPoker/wav/m0263.wav
   date: 2007-12-21T17:25:40+0100
@@ -22854,6 +23936,8 @@
   - {lab: t, end: 2.64}
   - {lab: '6', end: 2.89}
   - {lab: _, end: 4.055}
+  start: 2702.2
+  end: 2706.26
 - prompt: m0271
   file: ./pavoque/StefanPoker/wav/m0271.wav
   date: 2007-12-21T17:25:40+0100
@@ -22901,6 +23985,8 @@
   - {lab: k, end: 4.353033}
   - {lab: 'a:', end: 4.577606}
   - {lab: _, end: 5.615}
+  start: 2706.26
+  end: 2711.88
 - prompt: m0273
   file: ./pavoque/StefanPoker/wav/m0273.wav
   date: 2007-12-21T17:25:40+0100
@@ -22968,6 +24054,8 @@
   - {lab: t, end: 5.665}
   - {lab: 'i:', end: 5.89}
   - {lab: _, end: 7.475}
+  start: 2711.88
+  end: 2719.36
 - prompt: m0274
   file: ./pavoque/StefanPoker/wav/m0274.wav
   date: 2007-12-21T17:25:40+0100
@@ -23029,6 +24117,8 @@
   - {lab: 'E:', end: 6.815}
   - {lab: n, end: 7.035603}
   - {lab: _, end: 8.695}
+  start: 2719.36
+  end: 2728.06
 - prompt: m0316
   file: ./pavoque/StefanPoker/wav/m0316.wav
   date: 2007-12-21T17:25:41+0100
@@ -23090,6 +24180,8 @@
   - {lab: 'E:', end: 6.572873}
   - {lab: 'E:', end: 6.843659}
   - {lab: _, end: 8.635}
+  start: 2728.06
+  end: 2736.7
 - prompt: m0325
   file: ./pavoque/StefanPoker/wav/m0325.wav
   date: 2007-12-21T17:25:41+0100
@@ -23127,6 +24219,8 @@
   - {lab: n, end: 3.710826}
   - {lab: t, end: 3.896275}
   - {lab: _, end: 6.715}
+  start: 2736.7
+  end: 2743.42
 - prompt: m0340
   file: ./pavoque/StefanPoker/wav/m0340.wav
   date: 2007-12-21T17:25:41+0100
@@ -23207,6 +24301,8 @@
   - {lab: l, end: 8.068133}
   - {lab: t, end: 8.202895}
   - {lab: _, end: 10.195}
+  start: 2743.42
+  end: 2753.62
 - prompt: m0352
   file: ./pavoque/StefanPoker/wav/m0352.wav
   date: 2007-12-21T17:25:41+0100
@@ -23242,6 +24338,8 @@
   - {lab: aI, end: 4.3}
   - {lab: t, end: 4.525697}
   - {lab: _, end: 6.715}
+  start: 2753.62
+  end: 2760.34
 - prompt: m0367
   file: ./pavoque/StefanPoker/wav/m0367.wav
   date: 2007-12-21T17:25:41+0100
@@ -23296,6 +24394,8 @@
   - {lab: U, end: 5.010172}
   - {lab: s, end: 5.344253}
   - {lab: '', end: 7.555}
+  start: 2760.34
+  end: 2767.9
 - prompt: m0368
   file: ./pavoque/StefanPoker/wav/m0368.wav
   date: 2007-12-21T17:25:41+0100
@@ -23340,6 +24440,8 @@
   - {lab: r, end: 6.187106}
   - {lab: 'o:', end: 6.4186}
   - {lab: _, end: 7.675}
+  start: 2767.9
+  end: 2775.58
 - prompt: m0373
   file: ./pavoque/StefanPoker/wav/m0373.wav
   date: 2007-12-21T17:25:41+0100
@@ -23380,6 +24482,8 @@
   - {lab: '@', end: 3.975}
   - {lab: n, end: 4.086432}
   - {lab: _, end: 6.895}
+  start: 2775.58
+  end: 2782.48
 - prompt: m0377
   file: ./pavoque/StefanPoker/wav/m0377.wav
   date: 2007-12-21T17:25:41+0100
@@ -23447,6 +24551,8 @@
   - {lab: '@', end: 5.77709}
   - {lab: n, end: 5.913411}
   - {lab: _, end: 9.235}
+  start: 2782.48
+  end: 2791.72
 - prompt: m0384
   file: ./pavoque/StefanPoker/wav/m0384.wav
   date: 2007-12-21T17:25:41+0100
@@ -23499,6 +24605,8 @@
   - {lab: 'o:', end: 4.54}
   - {lab: n, end: 4.67812}
   - {lab: _, end: 7.855}
+  start: 2791.72
+  end: 2799.58
 - prompt: m0388
   file: ./pavoque/StefanPoker/wav/m0388.wav
   date: 2007-12-21T17:25:42+0100
@@ -23562,6 +24670,8 @@
   - {lab: 'o:', end: 7.08}
   - {lab: m, end: 7.256986}
   - {lab: _, end: 8.575}
+  start: 2799.58
+  end: 2808.16
 - prompt: m0392
   file: ./pavoque/StefanPoker/wav/m0392.wav
   date: 2007-12-21T17:25:42+0100
@@ -23594,6 +24704,8 @@
   - {lab: '@', end: 2.66}
   - {lab: t, end: 2.950035}
   - {lab: _, end: 6.295}
+  start: 2808.16
+  end: 2814.46
 - prompt: m0399
   file: ./pavoque/StefanPoker/wav/m0399.wav
   date: 2007-12-21T17:25:42+0100
@@ -23642,6 +24754,8 @@
   - {lab: N, end: 5.96}
   - {lab: 'a:', end: 6.315}
   - {lab: _, end: 8.155}
+  start: 2814.46
+  end: 2822.62
 - prompt: poker_n0009
   file: ./pavoque/StefanPoker/wav/poker_n0009.wav
   date: 2007-12-21T17:25:42+0100
@@ -23676,6 +24790,8 @@
   - {lab: aU, end: 2.425}
   - {lab: s, end: 2.620837}
   - {lab: _, end: 6.775}
+  start: 2822.62
+  end: 2829.4
 - prompt: poker_n0025
   file: ./pavoque/StefanPoker/wav/poker_n0025.wav
   date: 2007-12-21T17:25:42+0100
@@ -23719,6 +24835,8 @@
   - {lab: '@', end: 3.36005}
   - {lab: n, end: 3.468063}
   - {lab: _, end: 7.195}
+  start: 2829.4
+  end: 2836.6
 - prompt: poker_n0030
   file: ./pavoque/StefanPoker/wav/poker_n0030.wav
   date: 2007-12-21T17:25:42+0100
@@ -23737,6 +24855,8 @@
   - {lab: 'e:', end: 2.1}
   - {lab: n, end: 2.36062}
   - {lab: _, end: 5.395}
+  start: 2836.6
+  end: 2842.0
 - prompt: poker_n0034
   file: ./pavoque/StefanPoker/wav/poker_n0034.wav
   date: 2007-12-21T17:25:42+0100
@@ -23760,6 +24880,8 @@
   - {lab: I, end: 1.925}
   - {lab: C, end: 2.11}
   - {lab: _, end: 5.635}
+  start: 2842.0
+  end: 2847.64
 - prompt: poker_n0045
   file: ./pavoque/StefanPoker/wav/poker_n0045.wav
   date: 2007-12-21T17:25:42+0100
@@ -23799,6 +24921,8 @@
   - {lab: I, end: 3.115}
   - {lab: C, end: 3.33}
   - {lab: _, end: 6.895}
+  start: 2847.64
+  end: 2854.54
 - prompt: poker_n0048
   file: ./pavoque/StefanPoker/wav/poker_n0048.wav
   date: 2007-12-21T17:25:42+0100
@@ -23814,6 +24938,8 @@
   - {lab: I, end: 0.95}
   - {lab: C, end: 1.15}
   - {lab: _, end: 5.095}
+  start: 2854.54
+  end: 2859.64
 - prompt: poker_n0064
   file: ./pavoque/StefanPoker/wav/poker_n0064.wav
   date: 2007-12-21T17:25:43+0100
@@ -23842,6 +24968,8 @@
   - {lab: '@', end: 2.045}
   - {lab: n, end: 2.259179}
   - {lab: _, end: 6.175}
+  start: 2859.64
+  end: 2865.82
 - prompt: poker_n0088
   file: ./pavoque/StefanPoker/wav/poker_n0088.wav
   date: 2007-12-21T17:25:43+0100
@@ -23878,6 +25006,8 @@
   - {lab: v, end: 3.18}
   - {lab: aI, end: 3.52}
   - {lab: _, end: 6.775}
+  start: 2865.82
+  end: 2872.6
 - prompt: poker_n0089
   file: ./pavoque/StefanPoker/wav/poker_n0089.wav
   date: 2007-12-21T17:25:43+0100
@@ -23920,6 +25050,8 @@
   - {lab: R, end: 3.805}
   - {lab: aI, end: 4.157622}
   - {lab: _, end: 7.135}
+  start: 2872.6
+  end: 2879.74
 - prompt: poker_n0093
   file: ./pavoque/StefanPoker/wav/poker_n0093.wav
   date: 2007-12-21T17:25:43+0100
@@ -23963,6 +25095,8 @@
   - {lab: '@', end: 4.053674}
   - {lab: n, end: 4.399333}
   - {lab: _, end: 7.195}
+  start: 2879.74
+  end: 2886.94
 - prompt: poker_n0094
   file: ./pavoque/StefanPoker/wav/poker_n0094.wav
   date: 2007-12-21T17:25:43+0100
@@ -24007,6 +25141,8 @@
   - {lab: x, end: 4.16}
   - {lab: t, end: 4.372618}
   - {lab: _, end: 7.315}
+  start: 2886.94
+  end: 2894.26
 - prompt: poker_n0105
   file: ./pavoque/StefanPoker/wav/poker_n0105.wav
   date: 2007-12-21T17:25:43+0100
@@ -24046,6 +25182,8 @@
   - {lab: k, end: 3.405}
   - {lab: s, end: 3.605956}
   - {lab: _, end: 6.895}
+  start: 2894.26
+  end: 2901.16
 - prompt: poker_n0118
   file: ./pavoque/StefanPoker/wav/poker_n0118.wav
   date: 2007-12-21T17:25:43+0100
@@ -24085,6 +25223,8 @@
   - {lab: k, end: 4.245}
   - {lab: s, end: 4.44}
   - {lab: _, end: 6.955}
+  start: 2901.16
+  end: 2908.12
 - prompt: poker_n0142
   file: ./pavoque/StefanPoker/wav/poker_n0142.wav
   date: 2007-12-21T17:25:43+0100
@@ -24125,6 +25265,8 @@
   - {lab: d, end: 3.751019}
   - {lab: '@', end: 3.893835}
   - {lab: _, end: 7.375}
+  start: 2908.12
+  end: 2915.5
 - prompt: poker_n0143
   file: ./pavoque/StefanPoker/wav/poker_n0143.wav
   date: 2007-12-21T17:25:44+0100
@@ -24160,6 +25302,8 @@
   - {lab: b, end: 2.432597}
   - {lab: aI, end: 2.705844}
   - {lab: _, end: 6.895}
+  start: 2915.5
+  end: 2922.4
 - prompt: poker_n0149
   file: ./pavoque/StefanPoker/wav/poker_n0149.wav
   date: 2007-12-21T17:25:44+0100
@@ -24189,6 +25333,8 @@
   - {lab: d, end: 2.605}
   - {lab: '6', end: 2.80754}
   - {lab: _, end: 6.295}
+  start: 2922.4
+  end: 2928.7
 - prompt: poker_n0157
   file: ./pavoque/StefanPoker/wav/poker_n0157.wav
   date: 2007-12-21T17:25:44+0100
@@ -24217,6 +25363,8 @@
   - {lab: 'a:', end: 2.017963}
   - {lab: l, end: 2.12771}
   - {lab: _, end: 6.115}
+  start: 2928.7
+  end: 2934.82
 - prompt: poker_n0168
   file: ./pavoque/StefanPoker/wav/poker_n0168.wav
   date: 2007-12-21T17:25:44+0100
@@ -24292,3 +25440,5 @@
   - {lab: '6', end: 5.67}
   - {lab: t, end: 5.835326}
   - {lab: _, end: 9.715}
+  start: 2934.82
+  end: 2944.54

@@ -77,6 +77,8 @@
   - {lab: '@', end: 6.211195}
   - {lab: n, end: 6.336182}
   - {lab: _, end: 9.127072}
+  start: 0.0
+  end: 12.2
 - prompt: obadiah0004
   file: ./pavoque/StefanObadiah/wav/obadiah0004.wav
   date: 2007-11-02T13:32:22+0100
@@ -124,6 +126,8 @@
   - {lab: a, end: 5.465}
   - {lab: n, end: 5.608514}
   - {lab: _, end: 6.975}
+  start: 12.2
+  end: 19.18
 - prompt: obadiah0006
   file: ./pavoque/StefanObadiah/wav/obadiah0006.wav
   date: 2007-11-02T13:32:36+0100
@@ -152,6 +156,8 @@
   - {lab: j, end: 3.029853}
   - {lab: a, end: 3.25}
   - {lab: _, end: 4.335}
+  start: 19.18
+  end: 23.52
 - prompt: obadiah0007
   file: ./pavoque/StefanObadiah/wav/obadiah0007.wav
   date: 2007-11-02T13:32:42+0100
@@ -168,6 +174,8 @@
   - {lab: t, end: 1.295}
   - {lab: s, end: 1.52}
   - {lab: _, end: 3.375}
+  start: 23.52
+  end: 26.9
 - prompt: obadiah0008
   file: ./pavoque/StefanObadiah/wav/obadiah0008.wav
   date: 2007-11-02T13:32:48+0100
@@ -193,6 +201,8 @@
   - {lab: 'e:', end: 1.55}
   - {lab: m, end: 1.76}
   - {lab: _, end: 4.095}
+  start: 26.9
+  end: 31.0
 - prompt: obadiah0009
   file: ./pavoque/StefanObadiah/wav/obadiah0009.wav
   date: 2007-11-02T13:32:56+0100
@@ -237,6 +247,8 @@
   - {lab: '@', end: 3.663716}
   - {lab: n, end: 3.828959}
   - {lab: _, end: 6.175}
+  start: 31.0
+  end: 37.18
 - prompt: obadiah0010
   file: ./pavoque/StefanObadiah/wav/obadiah0010.wav
   date: 2007-11-02T13:33:04+0100
@@ -271,6 +283,8 @@
   - {lab: '@', end: 3.015}
   - {lab: n, end: 3.269773}
   - {lab: _, end: 5.535}
+  start: 37.18
+  end: 42.72
 - prompt: obadiah0012
   file: ./pavoque/StefanObadiah/wav/obadiah0012.wav
   date: 2007-11-02T13:35:56+0100
@@ -290,6 +304,8 @@
   - {lab: d, end: 1.555}
   - {lab: 'a:', end: 1.915005}
   - {lab: _, end: 3.775}
+  start: 42.72
+  end: 46.5
 - prompt: obadiah0020
   file: ./pavoque/StefanObadiah/wav/obadiah0020.wav
   date: 2007-11-02T13:37:06+0100
@@ -322,6 +338,8 @@
   - {lab: '@', end: 2.444215}
   - {lab: n, end: 2.639369}
   - {lab: _, end: 5.055}
+  start: 46.5
+  end: 51.56
 - prompt: obadiah0021
   file: ./pavoque/StefanObadiah/wav/obadiah0021.wav
   date: 2007-11-02T13:37:14+0100
@@ -358,6 +376,8 @@
   - {lab: s, end: 3.841348}
   - {lab: t, end: 3.967489}
   - {lab: _, end: 5.615}
+  start: 51.56
+  end: 57.18
 - prompt: obadiah0022
   file: ./pavoque/StefanObadiah/wav/obadiah0022.wav
   date: 2007-11-02T13:37:20+0100
@@ -377,6 +397,8 @@
   - {lab: a, end: 1.705}
   - {lab: p, end: 1.927551}
   - {lab: _, end: 3.855}
+  start: 57.18
+  end: 61.04
 - prompt: obadiah0023
   file: ./pavoque/StefanObadiah/wav/obadiah0023.wav
   date: 2007-11-02T13:37:28+0100
@@ -419,6 +441,8 @@
   - {lab: '@', end: 3.167139}
   - {lab: n, end: 3.3757}
   - {lab: _, end: 6.015}
+  start: 61.04
+  end: 67.06
 - prompt: obadiah0024
   file: ./pavoque/StefanObadiah/wav/obadiah0024.wav
   date: 2007-11-02T13:37:34+0100
@@ -446,6 +470,8 @@
   - {lab: k, end: 2.564808}
   - {lab: t, end: 2.78}
   - {lab: _, end: 4.415}
+  start: 67.06
+  end: 71.48
 - prompt: obadiah0025
   file: ./pavoque/StefanObadiah/wav/obadiah0025.wav
   date: 2007-11-02T13:37:44+0100
@@ -495,6 +521,8 @@
   - {lab: t, end: 3.73}
   - {lab: '@', end: 3.92}
   - {lab: _, end: 6.975}
+  start: 71.48
+  end: 78.46
 - prompt: obadiah0026
   file: ./pavoque/StefanObadiah/wav/obadiah0026.wav
   date: 2007-11-02T13:37:56+0100
@@ -568,6 +596,8 @@
   - {lab: s, end: 6.13}
   - {lab: t, end: 6.224168}
   - {lab: _, end: 9.775}
+  start: 78.46
+  end: 88.24
 - prompt: obadiah0027
   file: ./pavoque/StefanObadiah/wav/obadiah0027.wav
   date: 2007-11-02T13:38:10+0100
@@ -654,6 +684,8 @@
   - {lab: s, end: 7.278619}
   - {lab: t, end: 7.368341}
   - {lab: _, end: 10.735}
+  start: 88.24
+  end: 98.98
 - prompt: obadiah0028
   file: ./pavoque/StefanObadiah/wav/obadiah0028.wav
   date: 2007-11-02T13:38:20+0100
@@ -708,6 +740,8 @@
   - {lab: s, end: 4.018482}
   - {lab: t, end: 4.120851}
   - {lab: _, end: 7.455}
+  start: 98.98
+  end: 106.44
 - prompt: obadiah0029
   file: ./pavoque/StefanObadiah/wav/obadiah0029.wav
   date: 2007-11-02T13:38:30+0100
@@ -759,6 +793,8 @@
   - {lab: '@', end: 4.228447}
   - {lab: n, end: 4.330055}
   - {lab: _, end: 7.215}
+  start: 106.44
+  end: 113.66
 - prompt: obadiah0030
   file: ./pavoque/StefanObadiah/wav/obadiah0030.wav
   date: 2007-11-02T13:38:50+0100
@@ -806,6 +842,8 @@
   - {lab: '@', end: 4.433588}
   - {lab: n, end: 4.638687}
   - {lab: _, end: 6.975}
+  start: 113.66
+  end: 120.64
 - prompt: obadiah0031
   file: ./pavoque/StefanObadiah/wav/obadiah0031.wav
   date: 2007-11-02T13:39:00+0100
@@ -852,6 +890,8 @@
   - {lab: '@', end: 4.075}
   - {lab: n, end: 4.24}
   - {lab: _, end: 6.655}
+  start: 120.64
+  end: 127.3
 - prompt: obadiah0032
   file: ./pavoque/StefanObadiah/wav/obadiah0032.wav
   date: 2007-11-02T13:39:08+0100
@@ -891,6 +931,8 @@
   - {lab: x, end: 3.2}
   - {lab: t, end: 3.385}
   - {lab: _, end: 5.775}
+  start: 127.3
+  end: 133.08
 - prompt: obadiah0033
   file: ./pavoque/StefanObadiah/wav/obadiah0033.wav
   date: 2007-11-02T13:39:18+0100
@@ -945,6 +987,8 @@
   - {lab: s, end: 5.066042}
   - {lab: t, end: 5.186041}
   - {lab: _, end: 7.295}
+  start: 133.08
+  end: 140.38
 - prompt: obadiah0035
   file: ./pavoque/StefanObadiah/wav/obadiah0035.wav
   date: 2007-11-02T13:39:38+0100
@@ -963,6 +1007,8 @@
   - {lab: d, end: 1.9}
   - {lab: 'u:', end: 2.12}
   - {lab: _, end: 3.615}
+  start: 140.38
+  end: 144.0
 - prompt: obadiah0036
   file: ./pavoque/StefanObadiah/wav/obadiah0036.wav
   date: 2007-11-02T13:39:44+0100
@@ -996,6 +1042,8 @@
   - {lab: '@', end: 2.913121}
   - {lab: n, end: 3.08}
   - {lab: _, end: 5.055}
+  start: 144.0
+  end: 149.06
 - prompt: obadiah0037
   file: ./pavoque/StefanObadiah/wav/obadiah0037.wav
   date: 2007-11-02T13:39:54+0100
@@ -1037,6 +1085,8 @@
   - {lab: s, end: 3.362667}
   - {lab: t, end: 3.485}
   - {lab: _, end: 6.255}
+  start: 149.06
+  end: 155.32
 - prompt: obadiah0041
   file: ./pavoque/StefanObadiah/wav/obadiah0041.wav
   date: 2007-11-02T13:41:08+0100
@@ -1069,6 +1119,8 @@
   - {lab: '@', end: 3.27}
   - {lab: n, end: 3.445103}
   - {lab: _, end: 5.215}
+  start: 155.32
+  end: 160.54
 - prompt: obadiah0038
   file: ./pavoque/StefanObadiah/wav/obadiah0038.wav
   date: 2007-11-02T13:42:30+0100
@@ -1101,6 +1153,8 @@
   - {lab: O, end: 2.650488}
   - {lab: l, end: 2.815736}
   - {lab: _, end: 5.055}
+  start: 160.54
+  end: 165.6
 - prompt: obadiah0039
   file: ./pavoque/StefanObadiah/wav/obadiah0039.wav
   date: 2007-11-02T13:42:40+0100
@@ -1123,6 +1177,8 @@
   - {lab: a, end: 2.26}
   - {lab: s, end: 2.432397}
   - {lab: _, end: 4.015}
+  start: 165.6
+  end: 169.62
 - prompt: obadiah0040
   file: ./pavoque/StefanObadiah/wav/obadiah0040.wav
   date: 2007-11-02T13:43:24+0100
@@ -1161,6 +1217,8 @@
   - {lab: s, end: 3.246487}
   - {lab: t, end: 3.361516}
   - {lab: _, end: 5.935}
+  start: 169.62
+  end: 175.56
 - prompt: obadiah0043
   file: ./pavoque/StefanObadiah/wav/obadiah0043.wav
   date: 2007-11-02T13:43:44+0100
@@ -1194,6 +1252,8 @@
   - {lab: a, end: 2.58}
   - {lab: p, end: 2.77}
   - {lab: _, end: 5.295}
+  start: 175.56
+  end: 180.86
 - prompt: obadiah0044
   file: ./pavoque/StefanObadiah/wav/obadiah0044.wav
   date: 2007-11-02T13:43:50+0100
@@ -1206,6 +1266,8 @@
   - {lab: z, end: 1.214107}
   - {lab: 'o:', end: 1.505}
   - {lab: _, end: 2.975}
+  start: 180.86
+  end: 183.84
 - prompt: obadiah0045
   file: ./pavoque/StefanObadiah/wav/obadiah0045.wav
   date: 2007-11-02T13:43:56+0100
@@ -1224,6 +1286,8 @@
   - {lab: t, end: 1.835}
   - {lab: '6', end: 2.021854}
   - {lab: _, end: 3.615}
+  start: 183.84
+  end: 187.46
 - prompt: obadiah0046
   file: ./pavoque/StefanObadiah/wav/obadiah0046.wav
   date: 2007-11-02T13:44:04+0100
@@ -1264,6 +1328,8 @@
   - {lab: '@', end: 3.54}
   - {lab: n, end: 3.703494}
   - {lab: _, end: 6.015}
+  start: 187.46
+  end: 193.48
 - prompt: obadiah0047
   file: ./pavoque/StefanObadiah/wav/obadiah0047.wav
   date: 2007-11-02T13:44:12+0100
@@ -1298,6 +1364,8 @@
   - {lab: '@', end: 2.891214}
   - {lab: n, end: 3.080255}
   - {lab: _, end: 5.375}
+  start: 193.48
+  end: 198.86
 - prompt: obadiah0048
   file: ./pavoque/StefanObadiah/wav/obadiah0048.wav
   date: 2007-11-02T13:44:20+0100
@@ -1327,6 +1395,8 @@
   - {lab: I, end: 3.080815}
   - {lab: C, end: 3.287506}
   - {lab: _, end: 4.975}
+  start: 198.86
+  end: 203.84
 - prompt: obadiah0049
   file: ./pavoque/StefanObadiah/wav/obadiah0049.wav
   date: 2007-11-02T13:44:28+0100
@@ -1363,6 +1433,8 @@
   - {lab: I, end: 3.131101}
   - {lab: C, end: 3.35}
   - {lab: _, end: 5.455}
+  start: 203.84
+  end: 209.3
 - prompt: obadiah0050
   file: ./pavoque/StefanObadiah/wav/obadiah0050.wav
   date: 2007-11-02T13:44:36+0100
@@ -1409,6 +1481,8 @@
   - {lab: '@', end: 3.724835}
   - {lab: n, end: 3.87}
   - {lab: _, end: 6.095}
+  start: 209.3
+  end: 215.4
 - prompt: obadiah0051
   file: ./pavoque/StefanObadiah/wav/obadiah0051.wav
   date: 2007-11-02T13:44:46+0100
@@ -1453,6 +1527,8 @@
   - {lab: '@', end: 4.37}
   - {lab: n, end: 4.525729}
   - {lab: _, end: 6.895}
+  start: 215.4
+  end: 222.3
 - prompt: obadiah0052
   file: ./pavoque/StefanObadiah/wav/obadiah0052.wav
   date: 2007-11-02T13:44:54+0100
@@ -1497,6 +1573,8 @@
   - {lab: '@', end: 3.755}
   - {lab: n, end: 3.898092}
   - {lab: _, end: 6.895}
+  start: 222.3
+  end: 229.2
 - prompt: obadiah0053
   file: ./pavoque/StefanObadiah/wav/obadiah0053.wav
   date: 2007-11-02T13:45:04+0100
@@ -1544,6 +1622,8 @@
   - {lab: '@', end: 4.06}
   - {lab: n, end: 4.226409}
   - {lab: _, end: 7.055}
+  start: 229.2
+  end: 236.26
 - prompt: obadiah0054
   file: ./pavoque/StefanObadiah/wav/obadiah0054.wav
   date: 2007-11-02T13:45:12+0100
@@ -1581,6 +1661,8 @@
   - {lab: U, end: 3.81}
   - {lab: k, end: 3.99}
   - {lab: _, end: 5.535}
+  start: 236.26
+  end: 241.8
 - prompt: obadiah0055
   file: ./pavoque/StefanObadiah/wav/obadiah0055.wav
   date: 2007-11-02T13:45:20+0100
@@ -1613,6 +1695,8 @@
   - {lab: 'a:', end: 3.4223}
   - {lab: '6', end: 3.545785}
   - {lab: _, end: 5.135}
+  start: 241.8
+  end: 246.94
 - prompt: obadiah0056
   file: ./pavoque/StefanObadiah/wav/obadiah0056.wav
   date: 2007-11-02T13:45:28+0100
@@ -1642,6 +1726,8 @@
   - {lab: '@', end: 2.830911}
   - {lab: n, end: 2.995}
   - {lab: _, end: 4.895}
+  start: 246.94
+  end: 251.84
 - prompt: obadiah0057
   file: ./pavoque/StefanObadiah/wav/obadiah0057.wav
   date: 2007-11-02T13:45:36+0100
@@ -1690,6 +1776,8 @@
   - {lab: x, end: 3.99}
   - {lab: t, end: 4.129758}
   - {lab: _, end: 6.655}
+  start: 251.84
+  end: 258.5
 - prompt: obadiah0058
   file: ./pavoque/StefanObadiah/wav/obadiah0058.wav
   date: 2007-11-02T13:45:44+0100
@@ -1724,6 +1812,8 @@
   - {lab: aI, end: 3.84}
   - {lab: n, end: 3.954994}
   - {lab: _, end: 5.455}
+  start: 258.5
+  end: 263.96
 - prompt: obadiah0059
   file: ./pavoque/StefanObadiah/wav/obadiah0059.wav
   date: 2007-11-02T13:45:56+0100
@@ -1784,6 +1874,8 @@
   - {lab: '@', end: 5.15}
   - {lab: n, end: 5.258035}
   - {lab: _, end: 8.175}
+  start: 263.96
+  end: 272.14
 - prompt: obadiah0061
   file: ./pavoque/StefanObadiah/wav/obadiah0061.wav
   date: 2007-11-02T13:46:14+0100
@@ -1835,6 +1927,8 @@
   - {lab: s, end: 4.779927}
   - {lab: t, end: 4.92}
   - {lab: _, end: 7.455}
+  start: 272.14
+  end: 279.6
 - prompt: obadiah0062
   file: ./pavoque/StefanObadiah/wav/obadiah0062.wav
   date: 2007-11-02T13:46:22+0100
@@ -1874,6 +1968,8 @@
   - {lab: I, end: 3.955716}
   - {lab: C, end: 4.16}
   - {lab: _, end: 5.775}
+  start: 279.6
+  end: 285.38
 - prompt: m0001
   file: ./pavoque/StefanObadiah/wav/m0001.wav
   date: 2007-11-02T13:47:16+0100
@@ -1908,6 +2004,8 @@
   - {lab: '@', end: 3.13}
   - {lab: t, end: 3.34}
   - {lab: _, end: 5.455}
+  start: 285.38
+  end: 290.84
 - prompt: m0003
   file: ./pavoque/StefanObadiah/wav/m0003.wav
   date: 2007-11-02T13:47:36+0100
@@ -1937,6 +2035,8 @@
   - {lab: '@', end: 2.970823}
   - {lab: l, end: 3.285}
   - {lab: _, end: 4.655}
+  start: 290.84
+  end: 295.5
 - prompt: m0004
   file: ./pavoque/StefanObadiah/wav/m0004.wav
   date: 2007-11-02T13:47:44+0100
@@ -1964,6 +2064,8 @@
   - {lab: U, end: 2.465}
   - {lab: l, end: 2.663355}
   - {lab: _, end: 4.575}
+  start: 295.5
+  end: 300.08
 - prompt: m0005
   file: ./pavoque/StefanObadiah/wav/m0005.wav
   date: 2007-11-02T13:47:54+0100
@@ -1995,6 +2097,8 @@
   - {lab: a, end: 2.7}
   - {lab: n, end: 2.845}
   - {lab: _, end: 4.815}
+  start: 300.08
+  end: 304.9
 - prompt: m0006
   file: ./pavoque/StefanObadiah/wav/m0006.wav
   date: 2007-11-02T13:48:04+0100
@@ -2032,6 +2136,8 @@
   - {lab: n, end: 2.965}
   - {lab: s, end: 3.17}
   - {lab: _, end: 5.455}
+  start: 304.9
+  end: 310.36
 - prompt: m0007
   file: ./pavoque/StefanObadiah/wav/m0007.wav
   date: 2007-11-02T13:48:12+0100
@@ -2056,6 +2162,8 @@
   - {lab: z, end: 2.874326}
   - {lab: 'e:', end: 3.138242}
   - {lab: _, end: 3.375}
+  start: 310.36
+  end: 314.7
 - prompt: m0008
   file: ./pavoque/StefanObadiah/wav/m0008.wav
   date: 2007-11-02T13:48:22+0100
@@ -2099,6 +2207,8 @@
   - {lab: t, end: 3.785}
   - {lab: '@', end: 3.955}
   - {lab: _, end: 6.015}
+  start: 314.7
+  end: 320.72
 - prompt: m0009
   file: ./pavoque/StefanObadiah/wav/m0009.wav
   date: 2007-11-02T13:48:34+0100
@@ -2157,6 +2267,8 @@
   - {lab: m, end: 4.76}
   - {lab: a, end: 4.965}
   - {lab: _, end: 7.375}
+  start: 320.72
+  end: 328.1
 - prompt: m0010
   file: ./pavoque/StefanObadiah/wav/m0010.wav
   date: 2007-11-02T13:48:46+0100
@@ -2203,6 +2315,8 @@
   - {lab: R, end: 3.648469}
   - {lab: aI, end: 3.915}
   - {lab: _, end: 6.015}
+  start: 328.1
+  end: 334.12
 - prompt: m0011
   file: ./pavoque/StefanObadiah/wav/m0011.wav
   date: 2007-11-02T13:48:54+0100
@@ -2234,6 +2348,8 @@
   - {lab: Y, end: 2.51}
   - {lab: k, end: 2.725}
   - {lab: _, end: 4.895}
+  start: 334.12
+  end: 339.02
 - prompt: m0012
   file: ./pavoque/StefanObadiah/wav/m0012.wav
   date: 2007-11-02T13:49:04+0100
@@ -2266,6 +2382,8 @@
   - {lab: I, end: 3.29}
   - {lab: S, end: 3.52}
   - {lab: _, end: 5.055}
+  start: 339.02
+  end: 344.08
 - prompt: m0013
   file: ./pavoque/StefanObadiah/wav/m0013.wav
   date: 2007-11-02T13:49:16+0100
@@ -2318,6 +2436,8 @@
   - {lab: '6', end: 4.418216}
   - {lab: n, end: 4.549237}
   - {lab: _, end: 7.295}
+  start: 344.08
+  end: 351.38
 - prompt: m0014
   file: ./pavoque/StefanObadiah/wav/m0014.wav
   date: 2007-11-02T13:49:26+0100
@@ -2351,6 +2471,8 @@
   - {lab: aU, end: 3.245}
   - {lab: s, end: 3.485}
   - {lab: _, end: 5.055}
+  start: 351.38
+  end: 356.44
 - prompt: m0015
   file: ./pavoque/StefanObadiah/wav/m0015.wav
   date: 2007-11-02T13:49:36+0100
@@ -2384,6 +2506,8 @@
   - {lab: 'i:', end: 3.46}
   - {lab: f, end: 3.69}
   - {lab: _, end: 5.375}
+  start: 356.44
+  end: 361.82
 - prompt: m0016
   file: ./pavoque/StefanObadiah/wav/m0016.wav
   date: 2007-11-02T13:49:46+0100
@@ -2413,6 +2537,8 @@
   - {lab: '@', end: 4.08}
   - {lab: n, end: 4.231176}
   - {lab: _, end: 5.535}
+  start: 361.82
+  end: 367.36
 - prompt: m0017
   file: ./pavoque/StefanObadiah/wav/m0017.wav
   date: 2007-11-02T13:49:56+0100
@@ -2443,6 +2569,8 @@
   - {lab: aI, end: 3.820526}
   - {lab: C, end: 4.05}
   - {lab: _, end: 5.295}
+  start: 367.36
+  end: 372.66
 - prompt: m0018
   file: ./pavoque/StefanObadiah/wav/m0018.wav
   date: 2007-11-02T13:50:04+0100
@@ -2471,6 +2599,8 @@
   - {lab: t, end: 2.36}
   - {lab: '@', end: 2.548147}
   - {lab: _, end: 4.415}
+  start: 372.66
+  end: 377.08
 - prompt: m0019
   file: ./pavoque/StefanObadiah/wav/m0019.wav
   date: 2007-11-02T13:50:14+0100
@@ -2508,6 +2638,8 @@
   - {lab: '@', end: 2.955}
   - {lab: n, end: 3.094941}
   - {lab: _, end: 5.455}
+  start: 377.08
+  end: 382.54
 - prompt: m0020
   file: ./pavoque/StefanObadiah/wav/m0020.wav
   date: 2007-11-02T13:50:24+0100
@@ -2540,6 +2672,8 @@
   - {lab: '@', end: 2.645}
   - {lab: t, end: 2.850736}
   - {lab: _, end: 5.055}
+  start: 382.54
+  end: 387.6
 - prompt: m0021
   file: ./pavoque/StefanObadiah/wav/m0021.wav
   date: 2007-11-02T13:50:32+0100
@@ -2567,6 +2701,8 @@
   - {lab: 'y:', end: 2.25}
   - {lab: t, end: 2.476236}
   - {lab: _, end: 4.655}
+  start: 387.6
+  end: 392.26
 - prompt: m0022
   file: ./pavoque/StefanObadiah/wav/m0022.wav
   date: 2007-11-02T13:50:44+0100
@@ -2614,6 +2750,8 @@
   - {lab: R, end: 4.708576}
   - {lab: 'i:', end: 4.965}
   - {lab: _, end: 6.895}
+  start: 392.26
+  end: 399.16
 - prompt: m0023
   file: ./pavoque/StefanObadiah/wav/m0023.wav
   date: 2007-11-02T13:50:54+0100
@@ -2650,6 +2788,8 @@
   - {lab: n, end: 4.02669}
   - {lab: '@', end: 4.189602}
   - {lab: _, end: 5.455}
+  start: 399.16
+  end: 404.62
 - prompt: m0024
   file: ./pavoque/StefanObadiah/wav/m0024.wav
   date: 2007-11-02T13:51:02+0100
@@ -2678,6 +2818,8 @@
   - {lab: aI, end: 2.98}
   - {lab: m, end: 3.171268}
   - {lab: _, end: 4.815}
+  start: 404.62
+  end: 409.44
 - prompt: m0025
   file: ./pavoque/StefanObadiah/wav/m0025.wav
   date: 2007-11-02T13:51:12+0100
@@ -2708,6 +2850,8 @@
   - {lab: n, end: 2.388597}
   - {lab: d, end: 2.545}
   - {lab: _, end: 4.735}
+  start: 409.44
+  end: 414.18
 - prompt: m0026
   file: ./pavoque/StefanObadiah/wav/m0026.wav
   date: 2007-11-02T13:51:22+0100
@@ -2735,6 +2879,8 @@
   - {lab: I, end: 2.085}
   - {lab: C, end: 2.25}
   - {lab: _, end: 4.655}
+  start: 414.18
+  end: 418.84
 - prompt: m0027
   file: ./pavoque/StefanObadiah/wav/m0027.wav
   date: 2007-11-02T13:51:32+0100
@@ -2771,6 +2917,8 @@
   - {lab: n, end: 2.805}
   - {lab: t, end: 2.985821}
   - {lab: _, end: 5.455}
+  start: 418.84
+  end: 424.3
 - prompt: m0028
   file: ./pavoque/StefanObadiah/wav/m0028.wav
   date: 2007-11-02T13:51:40+0100
@@ -2802,6 +2950,8 @@
   - {lab: '@', end: 2.788118}
   - {lab: l, end: 2.957211}
   - {lab: _, end: 4.815}
+  start: 424.3
+  end: 429.12
 - prompt: m0029
   file: ./pavoque/StefanObadiah/wav/m0029.wav
   date: 2007-11-02T13:51:50+0100
@@ -2837,6 +2987,8 @@
   - {lab: ts, end: 2.82}
   - {lab: t, end: 2.946967}
   - {lab: _, end: 5.215}
+  start: 429.12
+  end: 434.34
 - prompt: m0030
   file: ./pavoque/StefanObadiah/wav/m0030.wav
   date: 2007-11-02T13:52:04+0100
@@ -2900,6 +3052,8 @@
   - {lab: '@', end: 6.49}
   - {lab: s, end: 6.735}
   - {lab: _, end: 8.975}
+  start: 434.34
+  end: 443.32
 - prompt: m0032
   file: ./pavoque/StefanObadiah/wav/m0032.wav
   date: 2007-11-02T13:52:28+0100
@@ -2964,6 +3118,8 @@
   - {lab: k, end: 5.46}
   - {lab: t, end: 5.61}
   - {lab: _, end: 8.495}
+  start: 443.32
+  end: 451.82
 - prompt: m0033
   file: ./pavoque/StefanObadiah/wav/m0033.wav
   date: 2007-11-02T13:52:38+0100
@@ -3000,6 +3156,8 @@
   - {lab: n, end: 3.23}
   - {lab: s, end: 3.45}
   - {lab: _, end: 5.855}
+  start: 451.82
+  end: 457.68
 - prompt: m0034
   file: ./pavoque/StefanObadiah/wav/m0034.wav
   date: 2007-11-02T13:52:48+0100
@@ -3045,6 +3203,8 @@
   - {lab: '@', end: 3.865}
   - {lab: n, end: 4.070234}
   - {lab: _, end: 6.895}
+  start: 457.68
+  end: 464.58
 - prompt: m0035
   file: ./pavoque/StefanObadiah/wav/m0035.wav
   date: 2007-11-02T13:53:00+0100
@@ -3079,6 +3239,8 @@
   - {lab: aI, end: 2.69}
   - {lab: t, end: 2.983977}
   - {lab: _, end: 5.615}
+  start: 464.58
+  end: 470.2
 - prompt: m0036
   file: ./pavoque/StefanObadiah/wav/m0036.wav
   date: 2007-11-02T13:53:08+0100
@@ -3115,6 +3277,8 @@
   - {lab: j, end: 4.00912}
   - {lab: 'e:', end: 4.242513}
   - {lab: _, end: 5.375}
+  start: 470.2
+  end: 475.58
 - prompt: m0037
   file: ./pavoque/StefanObadiah/wav/m0037.wav
   date: 2007-11-02T13:53:18+0100
@@ -3144,6 +3308,8 @@
   - {lab: '@', end: 2.705}
   - {lab: n, end: 2.855674}
   - {lab: _, end: 4.655}
+  start: 475.58
+  end: 480.24
 - prompt: m0038
   file: ./pavoque/StefanObadiah/wav/m0038.wav
   date: 2007-11-02T13:53:28+0100
@@ -3175,6 +3341,8 @@
   - {lab: b, end: 2.92}
   - {lab: '@', end: 3.145}
   - {lab: _, end: 5.215}
+  start: 480.24
+  end: 485.46
 - prompt: m0039
   file: ./pavoque/StefanObadiah/wav/m0039.wav
   date: 2007-11-02T13:53:38+0100
@@ -3211,6 +3379,8 @@
   - {lab: n, end: 2.785}
   - {lab: OY, end: 3.12}
   - {lab: _, end: 5.615}
+  start: 485.46
+  end: 491.08
 - prompt: m0040
   file: ./pavoque/StefanObadiah/wav/m0040.wav
   date: 2007-11-02T13:54:42+0100
@@ -3245,6 +3415,8 @@
   - {lab: '@', end: 3.305}
   - {lab: n, end: 3.5}
   - {lab: _, end: 5.135}
+  start: 491.08
+  end: 496.22
 - prompt: m0041
   file: ./pavoque/StefanObadiah/wav/m0041.wav
   date: 2007-11-02T13:54:52+0100
@@ -3282,6 +3454,8 @@
   - {lab: n, end: 3.452793}
   - {lab: t, end: 3.7}
   - {lab: _, end: 5.455}
+  start: 496.22
+  end: 501.68
 - prompt: m0042
   file: ./pavoque/StefanObadiah/wav/m0042.wav
   date: 2007-11-02T13:55:02+0100
@@ -3317,6 +3491,8 @@
   - {lab: O, end: 3.215}
   - {lab: n, end: 3.385}
   - {lab: _, end: 5.135}
+  start: 501.68
+  end: 506.82
 - prompt: m0043
   file: ./pavoque/StefanObadiah/wav/m0043.wav
   date: 2007-11-02T13:55:12+0100
@@ -3349,6 +3525,8 @@
   - {lab: '@', end: 2.916656}
   - {lab: n, end: 3.31}
   - {lab: _, end: 5.375}
+  start: 506.82
+  end: 512.2
 - prompt: m0044
   file: ./pavoque/StefanObadiah/wav/m0044.wav
   date: 2007-11-02T13:55:20+0100
@@ -3379,6 +3557,8 @@
   - {lab: z, end: 2.839928}
   - {lab: '@', end: 2.985}
   - {lab: _, end: 4.495}
+  start: 512.2
+  end: 516.7
 - prompt: m0045
   file: ./pavoque/StefanObadiah/wav/m0045.wav
   date: 2007-11-02T13:55:30+0100
@@ -3410,6 +3590,8 @@
   - {lab: I, end: 2.81}
   - {lab: t, end: 3.085}
   - {lab: _, end: 4.655}
+  start: 516.7
+  end: 521.36
 - prompt: m0046
   file: ./pavoque/StefanObadiah/wav/m0046.wav
   date: 2007-11-02T13:55:38+0100
@@ -3437,6 +3619,8 @@
   - {lab: a, end: 2.545}
   - {lab: n, end: 2.75061}
   - {lab: _, end: 4.495}
+  start: 521.36
+  end: 525.86
 - prompt: m0047
   file: ./pavoque/StefanObadiah/wav/m0047.wav
   date: 2007-11-02T13:55:48+0100
@@ -3470,6 +3654,8 @@
   - {lab: n, end: 2.66}
   - {lab: '@', end: 2.895}
   - {lab: _, end: 4.975}
+  start: 525.86
+  end: 530.84
 - prompt: m0048
   file: ./pavoque/StefanObadiah/wav/m0048.wav
   date: 2007-11-02T13:56:00+0100
@@ -3528,6 +3714,8 @@
   - {lab: '@', end: 4.73}
   - {lab: n, end: 4.93}
   - {lab: _, end: 7.455}
+  start: 530.84
+  end: 538.3
 - prompt: m0049
   file: ./pavoque/StefanObadiah/wav/m0049.wav
   date: 2007-11-02T13:56:08+0100
@@ -3555,6 +3743,8 @@
   - {lab: x, end: 2.589817}
   - {lab: ts, end: 2.870013}
   - {lab: _, end: 4.575}
+  start: 538.3
+  end: 542.88
 - prompt: m0050
   file: ./pavoque/StefanObadiah/wav/m0050.wav
   date: 2007-11-02T13:56:18+0100
@@ -3589,6 +3779,8 @@
   - {lab: 'o:', end: 3.69}
   - {lab: '6', end: 3.884662}
   - {lab: _, end: 5.695}
+  start: 542.88
+  end: 548.58
 - prompt: m0051
   file: ./pavoque/StefanObadiah/wav/m0051.wav
   date: 2007-11-02T13:56:28+0100
@@ -3619,6 +3811,8 @@
   - {lab: 'a:', end: 3.056304}
   - {lab: l, end: 3.191269}
   - {lab: _, end: 4.575}
+  start: 548.58
+  end: 553.16
 - prompt: m0052
   file: ./pavoque/StefanObadiah/wav/m0052.wav
   date: 2007-11-02T13:56:38+0100
@@ -3653,6 +3847,8 @@
   - {lab: 'e:', end: 3.955}
   - {lab: '6', end: 4.17}
   - {lab: _, end: 5.215}
+  start: 553.16
+  end: 558.38
 - prompt: m0053
   file: ./pavoque/StefanObadiah/wav/m0053.wav
   date: 2007-11-02T13:56:46+0100
@@ -3684,6 +3880,8 @@
   - {lab: l, end: 2.475}
   - {lab: 'o:', end: 2.64}
   - {lab: _, end: 4.815}
+  start: 558.38
+  end: 563.2
 - prompt: m0054
   file: ./pavoque/StefanObadiah/wav/m0054.wav
   date: 2007-11-02T13:56:56+0100
@@ -3720,6 +3918,8 @@
   - {lab: EI, end: 3.22}
   - {lab: s, end: 3.52}
   - {lab: _, end: 5.535}
+  start: 563.2
+  end: 568.74
 - prompt: m0055
   file: ./pavoque/StefanObadiah/wav/m0055.wav
   date: 2007-11-02T13:57:10+0100
@@ -3778,6 +3978,8 @@
   - {lab: U, end: 4.965}
   - {lab: N, end: 5.127051}
   - {lab: _, end: 7.935}
+  start: 568.74
+  end: 576.68
 - prompt: m0056
   file: ./pavoque/StefanObadiah/wav/m0056.wav
   date: 2007-11-02T13:57:20+0100
@@ -3822,6 +4024,8 @@
   - {lab: m, end: 3.505}
   - {lab: 'a:', end: 3.705}
   - {lab: _, end: 6.735}
+  start: 576.68
+  end: 583.42
 - prompt: m0057
   file: ./pavoque/StefanObadiah/wav/m0057.wav
   date: 2007-11-02T13:57:30+0100
@@ -3860,6 +4064,8 @@
   - {lab: aU, end: 3.825}
   - {lab: s, end: 4.143445}
   - {lab: _, end: 5.935}
+  start: 583.42
+  end: 589.36
 - prompt: m0058
   file: ./pavoque/StefanObadiah/wav/m0058.wav
   date: 2007-11-02T13:58:18+0100
@@ -3899,6 +4105,8 @@
   - {lab: k, end: 3.38}
   - {lab: t, end: 3.695099}
   - {lab: _, end: 5.615}
+  start: 589.36
+  end: 594.98
 - prompt: m0059
   file: ./pavoque/StefanObadiah/wav/m0059.wav
   date: 2007-11-02T13:58:28+0100
@@ -3931,6 +4139,8 @@
   - {lab: l, end: 3.335}
   - {lab: ts, end: 3.58}
   - {lab: _, end: 5.615}
+  start: 594.98
+  end: 600.6
 - prompt: m0060
   file: ./pavoque/StefanObadiah/wav/m0060.wav
   date: 2007-11-02T13:58:38+0100
@@ -3963,6 +4173,8 @@
   - {lab: a, end: 3.375}
   - {lab: n, end: 3.522164}
   - {lab: _, end: 5.055}
+  start: 600.6
+  end: 605.66
 - prompt: m0061
   file: ./pavoque/StefanObadiah/wav/m0061.wav
   date: 2007-11-02T13:58:46+0100
@@ -3994,6 +4206,8 @@
   - {lab: '@', end: 2.9}
   - {lab: t, end: 3.07844}
   - {lab: _, end: 4.895}
+  start: 605.66
+  end: 610.56
 - prompt: m0062
   file: ./pavoque/StefanObadiah/wav/m0062.wav
   date: 2007-11-02T13:59:20+0100
@@ -4027,6 +4241,8 @@
   - {lab: I, end: 3.785}
   - {lab: S, end: 4.01}
   - {lab: _, end: 5.375}
+  start: 610.56
+  end: 615.94
 - prompt: m0063
   file: ./pavoque/StefanObadiah/wav/m0063.wav
   date: 2007-11-02T13:59:30+0100
@@ -4067,6 +4283,8 @@
   - {lab: I, end: 4.288967}
   - {lab: l, end: 4.417237}
   - {lab: _, end: 4.949064}
+  start: 615.94
+  end: 621.88
 - prompt: m0064
   file: ./pavoque/StefanObadiah/wav/m0064.wav
   date: 2007-11-02T13:59:40+0100
@@ -4113,6 +4331,8 @@
   - {lab: '@', end: 4.2}
   - {lab: n, end: 4.33}
   - {lab: _, end: 6.095}
+  start: 621.88
+  end: 627.98
 - prompt: m0065
   file: ./pavoque/StefanObadiah/wav/m0065.wav
   date: 2007-11-02T13:59:48+0100
@@ -4140,6 +4360,8 @@
   - {lab: 'e:', end: 2.3}
   - {lab: t, end: 2.478192}
   - {lab: _, end: 4.175}
+  start: 627.98
+  end: 632.16
 - prompt: m0066
   file: ./pavoque/StefanObadiah/wav/m0066.wav
   date: 2007-11-02T14:00:02+0100
@@ -4214,6 +4436,8 @@
   - {lab: '@', end: 6.205}
   - {lab: n, end: 6.354706}
   - {lab: _, end: 9.535}
+  start: 632.16
+  end: 641.7
 - prompt: m0067
   file: ./pavoque/StefanObadiah/wav/m0067.wav
   date: 2007-11-02T14:00:30+0100
@@ -4277,6 +4501,8 @@
   - {lab: l, end: 5.78}
   - {lab: 'E:', end: 6.045}
   - {lab: _, end: 8.895}
+  start: 641.7
+  end: 650.6
 - prompt: m0068
   file: ./pavoque/StefanObadiah/wav/m0068.wav
   date: 2007-11-02T14:00:42+0100
@@ -4325,6 +4551,8 @@
   - {lab: '2:', end: 5.03}
   - {lab: n, end: 5.17}
   - {lab: _, end: 6.175}
+  start: 650.6
+  end: 656.78
 - prompt: m0069
   file: ./pavoque/StefanObadiah/wav/m0069.wav
   date: 2007-11-02T14:00:54+0100
@@ -4382,6 +4610,8 @@
   - {lab: t, end: 5.745}
   - {lab: '6', end: 5.935}
   - {lab: _, end: 8.415}
+  start: 656.78
+  end: 665.2
 - prompt: m0071
   file: ./pavoque/StefanObadiah/wav/m0071.wav
   date: 2007-11-02T14:01:36+0100
@@ -4418,6 +4648,8 @@
   - {lab: a, end: 3.9}
   - {lab: n, end: 4.095}
   - {lab: _, end: 5.615}
+  start: 665.2
+  end: 670.82
 - prompt: m0070
   file: ./pavoque/StefanObadiah/wav/m0070.wav
   date: 2007-11-02T14:02:04+0100
@@ -4471,6 +4703,8 @@
   - {lab: 'u:', end: 4.855}
   - {lab: x, end: 5.085}
   - {lab: _, end: 7.615}
+  start: 670.82
+  end: 678.44
 - prompt: m0072
   file: ./pavoque/StefanObadiah/wav/m0072.wav
   date: 2007-11-02T14:02:26+0100
@@ -4506,6 +4740,8 @@
   - {lab: aU, end: 3.525}
   - {lab: s, end: 3.71}
   - {lab: _, end: 5.375}
+  start: 678.44
+  end: 683.82
 - prompt: m0073
   file: ./pavoque/StefanObadiah/wav/m0073.wav
   date: 2007-11-02T14:02:38+0100
@@ -4548,6 +4784,8 @@
   - {lab: 'o:', end: 4.823101}
   - {lab: l, end: 4.875}
   - {lab: _, end: 6.175}
+  start: 683.82
+  end: 690.0
 - prompt: m0074
   file: ./pavoque/StefanObadiah/wav/m0074.wav
   date: 2007-11-02T14:02:48+0100
@@ -4584,6 +4822,8 @@
   - {lab: '@', end: 3.88}
   - {lab: n, end: 4.11}
   - {lab: _, end: 5.535}
+  start: 690.0
+  end: 695.54
 - prompt: m0075
   file: ./pavoque/StefanObadiah/wav/m0075.wav
   date: 2007-11-02T14:02:58+0100
@@ -4620,6 +4860,8 @@
   - {lab: n, end: 3.325}
   - {lab: t, end: 3.515}
   - {lab: _, end: 5.535}
+  start: 695.54
+  end: 701.08
 - prompt: m0076
   file: ./pavoque/StefanObadiah/wav/m0076.wav
   date: 2007-11-02T14:03:18+0100
@@ -4664,6 +4906,8 @@
   - {lab: l, end: 4.096965}
   - {lab: t, end: 4.365}
   - {lab: _, end: 6.495}
+  start: 701.08
+  end: 707.58
 - prompt: m0077
   file: ./pavoque/StefanObadiah/wav/m0077.wav
   date: 2007-11-02T14:03:28+0100
@@ -4696,6 +4940,8 @@
   - {lab: C, end: 3.51}
   - {lab: t, end: 3.745}
   - {lab: _, end: 5.455}
+  start: 707.58
+  end: 713.04
 - prompt: m0078
   file: ./pavoque/StefanObadiah/wav/m0078.wav
   date: 2007-11-02T14:03:40+0100
@@ -4751,6 +4997,8 @@
   - {lab: '@', end: 4.785}
   - {lab: n, end: 4.977449}
   - {lab: _, end: 7.375}
+  start: 713.04
+  end: 720.42
 - prompt: m0079
   file: ./pavoque/StefanObadiah/wav/m0079.wav
   date: 2007-11-02T14:03:50+0100
@@ -4785,6 +5033,8 @@
   - {lab: n, end: 2.76}
   - {lab: t, end: 2.965}
   - {lab: _, end: 4.815}
+  start: 720.42
+  end: 725.24
 - prompt: m0080
   file: ./pavoque/StefanObadiah/wav/m0080.wav
   date: 2007-11-02T14:04:00+0100
@@ -4818,6 +5068,8 @@
   - {lab: I, end: 3.16}
   - {lab: C, end: 3.365}
   - {lab: _, end: 5.055}
+  start: 725.24
+  end: 730.3
 - prompt: m0084
   file: ./pavoque/StefanObadiah/wav/m0084.wav
   date: 2007-11-02T14:04:38+0100
@@ -4876,6 +5128,8 @@
   - {lab: I, end: 6.065}
   - {lab: s, end: 6.295}
   - {lab: _, end: 7.455}
+  start: 730.3
+  end: 737.76
 - prompt: m0085
   file: ./pavoque/StefanObadiah/wav/m0085.wav
   date: 2007-11-02T14:05:22+0100
@@ -4917,6 +5171,8 @@
   - {lab: '@', end: 3.40965}
   - {lab: n, end: 3.605}
   - {lab: _, end: 6.015}
+  start: 737.76
+  end: 743.78
 - prompt: m0086
   file: ./pavoque/StefanObadiah/wav/m0086.wav
   date: 2007-11-02T14:05:30+0100
@@ -4948,6 +5204,8 @@
   - {lab: g, end: 3.096484}
   - {lab: 'i:', end: 3.33}
   - {lab: _, end: 4.575}
+  start: 743.78
+  end: 748.36
 - prompt: m0087
   file: ./pavoque/StefanObadiah/wav/m0087.wav
   date: 2007-11-02T14:05:40+0100
@@ -4980,6 +5238,8 @@
   - {lab: '@', end: 3.23}
   - {lab: n, end: 3.415568}
   - {lab: _, end: 5.375}
+  start: 748.36
+  end: 753.74
 - prompt: m0088
   file: ./pavoque/StefanObadiah/wav/m0088.wav
   date: 2007-11-02T14:05:50+0100
@@ -5008,6 +5268,8 @@
   - {lab: I, end: 2.651465}
   - {lab: C, end: 2.925}
   - {lab: _, end: 4.815}
+  start: 753.74
+  end: 758.56
 - prompt: m0089
   file: ./pavoque/StefanObadiah/wav/m0089.wav
   date: 2007-11-02T14:07:04+0100
@@ -5042,6 +5304,8 @@
   - {lab: aI, end: 3.045}
   - {lab: n, end: 3.279383}
   - {lab: _, end: 5.215}
+  start: 758.56
+  end: 763.78
 - prompt: m0090
   file: ./pavoque/StefanObadiah/wav/m0090.wav
   date: 2007-11-02T14:07:14+0100
@@ -5080,6 +5344,8 @@
   - {lab: x, end: 3.3}
   - {lab: t, end: 3.505}
   - {lab: _, end: 5.695}
+  start: 763.78
+  end: 769.48
 - prompt: m0091
   file: ./pavoque/StefanObadiah/wav/m0091.wav
   date: 2007-11-02T14:07:24+0100
@@ -5117,6 +5383,8 @@
   - {lab: '6', end: 3.635}
   - {lab: t, end: 3.841305}
   - {lab: _, end: 5.695}
+  start: 769.48
+  end: 775.18
 - prompt: m0092
   file: ./pavoque/StefanObadiah/wav/m0092.wav
   date: 2007-11-02T14:07:34+0100
@@ -5147,6 +5415,8 @@
   - {lab: 'e:', end: 2.840776}
   - {lab: l, end: 2.995803}
   - {lab: _, end: 5.055}
+  start: 775.18
+  end: 780.24
 - prompt: m0093
   file: ./pavoque/StefanObadiah/wav/m0093.wav
   date: 2007-11-02T14:07:46+0100
@@ -5216,6 +5486,8 @@
   - {lab: '@', end: 5.605}
   - {lab: n, end: 5.77}
   - {lab: _, end: 8.655}
+  start: 780.24
+  end: 788.9
 - prompt: m0094
   file: ./pavoque/StefanObadiah/wav/m0094.wav
   date: 2007-11-02T14:07:56+0100
@@ -5245,6 +5517,8 @@
   - {lab: '@', end: 2.62}
   - {lab: n, end: 2.783259}
   - {lab: _, end: 4.495}
+  start: 788.9
+  end: 793.4
 - prompt: m0095
   file: ./pavoque/StefanObadiah/wav/m0095.wav
   date: 2007-11-02T14:08:08+0100
@@ -5294,6 +5568,8 @@
   - {lab: '@', end: 4.465}
   - {lab: n, end: 4.60764}
   - {lab: _, end: 6.975}
+  start: 793.4
+  end: 800.38
 - prompt: m0096
   file: ./pavoque/StefanObadiah/wav/m0096.wav
   date: 2007-11-02T14:08:18+0100
@@ -5343,6 +5619,8 @@
   - {lab: E, end: 3.855}
   - {lab: f, end: 4.09}
   - {lab: _, end: 6.975}
+  start: 800.38
+  end: 807.36
 - prompt: m0097
   file: ./pavoque/StefanObadiah/wav/m0097.wav
   date: 2007-11-02T14:08:28+0100
@@ -5374,6 +5652,8 @@
   - {lab: U, end: 2.7}
   - {lab: N, end: 2.855903}
   - {lab: _, end: 5.135}
+  start: 807.36
+  end: 812.5
 - prompt: m0098
   file: ./pavoque/StefanObadiah/wav/m0098.wav
   date: 2007-11-02T14:08:38+0100
@@ -5400,6 +5680,8 @@
   - {lab: OY, end: 2.21}
   - {lab: tS, end: 2.49}
   - {lab: _, end: 4.735}
+  start: 812.5
+  end: 817.24
 - prompt: m0099
   file: ./pavoque/StefanObadiah/wav/m0099.wav
   date: 2007-11-02T14:08:48+0100
@@ -5437,6 +5719,8 @@
   - {lab: C, end: 3.465}
   - {lab: t, end: 3.665}
   - {lab: _, end: 5.615}
+  start: 817.24
+  end: 822.86
 - prompt: m0100
   file: ./pavoque/StefanObadiah/wav/m0100.wav
   date: 2007-11-02T14:08:56+0100
@@ -5464,6 +5748,8 @@
   - {lab: p, end: 3.125}
   - {lab: OY, end: 3.475}
   - {lab: _, end: 4.495}
+  start: 822.86
+  end: 827.36
 - prompt: m0101
   file: ./pavoque/StefanObadiah/wav/m0101.wav
   date: 2007-11-02T14:09:06+0100
@@ -5492,6 +5778,8 @@
   - {lab: 'y:', end: 2.961}
   - {lab: '6', end: 3.2}
   - {lab: _, end: 4.735}
+  start: 827.36
+  end: 832.1
 - prompt: m0102
   file: ./pavoque/StefanObadiah/wav/m0102.wav
   date: 2007-11-02T14:09:14+0100
@@ -5520,6 +5808,8 @@
   - {lab: O, end: 1.975}
   - {lab: N, end: 2.156262}
   - {lab: _, end: 4.495}
+  start: 832.1
+  end: 836.6
 - prompt: obadiah0063
   file: ./pavoque/StefanObadiah/wav/obadiah0063.wav
   date: 2007-11-02T14:10:10+0100
@@ -5548,6 +5838,8 @@
   - {lab: a, end: 2.37}
   - {lab: n, end: 2.56342}
   - {lab: _, end: 4.575}
+  start: 836.6
+  end: 841.18
 - prompt: obadiah0064
   file: ./pavoque/StefanObadiah/wav/obadiah0064.wav
   date: 2007-11-02T14:10:20+0100
@@ -5583,6 +5875,8 @@
   - {lab: a, end: 2.455}
   - {lab: n, end: 2.622874}
   - {lab: _, end: 5.535}
+  start: 841.18
+  end: 846.72
 - prompt: obadiah0065
   file: ./pavoque/StefanObadiah/wav/obadiah0065.wav
   date: 2007-11-02T14:10:30+0100
@@ -5622,6 +5916,8 @@
   - {lab: d, end: 3.385}
   - {lab: 'u:', end: 3.568975}
   - {lab: _, end: 5.695}
+  start: 846.72
+  end: 852.42
 - prompt: obadiah0066
   file: ./pavoque/StefanObadiah/wav/obadiah0066.wav
   date: 2007-11-02T14:10:42+0100
@@ -5675,6 +5971,8 @@
   - {lab: '@', end: 4.175}
   - {lab: n, end: 4.356512}
   - {lab: _, end: 7.215}
+  start: 852.42
+  end: 859.64
 - prompt: obadiah0067
   file: ./pavoque/StefanObadiah/wav/obadiah0067.wav
   date: 2007-11-02T14:10:52+0100
@@ -5707,6 +6005,8 @@
   - {lab: I, end: 2.984435}
   - {lab: C, end: 3.2}
   - {lab: _, end: 5.055}
+  start: 859.64
+  end: 864.7
 - prompt: obadiah0068
   file: ./pavoque/StefanObadiah/wav/obadiah0068.wav
   date: 2007-11-02T14:11:02+0100
@@ -5746,6 +6046,8 @@
   - {lab: '@', end: 3.484128}
   - {lab: n, end: 3.487579}
   - {lab: _, end: 5.535}
+  start: 864.7
+  end: 870.24
 - prompt: obadiah0069
   file: ./pavoque/StefanObadiah/wav/obadiah0069.wav
   date: 2007-11-02T14:11:14+0100
@@ -5796,6 +6098,8 @@
   - {lab: d, end: 5.04}
   - {lab: 'u:', end: 5.275}
   - {lab: _, end: 7.215}
+  start: 870.24
+  end: 877.46
 - prompt: obadiah0070
   file: ./pavoque/StefanObadiah/wav/obadiah0070.wav
   date: 2007-11-02T14:11:22+0100
@@ -5825,6 +6129,8 @@
   - {lab: 'e:', end: 2.67}
   - {lab: t, end: 2.977661}
   - {lab: _, end: 4.975}
+  start: 877.46
+  end: 882.44
 - prompt: obadiah0071
   file: ./pavoque/StefanObadiah/wav/obadiah0071.wav
   date: 2007-11-02T14:11:34+0100
@@ -5879,6 +6185,8 @@
   - {lab: s, end: 4.297985}
   - {lab: t, end: 4.478953}
   - {lab: _, end: 7.455}
+  start: 882.44
+  end: 889.9
 - prompt: obadiah0072
   file: ./pavoque/StefanObadiah/wav/obadiah0072.wav
   date: 2007-11-02T14:11:46+0100
@@ -5925,6 +6233,8 @@
   - {lab: l, end: 4.11}
   - {lab: t, end: 4.337859}
   - {lab: _, end: 6.335}
+  start: 889.9
+  end: 896.24
 - prompt: obadiah0073
   file: ./pavoque/StefanObadiah/wav/obadiah0073.wav
   date: 2007-11-02T14:12:22+0100
@@ -5970,6 +6280,8 @@
   - {lab: p, end: 3.685}
   - {lab: t, end: 3.952153}
   - {lab: _, end: 6.335}
+  start: 896.24
+  end: 902.58
 - prompt: obadiah0074
   file: ./pavoque/StefanObadiah/wav/obadiah0074.wav
   date: 2007-11-02T14:12:36+0100
@@ -6036,6 +6348,8 @@
   - {lab: '@', end: 4.725}
   - {lab: n, end: 4.861209}
   - {lab: _, end: 8.735}
+  start: 902.58
+  end: 911.32
 - prompt: obadiah0075
   file: ./pavoque/StefanObadiah/wav/obadiah0075.wav
   date: 2007-11-02T14:12:44+0100
@@ -6069,6 +6383,8 @@
   - {lab: '@', end: 2.985}
   - {lab: n, end: 3.163102}
   - {lab: _, end: 5.055}
+  start: 911.32
+  end: 916.38
 - prompt: obadiah0076
   file: ./pavoque/StefanObadiah/wav/obadiah0076.wav
   date: 2007-11-02T14:12:54+0100
@@ -6094,6 +6410,8 @@
   - {lab: I, end: 2.536429}
   - {lab: C, end: 2.715}
   - {lab: _, end: 4.415}
+  start: 916.38
+  end: 920.8
 - prompt: obadiah0077
   file: ./pavoque/StefanObadiah/wav/obadiah0077.wav
   date: 2007-11-02T14:13:04+0100
@@ -6126,6 +6444,8 @@
   - {lab: R, end: 3.02}
   - {lab: 'o:', end: 3.265}
   - {lab: _, end: 5.295}
+  start: 920.8
+  end: 926.1
 - prompt: obadiah0078
   file: ./pavoque/StefanObadiah/wav/obadiah0078.wav
   date: 2007-11-02T14:13:12+0100
@@ -6152,6 +6472,8 @@
   - {lab: '@', end: 2.91}
   - {lab: n, end: 3.117217}
   - {lab: _, end: 4.575}
+  start: 926.1
+  end: 930.68
 - prompt: obadiah0079
   file: ./pavoque/StefanObadiah/wav/obadiah0079.wav
   date: 2007-11-02T14:13:22+0100
@@ -6185,6 +6507,8 @@
   - {lab: '@', end: 3.260498}
   - {lab: n, end: 3.395825}
   - {lab: _, end: 5.295}
+  start: 930.68
+  end: 935.98
 - prompt: obadiah0080
   file: ./pavoque/StefanObadiah/wav/obadiah0080.wav
   date: 2007-11-02T14:13:34+0100
@@ -6231,6 +6555,8 @@
   - {lab: s, end: 4.21105}
   - {lab: t, end: 4.499788}
   - {lab: _, end: 6.815}
+  start: 935.98
+  end: 942.8
 - prompt: obadiah0081
   file: ./pavoque/StefanObadiah/wav/obadiah0081.wav
   date: 2007-11-02T14:13:40+0100
@@ -6241,6 +6567,8 @@
   - {lab: v, end: 0.8}
   - {lab: 'i:', end: 1.095}
   - {lab: _, end: 2.815}
+  start: 942.8
+  end: 945.62
 - prompt: obadiah0082
   file: ./pavoque/StefanObadiah/wav/obadiah0082.wav
   date: 2007-11-02T14:14:12+0100
@@ -6262,6 +6590,8 @@
   - {lab: 'i:', end: 2.354633}
   - {lab: '6', end: 2.541746}
   - {lab: _, end: 3.935}
+  start: 945.62
+  end: 949.56
 - prompt: obadiah0083
   file: ./pavoque/StefanObadiah/wav/obadiah0083.wav
   date: 2007-11-02T14:14:22+0100
@@ -6291,6 +6621,8 @@
   - {lab: I, end: 2.31}
   - {lab: C, end: 2.48}
   - {lab: _, end: 4.575}
+  start: 949.56
+  end: 954.14
 - prompt: obadiah0084
   file: ./pavoque/StefanObadiah/wav/obadiah0084.wav
   date: 2007-11-02T14:14:32+0100
@@ -6319,6 +6651,8 @@
   - {lab: 'i:', end: 2.635617}
   - {lab: '6', end: 2.768644}
   - {lab: _, end: 4.735}
+  start: 954.14
+  end: 958.88
 - prompt: obadiah0085
   file: ./pavoque/StefanObadiah/wav/obadiah0085.wav
   date: 2007-11-02T14:14:40+0100
@@ -6343,6 +6677,8 @@
   - {lab: 'a:', end: 2.2}
   - {lab: m, end: 2.374931}
   - {lab: _, end: 4.175}
+  start: 958.88
+  end: 963.06
 - prompt: obadiah0086
   file: ./pavoque/StefanObadiah/wav/obadiah0086.wav
   date: 2007-11-02T14:14:48+0100
@@ -6369,6 +6705,8 @@
   - {lab: I, end: 2.51}
   - {lab: C, end: 2.714754}
   - {lab: _, end: 4.415}
+  start: 963.06
+  end: 967.48
 - prompt: obadiah0087
   file: ./pavoque/StefanObadiah/wav/obadiah0087.wav
   date: 2007-11-02T14:14:58+0100
@@ -6410,6 +6748,8 @@
   - {lab: aI, end: 3.43}
   - {lab: n, end: 3.556962}
   - {lab: _, end: 5.775}
+  start: 967.48
+  end: 973.26
 - prompt: obadiah0088
   file: ./pavoque/StefanObadiah/wav/obadiah0088.wav
   date: 2007-11-02T14:15:08+0100
@@ -6433,6 +6773,8 @@
   - {lab: 'e:', end: 2.305}
   - {lab: '6', end: 2.525592}
   - {lab: _, end: 4.175}
+  start: 973.26
+  end: 977.44
 - prompt: obadiah0089
   file: ./pavoque/StefanObadiah/wav/obadiah0089.wav
   date: 2007-11-02T14:15:18+0100
@@ -6473,6 +6815,8 @@
   - {lab: d, end: 3.92}
   - {lab: 'u:', end: 4.09203}
   - {lab: _, end: 5.695}
+  start: 977.44
+  end: 983.14
 - prompt: m0251
   file: ./pavoque/StefanObadiah/wav/m0251.wav
   date: 2007-11-02T14:17:18+0100
@@ -6500,6 +6844,8 @@
   - {lab: n, end: 2.62}
   - {lab: s, end: 2.794771}
   - {lab: _, end: 4.655}
+  start: 983.14
+  end: 987.8
 - prompt: m0252
   file: ./pavoque/StefanObadiah/wav/m0252.wav
   date: 2007-11-02T14:17:28+0100
@@ -6546,6 +6892,8 @@
   - {lab: r, end: 3.821932}
   - {lab: 'o:', end: 3.999867}
   - {lab: _, end: 6.495}
+  start: 987.8
+  end: 994.3
 - prompt: m0253
   file: ./pavoque/StefanObadiah/wav/m0253.wav
   date: 2007-11-02T14:18:42+0100
@@ -6666,6 +7014,8 @@
   - {lab: '6', end: 8.915}
   - {lab: t, end: 9.10271}
   - {lab: _, end: 13.775}
+  start: 994.3
+  end: 1008.08
 - prompt: m0254
   file: ./pavoque/StefanObadiah/wav/m0254.wav
   date: 2007-11-02T14:18:52+0100
@@ -6700,6 +7050,8 @@
   - {lab: k, end: 3.524613}
   - {lab: ts, end: 3.755}
   - {lab: _, end: 5.455}
+  start: 1008.08
+  end: 1013.54
 - prompt: m0255
   file: ./pavoque/StefanObadiah/wav/m0255.wav
   date: 2007-11-02T14:19:32+0100
@@ -6738,6 +7090,8 @@
   - {lab: '@', end: 3.71}
   - {lab: n, end: 3.911976}
   - {lab: _, end: 6.095}
+  start: 1013.54
+  end: 1019.64
 - prompt: m0256
   file: ./pavoque/StefanObadiah/wav/m0256.wav
   date: 2007-11-02T14:19:42+0100
@@ -6766,6 +7120,8 @@
   - {lab: 'a:', end: 2.97}
   - {lab: n, end: 3.112745}
   - {lab: _, end: 4.575}
+  start: 1019.64
+  end: 1024.22
 - prompt: m0257
   file: ./pavoque/StefanObadiah/wav/m0257.wav
   date: 2007-11-02T14:20:06+0100
@@ -6805,6 +7161,8 @@
   - {lab: 'e:', end: 3.145}
   - {lab: 'o:', end: 3.325}
   - {lab: _, end: 5.935}
+  start: 1024.22
+  end: 1030.16
 - prompt: m0258
   file: ./pavoque/StefanObadiah/wav/m0258.wav
   date: 2007-11-02T14:20:14+0100
@@ -6833,6 +7191,8 @@
   - {lab: t, end: 2.955}
   - {lab: '6', end: 3.175671}
   - {lab: _, end: 4.575}
+  start: 1030.16
+  end: 1034.74
 - prompt: m0259
   file: ./pavoque/StefanObadiah/wav/m0259.wav
   date: 2007-11-02T14:20:26+0100
@@ -6870,6 +7230,8 @@
   - {lab: O, end: 4.515}
   - {lab: f, end: 4.675}
   - {lab: _, end: 5.775}
+  start: 1034.74
+  end: 1040.52
 - prompt: m0260
   file: ./pavoque/StefanObadiah/wav/m0260.wav
   date: 2007-11-02T14:20:36+0100
@@ -6921,6 +7283,8 @@
   - {lab: l, end: 5.585}
   - {lab: t, end: 5.77}
   - {lab: _, end: 6.975}
+  start: 1040.52
+  end: 1047.5
 - prompt: m0261
   file: ./pavoque/StefanObadiah/wav/m0261.wav
   date: 2007-11-02T14:20:46+0100
@@ -6957,6 +7321,8 @@
   - {lab: I, end: 3.785}
   - {lab: n, end: 3.988405}
   - {lab: _, end: 5.855}
+  start: 1047.5
+  end: 1053.36
 - prompt: m0262
   file: ./pavoque/StefanObadiah/wav/m0262.wav
   date: 2007-11-02T14:20:56+0100
@@ -6987,6 +7353,8 @@
   - {lab: aI, end: 3.26}
   - {lab: v, end: 3.5}
   - {lab: _, end: 5.055}
+  start: 1053.36
+  end: 1058.42
 - prompt: m0264
   file: ./pavoque/StefanObadiah/wav/m0264.wav
   date: 2007-11-02T14:21:16+0100
@@ -7025,6 +7393,8 @@
   - {lab: n, end: 4.015}
   - {lab: s, end: 4.255}
   - {lab: _, end: 5.455}
+  start: 1058.42
+  end: 1063.88
 - prompt: m0265
   file: ./pavoque/StefanObadiah/wav/m0265.wav
   date: 2007-11-02T14:21:26+0100
@@ -7065,6 +7435,8 @@
   - {lab: z, end: 4.36}
   - {lab: d, end: 4.485}
   - {lab: _, end: 6.335}
+  start: 1063.88
+  end: 1070.22
 - prompt: m0266
   file: ./pavoque/StefanObadiah/wav/m0266.wav
   date: 2007-11-02T14:21:36+0100
@@ -7097,6 +7469,8 @@
   - {lab: '@', end: 3.13}
   - {lab: n, end: 3.31}
   - {lab: _, end: 4.815}
+  start: 1070.22
+  end: 1075.04
 - prompt: m0267
   file: ./pavoque/StefanObadiah/wav/m0267.wav
   date: 2007-11-02T14:21:46+0100
@@ -7134,6 +7508,8 @@
   - {lab: m, end: 4.66}
   - {lab: 'i:', end: 4.845}
   - {lab: _, end: 5.695}
+  start: 1075.04
+  end: 1080.74
 - prompt: m0268
   file: ./pavoque/StefanObadiah/wav/m0268.wav
   date: 2007-11-02T14:21:56+0100
@@ -7171,6 +7547,8 @@
   - {lab: s, end: 3.82}
   - {lab: t, end: 3.941575}
   - {lab: _, end: 5.775}
+  start: 1080.74
+  end: 1086.52
 - prompt: m0269
   file: ./pavoque/StefanObadiah/wav/m0269.wav
   date: 2007-11-02T14:22:08+0100
@@ -7230,6 +7608,8 @@
   - {lab: 'i:', end: 5.645867}
   - {lab: '6', end: 5.791171}
   - {lab: _, end: 8.015}
+  start: 1086.52
+  end: 1094.54
 - prompt: m0270
   file: ./pavoque/StefanObadiah/wav/m0270.wav
   date: 2007-11-02T14:22:18+0100
@@ -7254,6 +7634,8 @@
   - {lab: OY, end: 3.42}
   - {lab: s, end: 3.61}
   - {lab: _, end: 4.495}
+  start: 1094.54
+  end: 1099.04
 - prompt: m0271
   file: ./pavoque/StefanObadiah/wav/m0271.wav
   date: 2007-11-02T14:22:28+0100
@@ -7300,6 +7682,8 @@
   - {lab: k, end: 4.905}
   - {lab: 'a:', end: 5.1}
   - {lab: _, end: 6.655}
+  start: 1099.04
+  end: 1105.7
 - prompt: m0272
   file: ./pavoque/StefanObadiah/wav/m0272.wav
   date: 2007-11-02T14:22:38+0100
@@ -7333,6 +7717,8 @@
   - {lab: v, end: 3.675}
   - {lab: 'i:', end: 3.89}
   - {lab: _, end: 5.215}
+  start: 1105.7
+  end: 1110.92
 - prompt: m0273
   file: ./pavoque/StefanObadiah/wav/m0273.wav
   date: 2007-11-02T14:22:52+0100
@@ -7400,6 +7786,8 @@
   - {lab: t, end: 5.881747}
   - {lab: 'i:', end: 6.035}
   - {lab: _, end: 9.135}
+  start: 1110.92
+  end: 1120.06
 - prompt: m0274
   file: ./pavoque/StefanObadiah/wav/m0274.wav
   date: 2007-11-02T14:23:04+0100
@@ -7458,6 +7846,8 @@
   - {lab: 'E:', end: 6.375}
   - {lab: n, end: 6.53}
   - {lab: _, end: 8.015}
+  start: 1120.06
+  end: 1128.08
 - prompt: m0275
   file: ./pavoque/StefanObadiah/wav/m0275.wav
   date: 2007-11-02T14:23:26+0100
@@ -7490,6 +7880,8 @@
   - {lab: a, end: 2.8}
   - {lab: t, end: 3.061694}
   - {lab: _, end: 4.895}
+  start: 1128.08
+  end: 1132.98
 - prompt: m0276
   file: ./pavoque/StefanObadiah/wav/m0276.wav
   date: 2007-11-02T14:24:04+0100
@@ -7546,6 +7938,8 @@
   - {lab: r, end: 6.591872}
   - {lab: '@', end: 6.79}
   - {lab: _, end: 7.375}
+  start: 1132.98
+  end: 1140.36
 - prompt: m0277
   file: ./pavoque/StefanObadiah/wav/m0277.wav
   date: 2007-11-02T14:24:14+0100
@@ -7586,6 +7980,8 @@
   - {lab: k, end: 3.89}
   - {lab: 'a:', end: 4.13}
   - {lab: _, end: 5.535}
+  start: 1140.36
+  end: 1145.9
 - prompt: m0278
   file: ./pavoque/StefanObadiah/wav/m0278.wav
   date: 2007-11-02T14:24:26+0100
@@ -7646,6 +8042,8 @@
   - {lab: '6', end: 6.335}
   - {lab: ts, end: 6.67}
   - {lab: _, end: 7.295}
+  start: 1145.9
+  end: 1153.2
 - prompt: m0279
   file: ./pavoque/StefanObadiah/wav/m0279.wav
   date: 2007-11-02T14:25:24+0100
@@ -7729,6 +8127,8 @@
   - {lab: l, end: 7.43}
   - {lab: n, end: 7.588341}
   - {lab: _, end: 9.935}
+  start: 1153.2
+  end: 1163.14
 - prompt: m0280
   file: ./pavoque/StefanObadiah/wav/m0280.wav
   date: 2007-11-02T14:25:34+0100
@@ -7766,6 +8166,8 @@
   - {lab: n, end: 3.63}
   - {lab: t, end: 3.861702}
   - {lab: _, end: 5.695}
+  start: 1163.14
+  end: 1168.84
 - prompt: m0281
   file: ./pavoque/StefanObadiah/wav/m0281.wav
   date: 2007-11-02T14:25:48+0100
@@ -7847,6 +8249,8 @@
   - {lab: d, end: 7.74}
   - {lab: Z, end: 8.0}
   - {lab: _, end: 10.175}
+  start: 1168.84
+  end: 1179.02
 - prompt: m0282
   file: ./pavoque/StefanObadiah/wav/m0282.wav
   date: 2007-11-02T14:25:58+0100
@@ -7886,6 +8290,8 @@
   - {lab: l, end: 4.39}
   - {lab: s, end: 4.635}
   - {lab: _, end: 5.775}
+  start: 1179.02
+  end: 1184.8
 - prompt: m0283
   file: ./pavoque/StefanObadiah/wav/m0283.wav
   date: 2007-11-02T14:26:12+0100
@@ -7951,6 +8357,8 @@
   - {lab: b, end: 7.105}
   - {lab: '6', end: 7.311631}
   - {lab: _, end: 9.455}
+  start: 1184.8
+  end: 1194.26
 - prompt: m0284
   file: ./pavoque/StefanObadiah/wav/m0284.wav
   date: 2007-11-02T14:26:24+0100
@@ -8007,6 +8415,8 @@
   - {lab: I, end: 5.945}
   - {lab: k, end: 6.245}
   - {lab: _, end: 7.775}
+  start: 1194.26
+  end: 1202.04
 - prompt: m0285
   file: ./pavoque/StefanObadiah/wav/m0285.wav
   date: 2007-11-02T14:26:34+0100
@@ -8034,6 +8444,8 @@
   - {lab: aU, end: 3.96}
   - {lab: x, end: 4.243585}
   - {lab: _, end: 5.375}
+  start: 1202.04
+  end: 1207.42
 - prompt: m0286
   file: ./pavoque/StefanObadiah/wav/m0286.wav
   date: 2007-11-02T14:26:44+0100
@@ -8064,6 +8476,8 @@
   - {lab: U, end: 4.57}
   - {lab: t, end: 4.905}
   - {lab: _, end: 5.535}
+  start: 1207.42
+  end: 1212.96
 - prompt: m0287
   file: ./pavoque/StefanObadiah/wav/m0287.wav
   date: 2007-11-02T14:26:56+0100
@@ -8113,6 +8527,8 @@
   - {lab: n, end: 4.605}
   - {lab: t, end: 4.801453}
   - {lab: _, end: 6.255}
+  start: 1212.96
+  end: 1219.22
 - prompt: m0288
   file: ./pavoque/StefanObadiah/wav/m0288.wav
   date: 2007-11-02T14:27:04+0100
@@ -8141,6 +8557,8 @@
   - {lab: '@', end: 2.34}
   - {lab: n, end: 2.500578}
   - {lab: _, end: 4.495}
+  start: 1219.22
+  end: 1223.72
 - prompt: m0289
   file: ./pavoque/StefanObadiah/wav/m0289.wav
   date: 2007-11-02T14:27:16+0100
@@ -8198,6 +8616,8 @@
   - {lab: U, end: 4.575}
   - {lab: b, end: 4.824364}
   - {lab: _, end: 7.375}
+  start: 1223.72
+  end: 1231.1
 - prompt: m0290
   file: ./pavoque/StefanObadiah/wav/m0290.wav
   date: 2007-11-02T14:27:42+0100
@@ -8257,6 +8677,8 @@
   - {lab: '@', end: 5.11}
   - {lab: n, end: 5.32}
   - {lab: _, end: 7.375}
+  start: 1231.1
+  end: 1238.48
 - prompt: m0291
   file: ./pavoque/StefanObadiah/wav/m0291.wav
   date: 2007-11-02T14:27:54+0100
@@ -8303,6 +8725,8 @@
   - {lab: R, end: 4.836396}
   - {lab: '@', end: 4.999812}
   - {lab: _, end: 7.135}
+  start: 1238.48
+  end: 1245.62
 - prompt: m0292
   file: ./pavoque/StefanObadiah/wav/m0292.wav
   date: 2007-11-02T14:28:04+0100
@@ -8346,6 +8770,8 @@
   - {lab: 'a:', end: 4.0}
   - {lab: n, end: 4.224651}
   - {lab: _, end: 6.095}
+  start: 1245.62
+  end: 1251.72
 - prompt: m0293
   file: ./pavoque/StefanObadiah/wav/m0293.wav
   date: 2007-11-02T14:28:28+0100
@@ -8385,6 +8811,8 @@
   - {lab: 'a:', end: 4.465}
   - {lab: l, end: 4.675}
   - {lab: _, end: 5.855}
+  start: 1251.72
+  end: 1257.58
 - prompt: m0294
   file: ./pavoque/StefanObadiah/wav/m0294.wav
   date: 2007-11-02T14:28:36+0100
@@ -8411,6 +8839,8 @@
   - {lab: O, end: 3.21}
   - {lab: n, end: 3.408544}
   - {lab: _, end: 4.495}
+  start: 1257.58
+  end: 1262.08
 - prompt: m0296
   file: ./pavoque/StefanObadiah/wav/m0296.wav
   date: 2007-11-02T14:29:02+0100
@@ -8482,6 +8912,8 @@
   - {lab: l, end: 7.095}
   - {lab: t, end: 7.33054}
   - {lab: _, end: 9.695}
+  start: 1262.08
+  end: 1271.78
 - prompt: m0297
   file: ./pavoque/StefanObadiah/wav/m0297.wav
   date: 2007-11-02T14:29:22+0100
@@ -8525,6 +8957,8 @@
   - {lab: '6', end: 4.465}
   - {lab: n, end: 4.628717}
   - {lab: _, end: 6.255}
+  start: 1271.78
+  end: 1278.04
 - prompt: m0298
   file: ./pavoque/StefanObadiah/wav/m0298.wav
   date: 2007-11-02T14:29:30+0100
@@ -8549,6 +8983,8 @@
   - {lab: 'i:', end: 3.57}
   - {lab: l, end: 3.785}
   - {lab: _, end: 4.575}
+  start: 1278.04
+  end: 1282.62
 - prompt: m0299
   file: ./pavoque/StefanObadiah/wav/m0299.wav
   date: 2007-11-02T14:29:56+0100
@@ -8593,6 +9029,8 @@
   - {lab: a, end: 4.353216}
   - {lab: t, end: 4.590832}
   - {lab: _, end: 6.335}
+  start: 1282.62
+  end: 1288.96
 - prompt: m0300
   file: ./pavoque/StefanObadiah/wav/m0300.wav
   date: 2007-11-02T14:30:06+0100
@@ -8621,6 +9059,8 @@
   - {lab: '@', end: 3.115}
   - {lab: k, end: 3.419489}
   - {lab: _, end: 4.735}
+  start: 1288.96
+  end: 1293.7
 - prompt: m0301
   file: ./pavoque/StefanObadiah/wav/m0301.wav
   date: 2007-11-02T14:30:20+0100
@@ -8708,6 +9148,8 @@
   - {lab: a, end: 7.895}
   - {lab: n, end: 8.103537}
   - {lab: _, end: 10.335}
+  start: 1293.7
+  end: 1304.04
 - prompt: m0302
   file: ./pavoque/StefanObadiah/wav/m0302.wav
   date: 2007-11-02T14:30:32+0100
@@ -8753,6 +9195,8 @@
   - {lab: aI, end: 4.04}
   - {lab: n, end: 4.242179}
   - {lab: _, end: 6.175}
+  start: 1304.04
+  end: 1310.22
 - prompt: m0303
   file: ./pavoque/StefanObadiah/wav/m0303.wav
   date: 2007-11-02T14:30:56+0100
@@ -8781,6 +9225,8 @@
   - {lab: a, end: 3.045}
   - {lab: n, end: 3.317728}
   - {lab: _, end: 4.655}
+  start: 1310.22
+  end: 1314.88
 - prompt: m0304
   file: ./pavoque/StefanObadiah/wav/m0304.wav
   date: 2007-11-02T14:31:10+0100
@@ -8864,6 +9310,8 @@
   - {lab: I, end: 8.005}
   - {lab: C, end: 8.220386}
   - {lab: _, end: 10.175}
+  start: 1314.88
+  end: 1325.06
 - prompt: m0305
   file: ./pavoque/StefanObadiah/wav/m0305.wav
   date: 2007-11-02T14:55:00+0100
@@ -8942,6 +9390,8 @@
   - {lab: k, end: 6.055}
   - {lab: 'a:', end: 6.250899}
   - {lab: _, end: 9.615}
+  start: 1325.06
+  end: 1334.68
 - prompt: m0306
   file: ./pavoque/StefanObadiah/wav/m0306.wav
   date: 2007-11-02T14:55:10+0100
@@ -8983,6 +9433,8 @@
   - {lab: 'i:', end: 4.475}
   - {lab: n, end: 4.726296}
   - {lab: _, end: 5.855}
+  start: 1334.68
+  end: 1340.54
 - prompt: m0307
   file: ./pavoque/StefanObadiah/wav/m0307.wav
   date: 2007-11-02T14:55:54+0100
@@ -9042,6 +9494,8 @@
   - {lab: 'u:', end: 5.825}
   - {lab: n, end: 6.07228}
   - {lab: _, end: 7.535}
+  start: 1340.54
+  end: 1348.08
 - prompt: m0308
   file: ./pavoque/StefanObadiah/wav/m0308.wav
   date: 2007-11-02T14:56:08+0100
@@ -9117,6 +9571,8 @@
   - {lab: j, end: 8.75}
   - {lab: 'o:', end: 8.995514}
   - {lab: _, end: 9.535}
+  start: 1348.08
+  end: 1357.62
 - prompt: m0310
   file: ./pavoque/StefanObadiah/wav/m0310.wav
   date: 2007-11-02T14:57:38+0100
@@ -9152,6 +9608,8 @@
   - {lab: v, end: 4.075}
   - {lab: aU, end: 4.483929}
   - {lab: _, end: 5.695}
+  start: 1357.62
+  end: 1363.32
 - prompt: m0311
   file: ./pavoque/StefanObadiah/wav/m0311.wav
   date: 2007-11-02T14:57:58+0100
@@ -9188,6 +9646,8 @@
   - {lab: aI, end: 4.18}
   - {lab: n, end: 4.425576}
   - {lab: _, end: 5.695}
+  start: 1363.32
+  end: 1369.02
 - prompt: m0312
   file: ./pavoque/StefanObadiah/wav/m0312.wav
   date: 2007-11-02T14:58:08+0100
@@ -9230,6 +9690,8 @@
   - {lab: U, end: 4.065}
   - {lab: m, end: 4.251876}
   - {lab: _, end: 5.935}
+  start: 1369.02
+  end: 1374.96
 - prompt: m0313
   file: ./pavoque/StefanObadiah/wav/m0313.wav
   date: 2007-11-02T14:58:42+0100
@@ -9299,6 +9761,8 @@
   - {lab: '@', end: 7.05}
   - {lab: s, end: 7.365263}
   - {lab: _, end: 8.975}
+  start: 1374.96
+  end: 1383.94
 - prompt: m0314
   file: ./pavoque/StefanObadiah/wav/m0314.wav
   date: 2007-11-02T14:58:52+0100
@@ -9342,6 +9806,8 @@
   - {lab: '@', end: 4.6}
   - {lab: n, end: 4.818063}
   - {lab: _, end: 6.015}
+  start: 1383.94
+  end: 1389.96
 - prompt: m0315
   file: ./pavoque/StefanObadiah/wav/m0315.wav
   date: 2007-11-02T14:59:02+0100
@@ -9386,6 +9852,8 @@
   - {lab: '@', end: 4.725}
   - {lab: t, end: 4.939178}
   - {lab: _, end: 6.175}
+  start: 1389.96
+  end: 1396.14
 - prompt: m0316
   file: ./pavoque/StefanObadiah/wav/m0316.wav
   date: 2007-11-02T14:59:14+0100
@@ -9444,6 +9912,8 @@
   - {lab: R, end: 6.149124}
   - {lab: 'E:', end: 6.62629}
   - {lab: _, end: 8.015}
+  start: 1396.14
+  end: 1404.16
 - prompt: m0317
   file: ./pavoque/StefanObadiah/wav/m0317.wav
   date: 2007-11-02T14:59:26+0100
@@ -9488,6 +9958,8 @@
   - {lab: '@', end: 4.739597}
   - {lab: n, end: 4.977866}
   - {lab: _, end: 6.175}
+  start: 1404.16
+  end: 1410.34
 - prompt: m0318
   file: ./pavoque/StefanObadiah/wav/m0318.wav
   date: 2007-11-02T15:00:30+0100
@@ -9618,6 +10090,8 @@
   - {lab: '@', end: 11.37}
   - {lab: t, end: 11.573146}
   - {lab: _, end: 14.335}
+  start: 1410.34
+  end: 1424.68
 - prompt: m0319
   file: ./pavoque/StefanObadiah/wav/m0319.wav
   date: 2007-11-02T15:01:12+0100
@@ -9687,6 +10161,8 @@
   - {lab: I, end: 7.62}
   - {lab: z, end: 7.915}
   - {lab: _, end: 9.175}
+  start: 1424.68
+  end: 1433.86
 - prompt: m0320
   file: ./pavoque/StefanObadiah/wav/m0320.wav
   date: 2007-11-02T15:01:30+0100
@@ -9720,6 +10196,8 @@
   - {lab: EI, end: 4.265}
   - {lab: m, end: 4.480576}
   - {lab: _, end: 5.615}
+  start: 1433.86
+  end: 1439.48
 - prompt: m0321
   file: ./pavoque/StefanObadiah/wav/m0321.wav
   date: 2007-11-02T15:01:42+0100
@@ -9777,6 +10255,8 @@
   - {lab: 'o:', end: 5.558722}
   - {lab: '6', end: 5.753388}
   - {lab: _, end: 7.855}
+  start: 1439.48
+  end: 1447.34
 - prompt: m0322
   file: ./pavoque/StefanObadiah/wav/m0322.wav
   date: 2007-11-02T15:01:54+0100
@@ -9844,6 +10324,8 @@
   - {lab: '@', end: 7.01134}
   - {lab: n, end: 7.155657}
   - {lab: _, end: 8.575}
+  start: 1447.34
+  end: 1455.92
 - prompt: m0323
   file: ./pavoque/StefanObadiah/wav/m0323.wav
   date: 2007-11-02T15:02:04+0100
@@ -9882,6 +10364,8 @@
   - {lab: n, end: 4.065}
   - {lab: t, end: 4.225446}
   - {lab: _, end: 5.455}
+  start: 1455.92
+  end: 1461.38
 - prompt: m0324
   file: ./pavoque/StefanObadiah/wav/m0324.wav
   date: 2007-11-02T15:02:14+0100
@@ -9912,6 +10396,8 @@
   - {lab: a, end: 3.515}
   - {lab: R, end: 3.676139}
   - {lab: _, end: 5.055}
+  start: 1461.38
+  end: 1466.44
 - prompt: m0325
   file: ./pavoque/StefanObadiah/wav/m0325.wav
   date: 2007-11-02T15:02:24+0100
@@ -9949,6 +10435,8 @@
   - {lab: n, end: 3.825}
   - {lab: t, end: 4.0302}
   - {lab: _, end: 5.455}
+  start: 1466.44
+  end: 1471.9
 - prompt: m0326
   file: ./pavoque/StefanObadiah/wav/m0326.wav
   date: 2007-11-02T15:02:32+0100
@@ -9976,6 +10464,8 @@
   - {lab: a, end: 3.315}
   - {lab: x, end: 3.593385}
   - {lab: _, end: 4.175}
+  start: 1471.9
+  end: 1476.08
 - prompt: m0327
   file: ./pavoque/StefanObadiah/wav/m0327.wav
   date: 2007-11-02T15:02:46+0100
@@ -10053,6 +10543,8 @@
   - {lab: aI, end: 7.17}
   - {lab: n, end: 7.334154}
   - {lab: _, end: 9.135}
+  start: 1476.08
+  end: 1485.22
 - prompt: m0328
   file: ./pavoque/StefanObadiah/wav/m0328.wav
   date: 2007-11-02T15:02:58+0100
@@ -10100,6 +10592,8 @@
   - {lab: I, end: 5.14}
   - {lab: S, end: 5.465}
   - {lab: _, end: 6.655}
+  start: 1485.22
+  end: 1491.88
 - prompt: m0329
   file: ./pavoque/StefanObadiah/wav/m0329.wav
   date: 2007-11-02T15:03:08+0100
@@ -10149,6 +10643,8 @@
   - {lab: '@', end: 5.513295}
   - {lab: n, end: 5.784139}
   - {lab: _, end: 6.495}
+  start: 1491.88
+  end: 1498.38
 - prompt: m0330
   file: ./pavoque/StefanObadiah/wav/m0330.wav
   date: 2007-11-02T15:03:18+0100
@@ -10184,6 +10680,8 @@
   - {lab: 'E:', end: 5.35}
   - {lab: '6', end: 5.581068}
   - {lab: _, end: 5.615}
+  start: 1498.38
+  end: 1504.0
 - prompt: m0331
   file: ./pavoque/StefanObadiah/wav/m0331.wav
   date: 2007-11-02T15:03:30+0100
@@ -10241,6 +10739,8 @@
   - {lab: '@', end: 6.055}
   - {lab: n, end: 6.249224}
   - {lab: _, end: 7.455}
+  start: 1504.0
+  end: 1511.46
 - prompt: m0332
   file: ./pavoque/StefanObadiah/wav/m0332.wav
   date: 2007-11-02T15:04:22+0100
@@ -10273,6 +10773,8 @@
   - {lab: a, end: 2.9}
   - {lab: n, end: 3.24}
   - {lab: _, end: 5.375}
+  start: 1511.46
+  end: 1516.84
 - prompt: m0333
   file: ./pavoque/StefanObadiah/wav/m0333.wav
   date: 2007-11-02T15:04:34+0100
@@ -10320,6 +10822,8 @@
   - {lab: aI, end: 4.515}
   - {lab: k, end: 4.709775}
   - {lab: _, end: 6.895}
+  start: 1516.84
+  end: 1523.74
 - prompt: m0334
   file: ./pavoque/StefanObadiah/wav/m0334.wav
   date: 2007-11-02T15:04:48+0100
@@ -10395,6 +10899,8 @@
   - {lab: a, end: 6.8}
   - {lab: l, end: 6.94759}
   - {lab: _, end: 9.535}
+  start: 1523.74
+  end: 1533.28
 - prompt: m0335
   file: ./pavoque/StefanObadiah/wav/m0335.wav
   date: 2007-11-02T15:05:00+0100
@@ -10451,6 +10957,8 @@
   - {lab: I, end: 5.095}
   - {lab: t, end: 5.333199}
   - {lab: _, end: 7.695}
+  start: 1533.28
+  end: 1540.98
 - prompt: m0336
   file: ./pavoque/StefanObadiah/wav/m0336.wav
   date: 2007-11-02T15:05:12+0100
@@ -10507,6 +11015,8 @@
   - {lab: '6', end: 5.205}
   - {lab: t, end: 5.420635}
   - {lab: _, end: 7.775}
+  start: 1540.98
+  end: 1548.76
 - prompt: m0337
   file: ./pavoque/StefanObadiah/wav/m0337.wav
   date: 2007-11-02T15:05:28+0100
@@ -10589,6 +11099,8 @@
   - {lab: I, end: 8.49}
   - {lab: S, end: 8.708619}
   - {lab: _, end: 9.935}
+  start: 1548.76
+  end: 1558.7
 - prompt: m0338
   file: ./pavoque/StefanObadiah/wav/m0338.wav
   date: 2007-11-02T15:05:38+0100
@@ -10627,6 +11139,8 @@
   - {lab: '@', end: 3.889968}
   - {lab: n, end: 4.09383}
   - {lab: _, end: 5.855}
+  start: 1558.7
+  end: 1564.56
 - prompt: m0339
   file: ./pavoque/StefanObadiah/wav/m0339.wav
   date: 2007-11-02T15:05:48+0100
@@ -10666,6 +11180,8 @@
   - {lab: j, end: 3.27927}
   - {lab: 'u:', end: 3.476432}
   - {lab: _, end: 5.535}
+  start: 1564.56
+  end: 1570.1
 - prompt: m0340
   file: ./pavoque/StefanObadiah/wav/m0340.wav
   date: 2007-11-02T15:06:24+0100
@@ -10746,6 +11262,8 @@
   - {lab: l, end: 7.974528}
   - {lab: t, end: 8.111803}
   - {lab: _, end: 9.546901}
+  start: 1570.1
+  end: 1580.2
 - prompt: m0341
   file: ./pavoque/StefanObadiah/wav/m0341.wav
   date: 2007-11-02T15:06:36+0100
@@ -10794,6 +11312,8 @@
   - {lab: 'o:', end: 4.825}
   - {lab: n, end: 5.019512}
   - {lab: _, end: 6.495}
+  start: 1580.2
+  end: 1586.7
 - prompt: m0343
   file: ./pavoque/StefanObadiah/wav/m0343.wav
   date: 2007-11-02T15:07:20+0100
@@ -10852,6 +11372,8 @@
   - {lab: aI, end: 5.28}
   - {lab: C, end: 5.498399}
   - {lab: _, end: 7.615}
+  start: 1586.7
+  end: 1594.32
 - prompt: m0344
   file: ./pavoque/StefanObadiah/wav/m0344.wav
   date: 2007-11-02T15:07:32+0100
@@ -10908,6 +11430,8 @@
   - {lab: 'o:', end: 5.65}
   - {lab: n, end: 5.821686}
   - {lab: _, end: 7.775}
+  start: 1594.32
+  end: 1602.1
 - prompt: m0345
   file: ./pavoque/StefanObadiah/wav/m0345.wav
   date: 2007-11-02T15:07:42+0100
@@ -10940,6 +11464,8 @@
   - {lab: O, end: 3.72}
   - {lab: l, end: 3.907161}
   - {lab: _, end: 4.975}
+  start: 1602.1
+  end: 1607.08
 - prompt: m0346
   file: ./pavoque/StefanObadiah/wav/m0346.wav
   date: 2007-11-02T15:08:20+0100
@@ -11018,6 +11544,8 @@
   - {lab: '@', end: 7.235}
   - {lab: t, end: 7.455959}
   - {lab: _, end: 9.855}
+  start: 1607.08
+  end: 1616.94
 - prompt: m0348
   file: ./pavoque/StefanObadiah/wav/m0348.wav
   date: 2007-11-02T15:08:44+0100
@@ -11049,6 +11577,8 @@
   - {lab: '@', end: 3.165}
   - {lab: n, end: 3.414543}
   - {lab: _, end: 4.975}
+  start: 1616.94
+  end: 1621.92
 - prompt: m0349
   file: ./pavoque/StefanObadiah/wav/m0349.wav
   date: 2007-11-02T15:08:58+0100
@@ -11118,6 +11648,8 @@
   - {lab: C, end: 7.12434}
   - {lab: t, end: 7.28}
   - {lab: _, end: 9.375}
+  start: 1621.92
+  end: 1631.3
 - prompt: m0350
   file: ./pavoque/StefanObadiah/wav/m0350.wav
   date: 2007-11-02T15:09:08+0100
@@ -11162,6 +11694,8 @@
   - {lab: R, end: 4.845}
   - {lab: '6', end: 5.067814}
   - {lab: _, end: 6.335}
+  start: 1631.3
+  end: 1637.64
 - prompt: m0347
   file: ./pavoque/StefanObadiah/wav/m0347.wav
   date: 2007-11-02T15:10:40+0100
@@ -11235,6 +11769,8 @@
   - {lab: l, end: 6.35451}
   - {lab: t, end: 6.515144}
   - {lab: _, end: 9.455}
+  start: 1637.64
+  end: 1647.1
 - prompt: m0352
   file: ./pavoque/StefanObadiah/wav/m0352.wav
   date: 2007-11-02T15:11:22+0100
@@ -11272,6 +11808,8 @@
   - {lab: aI, end: 4.465}
   - {lab: t, end: 4.66}
   - {lab: _, end: 5.455}
+  start: 1647.1
+  end: 1652.56
 - prompt: m0353
   file: ./pavoque/StefanObadiah/wav/m0353.wav
   date: 2007-11-02T15:11:34+0100
@@ -11312,6 +11850,8 @@
   - {lab: s, end: 3.865}
   - {lab: EI, end: 4.156244}
   - {lab: _, end: 6.095}
+  start: 1652.56
+  end: 1658.66
 - prompt: m0354
   file: ./pavoque/StefanObadiah/wav/m0354.wav
   date: 2007-11-02T15:12:06+0100
@@ -11366,6 +11906,8 @@
   - {lab: '@', end: 4.755}
   - {lab: n, end: 4.98179}
   - {lab: _, end: 7.375}
+  start: 1658.66
+  end: 1666.04
 - prompt: m0355
   file: ./pavoque/StefanObadiah/wav/m0355.wav
   date: 2007-11-02T15:12:16+0100
@@ -11402,6 +11944,8 @@
   - {lab: a, end: 3.745}
   - {lab: p, end: 3.995}
   - {lab: _, end: 5.055}
+  start: 1666.04
+  end: 1671.1
 - prompt: m0356
   file: ./pavoque/StefanObadiah/wav/m0356.wav
   date: 2007-11-02T15:12:26+0100
@@ -11455,6 +11999,8 @@
   - {lab: C, end: 4.86}
   - {lab: t, end: 5.138733}
   - {lab: _, end: 7.215}
+  start: 1671.1
+  end: 1678.32
 - prompt: m0357
   file: ./pavoque/StefanObadiah/wav/m0357.wav
   date: 2007-11-02T15:12:36+0100
@@ -11486,6 +12032,8 @@
   - {lab: f, end: 3.035}
   - {lab: '6', end: 3.229448}
   - {lab: _, end: 5.215}
+  start: 1678.32
+  end: 1683.54
 - prompt: m0358
   file: ./pavoque/StefanObadiah/wav/m0358.wav
   date: 2007-11-02T15:12:48+0100
@@ -11527,6 +12075,8 @@
   - {lab: a, end: 4.055}
   - {lab: n, end: 4.272513}
   - {lab: _, end: 6.335}
+  start: 1683.54
+  end: 1689.88
 - prompt: m0359
   file: ./pavoque/StefanObadiah/wav/m0359.wav
   date: 2007-11-02T15:12:58+0100
@@ -11569,6 +12119,8 @@
   - {lab: E, end: 4.951248}
   - {lab: '6', end: 5.089414}
   - {lab: _, end: 6.575}
+  start: 1689.88
+  end: 1696.46
 - prompt: m0360
   file: ./pavoque/StefanObadiah/wav/m0360.wav
   date: 2007-11-02T15:13:10+0100
@@ -11620,6 +12172,8 @@
   - {lab: '@', end: 5.429233}
   - {lab: l, end: 5.665}
   - {lab: _, end: 7.215}
+  start: 1696.46
+  end: 1703.68
 - prompt: m0361
   file: ./pavoque/StefanObadiah/wav/m0361.wav
   date: 2007-11-02T15:13:32+0100
@@ -11652,6 +12206,8 @@
   - {lab: E, end: 2.945}
   - {lab: n, end: 3.15}
   - {lab: _, end: 5.455}
+  start: 1703.68
+  end: 1709.14
 - prompt: m0362
   file: ./pavoque/StefanObadiah/wav/m0362.wav
   date: 2007-11-02T15:13:44+0100
@@ -11701,6 +12257,8 @@
   - {lab: n, end: 4.875}
   - {lab: t, end: 5.117047}
   - {lab: _, end: 6.575}
+  start: 1709.14
+  end: 1715.72
 - prompt: m0363
   file: ./pavoque/StefanObadiah/wav/m0363.wav
   date: 2007-11-02T15:13:58+0100
@@ -11768,6 +12326,8 @@
   - {lab: '@', end: 7.002528}
   - {lab: n, end: 7.161593}
   - {lab: _, end: 8.895}
+  start: 1715.72
+  end: 1724.62
 - prompt: m0364
   file: ./pavoque/StefanObadiah/wav/m0364.wav
   date: 2007-11-02T15:14:10+0100
@@ -11833,6 +12393,8 @@
   - {lab: 'e:', end: 5.485}
   - {lab: '6', end: 5.681945}
   - {lab: _, end: 8.175}
+  start: 1724.62
+  end: 1732.8
 - prompt: m0365
   file: ./pavoque/StefanObadiah/wav/m0365.wav
   date: 2007-11-02T15:14:22+0100
@@ -11903,6 +12465,8 @@
   - {lab: 'a:', end: 6.79}
   - {lab: l, end: 6.935}
   - {lab: _, end: 8.415}
+  start: 1732.8
+  end: 1741.22
 - prompt: m0366
   file: ./pavoque/StefanObadiah/wav/m0366.wav
   date: 2007-11-02T15:14:32+0100
@@ -11930,6 +12494,8 @@
   - {lab: k, end: 3.215}
   - {lab: 'a:', end: 3.455}
   - {lab: _, end: 4.415}
+  start: 1741.22
+  end: 1745.64
 - prompt: m0367
   file: ./pavoque/StefanObadiah/wav/m0367.wav
   date: 2007-11-02T15:14:42+0100
@@ -11983,6 +12549,8 @@
   - {lab: U, end: 4.765185}
   - {lab: S, end: 5.139767}
   - {lab: _, end: 6.575}
+  start: 1745.64
+  end: 1752.22
 - prompt: m0370
   file: ./pavoque/StefanObadiah/wav/m0370.wav
   date: 2007-11-02T15:15:38+0100
@@ -12040,6 +12608,8 @@
   - {lab: ts, end: 5.24}
   - {lab: t, end: 5.414411}
   - {lab: _, end: 7.295}
+  start: 1752.22
+  end: 1759.52
 - prompt: m0371
   file: ./pavoque/StefanObadiah/wav/m0371.wav
   date: 2007-11-02T15:15:48+0100
@@ -12087,6 +12657,8 @@
   - {lab: d, end: 4.464928}
   - {lab: '@', end: 4.655}
   - {lab: _, end: 6.495}
+  start: 1759.52
+  end: 1766.02
 - prompt: m0372
   file: ./pavoque/StefanObadiah/wav/m0372.wav
   date: 2007-11-02T15:16:02+0100
@@ -12157,6 +12729,8 @@
   - {lab: n, end: 7.19}
   - {lab: t, end: 7.371228}
   - {lab: _, end: 9.055}
+  start: 1766.02
+  end: 1775.08
 - prompt: m0373
   file: ./pavoque/StefanObadiah/wav/m0373.wav
   date: 2007-11-02T15:16:12+0100
@@ -12196,6 +12770,8 @@
   - {lab: '@', end: 3.815}
   - {lab: n, end: 3.991925}
   - {lab: _, end: 5.695}
+  start: 1775.08
+  end: 1780.78
 - prompt: m0374
   file: ./pavoque/StefanObadiah/wav/m0374.wav
   date: 2007-11-02T15:16:22+0100
@@ -12228,6 +12804,8 @@
   - {lab: l, end: 2.855}
   - {lab: '@', end: 3.0825}
   - {lab: _, end: 5.295}
+  start: 1780.78
+  end: 1786.08
 - prompt: m0375
   file: ./pavoque/StefanObadiah/wav/m0375.wav
   date: 2007-11-02T15:16:38+0100
@@ -12311,6 +12889,8 @@
   - {lab: '@', end: 7.405}
   - {lab: n, end: 7.591352}
   - {lab: _, end: 10.815}
+  start: 1786.08
+  end: 1796.9
 - prompt: m0376
   file: ./pavoque/StefanObadiah/wav/m0376.wav
   date: 2007-11-02T15:17:08+0100
@@ -12368,6 +12948,8 @@
   - {lab: O, end: 4.94}
   - {lab: n, end: 5.130703}
   - {lab: _, end: 7.295}
+  start: 1796.9
+  end: 1804.2
 - prompt: m0378
   file: ./pavoque/StefanObadiah/wav/m0378.wav
   date: 2007-11-02T15:18:02+0100
@@ -12401,6 +12983,8 @@
   - {lab: b, end: 3.761745}
   - {lab: aI, end: 4.135066}
   - {lab: _, end: 5.215}
+  start: 1804.2
+  end: 1809.42
 - prompt: m0379
   file: ./pavoque/StefanObadiah/wav/m0379.wav
   date: 2007-11-02T15:18:16+0100
@@ -12464,6 +13048,8 @@
   - {lab: a, end: 6.29}
   - {lab: x, end: 6.5593}
   - {lab: _, end: 9.055}
+  start: 1809.42
+  end: 1818.48
 - prompt: m0380
   file: ./pavoque/StefanObadiah/wav/m0380.wav
   date: 2007-11-02T15:18:26+0100
@@ -12496,6 +13082,8 @@
   - {lab: t, end: 2.94}
   - {lab: '@', end: 3.135679}
   - {lab: _, end: 4.975}
+  start: 1818.48
+  end: 1823.46
 - prompt: m0381
   file: ./pavoque/StefanObadiah/wav/m0381.wav
   date: 2007-11-02T15:18:36+0100
@@ -12554,6 +13142,8 @@
   - {lab: '@', end: 4.95264}
   - {lab: t, end: 5.157158}
   - {lab: _, end: 7.215}
+  start: 1823.46
+  end: 1830.68
 - prompt: m0383
   file: ./pavoque/StefanObadiah/wav/m0383.wav
   date: 2007-11-02T15:19:02+0100
@@ -12594,6 +13184,8 @@
   - {lab: I, end: 3.36496}
   - {lab: n, end: 3.601981}
   - {lab: _, end: 5.855}
+  start: 1830.68
+  end: 1836.54
 - prompt: m0384
   file: ./pavoque/StefanObadiah/wav/m0384.wav
   date: 2007-11-02T15:19:26+0100
@@ -12646,6 +13238,8 @@
   - {lab: 'o:', end: 4.325}
   - {lab: n, end: 4.546381}
   - {lab: _, end: 6.975}
+  start: 1836.54
+  end: 1843.52
 - prompt: m0385
   file: ./pavoque/StefanObadiah/wav/m0385.wav
   date: 2007-11-02T15:19:36+0100
@@ -12675,6 +13269,8 @@
   - {lab: a, end: 2.715}
   - {lab: x, end: 2.97}
   - {lab: _, end: 4.975}
+  start: 1843.52
+  end: 1848.5
 - prompt: m0386
   file: ./pavoque/StefanObadiah/wav/m0386.wav
   date: 2007-11-02T15:20:00+0100
@@ -12728,6 +13324,8 @@
   - {lab: '6', end: 5.505}
   - {lab: t, end: 5.736562}
   - {lab: _, end: 7.135}
+  start: 1848.5
+  end: 1855.64
 - prompt: m0387
   file: ./pavoque/StefanObadiah/wav/m0387.wav
   date: 2007-11-02T15:20:10+0100
@@ -12774,6 +13372,8 @@
   - {lab: N, end: 4.52}
   - {lab: t, end: 4.723691}
   - {lab: _, end: 6.655}
+  start: 1855.64
+  end: 1862.3
 - prompt: m0389
   file: ./pavoque/StefanObadiah/wav/m0389.wav
   date: 2007-11-02T15:20:34+0100
@@ -12813,6 +13413,8 @@
   - {lab: 'e:', end: 3.882591}
   - {lab: '6', end: 4.073619}
   - {lab: _, end: 5.695}
+  start: 1862.3
+  end: 1868.0
 - prompt: m0388
   file: ./pavoque/StefanObadiah/wav/m0388.wav
   date: 2007-11-02T15:21:34+0100
@@ -12879,6 +13481,8 @@
   - {lab: 'o:', end: 7.84}
   - {lab: m, end: 8.042746}
   - {lab: _, end: 8.935}
+  start: 1868.0
+  end: 1876.94
 - prompt: m0390
   file: ./pavoque/StefanObadiah/wav/m0390.wav
   date: 2007-11-02T15:21:56+0100
@@ -12951,6 +13555,8 @@
   - {lab: 'o:', end: 8.39}
   - {lab: n, end: 8.577698}
   - {lab: _, end: 9.455}
+  start: 1876.94
+  end: 1886.4
 - prompt: m0391
   file: ./pavoque/StefanObadiah/wav/m0391.wav
   date: 2007-11-02T15:22:20+0100
@@ -12999,6 +13605,8 @@
   - {lab: b, end: 4.545}
   - {lab: EI, end: 4.875}
   - {lab: _, end: 6.735}
+  start: 1886.4
+  end: 1893.14
 - prompt: m0392
   file: ./pavoque/StefanObadiah/wav/m0392.wav
   date: 2007-11-02T15:22:30+0100
@@ -13031,6 +13639,8 @@
   - {lab: '@', end: 2.96}
   - {lab: t, end: 3.215931}
   - {lab: _, end: 4.895}
+  start: 1893.14
+  end: 1898.04
 - prompt: m0393
   file: ./pavoque/StefanObadiah/wav/m0393.wav
   date: 2007-11-02T15:22:40+0100
@@ -13068,6 +13678,8 @@
   - {lab: l, end: 3.66}
   - {lab: 'a:', end: 3.89778}
   - {lab: _, end: 5.535}
+  start: 1898.04
+  end: 1903.58
 - prompt: m0394
   file: ./pavoque/StefanObadiah/wav/m0394.wav
   date: 2007-11-02T15:22:52+0100
@@ -13127,6 +13739,8 @@
   - {lab: '6', end: 4.97}
   - {lab: ts, end: 5.194811}
   - {lab: _, end: 8.095}
+  start: 1903.58
+  end: 1911.68
 - prompt: m0395
   file: ./pavoque/StefanObadiah/wav/m0395.wav
   date: 2007-11-02T15:23:02+0100
@@ -13171,6 +13785,8 @@
   - {lab: aI, end: 4.81}
   - {lab: n, end: 4.995247}
   - {lab: _, end: 6.415}
+  start: 1911.68
+  end: 1918.1
 - prompt: m0396
   file: ./pavoque/StefanObadiah/wav/m0396.wav
   date: 2007-11-02T15:23:16+0100
@@ -13239,6 +13855,8 @@
   - {lab: n, end: 7.15}
   - {lab: '@', end: 7.313079}
   - {lab: _, end: 8.735}
+  start: 1918.1
+  end: 1926.84
 - prompt: m0397
   file: ./pavoque/StefanObadiah/wav/m0397.wav
   date: 2007-11-02T15:23:28+0100
@@ -13301,6 +13919,8 @@
   - {lab: aI, end: 5.69}
   - {lab: t, end: 5.946636}
   - {lab: _, end: 8.175}
+  start: 1926.84
+  end: 1935.02
 - prompt: m0399
   file: ./pavoque/StefanObadiah/wav/m0399.wav
   date: 2007-11-02T15:23:54+0100
@@ -13350,6 +13970,8 @@
   - {lab: N, end: 5.95}
   - {lab: 'a:', end: 6.228006}
   - {lab: _, end: 7.375}
+  start: 1935.02
+  end: 1942.4
 - prompt: m0400
   file: ./pavoque/StefanObadiah/wav/m0400.wav
   date: 2007-11-02T15:24:22+0100
@@ -13416,6 +14038,8 @@
   - {lab: '@', end: 6.51}
   - {lab: n, end: 6.695303}
   - {lab: _, end: 8.975}
+  start: 1942.4
+  end: 1951.38
 - prompt: obadiah0090
   file: ./pavoque/StefanObadiah/wav/obadiah0090.wav
   date: 2007-11-05T12:56:32+0100
@@ -13434,6 +14058,8 @@
   - {lab: E, end: 1.305}
   - {lab: s, end: 1.502569}
   - {lab: _, end: 3.215}
+  start: 1951.38
+  end: 1954.6
 - prompt: obadiah0091
   file: ./pavoque/StefanObadiah/wav/obadiah0091.wav
   date: 2007-11-05T12:56:38+0100
@@ -13452,6 +14078,8 @@
   - {lab: 'o:', end: 1.325}
   - {lab: s, end: 1.535}
   - {lab: _, end: 3.215}
+  start: 1954.6
+  end: 1957.82
 - prompt: obadiah0092
   file: ./pavoque/StefanObadiah/wav/obadiah0092.wav
   date: 2007-11-05T12:57:34+0100
@@ -13486,6 +14114,8 @@
   - {lab: s, end: 3.21}
   - {lab: t, end: 3.421323}
   - {lab: _, end: 4.895}
+  start: 1957.82
+  end: 1962.72
 - prompt: obadiah0093
   file: ./pavoque/StefanObadiah/wav/obadiah0093.wav
   date: 2007-11-05T12:57:40+0100
@@ -13515,6 +14145,8 @@
   - {lab: 'a:', end: 2.994787}
   - {lab: '6', end: 3.18}
   - {lab: _, end: 4.355}
+  start: 1962.72
+  end: 1967.08
 - prompt: obadiah0094
   file: ./pavoque/StefanObadiah/wav/obadiah0094.wav
   date: 2007-11-05T12:57:46+0100
@@ -13541,6 +14173,8 @@
   - {lab: d, end: 2.595}
   - {lab: '@', end: 2.785}
   - {lab: _, end: 3.995}
+  start: 1967.08
+  end: 1971.08
 - prompt: obadiah0095
   file: ./pavoque/StefanObadiah/wav/obadiah0095.wav
   date: 2007-11-05T12:57:54+0100
@@ -13576,6 +14210,8 @@
   - {lab: aI, end: 3.375}
   - {lab: s, end: 3.595}
   - {lab: _, end: 4.775}
+  start: 1971.08
+  end: 1975.86
 - prompt: obadiah0096
   file: ./pavoque/StefanObadiah/wav/obadiah0096.wav
   date: 2007-11-05T12:58:02+0100
@@ -13619,6 +14255,8 @@
   - {lab: '6', end: 4.235}
   - {lab: t, end: 4.395}
   - {lab: _, end: 5.675}
+  start: 1975.86
+  end: 1981.54
 - prompt: obadiah0097
   file: ./pavoque/StefanObadiah/wav/obadiah0097.wav
   date: 2007-11-05T12:58:10+0100
@@ -13655,6 +14293,8 @@
   - {lab: '@', end: 2.85}
   - {lab: n, end: 3.036788}
   - {lab: _, end: 4.895}
+  start: 1981.54
+  end: 1986.44
 - prompt: obadiah0098
   file: ./pavoque/StefanObadiah/wav/obadiah0098.wav
   date: 2007-11-05T12:58:16+0100
@@ -13685,6 +14325,8 @@
   - {lab: aI, end: 2.825}
   - {lab: n, end: 3.17}
   - {lab: _, end: 4.235}
+  start: 1986.44
+  end: 1990.68
 - prompt: obadiah0099
   file: ./pavoque/StefanObadiah/wav/obadiah0099.wav
   date: 2007-11-05T12:58:22+0100
@@ -13707,6 +14349,8 @@
   - {lab: '@', end: 1.925}
   - {lab: n, end: 2.070484}
   - {lab: _, end: 3.695}
+  start: 1990.68
+  end: 1994.38
 - prompt: obadiah0100
   file: ./pavoque/StefanObadiah/wav/obadiah0100.wav
   date: 2007-11-05T12:58:32+0100
@@ -13771,6 +14415,8 @@
   - {lab: s, end: 5.006617}
   - {lab: t, end: 5.130834}
   - {lab: _, end: 7.295}
+  start: 1994.38
+  end: 2001.68
 - prompt: obadiah0101
   file: ./pavoque/StefanObadiah/wav/obadiah0101.wav
   date: 2007-11-05T12:58:38+0100
@@ -13787,6 +14433,8 @@
   - {lab: t, end: 1.785}
   - {lab: '6', end: 2.035}
   - {lab: _, end: 3.215}
+  start: 2001.68
+  end: 2004.9
 - prompt: obadiah0102
   file: ./pavoque/StefanObadiah/wav/obadiah0102.wav
   date: 2007-11-05T12:58:44+0100
@@ -13807,6 +14455,8 @@
   - {lab: 'e:', end: 1.72}
   - {lab: '6', end: 1.881744}
   - {lab: _, end: 3.455}
+  start: 2004.9
+  end: 2008.36
 - prompt: obadiah0103
   file: ./pavoque/StefanObadiah/wav/obadiah0103.wav
   date: 2007-11-05T12:58:50+0100
@@ -13830,6 +14480,8 @@
   - {lab: 'u:', end: 1.88}
   - {lab: n, end: 2.236089}
   - {lab: _, end: 3.875}
+  start: 2008.36
+  end: 2012.24
 - prompt: obadiah0104
   file: ./pavoque/StefanObadiah/wav/obadiah0104.wav
   date: 2007-11-05T12:58:56+0100
@@ -13857,6 +14509,8 @@
   - {lab: '@', end: 2.04}
   - {lab: n, end: 2.239732}
   - {lab: _, end: 4.055}
+  start: 2012.24
+  end: 2016.3
 - prompt: obadiah0105
   file: ./pavoque/StefanObadiah/wav/obadiah0105.wav
   date: 2007-11-05T12:59:02+0100
@@ -13883,6 +14537,8 @@
   - {lab: '@', end: 2.125}
   - {lab: n, end: 2.238966}
   - {lab: _, end: 3.995}
+  start: 2016.3
+  end: 2020.3
 - prompt: obadiah0106
   file: ./pavoque/StefanObadiah/wav/obadiah0106.wav
   date: 2007-11-05T12:59:10+0100
@@ -13917,6 +14573,8 @@
   - {lab: '@', end: 2.805}
   - {lab: n, end: 3.013746}
   - {lab: _, end: 4.655}
+  start: 2020.3
+  end: 2024.96
 - prompt: obadiah0107
   file: ./pavoque/StefanObadiah/wav/obadiah0107.wav
   date: 2007-11-05T12:59:16+0100
@@ -13946,6 +14604,8 @@
   - {lab: C, end: 2.364985}
   - {lab: t, end: 2.525}
   - {lab: _, end: 3.935}
+  start: 2024.96
+  end: 2028.9
 - prompt: obadiah0108
   file: ./pavoque/StefanObadiah/wav/obadiah0108.wav
   date: 2007-11-05T12:59:24+0100
@@ -13983,6 +14643,8 @@
   - {lab: I, end: 3.27}
   - {lab: C, end: 3.465}
   - {lab: _, end: 4.955}
+  start: 2028.9
+  end: 2033.86
 - prompt: obadiah0109
   file: ./pavoque/StefanObadiah/wav/obadiah0109.wav
   date: 2007-11-05T12:59:30+0100
@@ -14019,6 +14681,8 @@
   - {lab: '@', end: 3.171879}
   - {lab: n, end: 3.389703}
   - {lab: _, end: 4.415}
+  start: 2033.86
+  end: 2038.28
 - prompt: obadiah0110
   file: ./pavoque/StefanObadiah/wav/obadiah0110.wav
   date: 2007-11-05T13:00:22+0100
@@ -14087,6 +14751,8 @@
   - {lab: m, end: 5.255}
   - {lab: '6', end: 5.455}
   - {lab: _, end: 7.595}
+  start: 2038.28
+  end: 2045.88
 - prompt: obadiah0111
   file: ./pavoque/StefanObadiah/wav/obadiah0111.wav
   date: 2007-11-05T13:00:30+0100
@@ -14143,6 +14809,8 @@
   - {lab: 'u:', end: 6.135}
   - {lab: k, end: 6.15}
   - {lab: _, end: 6.155}
+  start: 2045.88
+  end: 2052.04
 - prompt: obadiah0112
   file: ./pavoque/StefanObadiah/wav/obadiah0112.wav
   date: 2007-11-05T13:00:38+0100
@@ -14178,6 +14846,8 @@
   - {lab: 'a:', end: 3.530607}
   - {lab: '6', end: 3.66}
   - {lab: _, end: 4.655}
+  start: 2052.04
+  end: 2056.7
 - prompt: obadiah0113
   file: ./pavoque/StefanObadiah/wav/obadiah0113.wav
   date: 2007-11-05T13:00:44+0100
@@ -14212,6 +14882,8 @@
   - {lab: aI, end: 2.925}
   - {lab: s, end: 3.121106}
   - {lab: _, end: 4.655}
+  start: 2056.7
+  end: 2061.36
 - prompt: obadiah0114
   file: ./pavoque/StefanObadiah/wav/obadiah0114.wav
   date: 2007-11-05T13:00:54+0100
@@ -14264,6 +14936,8 @@
   - {lab: '@', end: 3.555}
   - {lab: n, end: 3.716252}
   - {lab: _, end: 6.035}
+  start: 2061.36
+  end: 2067.4
 - prompt: obadiah0115
   file: ./pavoque/StefanObadiah/wav/obadiah0115.wav
   date: 2007-11-05T13:01:00+0100
@@ -14291,6 +14965,8 @@
   - {lab: aU, end: 2.005}
   - {lab: s, end: 2.24}
   - {lab: _, end: 3.995}
+  start: 2067.4
+  end: 2071.4
 - prompt: obadiah0116
   file: ./pavoque/StefanObadiah/wav/obadiah0116.wav
   date: 2007-11-05T13:01:08+0100
@@ -14350,6 +15026,8 @@
   - {lab: 'i:', end: 4.92}
   - {lab: '6', end: 5.057035}
   - {lab: _, end: 6.635}
+  start: 2071.4
+  end: 2078.04
 - prompt: obadiah0117
   file: ./pavoque/StefanObadiah/wav/obadiah0117.wav
   date: 2007-11-05T13:01:16+0100
@@ -14383,6 +15061,8 @@
   - {lab: '@', end: 2.63}
   - {lab: n, end: 2.757322}
   - {lab: _, end: 4.415}
+  start: 2078.04
+  end: 2082.46
 - prompt: obadiah0118
   file: ./pavoque/StefanObadiah/wav/obadiah0118.wav
   date: 2007-11-05T13:01:22+0100
@@ -14406,6 +15086,8 @@
   - {lab: a, end: 1.68}
   - {lab: s, end: 1.895}
   - {lab: _, end: 3.695}
+  start: 2082.46
+  end: 2086.16
 - prompt: obadiah0119
   file: ./pavoque/StefanObadiah/wav/obadiah0119.wav
   date: 2007-11-05T13:01:28+0100
@@ -14434,6 +15116,8 @@
   - {lab: n, end: 2.56}
   - {lab: t, end: 2.736058}
   - {lab: _, end: 4.175}
+  start: 2086.16
+  end: 2090.34
 - prompt: obadiah0120
   file: ./pavoque/StefanObadiah/wav/obadiah0120.wav
   date: 2007-11-05T13:01:36+0100
@@ -14468,6 +15152,8 @@
   - {lab: 'i:', end: 2.86}
   - {lab: f, end: 3.18}
   - {lab: _, end: 4.355}
+  start: 2090.34
+  end: 2094.7
 - prompt: obadiah0121
   file: ./pavoque/StefanObadiah/wav/obadiah0121.wav
   date: 2007-11-05T13:01:42+0100
@@ -14502,6 +15188,8 @@
   - {lab: '@', end: 2.815}
   - {lab: n, end: 2.945496}
   - {lab: _, end: 4.655}
+  start: 2094.7
+  end: 2099.36
 - prompt: obadiah0122
   file: ./pavoque/StefanObadiah/wav/obadiah0122.wav
   date: 2007-11-05T13:01:50+0100
@@ -14538,6 +15226,8 @@
   - {lab: a, end: 2.765}
   - {lab: p, end: 2.965}
   - {lab: _, end: 4.595}
+  start: 2099.36
+  end: 2103.96
 - prompt: obadiah0123
   file: ./pavoque/StefanObadiah/wav/obadiah0123.wav
   date: 2007-11-05T13:01:56+0100
@@ -14575,6 +15265,8 @@
   - {lab: 'a:', end: 3.468307}
   - {lab: l, end: 3.63}
   - {lab: _, end: 4.955}
+  start: 2103.96
+  end: 2108.92
 - prompt: obadiah0124
   file: ./pavoque/StefanObadiah/wav/obadiah0124.wav
   date: 2007-11-05T13:02:04+0100
@@ -14615,6 +15307,8 @@
   - {lab: s, end: 4.09}
   - {lab: t, end: 4.189506}
   - {lab: _, end: 5.315}
+  start: 2108.92
+  end: 2114.24
 - prompt: poker_d0001
   file: ./pavoque/StefanObadiah/wav/poker_d0001.wav
   date: 2007-11-05T13:02:12+0100
@@ -14662,6 +15356,8 @@
   - {lab: a, end: 3.903126}
   - {lab: t, end: 4.123803}
   - {lab: _, end: 5.735}
+  start: 2114.24
+  end: 2119.98
 - prompt: poker_d0002
   file: ./pavoque/StefanObadiah/wav/poker_d0002.wav
   date: 2007-11-05T13:02:18+0100
@@ -14681,6 +15377,8 @@
   - {lab: aU, end: 1.415}
   - {lab: s, end: 1.675}
   - {lab: _, end: 3.395}
+  start: 2119.98
+  end: 2123.38
 - prompt: poker_d0003
   file: ./pavoque/StefanObadiah/wav/poker_d0003.wav
   date: 2007-11-05T13:02:24+0100
@@ -14696,6 +15394,8 @@
   - {lab: s, end: 1.323526}
   - {lab: '@', end: 1.515}
   - {lab: _, end: 3.095}
+  start: 2123.38
+  end: 2126.48
 - prompt: poker_d0004
   file: ./pavoque/StefanObadiah/wav/poker_d0004.wav
   date: 2007-11-05T13:03:04+0100
@@ -14711,6 +15411,8 @@
   - {lab: I, end: 0.995}
   - {lab: C, end: 1.249339}
   - {lab: _, end: 3.095}
+  start: 2126.48
+  end: 2129.58
 - prompt: poker_d0005
   file: ./pavoque/StefanObadiah/wav/poker_d0005.wav
   date: 2007-11-05T13:03:10+0100
@@ -14728,6 +15430,8 @@
   - {lab: aU, end: 1.278018}
   - {lab: s, end: 1.483718}
   - {lab: _, end: 3.275}
+  start: 2129.58
+  end: 2132.86
 - prompt: poker_d0006
   file: ./pavoque/StefanObadiah/wav/poker_d0006.wav
   date: 2007-11-05T13:03:16+0100
@@ -14749,6 +15453,8 @@
   - {lab: I, end: 1.405}
   - {lab: C, end: 1.570217}
   - {lab: _, end: 3.635}
+  start: 2132.86
+  end: 2136.5
 - prompt: poker_d0007
   file: ./pavoque/StefanObadiah/wav/poker_d0007.wav
   date: 2007-11-05T13:03:22+0100
@@ -14772,6 +15478,8 @@
   - {lab: t, end: 1.487668}
   - {lab: '6', end: 1.735555}
   - {lab: _, end: 3.875}
+  start: 2136.5
+  end: 2140.38
 - prompt: poker_d0008
   file: ./pavoque/StefanObadiah/wav/poker_d0008.wav
   date: 2007-11-05T13:03:28+0100
@@ -14802,6 +15510,8 @@
   - {lab: '@', end: 2.22}
   - {lab: n, end: 2.393191}
   - {lab: _, end: 4.415}
+  start: 2140.38
+  end: 2144.8
 - prompt: poker_d0009
   file: ./pavoque/StefanObadiah/wav/poker_d0009.wav
   date: 2007-11-05T13:03:36+0100
@@ -14831,6 +15541,8 @@
   - {lab: '@', end: 2.03}
   - {lab: n, end: 2.2116}
   - {lab: _, end: 4.175}
+  start: 2144.8
+  end: 2148.98
 - prompt: poker_d0010
   file: ./pavoque/StefanObadiah/wav/poker_d0010.wav
   date: 2007-11-05T13:03:42+0100
@@ -14869,6 +15581,8 @@
   - {lab: '@', end: 2.33}
   - {lab: n, end: 2.518478}
   - {lab: _, end: 4.955}
+  start: 2148.98
+  end: 2153.94
 - prompt: poker_d0011
   file: ./pavoque/StefanObadiah/wav/poker_d0011.wav
   date: 2007-11-05T13:03:48+0100
@@ -14890,6 +15604,8 @@
   - {lab: 'a:', end: 1.74}
   - {lab: '6', end: 1.888669}
   - {lab: _, end: 3.575}
+  start: 2153.94
+  end: 2157.52
 - prompt: poker_d0013
   file: ./pavoque/StefanObadiah/wav/poker_d0013.wav
   date: 2007-11-05T13:04:02+0100
@@ -14911,6 +15627,8 @@
   - {lab: R, end: 1.714256}
   - {lab: '@', end: 1.916448}
   - {lab: _, end: 3.635}
+  start: 2157.52
+  end: 2161.16
 - prompt: poker_d0014
   file: ./pavoque/StefanObadiah/wav/poker_d0014.wav
   date: 2007-11-05T13:04:18+0100
@@ -14935,6 +15653,8 @@
   - {lab: '@', end: 1.735}
   - {lab: n, end: 1.967075}
   - {lab: _, end: 3.815}
+  start: 2161.16
+  end: 2164.98
 - prompt: poker_d0015
   file: ./pavoque/StefanObadiah/wav/poker_d0015.wav
   date: 2007-11-05T13:04:24+0100
@@ -14958,6 +15678,8 @@
   - {lab: I, end: 1.551372}
   - {lab: N, end: 1.677296}
   - {lab: _, end: 3.755}
+  start: 2164.98
+  end: 2168.74
 - prompt: poker_d0016
   file: ./pavoque/StefanObadiah/wav/poker_d0016.wav
   date: 2007-11-05T13:04:30+0100
@@ -14981,6 +15703,8 @@
   - {lab: C, end: 1.75}
   - {lab: '@', end: 1.972239}
   - {lab: _, end: 3.815}
+  start: 2168.74
+  end: 2172.56
 - prompt: poker_d0017
   file: ./pavoque/StefanObadiah/wav/poker_d0017.wav
   date: 2007-11-05T13:04:38+0100
@@ -15006,6 +15730,8 @@
   - {lab: EI, end: 2.05266}
   - {lab: t, end: 2.288121}
   - {lab: _, end: 3.935}
+  start: 2172.56
+  end: 2176.5
 - prompt: poker_d0018
   file: ./pavoque/StefanObadiah/wav/poker_d0018.wav
   date: 2007-11-05T13:04:44+0100
@@ -15030,6 +15756,8 @@
   - {lab: s, end: 1.9}
   - {lab: '@', end: 2.085}
   - {lab: _, end: 3.695}
+  start: 2176.5
+  end: 2180.2
 - prompt: poker_d0019
   file: ./pavoque/StefanObadiah/wav/poker_d0019.wav
   date: 2007-11-05T13:04:50+0100
@@ -15052,6 +15780,8 @@
   - {lab: a, end: 1.89}
   - {lab: S, end: 2.130846}
   - {lab: _, end: 3.635}
+  start: 2180.2
+  end: 2183.84
 - prompt: poker_d0020
   file: ./pavoque/StefanObadiah/wav/poker_d0020.wav
   date: 2007-11-05T13:04:56+0100
@@ -15075,6 +15805,8 @@
   - {lab: aU, end: 2.035}
   - {lab: s, end: 2.22}
   - {lab: _, end: 3.875}
+  start: 2183.84
+  end: 2187.72
 - prompt: poker_d0021
   file: ./pavoque/StefanObadiah/wav/poker_d0021.wav
   date: 2007-11-05T13:05:02+0100
@@ -15101,6 +15833,8 @@
   - {lab: I, end: 1.953312}
   - {lab: N, end: 2.168192}
   - {lab: _, end: 3.935}
+  start: 2187.72
+  end: 2191.66
 - prompt: poker_d0022
   file: ./pavoque/StefanObadiah/wav/poker_d0022.wav
   date: 2007-11-05T13:05:08+0100
@@ -15123,6 +15857,8 @@
   - {lab: C, end: 1.68}
   - {lab: '@', end: 1.849948}
   - {lab: _, end: 3.755}
+  start: 2191.66
+  end: 2195.42
 - prompt: poker_d0023
   file: ./pavoque/StefanObadiah/wav/poker_d0023.wav
   date: 2007-11-05T13:05:22+0100
@@ -15150,6 +15886,8 @@
   - {lab: a, end: 2.145095}
   - {lab: S, end: 2.390972}
   - {lab: _, end: 4.175}
+  start: 2195.42
+  end: 2199.6
 - prompt: poker_d0024
   file: ./pavoque/StefanObadiah/wav/poker_d0024.wav
   date: 2007-11-05T13:05:30+0100
@@ -15176,6 +15914,8 @@
   - {lab: a, end: 1.798429}
   - {lab: S, end: 2.01}
   - {lab: _, end: 3.995}
+  start: 2199.6
+  end: 2203.6
 - prompt: poker_d0025
   file: ./pavoque/StefanObadiah/wav/poker_d0025.wav
   date: 2007-11-05T13:05:36+0100
@@ -15207,6 +15947,8 @@
   - {lab: C, end: 2.627579}
   - {lab: t, end: 2.81}
   - {lab: _, end: 4.595}
+  start: 2203.6
+  end: 2208.2
 - prompt: poker_d0026
   file: ./pavoque/StefanObadiah/wav/poker_d0026.wav
   date: 2007-11-05T13:05:42+0100
@@ -15236,6 +15978,8 @@
   - {lab: '@', end: 2.331861}
   - {lab: n, end: 2.509457}
   - {lab: _, end: 4.355}
+  start: 2208.2
+  end: 2212.56
 - prompt: poker_d0027
   file: ./pavoque/StefanObadiah/wav/poker_d0027.wav
   date: 2007-11-05T13:05:50+0100
@@ -15274,6 +16018,8 @@
   - {lab: s, end: 2.962492}
   - {lab: '@', end: 3.116992}
   - {lab: _, end: 5.075}
+  start: 2212.56
+  end: 2217.64
 - prompt: poker_d0028
   file: ./pavoque/StefanObadiah/wav/poker_d0028.wav
   date: 2007-11-05T13:05:58+0100
@@ -15302,6 +16048,8 @@
   - {lab: aI, end: 2.589154}
   - {lab: n, end: 2.792506}
   - {lab: _, end: 4.295}
+  start: 2217.64
+  end: 2221.94
 - prompt: poker_d0029
   file: ./pavoque/StefanObadiah/wav/poker_d0029.wav
   date: 2007-11-05T13:06:04+0100
@@ -15324,6 +16072,8 @@
   - {lab: C, end: 1.831421}
   - {lab: t, end: 1.965}
   - {lab: _, end: 3.815}
+  start: 2221.94
+  end: 2225.76
 - prompt: poker_d0030
   file: ./pavoque/StefanObadiah/wav/poker_d0030.wav
   date: 2007-11-05T13:06:10+0100
@@ -15340,6 +16090,8 @@
   - {lab: E, end: 1.557429}
   - {lab: C, end: 1.765}
   - {lab: _, end: 3.215}
+  start: 2225.76
+  end: 2228.98
 - prompt: poker_d0031
   file: ./pavoque/StefanObadiah/wav/poker_d0031.wav
   date: 2007-11-05T13:06:14+0100
@@ -15353,6 +16105,8 @@
   - {lab: aI, end: 1.355}
   - {lab: n, end: 1.56}
   - {lab: _, end: 2.975}
+  start: 2228.98
+  end: 2231.96
 - prompt: poker_d0032
   file: ./pavoque/StefanObadiah/wav/poker_d0032.wav
   date: 2007-11-05T13:06:22+0100
@@ -15395,6 +16149,8 @@
   - {lab: '@', end: 3.074701}
   - {lab: n, end: 3.205}
   - {lab: _, end: 5.315}
+  start: 2231.96
+  end: 2237.28
 - prompt: m0103
   file: ./pavoque/StefanObadiah/wav/m0103.wav
   date: 2007-11-05T13:08:04+0100
@@ -15429,6 +16185,8 @@
   - {lab: 'E:', end: 2.335}
   - {lab: '6', end: 2.486669}
   - {lab: _, end: 4.535}
+  start: 2237.28
+  end: 2241.82
 - prompt: m0104
   file: ./pavoque/StefanObadiah/wav/m0104.wav
   date: 2007-11-05T13:08:12+0100
@@ -15475,6 +16233,8 @@
   - {lab: a, end: 3.875}
   - {lab: N, end: 4.131688}
   - {lab: _, end: 5.555}
+  start: 2241.82
+  end: 2247.38
 - prompt: m0105
   file: ./pavoque/StefanObadiah/wav/m0105.wav
   date: 2007-11-05T13:08:20+0100
@@ -15515,6 +16275,8 @@
   - {lab: n, end: 3.89}
   - {lab: t, end: 4.028232}
   - {lab: _, end: 5.135}
+  start: 2247.38
+  end: 2252.52
 - prompt: m0106
   file: ./pavoque/StefanObadiah/wav/m0106.wav
   date: 2007-11-05T13:08:28+0100
@@ -15543,6 +16305,8 @@
   - {lab: '@', end: 2.315}
   - {lab: n, end: 2.525}
   - {lab: _, end: 4.175}
+  start: 2252.52
+  end: 2256.7
 - prompt: m0107
   file: ./pavoque/StefanObadiah/wav/m0107.wav
   date: 2007-11-05T13:09:44+0100
@@ -15627,6 +16391,8 @@
   - {lab: '@', end: 6.905}
   - {lab: n, end: 7.056593}
   - {lab: _, end: 8.915}
+  start: 2256.7
+  end: 2265.62
 - prompt: m0108
   file: ./pavoque/StefanObadiah/wav/m0108.wav
   date: 2007-11-05T13:09:52+0100
@@ -15668,6 +16434,8 @@
   - {lab: '9', end: 3.805}
   - {lab: l, end: 3.977071}
   - {lab: _, end: 5.015}
+  start: 2265.62
+  end: 2270.64
 - prompt: m0109
   file: ./pavoque/StefanObadiah/wav/m0109.wav
   date: 2007-11-05T13:10:02+0100
@@ -15719,6 +16487,8 @@
   - {lab: '6', end: 4.27}
   - {lab: s, end: 4.435}
   - {lab: _, end: 6.035}
+  start: 2270.64
+  end: 2276.68
 - prompt: m0110
   file: ./pavoque/StefanObadiah/wav/m0110.wav
   date: 2007-11-05T13:10:32+0100
@@ -15758,6 +16528,8 @@
   - {lab: O, end: 3.25}
   - {lab: l, end: 3.425}
   - {lab: _, end: 5.075}
+  start: 2276.68
+  end: 2281.76
 - prompt: m0111
   file: ./pavoque/StefanObadiah/wav/m0111.wav
   date: 2007-11-05T13:11:26+0100
@@ -15808,6 +16580,8 @@
   - {lab: '@', end: 4.211622}
   - {lab: n, end: 4.400375}
   - {lab: _, end: 5.675}
+  start: 2281.76
+  end: 2287.44
 - prompt: m0112
   file: ./pavoque/StefanObadiah/wav/m0112.wav
   date: 2007-11-05T13:11:36+0100
@@ -15849,6 +16623,8 @@
   - {lab: f, end: 3.9}
   - {lab: t, end: 4.069686}
   - {lab: _, end: 5.435}
+  start: 2287.44
+  end: 2292.88
 - prompt: m0113
   file: ./pavoque/StefanObadiah/wav/m0113.wav
   date: 2007-11-05T13:11:44+0100
@@ -15890,6 +16666,8 @@
   - {lab: I, end: 3.525}
   - {lab: C, end: 3.765}
   - {lab: _, end: 5.555}
+  start: 2292.88
+  end: 2298.44
 - prompt: m0114
   file: ./pavoque/StefanObadiah/wav/m0114.wav
   date: 2007-11-05T13:11:54+0100
@@ -15936,6 +16714,8 @@
   - {lab: '@', end: 4.14}
   - {lab: t, end: 4.343798}
   - {lab: _, end: 5.735}
+  start: 2298.44
+  end: 2304.18
 - prompt: m0116
   file: ./pavoque/StefanObadiah/wav/m0116.wav
   date: 2007-11-05T13:12:10+0100
@@ -15970,6 +16750,8 @@
   - {lab: '@', end: 2.885}
   - {lab: n, end: 3.085}
   - {lab: _, end: 4.595}
+  start: 2304.18
+  end: 2308.78
 - prompt: m0117
   file: ./pavoque/StefanObadiah/wav/m0117.wav
   date: 2007-11-05T13:12:18+0100
@@ -16003,6 +16785,8 @@
   - {lab: z, end: 2.825}
   - {lab: 'e:', end: 3.07}
   - {lab: _, end: 4.415}
+  start: 2308.78
+  end: 2313.2
 - prompt: m0118
   file: ./pavoque/StefanObadiah/wav/m0118.wav
   date: 2007-11-05T13:12:26+0100
@@ -16037,6 +16821,8 @@
   - {lab: d, end: 3.395}
   - {lab: '@', end: 3.607895}
   - {lab: _, end: 4.775}
+  start: 2313.2
+  end: 2317.98
 - prompt: m0119
   file: ./pavoque/StefanObadiah/wav/m0119.wav
   date: 2007-11-05T13:12:34+0100
@@ -16063,6 +16849,8 @@
   - {lab: p, end: 2.237177}
   - {lab: t, end: 2.502781}
   - {lab: _, end: 3.995}
+  start: 2317.98
+  end: 2321.98
 - prompt: m0120
   file: ./pavoque/StefanObadiah/wav/m0120.wav
   date: 2007-11-05T13:12:42+0100
@@ -16093,6 +16881,8 @@
   - {lab: O, end: 2.895}
   - {lab: n, end: 3.110814}
   - {lab: _, end: 4.295}
+  start: 2321.98
+  end: 2326.28
 - prompt: m0121
   file: ./pavoque/StefanObadiah/wav/m0121.wav
   date: 2007-11-05T13:12:50+0100
@@ -16129,6 +16919,8 @@
   - {lab: '@', end: 3.437304}
   - {lab: l, end: 3.644947}
   - {lab: _, end: 4.775}
+  start: 2326.28
+  end: 2331.06
 - prompt: m0122
   file: ./pavoque/StefanObadiah/wav/m0122.wav
   date: 2007-11-05T13:13:00+0100
@@ -16185,6 +16977,8 @@
   - {lab: '@', end: 5.443646}
   - {lab: n, end: 5.632383}
   - {lab: _, end: 6.635}
+  start: 2331.06
+  end: 2337.7
 - prompt: m0123
   file: ./pavoque/StefanObadiah/wav/m0123.wav
   date: 2007-11-05T13:13:08+0100
@@ -16218,6 +17012,8 @@
   - {lab: pf, end: 3.095}
   - {lab: '@', end: 3.303077}
   - {lab: _, end: 4.535}
+  start: 2337.7
+  end: 2342.24
 - prompt: m0124
   file: ./pavoque/StefanObadiah/wav/m0124.wav
   date: 2007-11-05T13:13:18+0100
@@ -16271,6 +17067,8 @@
   - {lab: '@', end: 4.477191}
   - {lab: n, end: 4.606103}
   - {lab: _, end: 5.795}
+  start: 2342.24
+  end: 2348.04
 - prompt: m0125
   file: ./pavoque/StefanObadiah/wav/m0125.wav
   date: 2007-11-05T13:13:26+0100
@@ -16306,6 +17104,8 @@
   - {lab: '@', end: 2.829382}
   - {lab: l, end: 3.001561}
   - {lab: _, end: 4.715}
+  start: 2348.04
+  end: 2352.76
 - prompt: m0127
   file: ./pavoque/StefanObadiah/wav/m0127.wav
   date: 2007-11-05T13:13:44+0100
@@ -16348,6 +17148,8 @@
   - {lab: d, end: 3.625}
   - {lab: 'a:', end: 3.995}
   - {lab: _, end: 5.255}
+  start: 2352.76
+  end: 2358.02
 - prompt: m0128
   file: ./pavoque/StefanObadiah/wav/m0128.wav
   date: 2007-11-05T13:14:42+0100
@@ -16421,6 +17223,8 @@
   - {lab: 'i:', end: 5.75}
   - {lab: m, end: 5.930103}
   - {lab: _, end: 7.835}
+  start: 2358.02
+  end: 2365.86
 - prompt: m0129
   file: ./pavoque/StefanObadiah/wav/m0129.wav
   date: 2007-11-05T13:14:50+0100
@@ -16453,6 +17257,8 @@
   - {lab: k, end: 2.792522}
   - {lab: t, end: 3.026775}
   - {lab: _, end: 4.475}
+  start: 2365.86
+  end: 2370.34
 - prompt: m0130
   file: ./pavoque/StefanObadiah/wav/m0130.wav
   date: 2007-11-05T13:15:00+0100
@@ -16499,6 +17305,8 @@
   - {lab: n, end: 4.15}
   - {lab: ts, end: 4.37}
   - {lab: _, end: 5.435}
+  start: 2370.34
+  end: 2375.78
 - prompt: m0131
   file: ./pavoque/StefanObadiah/wav/m0131.wav
   date: 2007-11-05T13:15:08+0100
@@ -16533,6 +17341,8 @@
   - {lab: b, end: 2.659999}
   - {lab: '6', end: 2.87}
   - {lab: _, end: 4.595}
+  start: 2375.78
+  end: 2380.38
 - prompt: m0132
   file: ./pavoque/StefanObadiah/wav/m0132.wav
   date: 2007-11-05T13:15:16+0100
@@ -16578,6 +17388,8 @@
   - {lab: EI, end: 3.575}
   - {lab: k, end: 3.77}
   - {lab: _, end: 5.255}
+  start: 2380.38
+  end: 2385.64
 - prompt: m0133
   file: ./pavoque/StefanObadiah/wav/m0133.wav
   date: 2007-11-05T13:15:26+0100
@@ -16622,6 +17434,8 @@
   - {lab: '@', end: 3.56611}
   - {lab: n, end: 3.713154}
   - {lab: _, end: 5.195}
+  start: 2385.64
+  end: 2390.84
 - prompt: m0134
   file: ./pavoque/StefanObadiah/wav/m0134.wav
   date: 2007-11-05T13:15:32+0100
@@ -16651,6 +17465,8 @@
   - {lab: I, end: 2.255191}
   - {lab: C, end: 2.413024}
   - {lab: _, end: 4.175}
+  start: 2390.84
+  end: 2395.02
 - prompt: m0135
   file: ./pavoque/StefanObadiah/wav/m0135.wav
   date: 2007-11-05T13:15:42+0100
@@ -16687,6 +17503,8 @@
   - {lab: aI, end: 3.149086}
   - {lab: t, end: 3.36}
   - {lab: _, end: 5.075}
+  start: 2395.02
+  end: 2400.1
 - prompt: m0137
   file: ./pavoque/StefanObadiah/wav/m0137.wav
   date: 2007-11-05T13:15:56+0100
@@ -16713,6 +17531,8 @@
   - {lab: 'a:', end: 2.125}
   - {lab: k, end: 2.261881}
   - {lab: _, end: 4.055}
+  start: 2400.1
+  end: 2404.16
 - prompt: m0138
   file: ./pavoque/StefanObadiah/wav/m0138.wav
   date: 2007-11-05T13:16:04+0100
@@ -16746,6 +17566,8 @@
   - {lab: '@', end: 2.969349}
   - {lab: n, end: 3.160049}
   - {lab: _, end: 4.415}
+  start: 2404.16
+  end: 2408.58
 - prompt: m0139
   file: ./pavoque/StefanObadiah/wav/m0139.wav
   date: 2007-11-05T13:16:12+0100
@@ -16774,6 +17596,8 @@
   - {lab: E, end: 2.565}
   - {lab: f, end: 2.745}
   - {lab: _, end: 4.415}
+  start: 2408.58
+  end: 2413.0
 - prompt: m0140
   file: ./pavoque/StefanObadiah/wav/m0140.wav
   date: 2007-11-05T13:16:22+0100
@@ -16835,6 +17659,8 @@
   - {lab: n, end: 4.63}
   - {lab: t, end: 4.781171}
   - {lab: _, end: 6.875}
+  start: 2413.0
+  end: 2419.88
 - prompt: m0141
   file: ./pavoque/StefanObadiah/wav/m0141.wav
   date: 2007-11-05T13:16:30+0100
@@ -16871,6 +17697,8 @@
   - {lab: 'u:', end: 3.755}
   - {lab: '6', end: 3.896536}
   - {lab: _, end: 4.955}
+  start: 2419.88
+  end: 2424.84
 - prompt: m0142
   file: ./pavoque/StefanObadiah/wav/m0142.wav
   date: 2007-11-05T13:17:08+0100
@@ -16944,6 +17772,8 @@
   - {lab: l, end: 6.425}
   - {lab: '6', end: 6.591891}
   - {lab: _, end: 7.475}
+  start: 2424.84
+  end: 2432.32
 - prompt: m0143
   file: ./pavoque/StefanObadiah/wav/m0143.wav
   date: 2007-11-05T13:17:16+0100
@@ -16984,6 +17814,8 @@
   - {lab: I, end: 3.445}
   - {lab: C, end: 3.627861}
   - {lab: _, end: 5.195}
+  start: 2432.32
+  end: 2437.52
 - prompt: m0144
   file: ./pavoque/StefanObadiah/wav/m0144.wav
   date: 2007-11-05T13:17:26+0100
@@ -17037,6 +17869,8 @@
   - {lab: '2:', end: 4.179134}
   - {lab: '6', end: 4.393706}
   - {lab: _, end: 6.155}
+  start: 2437.52
+  end: 2443.68
 - prompt: m0145
   file: ./pavoque/StefanObadiah/wav/m0145.wav
   date: 2007-11-05T13:18:02+0100
@@ -17096,6 +17930,8 @@
   - {lab: '@', end: 4.78}
   - {lab: n, end: 4.88835}
   - {lab: _, end: 6.755}
+  start: 2443.68
+  end: 2450.44
 - prompt: m0146
   file: ./pavoque/StefanObadiah/wav/m0146.wav
   date: 2007-11-05T13:18:12+0100
@@ -17138,6 +17974,8 @@
   - {lab: m, end: 4.125}
   - {lab: a~, end: 4.325}
   - {lab: _, end: 5.435}
+  start: 2450.44
+  end: 2455.88
 - prompt: m0148
   file: ./pavoque/StefanObadiah/wav/m0148.wav
   date: 2007-11-05T13:18:28+0100
@@ -17172,6 +18010,8 @@
   - {lab: 'a:', end: 3.755}
   - {lab: f, end: 3.945}
   - {lab: _, end: 4.775}
+  start: 2455.88
+  end: 2460.66
 - prompt: m0149
   file: ./pavoque/StefanObadiah/wav/m0149.wav
   date: 2007-11-05T13:18:34+0100
@@ -17200,6 +18040,8 @@
   - {lab: n, end: 2.65}
   - {lab: t, end: 2.819794}
   - {lab: _, end: 4.115}
+  start: 2460.66
+  end: 2464.78
 - prompt: m0150
   file: ./pavoque/StefanObadiah/wav/m0150.wav
   date: 2007-11-05T13:18:44+0100
@@ -17254,6 +18096,8 @@
   - {lab: k, end: 5.005}
   - {lab: '6', end: 5.235}
   - {lab: _, end: 6.695}
+  start: 2464.78
+  end: 2471.48
 - prompt: m0151
   file: ./pavoque/StefanObadiah/wav/m0151.wav
   date: 2007-11-05T13:18:52+0100
@@ -17289,6 +18133,8 @@
   - {lab: I, end: 2.55422}
   - {lab: C, end: 2.700518}
   - {lab: _, end: 4.535}
+  start: 2471.48
+  end: 2476.02
 - prompt: m0152
   file: ./pavoque/StefanObadiah/wav/m0152.wav
   date: 2007-11-05T13:19:04+0100
@@ -17361,6 +18207,8 @@
   - {lab: I, end: 6.11}
   - {lab: S, end: 6.34}
   - {lab: _, end: 7.415}
+  start: 2476.02
+  end: 2483.44
 - prompt: m0154
   file: ./pavoque/StefanObadiah/wav/m0154.wav
   date: 2007-11-05T13:19:22+0100
@@ -17424,6 +18272,8 @@
   - {lab: I, end: 5.311343}
   - {lab: n, end: 5.461475}
   - {lab: _, end: 6.755}
+  start: 2483.44
+  end: 2490.2
 - prompt: m0155
   file: ./pavoque/StefanObadiah/wav/m0155.wav
   date: 2007-11-05T13:19:32+0100
@@ -17475,6 +18325,8 @@
   - {lab: '@', end: 4.495459}
   - {lab: t, end: 4.64716}
   - {lab: _, end: 5.975}
+  start: 2490.2
+  end: 2496.18
 - prompt: m0156
   file: ./pavoque/StefanObadiah/wav/m0156.wav
   date: 2007-11-05T13:19:42+0100
@@ -17534,6 +18386,8 @@
   - {lab: 'o:', end: 4.769865}
   - {lab: x, end: 4.925786}
   - {lab: _, end: 6.755}
+  start: 2496.18
+  end: 2502.94
 - prompt: m0157
   file: ./pavoque/StefanObadiah/wav/m0157.wav
   date: 2007-11-05T13:19:50+0100
@@ -17562,6 +18416,8 @@
   - {lab: n, end: 2.065329}
   - {lab: '6', end: 2.3}
   - {lab: _, end: 4.175}
+  start: 2502.94
+  end: 2507.12
 - prompt: m0158
   file: ./pavoque/StefanObadiah/wav/m0158.wav
   date: 2007-11-05T13:19:58+0100
@@ -17592,6 +18448,8 @@
   - {lab: '@', end: 2.88}
   - {lab: n, end: 3.047888}
   - {lab: _, end: 4.295}
+  start: 2507.12
+  end: 2511.42
 - prompt: m0159
   file: ./pavoque/StefanObadiah/wav/m0159.wav
   date: 2007-11-05T13:20:06+0100
@@ -17628,6 +18486,8 @@
   - {lab: 'y:', end: 2.839156}
   - {lab: t, end: 3.045}
   - {lab: _, end: 4.655}
+  start: 2511.42
+  end: 2516.08
 - prompt: m0160
   file: ./pavoque/StefanObadiah/wav/m0160.wav
   date: 2007-11-05T13:20:14+0100
@@ -17654,6 +18514,8 @@
   - {lab: 'o:', end: 2.43}
   - {lab: 'a:', end: 2.645}
   - {lab: _, end: 3.935}
+  start: 2516.08
+  end: 2520.02
 - prompt: m0161
   file: ./pavoque/StefanObadiah/wav/m0161.wav
   date: 2007-11-05T13:20:24+0100
@@ -17727,6 +18589,8 @@
   - {lab: '@', end: 5.8}
   - {lab: n, end: 6.004882}
   - {lab: _, end: 7.595}
+  start: 2520.02
+  end: 2527.62
 - prompt: m0162
   file: ./pavoque/StefanObadiah/wav/m0162.wav
   date: 2007-11-05T13:20:34+0100
@@ -17780,6 +18644,8 @@
   - {lab: aI, end: 4.587963}
   - {lab: t, end: 4.760875}
   - {lab: _, end: 5.795}
+  start: 2527.62
+  end: 2533.42
 - prompt: m0163
   file: ./pavoque/StefanObadiah/wav/m0163.wav
   date: 2007-11-05T13:20:42+0100
@@ -17809,6 +18675,8 @@
   - {lab: '6', end: 2.995}
   - {lab: t, end: 3.261615}
   - {lab: _, end: 4.175}
+  start: 2533.42
+  end: 2537.6
 - prompt: m0164
   file: ./pavoque/StefanObadiah/wav/m0164.wav
   date: 2007-11-05T13:20:50+0100
@@ -17840,6 +18708,8 @@
   - {lab: aI, end: 2.85}
   - {lab: n, end: 3.021586}
   - {lab: _, end: 4.595}
+  start: 2537.6
+  end: 2542.2
 - prompt: m0165
   file: ./pavoque/StefanObadiah/wav/m0165.wav
   date: 2007-11-05T13:20:58+0100
@@ -17872,6 +18742,8 @@
   - {lab: O, end: 2.705}
   - {lab: x, end: 2.985}
   - {lab: _, end: 4.655}
+  start: 2542.2
+  end: 2546.86
 - prompt: m0167
   file: ./pavoque/StefanObadiah/wav/m0167.wav
   date: 2007-11-05T13:21:14+0100
@@ -17902,6 +18774,8 @@
   - {lab: d, end: 2.53}
   - {lab: '@', end: 2.715572}
   - {lab: _, end: 4.115}
+  start: 2546.86
+  end: 2550.98
 - prompt: m0168
   file: ./pavoque/StefanObadiah/wav/m0168.wav
   date: 2007-11-05T13:21:26+0100
@@ -17978,6 +18852,8 @@
   - {lab: U, end: 5.986444}
   - {lab: N, end: 6.086778}
   - {lab: _, end: 7.835}
+  start: 2550.98
+  end: 2558.82
 - prompt: m0169
   file: ./pavoque/StefanObadiah/wav/m0169.wav
   date: 2007-11-05T13:21:34+0100
@@ -18026,6 +18902,8 @@
   - {lab: 'u:', end: 4.145}
   - {lab: l, end: 4.35484}
   - {lab: _, end: 5.495}
+  start: 2558.82
+  end: 2564.32
 - prompt: m0170
   file: ./pavoque/StefanObadiah/wav/m0170.wav
   date: 2007-11-05T13:21:44+0100
@@ -18072,6 +18950,8 @@
   - {lab: f, end: 4.29}
   - {lab: '6', end: 4.480946}
   - {lab: _, end: 5.915}
+  start: 2564.32
+  end: 2570.24
 - prompt: m0171
   file: ./pavoque/StefanObadiah/wav/m0171.wav
   date: 2007-11-05T13:21:52+0100
@@ -18098,6 +18978,8 @@
   - {lab: O, end: 2.71}
   - {lab: n, end: 2.869391}
   - {lab: _, end: 3.995}
+  start: 2570.24
+  end: 2574.24
 - prompt: m0172
   file: ./pavoque/StefanObadiah/wav/m0172.wav
   date: 2007-11-05T13:22:00+0100
@@ -18153,6 +19035,8 @@
   - {lab: '@', end: 3.86}
   - {lab: n, end: 4.021286}
   - {lab: _, end: 5.855}
+  start: 2574.24
+  end: 2580.1
 - prompt: m0173
   file: ./pavoque/StefanObadiah/wav/m0173.wav
   date: 2007-11-05T13:22:08+0100
@@ -18190,6 +19074,8 @@
   - {lab: '@', end: 2.775}
   - {lab: n, end: 3.014968}
   - {lab: _, end: 4.715}
+  start: 2580.1
+  end: 2584.82
 - prompt: m0174
   file: ./pavoque/StefanObadiah/wav/m0174.wav
   date: 2007-11-05T13:22:18+0100
@@ -18225,6 +19111,8 @@
   - {lab: aI, end: 2.975}
   - {lab: s, end: 3.17}
   - {lab: _, end: 4.775}
+  start: 2584.82
+  end: 2589.6
 - prompt: m0175
   file: ./pavoque/StefanObadiah/wav/m0175.wav
   date: 2007-11-05T13:22:24+0100
@@ -18251,6 +19139,8 @@
   - {lab: x, end: 2.585517}
   - {lab: t, end: 2.758293}
   - {lab: _, end: 3.995}
+  start: 2589.6
+  end: 2593.6
 - prompt: m0176
   file: ./pavoque/StefanObadiah/wav/m0176.wav
   date: 2007-11-05T13:22:32+0100
@@ -18280,6 +19170,8 @@
   - {lab: '@', end: 2.34}
   - {lab: n, end: 2.491516}
   - {lab: _, end: 4.415}
+  start: 2593.6
+  end: 2598.02
 - prompt: m0177
   file: ./pavoque/StefanObadiah/wav/m0177.wav
   date: 2007-11-05T13:22:40+0100
@@ -18308,6 +19200,8 @@
   - {lab: l, end: 2.295}
   - {lab: 'e:', end: 2.495}
   - {lab: _, end: 4.055}
+  start: 2598.02
+  end: 2602.08
 - prompt: m0178
   file: ./pavoque/StefanObadiah/wav/m0178.wav
   date: 2007-11-05T13:22:50+0100
@@ -18366,6 +19260,8 @@
   - {lab: l, end: 4.645}
   - {lab: k, end: 4.82}
   - {lab: _, end: 6.215}
+  start: 2602.08
+  end: 2608.3
 - prompt: m0179
   file: ./pavoque/StefanObadiah/wav/m0179.wav
   date: 2007-11-05T13:23:00+0100
@@ -18425,6 +19321,8 @@
   - {lab: t, end: 5.360131}
   - {lab: '@', end: 5.51}
   - {lab: _, end: 6.455}
+  start: 2608.3
+  end: 2614.76
 - prompt: m0180
   file: ./pavoque/StefanObadiah/wav/m0180.wav
   date: 2007-11-05T13:23:06+0100
@@ -18451,6 +19349,8 @@
   - {lab: aI, end: 2.13}
   - {lab: s, end: 2.315}
   - {lab: _, end: 3.935}
+  start: 2614.76
+  end: 2618.7
 - prompt: m0181
   file: ./pavoque/StefanObadiah/wav/m0181.wav
   date: 2007-11-05T13:23:16+0100
@@ -18488,6 +19388,8 @@
   - {lab: I, end: 2.995}
   - {lab: N, end: 3.099749}
   - {lab: _, end: 4.835}
+  start: 2618.7
+  end: 2623.54
 - prompt: m0182
   file: ./pavoque/StefanObadiah/wav/m0182.wav
   date: 2007-11-05T13:23:24+0100
@@ -18541,6 +19443,8 @@
   - {lab: 'a:', end: 4.33}
   - {lab: s, end: 4.53}
   - {lab: _, end: 6.335}
+  start: 2623.54
+  end: 2629.88
 - prompt: m0183
   file: ./pavoque/StefanObadiah/wav/m0183.wav
   date: 2007-11-05T13:23:32+0100
@@ -18573,6 +19477,8 @@
   - {lab: a, end: 2.929898}
   - {lab: N, end: 3.068906}
   - {lab: _, end: 4.595}
+  start: 2629.88
+  end: 2634.48
 - prompt: m0184
   file: ./pavoque/StefanObadiah/wav/m0184.wav
   date: 2007-11-05T13:23:42+0100
@@ -18627,6 +19533,8 @@
   - {lab: '@', end: 4.245}
   - {lab: l, end: 4.425}
   - {lab: _, end: 6.395}
+  start: 2634.48
+  end: 2640.88
 - prompt: m0185
   file: ./pavoque/StefanObadiah/wav/m0185.wav
   date: 2007-11-05T13:23:52+0100
@@ -18665,6 +19573,8 @@
   - {lab: '@', end: 2.677051}
   - {lab: n, end: 2.854981}
   - {lab: _, end: 5.075}
+  start: 2640.88
+  end: 2645.96
 - prompt: m0186
   file: ./pavoque/StefanObadiah/wav/m0186.wav
   date: 2007-11-05T13:24:00+0100
@@ -18700,6 +19610,8 @@
   - {lab: h, end: 3.795}
   - {lab: EI, end: 4.06}
   - {lab: _, end: 5.135}
+  start: 2645.96
+  end: 2651.1
 - prompt: m0187
   file: ./pavoque/StefanObadiah/wav/m0187.wav
   date: 2007-11-05T13:24:08+0100
@@ -18745,6 +19657,8 @@
   - {lab: f, end: 3.980657}
   - {lab: t, end: 4.059769}
   - {lab: _, end: 5.315}
+  start: 2651.1
+  end: 2656.42
 - prompt: m0188
   file: ./pavoque/StefanObadiah/wav/m0188.wav
   date: 2007-11-05T13:24:16+0100
@@ -18780,6 +19694,8 @@
   - {lab: '@', end: 2.72}
   - {lab: s, end: 2.95}
   - {lab: _, end: 4.475}
+  start: 2656.42
+  end: 2660.9
 - prompt: m0189
   file: ./pavoque/StefanObadiah/wav/m0189.wav
   date: 2007-11-05T13:24:24+0100
@@ -18806,6 +19722,8 @@
   - {lab: '@', end: 2.262784}
   - {lab: n, end: 2.44691}
   - {lab: _, end: 4.115}
+  start: 2660.9
+  end: 2665.02
 - prompt: m0190
   file: ./pavoque/StefanObadiah/wav/m0190.wav
   date: 2007-11-05T13:24:34+0100
@@ -18856,6 +19774,8 @@
   - {lab: U, end: 3.84}
   - {lab: m, end: 3.942967}
   - {lab: _, end: 5.675}
+  start: 2665.02
+  end: 2670.7
 - prompt: m0191
   file: ./pavoque/StefanObadiah/wav/m0191.wav
   date: 2007-11-05T13:24:42+0100
@@ -18886,6 +19806,8 @@
   - {lab: aI, end: 2.72}
   - {lab: t, end: 2.932997}
   - {lab: _, end: 4.475}
+  start: 2670.7
+  end: 2675.18
 - prompt: m0192
   file: ./pavoque/StefanObadiah/wav/m0192.wav
   date: 2007-11-05T13:25:18+0100
@@ -18922,6 +19844,8 @@
   - {lab: I, end: 2.995}
   - {lab: C, end: 3.21277}
   - {lab: _, end: 4.655}
+  start: 2675.18
+  end: 2679.84
 - prompt: m0193
   file: ./pavoque/StefanObadiah/wav/m0193.wav
   date: 2007-11-05T13:25:26+0100
@@ -18960,6 +19884,8 @@
   - {lab: 'u:', end: 4.025}
   - {lab: x, end: 4.23871}
   - {lab: _, end: 5.015}
+  start: 2679.84
+  end: 2684.86
 - prompt: m0194
   file: ./pavoque/StefanObadiah/wav/m0194.wav
   date: 2007-11-05T13:25:36+0100
@@ -19012,6 +19938,8 @@
   - {lab: O, end: 3.995}
   - {lab: l, end: 4.106733}
   - {lab: _, end: 5.855}
+  start: 2684.86
+  end: 2690.72
 - prompt: m0195
   file: ./pavoque/StefanObadiah/wav/m0195.wav
   date: 2007-11-05T13:25:44+0100
@@ -19050,6 +19978,8 @@
   - {lab: R, end: 2.957563}
   - {lab: 'i:', end: 3.185}
   - {lab: _, end: 4.775}
+  start: 2690.72
+  end: 2695.5
 - prompt: m0196
   file: ./pavoque/StefanObadiah/wav/m0196.wav
   date: 2007-11-05T13:25:52+0100
@@ -19083,6 +20013,8 @@
   - {lab: l, end: 2.555}
   - {lab: t, end: 2.775}
   - {lab: _, end: 4.655}
+  start: 2695.5
+  end: 2700.16
 - prompt: m0197
   file: ./pavoque/StefanObadiah/wav/m0197.wav
   date: 2007-11-05T13:26:02+0100
@@ -19137,6 +20069,8 @@
   - {lab: 'o:', end: 4.37}
   - {lab: n, end: 4.484264}
   - {lab: _, end: 6.395}
+  start: 2700.16
+  end: 2706.56
 - prompt: m0198
   file: ./pavoque/StefanObadiah/wav/m0198.wav
   date: 2007-11-05T13:26:12+0100
@@ -19175,6 +20109,8 @@
   - {lab: aI, end: 3.065}
   - {lab: '6', end: 3.209461}
   - {lab: _, end: 5.135}
+  start: 2706.56
+  end: 2711.7
 - prompt: m0199
   file: ./pavoque/StefanObadiah/wav/m0199.wav
   date: 2007-11-05T13:26:20+0100
@@ -19223,6 +20159,8 @@
   - {lab: a, end: 3.745}
   - {lab: t, end: 3.899179}
   - {lab: _, end: 5.615}
+  start: 2711.7
+  end: 2717.32
 - prompt: m0200
   file: ./pavoque/StefanObadiah/wav/m0200.wav
   date: 2007-11-05T13:26:30+0100
@@ -19272,6 +20210,8 @@
   - {lab: aI, end: 4.205}
   - {lab: n, end: 4.354068}
   - {lab: _, end: 6.215}
+  start: 2717.32
+  end: 2723.54
 - prompt: m0201
   file: ./pavoque/StefanObadiah/wav/m0201.wav
   date: 2007-11-05T13:26:38+0100
@@ -19300,6 +20240,8 @@
   - {lab: a~, end: 2.79}
   - {lab: Z, end: 3.085}
   - {lab: _, end: 4.355}
+  start: 2723.54
+  end: 2727.9
 - prompt: m0202
   file: ./pavoque/StefanObadiah/wav/m0202.wav
   date: 2007-11-05T13:26:48+0100
@@ -19364,6 +20306,8 @@
   - {lab: aI, end: 5.9}
   - {lab: n, end: 6.026881}
   - {lab: _, end: 7.595}
+  start: 2727.9
+  end: 2735.5
 - prompt: m0203
   file: ./pavoque/StefanObadiah/wav/m0203.wav
   date: 2007-11-05T13:26:56+0100
@@ -19392,6 +20336,8 @@
   - {lab: aI, end: 2.66}
   - {lab: n, end: 2.82}
   - {lab: _, end: 4.295}
+  start: 2735.5
+  end: 2739.8
 - prompt: m0204
   file: ./pavoque/StefanObadiah/wav/m0204.wav
   date: 2007-11-05T13:27:08+0100
@@ -19474,6 +20420,8 @@
   - {lab: O, end: 7.08}
   - {lab: l, end: 7.235}
   - {lab: _, end: 8.375}
+  start: 2739.8
+  end: 2748.18
 - prompt: m0205
   file: ./pavoque/StefanObadiah/wav/m0205.wav
   date: 2007-11-05T13:27:18+0100
@@ -19527,6 +20475,8 @@
   - {lab: '6', end: 4.475266}
   - {lab: p, end: 4.68}
   - {lab: _, end: 6.275}
+  start: 2748.18
+  end: 2754.46
 - prompt: m0206
   file: ./pavoque/StefanObadiah/wav/m0206.wav
   date: 2007-11-05T13:27:54+0100
@@ -19587,6 +20537,8 @@
   - {lab: aI, end: 4.6}
   - {lab: t, end: 4.790482}
   - {lab: _, end: 6.515}
+  start: 2754.46
+  end: 2760.98
 - prompt: m0208
   file: ./pavoque/StefanObadiah/wav/m0208.wav
   date: 2007-11-05T13:28:10+0100
@@ -19619,6 +20571,8 @@
   - {lab: 'u:', end: 2.855}
   - {lab: t, end: 3.035}
   - {lab: _, end: 4.295}
+  start: 2760.98
+  end: 2765.28
 - prompt: m0209
   file: ./pavoque/StefanObadiah/wav/m0209.wav
   date: 2007-11-05T13:28:20+0100
@@ -19668,6 +20622,8 @@
   - {lab: 'u:', end: 4.190951}
   - {lab: 'i:', end: 4.35}
   - {lab: _, end: 5.915}
+  start: 2765.28
+  end: 2771.2
 - prompt: m0210
   file: ./pavoque/StefanObadiah/wav/m0210.wav
   date: 2007-11-05T13:28:28+0100
@@ -19699,6 +20655,8 @@
   - {lab: j, end: 2.644382}
   - {lab: 'u:', end: 2.803356}
   - {lab: _, end: 4.415}
+  start: 2771.2
+  end: 2775.62
 - prompt: m0211
   file: ./pavoque/StefanObadiah/wav/m0211.wav
   date: 2007-11-05T13:28:36+0100
@@ -19729,6 +20687,8 @@
   - {lab: '@', end: 2.765}
   - {lab: t, end: 2.978751}
   - {lab: _, end: 4.175}
+  start: 2775.62
+  end: 2779.8
 - prompt: m0212
   file: ./pavoque/StefanObadiah/wav/m0212.wav
   date: 2007-11-05T13:28:44+0100
@@ -19773,6 +20733,8 @@
   - {lab: l, end: 3.5}
   - {lab: '@', end: 3.665}
   - {lab: _, end: 5.315}
+  start: 2779.8
+  end: 2785.12
 - prompt: m0213
   file: ./pavoque/StefanObadiah/wav/m0213.wav
   date: 2007-11-05T13:29:06+0100
@@ -19830,6 +20792,8 @@
   - {lab: w, end: 3.999067}
   - {lab: aU, end: 4.395}
   - {lab: _, end: 6.275}
+  start: 2785.12
+  end: 2791.4
 - prompt: m0214
   file: ./pavoque/StefanObadiah/wav/m0214.wav
   date: 2007-11-05T13:29:14+0100
@@ -19859,6 +20823,8 @@
   - {lab: 'u:', end: 2.49}
   - {lab: t, end: 2.729394}
   - {lab: _, end: 4.295}
+  start: 2791.4
+  end: 2795.7
 - prompt: m0215
   file: ./pavoque/StefanObadiah/wav/m0215.wav
   date: 2007-11-05T13:29:22+0100
@@ -19909,6 +20875,8 @@
   - {lab: z, end: 4.025}
   - {lab: '@', end: 4.16}
   - {lab: _, end: 5.795}
+  start: 2795.7
+  end: 2801.5
 - prompt: m0216
   file: ./pavoque/StefanObadiah/wav/m0216.wav
   date: 2007-11-05T13:29:34+0100
@@ -19982,6 +20950,8 @@
   - {lab: '2:', end: 5.685}
   - {lab: s, end: 5.89}
   - {lab: _, end: 7.295}
+  start: 2801.5
+  end: 2808.8
 - prompt: m0217
   file: ./pavoque/StefanObadiah/wav/m0217.wav
   date: 2007-11-05T13:29:42+0100
@@ -20016,6 +20986,8 @@
   - {lab: h, end: 2.494834}
   - {lab: '@', end: 2.673891}
   - {lab: _, end: 4.595}
+  start: 2808.8
+  end: 2813.4
 - prompt: m0218
   file: ./pavoque/StefanObadiah/wav/m0218.wav
   date: 2007-11-05T13:29:50+0100
@@ -20059,6 +21031,8 @@
   - {lab: 'e:', end: 3.44}
   - {lab: '6', end: 3.618957}
   - {lab: _, end: 5.435}
+  start: 2813.4
+  end: 2818.84
 - prompt: m0219
   file: ./pavoque/StefanObadiah/wav/m0219.wav
   date: 2007-11-05T13:30:02+0100
@@ -20135,6 +21109,8 @@
   - {lab: s, end: 5.966378}
   - {lab: t, end: 6.1}
   - {lab: _, end: 7.955}
+  start: 2818.84
+  end: 2826.8
 - prompt: m0220
   file: ./pavoque/StefanObadiah/wav/m0220.wav
   date: 2007-11-05T13:30:12+0100
@@ -20191,6 +21167,8 @@
   - {lab: l, end: 4.54}
   - {lab: t, end: 4.72}
   - {lab: _, end: 6.155}
+  start: 2826.8
+  end: 2832.96
 - prompt: m0221
   file: ./pavoque/StefanObadiah/wav/m0221.wav
   date: 2007-11-05T13:30:20+0100
@@ -20218,6 +21196,8 @@
   - {lab: '6', end: 2.530191}
   - {lab: C, end: 2.72}
   - {lab: _, end: 4.295}
+  start: 2832.96
+  end: 2837.26
 - prompt: m0222
   file: ./pavoque/StefanObadiah/wav/m0222.wav
   date: 2007-11-05T13:30:48+0100
@@ -20283,6 +21263,8 @@
   - {lab: '@', end: 5.485}
   - {lab: n, end: 5.658045}
   - {lab: _, end: 7.115}
+  start: 2837.26
+  end: 2844.38
 - prompt: m0223
   file: ./pavoque/StefanObadiah/wav/m0223.wav
   date: 2007-11-05T13:30:58+0100
@@ -20342,6 +21324,8 @@
   - {lab: l, end: 4.65}
   - {lab: '@', end: 4.765}
   - {lab: _, end: 6.935}
+  start: 2844.38
+  end: 2851.32
 - prompt: m0224
   file: ./pavoque/StefanObadiah/wav/m0224.wav
   date: 2007-11-05T13:31:08+0100
@@ -20386,6 +21370,8 @@
   - {lab: n, end: 3.475}
   - {lab: ts, end: 3.66}
   - {lab: _, end: 5.315}
+  start: 2851.32
+  end: 2856.64
 - prompt: m0228
   file: ./pavoque/StefanObadiah/wav/m0228.wav
   date: 2007-11-05T13:31:46+0100
@@ -20436,6 +21422,8 @@
   - {lab: '@', end: 3.995}
   - {lab: t, end: 4.195}
   - {lab: _, end: 5.795}
+  start: 2856.64
+  end: 2862.44
 - prompt: m0229
   file: ./pavoque/StefanObadiah/wav/m0229.wav
   date: 2007-11-05T13:31:58+0100
@@ -20507,6 +21495,8 @@
   - {lab: aI, end: 5.805}
   - {lab: n, end: 5.912208}
   - {lab: _, end: 7.775}
+  start: 2862.44
+  end: 2870.22
 - prompt: m0230
   file: ./pavoque/StefanObadiah/wav/m0230.wav
   date: 2007-11-05T13:32:08+0100
@@ -20566,6 +21556,8 @@
   - {lab: '@', end: 4.423555}
   - {lab: n, end: 4.659339}
   - {lab: _, end: 6.695}
+  start: 2870.22
+  end: 2876.92
 - prompt: m0231
   file: ./pavoque/StefanObadiah/wav/m0231.wav
   date: 2007-11-05T13:32:46+0100
@@ -20631,6 +21623,8 @@
   - {lab: 'i:', end: 4.99}
   - {lab: l, end: 5.108139}
   - {lab: _, end: 6.995}
+  start: 2876.92
+  end: 2883.92
 - prompt: m0232
   file: ./pavoque/StefanObadiah/wav/m0232.wav
   date: 2007-11-05T13:32:56+0100
@@ -20693,6 +21687,8 @@
   - {lab: l, end: 4.86}
   - {lab: '@', end: 4.988594}
   - {lab: _, end: 6.635}
+  start: 2883.92
+  end: 2890.56
 - prompt: m0233
   file: ./pavoque/StefanObadiah/wav/m0233.wav
   date: 2007-11-05T13:33:04+0100
@@ -20722,6 +21718,8 @@
   - {lab: I, end: 2.512244}
   - {lab: C, end: 2.735}
   - {lab: _, end: 3.935}
+  start: 2890.56
+  end: 2894.5
 - prompt: m0234
   file: ./pavoque/StefanObadiah/wav/m0234.wav
   date: 2007-11-05T13:33:12+0100
@@ -20750,6 +21748,8 @@
   - {lab: n, end: 2.48}
   - {lab: ts, end: 2.655}
   - {lab: _, end: 4.175}
+  start: 2894.5
+  end: 2898.68
 - prompt: m0235
   file: ./pavoque/StefanObadiah/wav/m0235.wav
   date: 2007-11-05T13:33:20+0100
@@ -20790,6 +21790,8 @@
   - {lab: t, end: 3.5}
   - {lab: '@', end: 3.630666}
   - {lab: _, end: 4.775}
+  start: 2898.68
+  end: 2903.46
 - prompt: m0236
   file: ./pavoque/StefanObadiah/wav/m0236.wav
   date: 2007-11-05T13:34:00+0100
@@ -20818,6 +21820,8 @@
   - {lab: '@', end: 2.35}
   - {lab: n, end: 2.483092}
   - {lab: _, end: 4.295}
+  start: 2903.46
+  end: 2907.76
 - prompt: m0237
   file: ./pavoque/StefanObadiah/wav/m0237.wav
   date: 2007-11-05T13:34:10+0100
@@ -20891,6 +21895,8 @@
   - {lab: aU, end: 5.03}
   - {lab: m, end: 5.245}
   - {lab: _, end: 7.655}
+  start: 2907.76
+  end: 2915.42
 - prompt: m0238
   file: ./pavoque/StefanObadiah/wav/m0238.wav
   date: 2007-11-05T13:34:20+0100
@@ -20940,6 +21946,8 @@
   - {lab: l, end: 4.37}
   - {lab: '6', end: 4.546015}
   - {lab: _, end: 6.575}
+  start: 2915.42
+  end: 2922.0
 - prompt: m0239
   file: ./pavoque/StefanObadiah/wav/m0239.wav
   date: 2007-11-05T13:34:30+0100
@@ -20979,6 +21987,8 @@
   - {lab: I, end: 3.385}
   - {lab: C, end: 3.545}
   - {lab: _, end: 5.075}
+  start: 2922.0
+  end: 2927.08
 - prompt: m0240
   file: ./pavoque/StefanObadiah/wav/m0240.wav
   date: 2007-11-05T13:34:38+0100
@@ -21015,6 +22025,8 @@
   - {lab: n, end: 2.542254}
   - {lab: '6', end: 2.73}
   - {lab: _, end: 4.535}
+  start: 2927.08
+  end: 2931.62
 - prompt: m0241
   file: ./pavoque/StefanObadiah/wav/m0241.wav
   date: 2007-11-05T13:34:48+0100
@@ -21076,6 +22088,8 @@
   - {lab: 'u:', end: 4.565}
   - {lab: t, end: 4.789549}
   - {lab: _, end: 6.755}
+  start: 2931.62
+  end: 2938.38
 - prompt: m0242
   file: ./pavoque/StefanObadiah/wav/m0242.wav
   date: 2007-11-05T13:34:58+0100
@@ -21126,6 +22140,8 @@
   - {lab: U, end: 3.63}
   - {lab: N, end: 3.750076}
   - {lab: _, end: 5.975}
+  start: 2938.38
+  end: 2944.36
 - prompt: m0243
   file: ./pavoque/StefanObadiah/wav/m0243.wav
   date: 2007-11-05T13:35:10+0100
@@ -21215,6 +22231,8 @@
   - {lab: '@', end: 7.918226}
   - {lab: n, end: 8.032854}
   - {lab: _, end: 9.455}
+  start: 2944.36
+  end: 2953.82
 - prompt: m0244
   file: ./pavoque/StefanObadiah/wav/m0244.wav
   date: 2007-11-05T13:35:18+0100
@@ -21258,6 +22276,8 @@
   - {lab: aU, end: 3.595}
   - {lab: f, end: 3.87}
   - {lab: _, end: 5.135}
+  start: 2953.82
+  end: 2958.96
 - prompt: m0246
   file: ./pavoque/StefanObadiah/wav/m0246.wav
   date: 2007-11-05T13:35:36+0100
@@ -21305,6 +22325,8 @@
   - {lab: '6', end: 3.53}
   - {lab: s, end: 3.745}
   - {lab: _, end: 5.495}
+  start: 2958.96
+  end: 2964.46
 - prompt: m0247
   file: ./pavoque/StefanObadiah/wav/m0247.wav
   date: 2007-11-05T13:35:44+0100
@@ -21336,6 +22358,8 @@
   - {lab: m, end: 2.415}
   - {lab: '@', end: 2.584124}
   - {lab: _, end: 4.055}
+  start: 2964.46
+  end: 2968.52
 - prompt: m0248
   file: ./pavoque/StefanObadiah/wav/m0248.wav
   date: 2007-11-05T13:35:52+0100
@@ -21372,6 +22396,8 @@
   - {lab: E, end: 2.985}
   - {lab: m, end: 3.182279}
   - {lab: _, end: 4.655}
+  start: 2968.52
+  end: 2973.18
 - prompt: m0249
   file: ./pavoque/StefanObadiah/wav/m0249.wav
   date: 2007-11-05T13:36:00+0100
@@ -21401,6 +22427,8 @@
   - {lab: OY, end: 2.035}
   - {lab: tS, end: 2.322989}
   - {lab: _, end: 4.355}
+  start: 2973.18
+  end: 2977.54
 - prompt: m0002
   file: ./pavoque/StefanObadiah/wav/m0002.wav
   date: 2007-12-21T17:35:52+0100
@@ -21437,6 +22465,8 @@
   - {lab: a, end: 4.64}
   - {lab: 'o:', end: 4.788225}
   - {lab: _, end: 4.790897}
+  start: 2977.54
+  end: 2982.32
 - prompt: obadiah0002
   file: ./pavoque/StefanObadiah/wav/obadiah0002.wav
   date: 2007-12-21T17:35:52+0100
@@ -21487,6 +22517,8 @@
   - {lab: I, end: 4.809558}
   - {lab: n, end: 4.969813}
   - {lab: _, end: 9.765}
+  start: 2982.32
+  end: 2992.09
 - prompt: m0031
   file: ./pavoque/StefanObadiah/wav/m0031.wav
   date: 2007-12-21T17:35:53+0100
@@ -21530,6 +22562,8 @@
   - {lab: '6', end: 3.938867}
   - {lab: k, end: 4.13}
   - {lab: _, end: 5.135}
+  start: 2992.09
+  end: 2997.23
 - prompt: m0081
   file: ./pavoque/StefanObadiah/wav/m0081.wav
   date: 2007-12-21T17:35:53+0100
@@ -21557,6 +22591,8 @@
   - {lab: '@', end: 2.745998}
   - {lab: l, end: 3.03}
   - {lab: _, end: 4.175}
+  start: 2997.23
+  end: 3001.41
 - prompt: m0082
   file: ./pavoque/StefanObadiah/wav/m0082.wav
   date: 2007-12-21T17:35:53+0100
@@ -21583,6 +22619,8 @@
   - {lab: '6', end: 2.562305}
   - {lab: C, end: 2.8}
   - {lab: _, end: 3.995}
+  start: 3001.41
+  end: 3005.41
 - prompt: m0083
   file: ./pavoque/StefanObadiah/wav/m0083.wav
   date: 2007-12-21T17:35:53+0100
@@ -21612,6 +22650,8 @@
   - {lab: m, end: 3.39}
   - {lab: 'i:', end: 3.63766}
   - {lab: _, end: 4.235}
+  start: 3005.41
+  end: 3009.65
 - prompt: m0115
   file: ./pavoque/StefanObadiah/wav/m0115.wav
   date: 2007-12-21T17:35:53+0100
@@ -21657,6 +22697,8 @@
   - {lab: l, end: 4.145}
   - {lab: k, end: 4.41}
   - {lab: _, end: 5.255}
+  start: 3009.65
+  end: 3014.91
 - prompt: m0126
   file: ./pavoque/StefanObadiah/wav/m0126.wav
   date: 2007-12-21T17:35:53+0100
@@ -21699,6 +22741,8 @@
   - {lab: tS, end: 4.28}
   - {lab: t, end: 4.412853}
   - {lab: _, end: 5.255}
+  start: 3014.91
+  end: 3020.17
 - prompt: m0136
   file: ./pavoque/StefanObadiah/wav/m0136.wav
   date: 2007-12-21T17:35:53+0100
@@ -21729,6 +22773,8 @@
   - {lab: '@', end: 3.164935}
   - {lab: n, end: 3.342073}
   - {lab: _, end: 4.055}
+  start: 3020.17
+  end: 3024.23
 - prompt: m0147
   file: ./pavoque/StefanObadiah/wav/m0147.wav
   date: 2007-12-21T17:35:53+0100
@@ -21760,6 +22806,8 @@
   - {lab: aI, end: 3.815}
   - {lab: n, end: 3.983059}
   - {lab: _, end: 4.475}
+  start: 3024.23
+  end: 3028.71
 - prompt: m0153
   file: ./pavoque/StefanObadiah/wav/m0153.wav
   date: 2007-12-21T17:35:53+0100
@@ -21803,6 +22851,8 @@
   - {lab: '@', end: 4.55}
   - {lab: n, end: 4.705179}
   - {lab: _, end: 5.375}
+  start: 3028.71
+  end: 3034.09
 - prompt: m0166
   file: ./pavoque/StefanObadiah/wav/m0166.wav
   date: 2007-12-21T17:35:53+0100
@@ -21852,6 +22902,8 @@
   - {lab: '@', end: 4.980935}
   - {lab: s, end: 5.25}
   - {lab: _, end: 5.735}
+  start: 3034.09
+  end: 3039.83
 - prompt: m0207
   file: ./pavoque/StefanObadiah/wav/m0207.wav
   date: 2007-12-21T17:35:54+0100
@@ -21879,6 +22931,8 @@
   - {lab: '@', end: 4.52}
   - {lab: n, end: 4.706167}
   - {lab: _, end: 5.665}
+  start: 3039.83
+  end: 3045.5
 - prompt: m0225
   file: ./pavoque/StefanObadiah/wav/m0225.wav
   date: 2007-12-21T17:35:54+0100
@@ -21944,6 +22998,8 @@
   - {lab: a, end: 5.82}
   - {lab: t, end: 6.02}
   - {lab: _, end: 8.535}
+  start: 3045.5
+  end: 3054.04
 - prompt: m0226
   file: ./pavoque/StefanObadiah/wav/m0226.wav
   date: 2007-12-21T17:35:55+0100
@@ -21984,6 +23040,8 @@
   - {lab: S, end: 3.99}
   - {lab: 'o:', end: 4.228797}
   - {lab: _, end: 6.715}
+  start: 3054.04
+  end: 3060.76
 - prompt: m0227
   file: ./pavoque/StefanObadiah/wav/m0227.wav
   date: 2007-12-21T17:35:55+0100
@@ -22045,6 +23103,8 @@
   - {lab: n, end: 6.405}
   - {lab: '6', end: 6.63}
   - {lab: _, end: 8.325}
+  start: 3060.76
+  end: 3069.09
 - prompt: m0245
   file: ./pavoque/StefanObadiah/wav/m0245.wav
   date: 2007-12-21T17:35:55+0100
@@ -22077,6 +23137,8 @@
   - {lab: 'a:', end: 3.206909}
   - {lab: '@', end: 3.403337}
   - {lab: _, end: 5.735}
+  start: 3069.09
+  end: 3074.83
 - prompt: m0250
   file: ./pavoque/StefanObadiah/wav/m0250.wav
   date: 2007-12-21T17:35:55+0100
@@ -22131,6 +23193,8 @@
   - {lab: '?', end: 10.66}
   - {lab: 'y:', end: 10.98663}
   - {lab: _, end: 10.988946}
+  start: 3074.83
+  end: 3085.81
 - prompt: m0263
   file: ./pavoque/StefanObadiah/wav/m0263.wav
   date: 2007-12-21T17:35:56+0100
@@ -22157,6 +23221,8 @@
   - {lab: t, end: 3.21}
   - {lab: '6', end: 3.431051}
   - {lab: _, end: 5.315}
+  start: 3085.81
+  end: 3091.13
 - prompt: m0295
   file: ./pavoque/StefanObadiah/wav/m0295.wav
   date: 2007-12-21T17:35:56+0100
@@ -22197,6 +23263,8 @@
   - {lab: '@', end: 6.6}
   - {lab: n, end: 6.751021}
   - {lab: _, end: 6.925}
+  start: 3091.13
+  end: 3098.06
 - prompt: m0309
   file: ./pavoque/StefanObadiah/wav/m0309.wav
   date: 2007-12-21T17:35:56+0100
@@ -22292,6 +23360,8 @@
   - {lab: 'i:', end: 12.575}
   - {lab: 'o:', end: 12.789605}
   - {lab: _, end: 12.845}
+  start: 3098.06
+  end: 3110.91
 - prompt: m0342
   file: ./pavoque/StefanObadiah/wav/m0342.wav
   date: 2007-12-21T17:35:57+0100
@@ -22358,6 +23428,8 @@
   - {lab: t, end: 7.513886}
   - {lab: 'a:', end: 7.793499}
   - {lab: _, end: 10.535}
+  start: 3110.91
+  end: 3121.45
 - prompt: m0351
   file: ./pavoque/StefanObadiah/wav/m0351.wav
   date: 2007-12-21T17:35:57+0100
@@ -22431,6 +23503,8 @@
   - {lab: U, end: 7.063237}
   - {lab: N, end: 7.229655}
   - {lab: _, end: 11.445}
+  start: 3121.45
+  end: 3132.9
 - prompt: m0368
   file: ./pavoque/StefanObadiah/wav/m0368.wav
   date: 2007-12-21T17:35:57+0100
@@ -22475,6 +23549,8 @@
   - {lab: r, end: 6.48925}
   - {lab: 'o:', end: 6.686378}
   - {lab: _, end: 9.205}
+  start: 3132.9
+  end: 3142.11
 - prompt: m0369
   file: ./pavoque/StefanObadiah/wav/m0369.wav
   date: 2007-12-21T17:35:58+0100
@@ -22519,6 +23595,8 @@
   - {lab: O, end: 5.62}
   - {lab: S, end: 5.900937}
   - {lab: _, end: 8.785}
+  start: 3142.11
+  end: 3150.9
 - prompt: m0377
   file: ./pavoque/StefanObadiah/wav/m0377.wav
   date: 2007-12-21T17:35:58+0100
@@ -22587,6 +23665,8 @@
   - {lab: '@', end: 6.409325}
   - {lab: n, end: 6.559165}
   - {lab: _, end: 11.025}
+  start: 3150.9
+  end: 3161.93
 - prompt: m0382
   file: ./pavoque/StefanObadiah/wav/m0382.wav
   date: 2007-12-21T17:35:59+0100
@@ -22662,6 +23742,8 @@
   - {lab: '6', end: 7.69}
   - {lab: f, end: 7.895326}
   - {lab: _, end: 11.515}
+  start: 3161.93
+  end: 3173.45
 - prompt: m0398
   file: ./pavoque/StefanObadiah/wav/m0398.wav
   date: 2007-12-21T17:35:59+0100
@@ -22722,6 +23804,8 @@
   - {lab: '?', end: 7.441007}
   - {lab: '2:', end: 7.809465}
   - {lab: _, end: 10.115}
+  start: 3173.45
+  end: 3183.57
 - prompt: obadiah0003
   file: ./pavoque/StefanObadiah/wav/obadiah0003.wav
   date: 2007-12-21T17:35:59+0100
@@ -22777,6 +23861,8 @@
   - {lab: I, end: 6.21}
   - {lab: n, end: 6.351147}
   - {lab: _, end: 10.535}
+  start: 3183.57
+  end: 3194.11
 - prompt: obadiah0005
   file: ./pavoque/StefanObadiah/wav/obadiah0005.wav
   date: 2007-12-21T17:35:59+0100
@@ -22808,6 +23894,8 @@
   - {lab: O, end: 7.575}
   - {lab: n, end: 7.59}
   - {lab: _, end: 7.595}
+  start: 3194.11
+  end: 3201.71
 - prompt: obadiah0011
   file: ./pavoque/StefanObadiah/wav/obadiah0011.wav
   date: 2007-12-21T17:36:00+0100
@@ -22841,6 +23929,8 @@
   - {lab: k, end: 2.96}
   - {lab: t, end: 3.15036}
   - {lab: _, end: 7.665}
+  start: 3201.71
+  end: 3209.38
 - prompt: obadiah0013
   file: ./pavoque/StefanObadiah/wav/obadiah0013.wav
   date: 2007-12-21T17:36:00+0100
@@ -22880,6 +23970,8 @@
   - {lab: s, end: 3.671499}
   - {lab: t, end: 3.862819}
   - {lab: _, end: 8.295}
+  start: 3209.38
+  end: 3217.68
 - prompt: obadiah0014
   file: ./pavoque/StefanObadiah/wav/obadiah0014.wav
   date: 2007-12-21T17:36:00+0100
@@ -22993,6 +24085,8 @@
   - {lab: '@', end: 14.505}
   - {lab: n, end: 14.52}
   - {lab: _, end: 14.525}
+  start: 3217.68
+  end: 3232.21
 - prompt: obadiah0015
   file: ./pavoque/StefanObadiah/wav/obadiah0015.wav
   date: 2007-12-21T17:36:01+0100
@@ -23029,6 +24123,8 @@
   - {lab: '@', end: 3.768501}
   - {lab: n, end: 3.96}
   - {lab: _, end: 8.295}
+  start: 3232.21
+  end: 3240.51
 - prompt: obadiah0016
   file: ./pavoque/StefanObadiah/wav/obadiah0016.wav
   date: 2007-12-21T17:36:01+0100
@@ -23084,6 +24180,8 @@
   - {lab: s, end: 5.529937}
   - {lab: t, end: 5.675}
   - {lab: _, end: 10.255}
+  start: 3240.51
+  end: 3250.77
 - prompt: obadiah0017
   file: ./pavoque/StefanObadiah/wav/obadiah0017.wav
   date: 2007-12-21T17:36:01+0100
@@ -23126,6 +24224,8 @@
   - {lab: s, end: 3.7}
   - {lab: t, end: 3.915}
   - {lab: _, end: 8.995}
+  start: 3250.77
+  end: 3259.77
 - prompt: obadiah0018
   file: ./pavoque/StefanObadiah/wav/obadiah0018.wav
   date: 2007-12-21T17:36:01+0100
@@ -23177,6 +24277,8 @@
   - {lab: '6', end: 5.205}
   - {lab: t, end: 5.405}
   - {lab: _, end: 9.905}
+  start: 3259.77
+  end: 3269.68
 - prompt: obadiah0019
   file: ./pavoque/StefanObadiah/wav/obadiah0019.wav
   date: 2007-12-21T17:36:01+0100
@@ -23213,6 +24315,8 @@
   - {lab: 'e:', end: 3.88}
   - {lab: t, end: 4.117283}
   - {lab: _, end: 8.715}
+  start: 3269.68
+  end: 3278.4
 - prompt: obadiah0034
   file: ./pavoque/StefanObadiah/wav/obadiah0034.wav
   date: 2007-12-21T17:36:02+0100
@@ -23299,6 +24403,8 @@
   - {lab: I, end: 8.295}
   - {lab: C, end: 8.47}
   - {lab: _, end: 13.125}
+  start: 3278.4
+  end: 3291.53
 - prompt: obadiah0042
   file: ./pavoque/StefanObadiah/wav/obadiah0042.wav
   date: 2007-12-21T17:36:02+0100
@@ -23343,6 +24449,8 @@
   - {lab: s, end: 4.230647}
   - {lab: t, end: 4.379401}
   - {lab: _, end: 8.995}
+  start: 3291.53
+  end: 3300.53
 - prompt: obadiah0060
   file: ./pavoque/StefanObadiah/wav/obadiah0060.wav
   date: 2007-12-21T17:36:02+0100
@@ -23379,6 +24487,8 @@
   - {lab: t, end: 3.625}
   - {lab: '6', end: 3.817577}
   - {lab: _, end: 8.225}
+  start: 3300.53
+  end: 3308.76
 - prompt: poker_d0012
   file: ./pavoque/StefanObadiah/wav/poker_d0012.wav
   date: 2007-12-21T17:36:02+0100
@@ -23402,3 +24512,5 @@
   - {lab: '@', end: 2.35}
   - {lab: n, end: 2.526932}
   - {lab: _, end: 6.895}
+  start: 3308.76
+  end: 3315.66
