@@ -20,7 +20,7 @@ description 'The PAVOQUE corpus of expressive speech'
 
 ext {
     styles = ['angry', 'happy', 'neutral', 'poker', 'sad']
-    yamlFiles = (styles + ['outtakes']).collect { file("pavoque-${it}.yaml") }
+    yamlFiles = styles.collect { file("pavoque-${it}.yaml") }
 }
 
 task download {
