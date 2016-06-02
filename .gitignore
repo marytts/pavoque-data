@@ -1,7 +1,14 @@
+# data
+pavoque-angry.flac
+pavoque-happy.flac
+pavoque-neutral.flac
+pavoque-outtakes.flac
+pavoque-poker.flac
+pavoque-sad.flac
+
 # Gradle
 .gradle/
 build/
-Recordings/
 
 # IDEA
 .idea/
