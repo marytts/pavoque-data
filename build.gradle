@@ -12,7 +12,6 @@ plugins {
 }
 
 import org.yaml.snakeyaml.Yaml
-import org.yaml.snakeyaml.DumperOptions
 
 group 'de.dfki.mary'
 version '0.2-SNAPSHOT'
@@ -43,19 +42,6 @@ subprojects {
         from configurations.default
         into "$rootDir/Recordings"
         rename { "${project.name}.tar" }
-    }
-}
-
-task yaml << {
-    yamlFiles.each { yamlFile ->
-        def options = new DumperOptions()
-        options.defaultFlowStyle = yamlFile.name =~ /outtakes/ ? DumperOptions.FlowStyle.BLOCK : DumperOptions.FlowStyle.AUTO
-        def yaml = new Yaml(options)
-        def data = yaml.load(yamlFile.newReader()).collect {
-            [prompt: it.prompt, text: it.text, style: it.style, start: it.start, end: it.end] +
-                    (yamlFile.name =~ /outtakes/ ? [:] : [segments: it.segments])
-        }
-        yaml.dump(data, yamlFile.newWriter())
     }
 }
 
