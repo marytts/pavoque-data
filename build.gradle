@@ -39,38 +39,53 @@ task download {
     }
 }
 
-task text {
-    def textDir = file("$buildDir/text")
+task text(type: ExtractTextTask) {
+    description "Extract utterance text as text files into $destDir"
     group 'Build'
-    description "Extract utterance text as text files into $textDir"
-    inputs.files yamlFiles
-    outputs.dir textDir
-    doFirst {
-        textDir.mkdirs()
-    }
-    doLast {
+}
+
+task lab(type: ExtractLabTask) {
+    description "Extract segments as Xwaves label files into $destDir"
+    group 'Build'
+}
+
+task wav(type: ExtractWavTask) {
+    description "Extract audio as WAV files into $destDir"
+    group 'Build'
+}
+
+class ExtractTextTask extends DefaultTask {
+    @InputFiles
+    def yamlFiles = project.yamlFiles
+
+    @OutputDirectory
+    def destDir = project.file("$project.buildDir/text")
+
+    @TaskAction
+    def extract() {
+        def yaml = new Yaml()
         yamlFiles.each { yamlFile ->
-            new Yaml().load(yamlFile.newReader()).each { utterance ->
-                file("$textDir/${utterance.prompt}.txt").text = utterance.text
+            yaml.load(yamlFile.newReader()).each { utterance ->
+                project.file("$destDir/${utterance.prompt}.txt").text = utterance.text
             }
         }
     }
 }
 
-task lab {
-    def labDir = file("$buildDir/lab")
-    group 'Build'
-    description "Extract segments as Xwaves label files into $labDir"
-    inputs.files yamlFiles
-    outputs.dir labDir
-    doFirst {
-        labDir.mkdirs()
-    }
-    doLast {
+class ExtractLabTask extends DefaultTask {
+    @InputFiles
+    def yamlFiles = project.yamlFiles
+
+    @OutputDirectory
+    def destDir = project.file("$project.buildDir/lab")
+
+    @TaskAction
+    def extract() {
+        def yaml = new Yaml()
         yamlFiles.each { yamlFile ->
-            new Yaml().load(yamlFile.newReader()).each { utterance ->
+            yaml.load(yamlFile.newReader()).each { utterance ->
                 if (utterance.segments) {
-                    file("$labDir/$utterance.prompt-${utterance.style}.lab").withWriter { lab ->
+                    project.file("$destDir/$utterance.prompt-${utterance.style}.lab").withWriter { lab ->
                         lab.println '#'
                         utterance.segments.each { segment ->
                             lab.println sprintf("    %s  125 %s", segment.end, segment.lab)
@@ -82,22 +97,22 @@ task lab {
     }
 }
 
-task wav {
-    def wavDir = file("$buildDir/wav")
-    group 'Build'
-    description "Extract audio as WAV files into $wavDir"
-    inputs.files yamlFiles
-    outputs.dir wavDir
-    doFirst {
-        wavDir.mkdirs()
-    }
-    doLast {
+class ExtractWavTask extends DefaultTask {
+    @InputFiles
+    def yamlFiles = project.yamlFiles
+
+    @OutputDirectory
+    def destDir = project.file("$project.buildDir/wav")
+
+    @TaskAction
+    def extract() {
+        def yaml = new Yaml()
         yamlFiles.each { yamlFile ->
-            new Yaml().load(yamlFile.newReader()).each { utterance ->
-                exec {
+            yaml.load(yamlFile.newReader()).each { utterance ->
+                project.exec {
                     commandLine 'sox',
-                            file("${yamlFile.name - '.yaml' + '.flac'}"),
-                            file("$wavDir/$utterance.prompt-${utterance.style}.wav"),
+                            project.file("${yamlFile.name - '.yaml' + '.flac'}"),
+                            project.file("$destDir/$utterance.prompt-${utterance.style}.wav"),
                             'trim',
                             utterance.start,
                             '=' + utterance.end
