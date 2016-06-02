@@ -1,1 +1,0 @@
-Der Spieler, der nach Einstand den nächsten Punkt gewinnt, hat Vorteil (Advantage).

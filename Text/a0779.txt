@@ -1,1 +1,0 @@
-Wird ein Trumpf angespielt, muss entsprechend Trumpf zugegeben werden.

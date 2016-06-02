@@ -1,1 +1,0 @@
-Voraussetzung ist jedoch, dass das betreffende Browser Plugin im Browser installiert ist.

@@ -1,1 +1,0 @@
-Die Ressourcen gliedern sich in gesamte Ressourcen und verfügbare Ressourcen.
