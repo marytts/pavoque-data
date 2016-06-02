@@ -22,29 +22,6 @@ ext {
     yamlFiles = (styles + ['outtakes']).collect { file("pavoque-${it}.yaml") }
 }
 
-subprojects {
-    apply plugin: 'base'
-
-    repositories {
-        ivy {
-            url 'http://mary.dfki.de/download/pavoque-data'
-            layout 'pattern', {
-                artifact 'Recordings/[artifact].[ext]'
-            }
-        }
-    }
-
-    dependencies {
-        'default' name: project.name, ext: 'tar'
-    }
-
-    task download(type: Copy) {
-        from configurations.default
-        into "$rootDir/Recordings"
-        rename { "${project.name}.tar" }
-    }
-}
-
 task text {
     def textDir = file("$buildDir/text")
     group 'Build'
