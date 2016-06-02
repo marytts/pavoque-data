@@ -12,8 +12,6 @@ plugins {
     id 'de.undercouch.download' version '3.0.0'
 }
 
-import org.yaml.snakeyaml.Yaml
-
 group 'de.dfki.mary'
 version '0.2-SNAPSHOT'
 description 'The PAVOQUE corpus of expressive speech'
@@ -54,16 +52,19 @@ task wav(type: ExtractWavTask) {
     group 'Build'
 }
 
-class ExtractTextTask extends DefaultTask {
+class ExtractTask extends DefaultTask {
     @InputFiles
     def yamlFiles = project.yamlFiles
 
+    def yaml = new org.yaml.snakeyaml.Yaml()
+}
+
+class ExtractTextTask extends ExtractTask {
     @OutputDirectory
     def destDir = project.file("$project.buildDir/text")
 
     @TaskAction
     def extract() {
-        def yaml = new Yaml()
         yamlFiles.each { yamlFile ->
             yaml.load(yamlFile.newReader()).each { utterance ->
                 project.file("$destDir/${utterance.prompt}.txt").text = utterance.text
@@ -72,16 +73,12 @@ class ExtractTextTask extends DefaultTask {
     }
 }
 
-class ExtractLabTask extends DefaultTask {
-    @InputFiles
-    def yamlFiles = project.yamlFiles
-
+class ExtractLabTask extends ExtractTask {
     @OutputDirectory
     def destDir = project.file("$project.buildDir/lab")
 
     @TaskAction
     def extract() {
-        def yaml = new Yaml()
         yamlFiles.each { yamlFile ->
             yaml.load(yamlFile.newReader()).each { utterance ->
                 if (utterance.segments) {
@@ -97,16 +94,12 @@ class ExtractLabTask extends DefaultTask {
     }
 }
 
-class ExtractWavTask extends DefaultTask {
-    @InputFiles
-    def yamlFiles = project.yamlFiles
-
+class ExtractWavTask extends ExtractTask {
     @OutputDirectory
     def destDir = project.file("$project.buildDir/wav")
 
     @TaskAction
     def extract() {
-        def yaml = new Yaml()
         yamlFiles.each { yamlFile ->
             yaml.load(yamlFile.newReader()).each { utterance ->
                 project.exec {
