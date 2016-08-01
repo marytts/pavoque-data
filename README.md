@@ -74,5 +74,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## Contact
 
-In case of issues, please open a [new issue](https://github.com/marytts/pavoque-data/issues/new) right here in this repository on GitHub.
-If this does not resolve your issue, you may send an email to `ingmar.steiner(at)dfki.de`.
+In case of issues, please open a [new issue](https://github.com/marytts/pavoque-data/issues/new).
