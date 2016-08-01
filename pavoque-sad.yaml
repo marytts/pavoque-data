@@ -14110,38 +14110,38 @@
   - {lab: d, end: 1.9}
   - {lab: '@', end: 1.962928}
   - {lab: d, end: 1.998583}
-  - {lab: '@', end: 2.64}
-  - {lab: s, end: 2.85}
-  - {lab: t, end: 3.74}
-  - {lab: U, end: 3.81}
-  - {lab: n, end: 3.825}
-  - {lab: '@', end: 4.85}
-  - {lab: l, end: 5.045}
-  - {lab: s, end: 5.8}
-  - {lab: _, end: 5.805}
-  - {lab: d, end: 5.82}
-  - {lab: a, end: 5.835}
-  - {lab: s, end: 5.85}
-  - {lab: '?', end: 5.865}
-  - {lab: I, end: 5.88}
-  - {lab: s, end: 5.895}
-  - {lab: t, end: 5.91}
-  - {lab: '?', end: 5.925}
-  - {lab: aI, end: 5.94}
-  - {lab: n, end: 5.955}
-  - {lab: h, end: 5.97}
-  - {lab: 'e:', end: 5.985}
-  - {lab: '6', end: 6.0}
-  - {lab: E, end: 6.015}
-  - {lab: n, end: 6.03}
-  - {lab: '@', end: 6.045}
-  - {lab: '@', end: 6.06}
-  - {lab: n, end: 6.075}
-  - {lab: d, end: 6.09}
-  - {lab: '6', end: 6.105}
-  - {lab: ts, end: 6.12}
-  - {lab: 'u:', end: 6.135}
-  - {lab: k, end: 6.15}
+  - {lab: '@', end: 2.079887}
+  - {lab: s, end: 2.142504}
+  - {lab: t, end: 2.27998}
+  - {lab: U, end: 2.379429}
+  - {lab: n, end: 2.432838}
+  - {lab: '@', end: 2.515877}
+  - {lab: l, end: 2.612361}
+  - {lab: s, end: 2.843016}
+  - {lab: _, end: 3.71045}
+  - {lab: d, end: 3.754084}
+  - {lab: a, end: 3.812494}
+  - {lab: s, end: 3.863912}
+  - {lab: '?', end: 3.878936}
+  - {lab: I, end: 3.907106}
+  - {lab: s, end: 3.95969}
+  - {lab: t, end: 4.040443}
+  - {lab: '?', end: 4.064857}
+  - {lab: aI, end: 4.115563}
+  - {lab: n, end: 4.160634}
+  - {lab: h, end: 4.227713}
+  - {lab: 6, end: 4.323781}
+  - {lab: r, end: 4.385544}
+  - {lab: a, end: 4.483585}
+  - {lab: n, end: 4.594786}
+  - {lab: 'a:', end: 4.697405}
+  - {lab: '@', end: 4.775048}
+  - {lab: n, end: 4.814444}
+  - {lab: d, end: 4.867742}
+  - {lab: 6, end: 4.968415}
+  - {lab: ts, end: 5.197739}
+  - {lab: 'u:', end: 5.389216}
+  - {lab: k, end: 5.635935}
   - {lab: _, end: 6.155}
 - prompt: obadiah0112
   text: Erzähl weiter, das ist ja furchtbar.
