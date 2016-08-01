@@ -3,17 +3,13 @@
 ## Corpus design
 
 A single speaker, multi-style corpus of German speech, with a large neutral subset, and subsets acting out four different expressive speaking styles, named for virtual characters in the [SEMAINE](http://www.semaine-project.eu/) and [IDEAS4GAMES](http://www.dfki.de/lt/iprojects/ideas4games.php) projects (quoting the original directors instructions):
-
-* **Poppy** ist fröhlich, optimistisch und sieht das Gute an allen Dingen!
+- **Poppy** ist fröhlich, optimistisch und sieht das Gute an allen Dingen!
 (*Poppy is cheerful and optimistic.*)
-
-* **Obadiah** ist von Natur aus niedergeschlagen und blickt pessimistisch in die Zukunft...
+- **Obadiah** ist von Natur aus niedergeschlagen und blickt pessimistisch in die Zukunft...
 (*Obadiah is gloomy and pessimistic.*)
-
-* **Spike** ist aggressiv und geht keinem Streit aus dem Weg!
+- **Spike** ist aggressiv und geht keinem Streit aus dem Weg!
 (*Spike is aggressive and confrontational.*)
-
-* Max ist ein ausgekochter **Poker**spieler. Er ist cool, ihn bringt nichts aus der Ruhe.
+- Max ist ein ausgekochter **Poker**spieler. Er ist cool, ihn bringt nichts aus der Ruhe.
 (*Max is a hard-boiled poker player. He is cool and laid-back.*)
 
 The speaker is [Stefan Röttig](http://stefan-roettig.de/), a male native speaker of German trained as a professional actor and baritone opera singer.
