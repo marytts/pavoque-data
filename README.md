@@ -19,8 +19,8 @@ The speaker is [Stefan Röttig](http://stefan-roettig.de/), a male native speake
 ### Audio
 
 The audio data is provided in the losslessly compressed [FLAC](https://xiph.org/flac/) format, which can be played by a [myriad of software](https://xiph.org/flac/links.html#software), including [Praat](http://praat.org/).
-The speaker was recorded at a 44.1 kHz sampling rate, 24 bits per sample, in mono.
-No filters of any sort have been applied to this raw data, but low-pass filtering at 50 Hz is recommended.
+It is sampled at a a rate of 44.1 kHz, with 16 bits per sample, in mono.
+No filters of any sort have been applied to this raw data, and low-pass filtering at 50 Hz is recommended.
 
 ### Phonetic segmentation
 
