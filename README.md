@@ -24,13 +24,33 @@ No filters of any sort have been applied to this raw data, and low-pass filterin
 
 ### Phonetic segmentation
 
-The manually corrected phonetic labels are provided as Xwaves `.lab` files;
-each line (after the header) has the fields
+Annotations are provided as one [YAML](http://yaml.org/) file per style.
+These files are lists of utterances, each of which contains
+- a **prompt** code (file basename),
+- the utterance **text**,
+- the speaking **style**,
+- utterance **start** and **end** times (in seconds) in the FLAC file,
+- optionally, the (manually corrected) phonetic **segments**, each of which has
+    - a **lab**el (based on [SAMPA](http://www.phon.ucl.ac.uk/home/sampa/german.htm), `_` denotes silence), and
+    - its **end** time (in seconds), _relative to that utterance's **start** time_
 
-    [ENDTIME] [NUMBER] [LABEL]
+For example,
+```yaml
+- prompt: spike0008
+  text: Ach ja?
+  style: angry
+  start: 27.0
+  end: 28.92
+  segments:
+  - {lab: H#, end: 0.280902}
+  - {lab: '?', end: 0.324898}
+  - {lab: a, end: 0.408238}
+  - {lab: x, end: 0.475}
+  - {lab: j, end: 0.61}
+  - {lab: 'a:', end: 0.963273}
+  - {lab: _, end: 1.915}
+```
 
-where `ENDTIME` is in seconds, `NUMBER` has no significance, and `LABEL` uses a variant of the [SAMPA](http://www.phon.ucl.ac.uk/home/sampa/) phonetic alphabet.
-(These files can also be opened in Praat using the command `Read IntervalTier from Xwaves...`.)
 
 ## Downloading the corpus
 
