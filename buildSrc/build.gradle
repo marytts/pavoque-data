@@ -1,0 +1,6 @@
+repositories {
+    jcenter()
+}
+dependencies {
+    compile group: 'org.yaml', name: 'snakeyaml', version: '1.17'
+}

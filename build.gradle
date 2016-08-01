@@ -1,12 +1,3 @@
-buildscript {
-    repositories {
-        jcenter()
-    }
-    dependencies {
-        classpath group: 'org.yaml', name: 'snakeyaml', version: '1.17'
-    }
-}
-
 plugins {
     id 'base'
     id 'de.undercouch.download' version '3.0.0'
@@ -50,67 +41,4 @@ task lab(type: ExtractLabTask) {
 task wav(type: ExtractWavTask) {
     description "Extract audio as WAV files into $destDir"
     group 'Build'
-}
-
-class ExtractTask extends DefaultTask {
-    @InputFiles
-    def yamlFiles = project.yamlFiles
-
-    def yaml = new org.yaml.snakeyaml.Yaml()
-}
-
-class ExtractTextTask extends ExtractTask {
-    @OutputDirectory
-    def destDir = project.file("$project.buildDir/text")
-
-    @TaskAction
-    def extract() {
-        yamlFiles.each { yamlFile ->
-            yaml.load(yamlFile.newReader()).each { utterance ->
-                project.file("$destDir/${utterance.prompt}.txt").text = utterance.text
-            }
-        }
-    }
-}
-
-class ExtractLabTask extends ExtractTask {
-    @OutputDirectory
-    def destDir = project.file("$project.buildDir/lab")
-
-    @TaskAction
-    def extract() {
-        yamlFiles.each { yamlFile ->
-            yaml.load(yamlFile.newReader()).each { utterance ->
-                if (utterance.segments) {
-                    project.file("$destDir/$utterance.prompt-${utterance.style}.lab").withWriter { lab ->
-                        lab.println '#'
-                        utterance.segments.each { segment ->
-                            lab.println sprintf("    %s  125 %s", segment.end, segment.lab)
-                        }
-                    }
-                }
-            }
-        }
-    }
-}
-
-class ExtractWavTask extends ExtractTask {
-    @OutputDirectory
-    def destDir = project.file("$project.buildDir/wav")
-
-    @TaskAction
-    def extract() {
-        yamlFiles.each { yamlFile ->
-            yaml.load(yamlFile.newReader()).each { utterance ->
-                project.exec {
-                    commandLine 'sox',
-                            project.file("${yamlFile.name - '.yaml' + '.flac'}"),
-                            project.file("$destDir/$utterance.prompt-${utterance.style}.wav"),
-                            'trim',
-                            utterance.start,
-                            '=' + utterance.end
-                }
-            }
-        }
-    }
 }
