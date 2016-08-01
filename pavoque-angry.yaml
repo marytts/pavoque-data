@@ -2618,7 +2618,7 @@
   - {lab: 'a:', end: 2.8811}
   - {lab: n, end: 2.946831}
   - {lab: '@', end: 3.185182}
-  - {lab: '', end: 3.730687}
+  - {lab: _, end: 3.730687}
 - prompt: m0024
   text: Die Ernte kam sehr früh heim.
   style: angry
@@ -3507,7 +3507,7 @@
   - {lab: d, end: 4.235187}
   - {lab: '@', end: 4.252384}
   - {lab: n, end: 4.372757}
-  - {lab: '', end: 5.215}
+  - {lab: _, end: 5.215}
 - prompt: m0049
   text: Viele Arten blühen nachts.
   style: angry
@@ -10135,8 +10135,7 @@
   - {lab: N, end: 2.63}
   - {lab: '@', end: 2.745}
   - {lab: n, end: 2.858001}
-  - {lab: _, end: 3.078556}
-  - {lab: '', end: 3.735}
+  - {lab: _, end: 3.735}
 - prompt: m0267
   text: 'acht: In falschem Glauben, Sister Jaime;'
   style: angry
@@ -10485,7 +10484,7 @@
   end: 1093.24
   segments:
   - {lab: H#, end: 0.669556}
-  - {lab: '', end: 0.67}
+  - {lab: _, end: 0.67}
   - {lab: '?', end: 0.69}
   - {lab: 'e:', end: 0.765}
   - {lab: '6', end: 0.81}
@@ -10612,7 +10611,6 @@
   - {lab: f, end: 2.391906}
   - {lab: '6', end: 2.473581}
   - {lab: v, end: 2.520866}
-  - {lab: '', end: 2.525}
   - {lab: U, end: 2.63}
   - {lab: n, end: 2.69}
   - {lab: d, end: 2.72536}
@@ -13140,8 +13138,7 @@
   - {lab: m, end: 3.5}
   - {lab: I, end: 3.615}
   - {lab: S, end: 3.872763}
-  - {lab: _, end: 4.109859}
-  - {lab: '', end: 5.115}
+  - {lab: _, end: 5.115}
 - prompt: m0329
   text: Klingnau gehörte nun zum kurzlebigen Kanton Baden.
   style: angry
@@ -15583,7 +15580,6 @@
   segments:
   - {lab: H#, end: 0.515}
   - {lab: '?', end: 0.528692}
-  - {lab: '', end: 0.53}
   - {lab: U, end: 0.67}
   - {lab: n, end: 0.768169}
   - {lab: t, end: 0.886065}
