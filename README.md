@@ -53,7 +53,7 @@ For example,
 
 ## Downloading the data
 
-Use the links on the [releases](../../releases) page, or run the `download` task (see below).
+Use the links on the [releases](https://github.com/marytts/pavoque-data/releases) page, or run the `download` task (see below).
 
 ## Converting the data
 
