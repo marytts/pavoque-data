@@ -2873,7 +2873,6 @@
   - {lab: 'y:', end: 1.45}
   - {lab: g, end: 1.525}
   - {lab: 'a:', end: 1.654552}
-  - {lab: '', end: 1.657472}
   - {lab: m, end: 1.722678}
   - {lab: '@', end: 1.792895}
   - {lab: f, end: 1.945}
@@ -2931,7 +2930,6 @@
   - {lab: b, end: 1.551859}
   - {lab: '@', end: 1.615}
   - {lab: ts, end: 1.751774}
-  - {lab: '', end: 1.752753}
   - {lab: aI, end: 1.890676}
   - {lab: C, end: 2.009553}
   - {lab: n, end: 2.04}
@@ -3018,8 +3016,7 @@
   - {lab: '@', end: 1.271252}
   - {lab: n, end: 1.32}
   - {lab: t, end: 1.371356}
-  - {lab: l, end: 1.37197}
-  - {lab: '', end: 1.39}
+  - {lab: l, end: 1.39}
   - {lab: I, end: 1.432769}
   - {lab: C, end: 1.525}
   - {lab: '@', end: 1.55}
@@ -15019,7 +15016,7 @@
   - {lab: '?', end: 3.57}
   - {lab: a, end: 3.69}
   - {lab: p, end: 3.919513}
-  - {lab: '', end: 4.915}
+  - {lab: _, end: 4.915}
 - prompt: m0356
   text: Einen entsprechenden Beschluss des Sejm gibt es noch nicht.
   style: poker
@@ -23295,7 +23292,7 @@
   - {lab: d, end: 4.875726}
   - {lab: U, end: 5.010172}
   - {lab: s, end: 5.344253}
-  - {lab: '', end: 7.555}
+  - {lab: _, end: 7.555}
 - prompt: m0368
   text: 'Siehe auch: Buttero, Cowboy, Csikós, Gaucho, Vaquero.'
   style: poker

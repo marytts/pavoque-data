@@ -1551,8 +1551,7 @@
   - {lab: s, end: 0.875}
   - {lab: '?', end: 1.019018}
   - {lab: e~, end: 1.125256}
-  - {lab: n, end: 1.141872}
-  - {lab: '', end: 1.168458}
+  - {lab: n, end: 1.168458}
   - {lab: t, end: 1.25021}
   - {lab: 'e:', end: 1.306883}
   - {lab: R, end: 1.348173}
@@ -2197,8 +2196,7 @@
   - {lab: 'a:', end: 2.743021}
   - {lab: n, end: 2.819655}
   - {lab: '@', end: 2.991406}
-  - {lab: _, end: 3.067655}
-  - {lab: '', end: 4.215}
+  - {lab: _, end: 4.215}
 - prompt: m0024
   text: Die Ernte kam sehr früh heim.
   style: happy
